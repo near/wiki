@@ -17,4 +17,5 @@
 ## Technology
 
 * [Overview of NEAR Protocol](technology/overview-of-near-protocol.md)
+* [Research](technology/research.md)
 
