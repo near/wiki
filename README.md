@@ -1,8 +1,10 @@
 # Welcome to NEAR
 
-Welcome to NEAR Wiki! This is a place to learn about NEAR and it's Ecosystem. This covers everything from tech aspects, usage, other places to learn, community and guilds.
+Welcome to NEAR Wiki! This is a place to learn about NEAR and its Ecosystem. This covers everything from tech aspects, usage, other places to learn, community and guilds.
 
 If you are interested in building on NEAR, check out [Developer Documentation](https://docs.near.org).
+
+*To contribute to this document, please visit https://github.com/near/wiki and make a pull request or request a writer account on [the forum](https://gov.near.org/t/establishing-near-wiki/3409/14)*
 
 ## What is NEAR?
 
