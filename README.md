@@ -4,7 +4,7 @@ Welcome to NEAR Wiki! This is a place to learn about NEAR and its Ecosystem. Thi
 
 If you are interested in building on NEAR, check out [Developer Documentation](https://docs.near.org).
 
-*To contribute to this document, please visit https://github.com/near/wiki and make a pull request or request a writer account on [the forum](https://gov.near.org/t/establishing-near-wiki/3409/14)*
+*To contribute to this wiki, [make a pull request on Github]* or request a writer account on [the forum](https://gov.near.org/t/establishing-near-wiki/3409/14)*
 
 ## What is NEAR?
 
