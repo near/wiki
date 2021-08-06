@@ -11,6 +11,7 @@
 
 * [Overview of NEAR Protocol](technology/overview-of-near-protocol.md)
 * [Research](technology/research.md)
+* [Technical Documentation](technology/technical-documentation.md)
 
 ## Resources
 
