@@ -12,7 +12,9 @@ NEAR API Quick Reference: [https://docs.near.org/docs/api/naj-quick-reference](h
 
 NEAR API TypeDocs: [https://near.github.io/near-api-js/](https://near.github.io/near-api-js/)
 
-NEAR Rust Docs: [https://docs.rs/near-sdk/3.1.0/near\_sdk/](https://docs.rs/near-sdk/3.1.0/near_sdk/)
+NEAR SDK Rust Docs: [https://docs.rs/near-sdk/3.1.0/near\_sdk/](https://docs.rs/near-sdk/3.1.0/near_sdk/)
+
+NEAR RPC Endpoints: [https://docs.near.org/docs/api/rpc](https://docs.near.org/docs/api/rpc)
 
 
 
