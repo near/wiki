@@ -17,6 +17,15 @@
 * [Research](technology/research.md)
 * [Technical Documentation](technology/technical-documentation.md)
 
+## Developer
+
+* [Overview](developer/dev-overview.md)
+* [Docs](developer/dev-docs.md)
+* [Guides](developer/dev-guides.md)
+* [Training](developer/dev-training.md)
+* [Events](developer/dev-events.md)
+* [NEARLearn](developer/dev-nearlearn.md)
+
 ## Resources
 
 * [FAQ](resources/faq.md)
