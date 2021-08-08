@@ -76,7 +76,9 @@ The NEARVerse portal is the “resource” to find information needed to journey
       <td style="text-align:left">
         <p>NEAR.org</p>
         <p>OWC</p>
-        <p>Support</p>
+        <p>Support
+          <br />
+        </p>
         <p></p>
       </td>
     </tr>
