@@ -24,7 +24,7 @@
 * [Guides](developer/dev-guides.md)
 * [Training](developer/dev-training.md)
 * [Events](developer/dev-events.md)
-* [NEARLearn](developer/dev-nearlearn.md)
+* [Education](developer/dev-education.md)
 
 ## Validator
 
@@ -34,7 +34,17 @@
 * [Training](validator/validator-training.md)
 * [Support](validator/validator-support.md)
 * [Events](validator/validator-events.md)
-* [NEARLearn](validator/validator-nearlearn.md)
+* [Education](validator/validator-education.md)
+
+## End User
+
+* [Overview](end-user/user-overview.md)
+* [dApps](end-user/user-dapps.md)
+* [Earn](end-user/user-earn.md)
+* [Support](end-user/user-support.md)
+* [Community](end-user/user-community.md)
+* [Events](end-user/user-events.md)
+* [Education](end-user/user-education.md)
 
 ## Resources
 
