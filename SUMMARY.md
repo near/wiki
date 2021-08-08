@@ -22,8 +22,8 @@
 * [Overview](developer/dev-overview.md)
 * [Docs](developer/dev-docs.md)
 * [Guides](developer/dev-guides.md)
-* [Events](developer/dev-events.md)
 * [Education](developer/dev-education.md)
+* [Events](developer/dev-events.md)
 
 ## Validator
 
