@@ -2,6 +2,10 @@
 
 * [Welcome to NEAR](README.md)
 
+## News
+
+* [What's NEW](news/whats-new.md)
+
 ## Getting started
 
 * [NEAR Token](getting-started/near-token.md)
