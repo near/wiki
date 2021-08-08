@@ -15,7 +15,8 @@ The NEARVerse portal is the “resource” to find information needed to journey
       </th>
       <th style="text-align:left"><a href="validator/validator-overview.md">Validator</a>
       </th>
-      <th style="text-align:left">Guild</th>
+      <th style="text-align:left"><a href="guild/guild-overview.md">Guild</a>
+      </th>
     </tr>
   </thead>
   <tbody>
