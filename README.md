@@ -1,4 +1,4 @@
-# Welcome to NEAR
+# Welcome to NEARVerse Portal
 
 Welcome to NEAR Wiki! This is a place to learn about NEAR and its Ecosystem. This covers everything from tech aspects, usage, other places to learn, community and guilds.
 

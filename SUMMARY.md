@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to NEAR](README.md)
+* [Welcome to NEARVerse Portal](README.md)
 
 ## News
 
@@ -8,6 +8,7 @@
 
 ## Getting started
 
+* [Resources](getting-started/resources.md)
 * [NEAR Token](getting-started/near-token.md)
 * [Grants & Funding](getting-started/grants-and-funding.md)
 
