@@ -26,6 +26,16 @@
 * [Events](developer/dev-events.md)
 * [NEARLearn](developer/dev-nearlearn.md)
 
+## Validator
+
+* [Overview](validator/validator-overview.md)
+* [Docs](validator/validator-docs.md)
+* [Guides](validator/validator-guides.md)
+* [Training](validator/validator-training.md)
+* [Support](validator/validator-support.md)
+* [Events](validator/validator-events.md)
+* [NEARLearn](validator/validator-nearlearn.md)
+
 ## Resources
 
 * [FAQ](resources/faq.md)
