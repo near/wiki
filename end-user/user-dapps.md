@@ -1,6 +1,6 @@
 # dApps
 
-Top Apps:
+Frequently Used dApps:
 
 [🥑 Berry Club](https://berryclub.io/)  
 💱[Ref.Finance](https://app.ref.finance/)  
