@@ -30,7 +30,6 @@
 * [Overview](validator/validator-overview.md)
 * [Docs](validator/validator-docs.md)
 * [Guides](validator/validator-guides.md)
-* [Training](validator/validator-training.md)
 * [Support](validator/validator-support.md)
 * [Events](validator/validator-events.md)
 * [Education](validator/validator-education.md)
