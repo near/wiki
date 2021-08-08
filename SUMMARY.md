@@ -46,6 +46,11 @@
 * [Events](end-user/user-events.md)
 * [Education](end-user/user-education.md)
 
+## Investor
+
+* [Resources](investor/investor-resources.md)
+* [Support](investor/investor-support.md)
+
 ## Resources
 
 * [FAQ](resources/faq.md)
