@@ -7,5 +7,5 @@ Top Apps:
 [🌿Mintbase](https://www.mintbase.io/)  
 🎴[Paras](https://paras.id/)
 
-Awesome NEAR [https://awesomenear.com/](https://awesomenear.com/)
+Awesome NEAR [https://awesomenear.com/](https://awesomenear.com/) \(Find Live and Up and Coming Projects\)
 
