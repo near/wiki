@@ -41,7 +41,8 @@ The NEARVerse portal is the “resource” to find information needed to journey
         </p>
       </td>
       <td style="text-align:left">
-        <p>Tools</p>
+        <p><a href="guild/guild-getstarted.md">Get Started</a>
+        </p>
         <p>Communities</p>
         <p>Support</p>
         <p>Reporting</p>

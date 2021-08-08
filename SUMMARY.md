@@ -40,9 +40,8 @@
 
 * [Overview](guild/guild-overview.md)
 * [Get Started](guild/guild-getstarted.md)
-* [Tools](guild/guild-tools.md)
-* [Communities](guild/guild-communities.md)
 * [Support](guild/guild-support.md)
+* [Community](guild/guild-community.md)
 * [Reporting](guild/guild-reporting.md)
 
 ## End User
