@@ -60,6 +60,7 @@ The NEARVerse portal is the “resource” to find information needed to journey
         <p><a href="end-user/user-dapps.md">dApps</a>
         </p>
         <p><a href="end-user/user-earn.md">Earn</a>
+          <br /><a href="end-user/user-support.md">Support</a>
         </p>
         <p><a href="end-user/user-community.md">Community</a>
         </p>
