@@ -56,15 +56,18 @@ The NEARVerse portal is the “resource” to find information needed to journey
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>dApps</p>
-        <p>Earn</p>
-        <p>Community</p>
+        <p><a href="end-user/user-dapps.md">dApps</a>
+        </p>
+        <p><a href="end-user/user-earn.md">Earn</a>
+        </p>
+        <p><a href="end-user/user-community.md">Community</a>
+        </p>
         <p><a href="end-user/user-education.md">Education</a>
         </p>
       </td>
       <td style="text-align:left">
         <p>NEAR.org</p>
-        <p><a href="founder/founder-education.md">Education</a>
+        <p>Education
           <br />Support</p>
         <p></p>
         <p></p>
