@@ -10,5 +10,9 @@ NEAR Apps \(detailed examples\): [https://github.com/orgs/near-apps/repositories
 
 NEAR API Quick Reference: [https://docs.near.org/docs/api/naj-quick-reference](https://docs.near.org/docs/api/naj-quick-reference)
 
+NEAR API TypeDocs: [https://near.github.io/near-api-js/](https://near.github.io/near-api-js/)
+
+NEAR Rust Docs: [https://docs.rs/near-sdk/3.1.0/near\_sdk/](https://docs.rs/near-sdk/3.1.0/near_sdk/)
+
 
 
