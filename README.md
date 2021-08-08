@@ -14,3 +14,14 @@ NEAR is building the infrastructure of the decentralized web, including the NEAR
 
 NEAR is the only protocol and ecosystem built for mass adoption. Every single decision made is to unlock millions and billions of people to join Open Web / Web3.
 
+## New To NEAR?
+
+If this is your first time here, we're glad you stopped by! Here are a few resources to get you up to speed to start your journey in the NEARVerse!
+
+* Create a NEAR Wallet: [https://wallet.near.org/create](https://wallet.near.org/create)
+* New to NEAR Overview: [https://docs.near.org/docs/concepts/new-to-near](https://docs.near.org/docs/concepts/new-to-near)
+
+
+
+
+
