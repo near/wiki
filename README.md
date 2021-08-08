@@ -1,6 +1,10 @@
+---
+description: 'Find tools, connections and resources to journey through the NEARVerse.'
+---
+
 # Welcome to NEARVerse Portal
 
-The NEARVerse portal is the “resource” to find information needed to start a journey into the NEAR MetaVerse. This is a place to learn about NEAR and its Ecosystem. This covers everything from tech aspects, usage, other places to learn, community and guilds.
+The NEARVerse portal is the “resource” to find information needed to journey into the NEAR MetaVerse. This is a place to learn about NEAR and its Ecosystem. This covers everything from tech aspects, usage, other places to learn, community and guilds.
 
 If you are interested in building on NEAR, check out [Developer Documentation](https://docs.near.org).
 
