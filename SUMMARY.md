@@ -24,15 +24,16 @@
 * [Guides](developer/dev-guides.md)
 * [Education](developer/dev-education.md)
 * [Events](developer/dev-events.md)
+* [Support](developer/dev-support.md)
 
 ## Validator
 
 * [Overview](validator/validator-overview.md)
 * [Docs](validator/validator-docs.md)
 * [Guides](validator/validator-guides.md)
-* [Support](validator/validator-support.md)
-* [Events](validator/validator-events.md)
 * [Education](validator/validator-education.md)
+* [Events](validator/validator-events.md)
+* [Support](validator/validator-support.md)
 
 ## End User
 
