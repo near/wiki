@@ -22,5 +22,3 @@ Projects Building on NEAR: [https://awesomenear.com/](https://awesomenear.com/)\
 
 NEAR DAOs: [https://sputnik.fund/](https://sputnik.fund/)\*\*\*\*
 
-
-
