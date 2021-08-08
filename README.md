@@ -8,9 +8,69 @@ The NEARVerse portal is the “resource” to find information needed to journey
 
 ### _Start A Journey_
 
-| Developer | Validator | Guild |
-| :--- | :--- | :--- |
-| [Overview](developer/dev-overview.md) | [Overview](validator/validator-overview.md) | Overview |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><a href="developer/dev-overview.md">Developer</a>
+      </th>
+      <th style="text-align:left"><a href="validator/validator-overview.md">Validator</a>
+      </th>
+      <th style="text-align:left">Guild</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>Docs</p>
+        <p>Guides</p>
+        <p>Education</p>
+        <p>Support</p>
+      </td>
+      <td style="text-align:left">
+        <p>Docs</p>
+        <p>Guides</p>
+        <p>Education</p>
+        <p>Support</p>
+      </td>
+      <td style="text-align:left">
+        <p>Tools</p>
+        <p>Communities</p>
+        <p>Support</p>
+        <p>Reporting</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="end-user/user-overview.md">End-User</a>
+      </td>
+      <td style="text-align:left"><a href="investor/investor-overview.md">Investor</a>
+      </td>
+      <td style="text-align:left"><a href="founder/founder-overview.md">Founder</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>dApps</p>
+        <p>Earn</p>
+        <p>Community</p>
+        <p>Education</p>
+      </td>
+      <td style="text-align:left">
+        <p>NEAR.org</p>
+        <p>Support</p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p>NEAR.org</p>
+        <p>OWC</p>
+        <p>Support</p>
+        <p></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 If you are interested in building on NEAR, check out [Developer Documentation](https://docs.near.org).
 

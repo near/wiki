@@ -36,6 +36,14 @@
 * [Events](validator/validator-events.md)
 * [Support](validator/validator-support.md)
 
+## Guild
+
+* [Overview](guild/guild-overview.md)
+* [Tools](guild/guild-tools.md)
+* [Communities](guild/guild-communities.md)
+* [Support](guild/guild-support.md)
+* [Reporting](guild/guild-reporting.md)
+
 ## End User
 
 * [Overview](end-user/user-overview.md)
