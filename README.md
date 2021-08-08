@@ -11,27 +11,34 @@ The NEARVerse portal is the “resource” to find information needed to journey
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><a href="developer/dev-overview.md">Developer</a>
-      </th>
-      <th style="text-align:left"><a href="validator/validator-overview.md">Validator</a>
-      </th>
-      <th style="text-align:left"><a href="guild/guild-overview.md">Guild</a>
-      </th>
+      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="developer/dev-overview.md"><b>Developer</b></a>&lt;b&gt;&lt;/b&gt;</th>
+      <th
+      style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="validator/validator-overview.md"><b>Validator</b></a>&lt;b&gt;&lt;/b&gt;</th>
+        <th
+        style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="guild/guild-overview.md"><b>Guild</b></a>&lt;b&gt;&lt;/b&gt;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>Docs</p>
-        <p>Guides</p>
-        <p>Education</p>
-        <p>Support</p>
+        <p><a href="developer/dev-docs.md">Docs</a>
+        </p>
+        <p><a href="developer/dev-guides.md">Guides</a>
+        </p>
+        <p><a href="developer/dev-education.md">Education</a>
+        </p>
+        <p><a href="developer/dev-support.md">Support</a>
+        </p>
       </td>
       <td style="text-align:left">
-        <p>Docs</p>
-        <p>Guides</p>
-        <p>Education</p>
-        <p>Support</p>
+        <p><a href="validator/validator-docs.md">Docs</a>
+        </p>
+        <p><a href="validator/validator-guides.md">Guides</a>
+        </p>
+        <p><a href="validator/validator-education.md">Education</a>
+        </p>
+        <p><a href="validator/validator-support.md">Support</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p>Tools</p>
@@ -41,23 +48,24 @@ The NEARVerse portal is the “resource” to find information needed to journey
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="end-user/user-overview.md">End-User</a>
-      </td>
-      <td style="text-align:left"><a href="investor/investor-overview.md">Investor</a>
-      </td>
-      <td style="text-align:left"><a href="founder/founder-overview.md">Founder</a>
-      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="end-user/user-overview.md"><b>End-User</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="investor/investor-overview.md"><b>Investor</b></a>&lt;b&gt;&lt;/b&gt;</td>
+        <td
+        style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="founder/founder-overview.md"><b>Founder</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <p>dApps</p>
         <p>Earn</p>
         <p>Community</p>
-        <p>Education</p>
+        <p><a href="end-user/user-education.md">Education</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p>NEAR.org</p>
-        <p>Support</p>
+        <p><a href="founder/founder-education.md">Education</a>
+          <br />Support</p>
         <p></p>
         <p></p>
       </td>
