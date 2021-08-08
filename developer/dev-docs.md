@@ -6,7 +6,9 @@ NEAR Docs: [https://docs.near.org/docs/develop/basics/getting-started](https://d
 
 Example Apps: [https://examples.near.org/](https://examples.near.org/)
 
-NEAR Apps \(more detailed examples\): [https://github.com/orgs/near-apps/repositories](https://github.com/orgs/near-apps/repositories)
+NEAR Apps \(detailed examples\): [https://github.com/orgs/near-apps/repositories](https://github.com/orgs/near-apps/repositories)
+
+NEAR API Quick Reference: [https://docs.near.org/docs/api/naj-quick-reference](https://docs.near.org/docs/api/naj-quick-reference)
 
 
 
