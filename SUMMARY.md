@@ -48,8 +48,15 @@
 
 ## Investor
 
+* [Overview](investor/investor-overview.md)
 * [Resources](investor/investor-resources.md)
 * [Support](investor/investor-support.md)
+
+## Founder
+
+* [Overview](founder/founder-overview.md)
+* [Education](founder/founder-education.md)
+* [Events](founder/founder-events.md)
 
 ## Resources
 
