@@ -11,7 +11,16 @@ description: >-
 
 ## **How to work with Ecosystem Success**
 
-\*\*\*\*
+**Ecosystem Success is a new and small team with a goal to eventually pass off core responsibilities to the community by way of a ES DAO. This means we are currently a finite resource to NEAR participants and have to manage our time effectively.**
+
+1. A participant \(term for people, projects or partners\) has been identified by a member of the NEAR ecosystem and brought to our attention via one of our channels.
+2. Ecosystem Success is notified through one of the following channels listed below with proper context, project name, operating timezone, POC,their asks or blockers and next steps. 
+   1. Foundation Slack - \#ecosystem-success channel
+   2. Email - es@near.foundation
+   3. Discord - TBD
+3. Set up an introductory call with a member of ES.
+   1. ES will handle the internal assignment and POC
+4. Ecosystem Success will handle further incoming requests from the participant as needed and maintain regular syncs.
 
 ## **Service Menu**  
 
