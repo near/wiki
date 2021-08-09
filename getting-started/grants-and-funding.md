@@ -14,5 +14,7 @@ _Note, that it doesn't have to be a startup to get funded - we have a number of 
 
 * [Open Web Collective](https://openwebcollective.com)
 
+## Accelerator
 
+* [Open Web Collective](https://openwebcollective.com)
 

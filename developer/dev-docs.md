@@ -1,5 +1,7 @@
 # Docs
 
+New to NEAR: [https://docs.near.org/docs/concepts/new-to-near](https://docs.near.org/docs/concepts/new-to-near)
+
 NEAR Github: [https://github.com/near](https://github.com/near) 
 
 NEAR Docs: [https://docs.near.org/docs/develop/basics/getting-started](https://docs.near.org/docs/develop/basics/getting-started)
@@ -17,6 +19,4 @@ NEAR SDK Rust Docs: [https://docs.rs/near-sdk/3.1.0/near\_sdk/](https://docs.rs/
 NEAR RPC Endpoints: [https://docs.near.org/docs/api/rpc](https://docs.near.org/docs/api/rpc)
 
 Hackathon Guild: [https://docs.near.org/docs/develop/basics/hackathon-startup-guide](https://docs.near.org/docs/develop/basics/hackathon-startup-guide)
-
-
 
