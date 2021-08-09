@@ -11,6 +11,7 @@
 * [Resources](getting-started/resources.md)
 * [NEAR Token](getting-started/near-token.md)
 * [Grants & Funding](getting-started/grants-and-funding.md)
+* [Ecosystem Success](getting-started/ecosystem-success.md)
 
 ## Technology
 
