@@ -70,6 +70,7 @@
 ## Resources
 
 * [FAQ](resources/faq.md)
+* [Analytics](resources/analytics.md)
 * [Contributing](resources/contributing.md)
 * [Community Blog](https://medium.com/nearprotocol)
 * [Developer Documentation](https://docs.near.org)
