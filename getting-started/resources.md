@@ -16,6 +16,8 @@ NEAR Telegram: [https://t.me/cryptonear](https://t.me/cryptonear)
 
 NEAR Governance Forum: [https://gov.near.org/](https://gov.near.org/)\*\*\*\*
 
+NEAR Ecosystem Database: [https://github.com/near/ecosystem](https://github.com/near/ecosystem)
+
 List of NEAR Guilds: [https://nearguilds.com/guilds/](https://nearguilds.com/guilds/)\*\*\*\*
 
 Projects Building on NEAR: [https://awesomenear.com/](https://awesomenear.com/)\*\*\*\*
