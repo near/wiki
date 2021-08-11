@@ -9,7 +9,10 @@
 ## Getting started
 
 * [Resources](getting-started/resources.md)
-* [NEAR Token](getting-started/near-token.md)
+* [NEAR Token](getting-started/near-token/README.md)
+  * [Token Custody](getting-started/near-token/token-custody.md)
+  * [Token Delegation](getting-started/near-token/token-delegation.md)
+  * [Lockups](getting-started/near-token/lockups.md)
 * [Grants & Funding](getting-started/grants-and-funding.md)
 * [Ecosystem Success](getting-started/ecosystem-success.md)
 
@@ -31,11 +34,16 @@
 ## Validator
 
 * [Overview](validator/validator-overview.md)
-* [Docs](validator/validator-docs.md)
-* [Guides](validator/validator-guides.md)
+* [Docs](validator/validator-docs/README.md)
+  * [Hardware requirements](validator/validator-docs/hardware-requirements.md)
+  * [Validator Economics](validator/validator-docs/validator-economics.md)
+  * [RPC Endpoints](https://docs.near.org/docs/api/rpc)
+* [Guides](validator/validator-guides/README.md)
+  * [Running a Validator](validator/validator-guides/running-a-validator.md)
 * [Education](validator/validator-education.md)
 * [Events](validator/validator-events.md)
-* [Support](validator/validator-support.md)
+* [Support](validator/validator-support/README.md)
+  * [FAQ](validator/validator-support/faq.md)
 
 ## Guild
 

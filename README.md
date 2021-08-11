@@ -31,13 +31,13 @@ The NEARVerse portal is the “resource” to find information needed to journey
         </p>
       </td>
       <td style="text-align:left">
-        <p><a href="validator/validator-docs.md">Docs</a>
+        <p><a href="validator/validator-docs/">Docs</a>
         </p>
-        <p><a href="validator/validator-guides.md">Guides</a>
+        <p><a href="validator/validator-guides/">Guides</a>
         </p>
         <p><a href="validator/validator-education.md">Education</a>
         </p>
-        <p><a href="validator/validator-support.md">Support</a>
+        <p><a href="validator/validator-support/">Support</a>
         </p>
       </td>
       <td style="text-align:left">
