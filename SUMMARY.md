@@ -77,7 +77,8 @@
 
 ## Resources
 
-* [FAQ](resources/faq.md)
+* [FAQ](resources/faq/README.md)
+  * [Integrator FAQ](resources/faq/integrator-faq.md)
 * [Analytics](resources/analytics.md)
 * [Contributing](resources/contributing.md)
 * [Community Blog](https://medium.com/nearprotocol)
