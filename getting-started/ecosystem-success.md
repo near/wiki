@@ -1,8 +1,8 @@
 ---
 description: >-
-  Think of ES as a human router.  We take inbound requests and output them to
-  the relevant parties.  This will be a living post that will update over time
-  with improvements, feedback and more.
+  Think of ES as a router.  We take inbound requests and output them to the
+  relevant parties.  This will be a living post that will update over time with
+  improvements, feedback and more.
 ---
 
 # Ecosystem Success
