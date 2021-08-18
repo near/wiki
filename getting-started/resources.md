@@ -25,3 +25,4 @@ Projects Building on NEAR: [https://awesomenear.com/](https://awesomenear.com/)\
 NEAR DAOs: [https://sputnik.fund/](https://sputnik.fund/)\*\*\*\*
 
 Learn NEAR Club: [https://learnnear.club/](https://learnnear.club/)\*\*\*\*
+

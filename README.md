@@ -53,7 +53,7 @@ The NEARVerse portal is the “resource” to find information needed to journey
       <td
       style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="investor/investor-overview.md"><b>Investor</b></a>&lt;b&gt;&lt;/b&gt;</td>
         <td
-        style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="founder/founder-overview.md"><b>Founder</b></a>&lt;b&gt;&lt;/b&gt;</td>
+        style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href><b>Founder</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -62,7 +62,7 @@ The NEARVerse portal is the “resource” to find information needed to journey
         <p><a href="end-user/user-earn.md">Earn</a>
           <br /><a href="end-user/user-support.md">Support</a>
         </p>
-        <p><a href="end-user/user-community.md">Community</a>
+        <p><a href>Community</a>
         </p>
         <p><a href="end-user/user-education.md">Education</a>
         </p>

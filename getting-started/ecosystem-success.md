@@ -7,7 +7,7 @@ description: >-
 
 # Ecosystem Success
 
-**When a NEAR ecosystem participant is looking for help and doesn’t know where to start, they should be introduced or reach out to ES.**  
+When a NEAR ecosystem participant is looking for help and doesn’t know where to start, they should be introduced or reach out to ES.  We will hold periodic check-ins with teams to make sure they are not  blocked and making sure they have the resources needed to succeed.
 
 ## **How to work with Ecosystem Success**
 
