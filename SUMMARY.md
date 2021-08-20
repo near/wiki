@@ -75,6 +75,11 @@
 * [Education](founder/founder-education.md)
 * [Events](founder/founder-events.md)
 
+## Governance Forum
+
+* [What is the NEAR Governance Forum?](governance-forum/what-is-the-near-governance-forum.md)
+* [NEAR Forum Guidelines](governance-forum/near-forum-guidelines.md)
+
 ## Resources
 
 * [FAQ](resources/faq/README.md)
