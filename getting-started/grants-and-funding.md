@@ -4,25 +4,103 @@ NEAR Ecosystem has a number of ways to get your project or initiative funded.
 
 _Note, that it doesn't have to be a startup to get funded - we have a number of ways that people solving important problems in their communities or in the world in general are getting funded even if they are not building a product or not planning to turn it into a business._
 
-## Grants
+### NEAR Foundation Grants Program
 
-* [NEAR Foundation Grants](https://near.org/grants)
-* Community Funding
-* Human Guild Grants
+**Overview:** The NEAR Foundation launched the Grants Program at the start of 2021 with the mission to bootstrap the NEAR ecosystem with high quality projects. For more information please visit the [Grants Program Strategy post](https://gov.near.org/t/grants-program-strategy/3493).
 
-## Investment
+**Main Objectives**
 
-* [Open Web Collective](https://openwebcollective.com)
+* Provide funding to accelerate the growth of the NEAR ecosystem and broader community
+* Support the development of necessary and value add infrastructure / tooling to support continued innovation
+* Attract and reward a diverse set of open source driven projects and developers that build on NEAR
 
-**About Open Web Collective:**
+**Funding Focus / Thesis:**
 
-Open Web Collective \(OWC\) is an early-stage blockchain venture fund and seed accelerator, powered by NEAR Protocol. OWC aims to reimagine how the next wave of applications will be built using open technologies. 
+Currently the Grants Program is focused on the below areas within the ecosystem:
 
-For updates on our program, subscribe to our newsletter via our [website](https://www.openwebcollective.com/) and follow us on [Twitter](https://twitter.com/openwebfounders).  Looking for funding outside of our accelerator and programs, please email us at   [fund@openwebcollective.com](mailto:fund@openwebcollective.com) with any relevant materials \(i.e. pitch deck, website link, etc\).
+* Infrastructure tools / features
+  * Wallets
+    * Discovery tool for staking
+    * On/off ramp platforms \(self-contained apps\)
+    * Asset management interface \(FTs & NFTs\)
+    * Wallet SDK
+    * Wallet javascript SDK
+  * Active research / monitoring on state of EVM contracts
+  * Aurora Integrations
+    * Aurora integration explorer
+  * RPC service providers
+  * Native products / projects focused ecosystem development
+* Creator driven NFT marketplaces
+  * Music / Art creators with meaningful existing followings
+  * Marketplaces geared towards community development in specific regions
+  * Marketplaces utilizing rainbow bridge integrations
+* DeFi focused projects
+  * Primitive tooling & products which are tiered in the below framing
+    1. Automated market makers, oracles, DEXs
+    2. Native stablecoins, generalized lending, insurance
+    3. Derivatives, synthetic assets
+* Impactful educational initiatives or programs
+  * Initiatives focused on onboarding new devs into the NEAR ecosystem
+  * Content and tools that allow devs to be self-serve and be successful
+  * Developers, designers and NEAR enthusiasts interested in bringing new ideas and energy to inspire students
+* High caliber devs with ability to encourage other communities to build on NEAR
 
-More details regarding Open Web Collective can be found [here](https://docsend.com/view/2nduztc4vveyrerq).
+Opportunistic Strategic Grants – capital deployments focused on unique value creation / community development scenarios
 
-## Accelerator
+* Meta Grants – grants to entities which then deploy capital via their own model \(e.g. DAOs, accelerators\)
+* Ecosystem MVP – award major contributors to the community / ecosystem with a one-off grant
 
+**Stage / Size of Funding:**
 
+The Grants Program deploys non-equity capital in check sizes from $5K - $500K primarily in the form of NEAR tokens. Allocations are usually prior to a formal investment round \(series seed / A\), but explore later stage allocations with high strategic value.
+
+**Contact Info:** [grants@near.org](mailto:grants@near.org)
+
+**Website:** [https://near.org/grants](https://near.org/grants)\*\*\*\*
+
+### **Open Web Collective \(OWC\)**
+
+**Overview:** Open Web Collective \(OWC\) is an early-stage blockchain venture fund and seed accelerator, powered by NEAR Protocol. OWC aims to reimagine how the next wave of applications will be built using open technologies.
+
+Starting a company is hard. And worse, decentralized app \(dApp\) development and adoption are even harder, with many barriers — technological, legal, and regulatory — what it means to be a founder in crypto is mystifying, ever-changing, and nascent. The goal of OWC is to remove the hurdles of web 3.0 company building and make the journey into the blockchain revolution easier for promising builders.
+
+**Investment Focus / Thesis:** OWC accelerator and programs looks for teams in the pre-seed or seed-stage —you have a startup with a few users, or you're early in your entrepreneurial journey and recently launched a prototype. OWC fund is industry, protocol, and stage agnostic and we’re excited to learn about new projects across the ecosystem.
+
+**Stage / Size of Investment:** pre-seed or seed stage companies / projects
+
+**Contact Info:** [fund@openwebcollective.com](mailto:fund@openwebcollective.com)
+
+**Website:** [https://www.openwebcollective.com](https://www.openwebcollective.com)
+
+### The NEAR Community Fund
+
+**Overview:** [NEAR Community Fund](https://gov.near.org/t/near-community-fund-vision-strategy-and-governance/4631) is a pool of NEAR tokens available to ecosystem participants who submit proposals to an official governance structure. It was initially capitalized after the 2020 token sale with 1.5M USD and 1.5M NEAR \([details](https://near.org/blog/the-near-token-sale-and-unforkable-community) available here\).
+
+The strategy is to promote development of the NEAR ecosystem by developing and growing a network of interconnected organizations. Our team champions the creation of many DAOs that provide a community-driven alternative to NEAR Foundation Grants or Venture Capital.
+
+**Background:** The NEAR Community Fund was launched in a private forum category in November 2020, and the discussions were made public in February 2021. Since then, we transitioned from a Community Council to Sputnik DAOs, governed by the NEAR community.
+
+**Investment Focus / Thesis:** We intend to empower communities that nurture active contributors, who diligently make the most essential funding decisions to further develop meaningful solutions.
+
+NEAR Community Fund provides financial resources to community-driven initiatives, which emerge organically to support projects building on NEAR. This funding process is governed by the [Community Squad DAO Council](https://gov.near.org/t/community-squad-dao-council-an-introduction/4608).
+
+Allocations are aimed at funding new or small projects looking to shape ideas into actions, driving adoption of NEAR-powered apps and rewarding Guilds and Contributors that offer their skills and experience to help useful projects find product-market fit.
+
+**Stage / Size of Investment:** We believe that single payouts from our Community Fund should not exceed 50,000 NEAR. Any project or initiative that requires more than this amount will be passed on to the NEAR Foundation Grants Program.
+
+**Contact Info:** community@near.org
+
+**Website:** [https://www.sputnik.fund/\#/dao/communitysquad.sputnikdao.near](https://www.sputnik.fund/#/dao/communitysquad.sputnikdao.near)
+
+### **NEAR Asia Fund**
+
+**Overview:** A global early stage crypto focused venture fund. Focused on supporting projects and business building within the NEAR ecosystem \(native, aurora, octopus, and more in the future\).
+
+**Investment Focus / Thesis:** Focused on investments in DeFi, NFT, social, and gaming. The fund is uniquely positioned to build partnerships and value between China and US / Europe based ecosystems. The team offers in-house services to help drive growth and scaling for portfolio companies: GTM strategy, marketing / community building, Tokenomics & Liquidity strategy, and developer support.
+
+**Stage / Size of Investment:** pre-seed or seed stage companies / projects
+
+**Contact Info:** amos@near.org
+
+**Website:** TBD
 
