@@ -29,6 +29,7 @@
 * [Guides](developer/dev-guides.md)
 * [Education](developer/dev-education.md)
 * [Events](developer/dev-events.md)
+* [Gaming](developer/gaming.md)
 * [Support](developer/dev-support.md)
 
 ## Validator
