@@ -8,4 +8,5 @@ Resources for doing analytics in the NEAR ecosystem:
    2. https://github.com/near/near-indexer-for-explorer\#database-structure
 3. An [investigator of account activity: stats.gallery](https://stats.gallery/) provides a scoring based on how active an account has been
 3. [Here's a proposal](https://gov.near.org/t/analytics-dashboard/3771) for the analytics dashboard
+4. [This dataset](https://github.com/near/ecosystem) canonically contains the mapping of projects within the NEAR ecosystem. Other sources pull from this in various ways, including analytics feeds.
 
