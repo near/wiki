@@ -1,8 +1,15 @@
 # Grants & Funding
 
-NEAR Ecosystem has a number of ways to get your project or initiative funded.
+The NEAR Ecosystem has a number of ways to get your project or initiative funded.
 
-_Note, that it doesn't have to be a startup to get funded - we have a number of ways that people solving important problems in their communities or in the world in general are getting funded even if they are not building a product or not planning to turn it into a business._
+_Note, that it doesn't have to be a startup to get funded! We have a number of ways that people solving important problems in their communities or in the world in general are getting funded even if they are not building a product or not planning to turn it into a business._
+
+Overview of options:
+1. NEAR Foundation Grants Program
+2. Open Web Collective Fund
+3. NEAR Community Fund
+4. NEAR Asia Fund
+5. DAO Ecosystem
 
 ### NEAR Foundation Grants Program
 
@@ -104,3 +111,30 @@ Allocations are aimed at funding new or small projects looking to shape ideas in
 
 **Website:** TBD
 
+### DAO Ecosystem
+
+DAOs are independent funding entities which service specific niches.  
+
+The core DAO contract on NEAR is [sputnik](https://sputnik.fund), which is a highly versatile core contract that has launched an ecosystem of DAOs which support a wide range of activities.  The reference repo for NEAR DAOs is located at [https://github.com/near-daos](https://github.com/near-daos). 
+
+Versions:
+1. Sputnik Version 1 is similar to Moloch DAO on Ethereum.
+2. Version 2 (as of Aug 2021 shipped and undergoing security review) is more flexible than anything out there ([early spec](https://gov.near.org/t/sputnikdao-v2/661)).  The beta is available for viewing [here](https://v2.sputnik.fund/#/).
+
+
+This is a growing list of DAOs by category, but [see the Sputnik.fund index for a live listing of the 200+ DAOs on NEAR](https://www.sputnik.fund/#/select-dao):
+
+#### For Creators
+
+1. [Createbase](https://twitter.com/Createbase1), for Mintbase x NEAR creators
+2. [NEAR Arts DAO](https://twitter.com/ArtsDAO), A DAO with the mission of enabling cryptoart community growth initiatives. Join the discord: https://discord.gg/KxnbNC6D
+3. [Swagger DAO](https://twitter.com/SwaggerDao) At SWAGGER DAO, we seek to evolve the integration of blockchain technology into the world of fashion.
+4. Please add!
+
+#### For Financial Projects
+
+1. Please add!
+
+#### For Diversity and Inclusion
+
+1. Please add!
