@@ -9,6 +9,8 @@ description: >-
 
 When a NEAR ecosystem participant is looking for help and doesn’t know where to start, they should be introduced to or reach out to ES.  We will hold periodic check-ins with teams to make sure they are not  blocked and making sure they have the resources needed to succeed.
 
+Here is a list of [various resources](https://app.gitbook.com/@near/s/wiki/~/drafts/-MiNS9bGxERQ_zabhY8L/getting-started/ecosystem-success/resources-available) available to you.
+
 ## **How to work with Ecosystem Success**
 
 **Ecosystem Success is a new and small team with a goal to eventually pass off core responsibilities to the community by way of a DAO. This means we are currently a finite resource to NEAR participants and have to manage our time effectively.**

@@ -7,7 +7,6 @@ description: >-
 
 # Resources Available
 
-* **Why NEAR?**
 * **Funding**
   * [Grants and Investments](https://app.gitbook.com/@near/s/wiki/~/drafts/-MggQpkuxxGSy1Z_R3G0/getting-started/grants-and-funding)
   * [Venture Capital Referral Form](https://nearprotocol1001.typeform.com/to/mvMzVF51?typeform-source=app.asana.com)
