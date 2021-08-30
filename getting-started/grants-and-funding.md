@@ -4,14 +4,19 @@ The NEAR Ecosystem has a number of ways to get your project or initiative funded
 
 _Note, that it doesn't have to be a startup to get funded! We have a number of ways that people solving important problems in their communities or in the world in general are getting funded even if they are not building a product or not planning to turn it into a business._
 
-Overview of options:
-1. NEAR Foundation Grants Program
-2. Open Web Collective Fund
-3. NEAR Community Fund
-4. NEAR Asia Fund
+Overview of options: 
+
+1. NEAR Foundation Grants Program 
+
+2. Open Web Collective Fund 
+
+3. NEAR Community Fund 
+
+4. NEAR Asia Fund 
+
 5. DAO Ecosystem
 
-### NEAR Foundation Grants Program
+## NEAR Foundation Grants Program
 
 **Overview:** The NEAR Foundation launched the Grants Program at the start of 2021 with the mission to bootstrap the NEAR ecosystem with high quality projects. For more information please visit the [Grants Program Strategy post](https://gov.near.org/t/grants-program-strategy/3493).
 
@@ -65,7 +70,7 @@ The Grants Program deploys non-equity capital in check sizes from $5K - $500K pr
 
 **Website:** [https://near.org/grants](https://near.org/grants)\*\*\*\*
 
-### **Open Web Collective \(OWC\)**
+## **Open Web Collective \(OWC\)**
 
 **Overview:** Open Web Collective \(OWC\) is an early-stage blockchain venture fund and seed accelerator, powered by NEAR Protocol. OWC aims to reimagine how the next wave of applications will be built using open technologies.
 
@@ -79,7 +84,7 @@ Starting a company is hard. And worse, decentralized app \(dApp\) development an
 
 **Website:** [https://www.openwebcollective.com](https://www.openwebcollective.com)
 
-### The NEAR Community Fund
+## The NEAR Community Fund
 
 **Overview:** [NEAR Community Fund](https://gov.near.org/t/near-community-fund-vision-strategy-and-governance/4631) is a pool of NEAR tokens available to ecosystem participants who submit proposals to an official governance structure. It was initially capitalized after the 2020 token sale with 1.5M USD and 1.5M NEAR \([details](https://near.org/blog/the-near-token-sale-and-unforkable-community) available here\).
 
@@ -99,7 +104,7 @@ Allocations are aimed at funding new or small projects looking to shape ideas in
 
 **Website:** [https://www.sputnik.fund/\#/dao/communitysquad.sputnikdao.near](https://www.sputnik.fund/#/dao/communitysquad.sputnikdao.near)
 
-### **NEAR Asia Fund**
+## **NEAR Asia Fund**
 
 **Overview:** A global early stage crypto focused venture fund. Focused on supporting projects and business building within the NEAR ecosystem \(native, aurora, octopus, and more in the future\).
 
@@ -111,30 +116,28 @@ Allocations are aimed at funding new or small projects looking to shape ideas in
 
 **Website:** TBD
 
-### DAO Ecosystem
+## DAO Ecosystem
 
-DAOs are independent funding entities which service specific niches.  
+DAOs are independent funding entities which service specific niches.
 
-The core DAO contract on NEAR is [sputnik](https://sputnik.fund), which is a highly versatile core contract that has launched an ecosystem of DAOs which support a wide range of activities.  The reference repo for NEAR DAOs is located at [https://github.com/near-daos](https://github.com/near-daos). 
+The core DAO contract on NEAR is [sputnik](https://sputnik.fund), which is a highly versatile core contract that has launched an ecosystem of DAOs which support a wide range of activities. The reference repo for NEAR DAOs is located at [https://github.com/near-daos](https://github.com/near-daos).
 
-Versions:
-1. Sputnik Version 1 is similar to Moloch DAO on Ethereum.
-2. Version 2 (as of Aug 2021 shipped and undergoing security review) is more flexible than anything out there ([early spec](https://gov.near.org/t/sputnikdao-v2/661)).  The beta is available for viewing [here](https://v2.sputnik.fund/#/).
-
+Versions: 1. Sputnik Version 1 is similar to Moloch DAO on Ethereum. 2. Version 2 \(as of Aug 2021 shipped and undergoing security review\) is more flexible than anything out there \([early spec](https://gov.near.org/t/sputnikdao-v2/661)\). The beta is available for viewing [here](https://v2.sputnik.fund/#/).
 
 This is a growing list of DAOs by category, but [see the Sputnik.fund index for a live listing of the 200+ DAOs on NEAR](https://www.sputnik.fund/#/select-dao):
 
-#### For Creators
+### For Creators
 
 1. [Createbase](https://twitter.com/Createbase1), for Mintbase x NEAR creators
-2. [NEAR Arts DAO](https://twitter.com/ArtsDAO), A DAO with the mission of enabling cryptoart community growth initiatives. Join the discord: https://discord.gg/KxnbNC6D
+2. [NEAR Arts DAO](https://twitter.com/ArtsDAO), A DAO with the mission of enabling cryptoart community growth initiatives. Join the discord: [https://discord.gg/KxnbNC6D](https://discord.gg/KxnbNC6D)
 3. [Swagger DAO](https://twitter.com/SwaggerDao) At SWAGGER DAO, we seek to evolve the integration of blockchain technology into the world of fashion.
 4. Please add!
 
-#### For Financial Projects
+### For Financial Projects
 
 1. Please add!
 
-#### For Diversity and Inclusion
+### For Diversity and Inclusion
 
 1. Please add!
+
