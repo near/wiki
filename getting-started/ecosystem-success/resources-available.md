@@ -8,8 +8,6 @@ description: >-
 # Resources Available
 
 * **Why NEAR?**
-* \*\*\*\*
-  *  - have a clear vision and message points why they should use NEAR and way to explain it to others \(like investors\)
 * **Funding**
   * [Grants and Investments](https://app.gitbook.com/@near/s/wiki/~/drafts/-MggQpkuxxGSy1Z_R3G0/getting-started/grants-and-funding)
 * **Marketing**

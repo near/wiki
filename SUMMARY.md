@@ -5,6 +5,7 @@
 ## News
 
 * [What's NEW](news/whats-new.md)
+* [Why NEAR?](news/why-near.md)
 
 ## Getting started
 
