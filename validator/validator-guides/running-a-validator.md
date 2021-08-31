@@ -10,7 +10,7 @@ sidebar_label: Running the Node
 
 ### Translations
 
-* [Korean](https://docs.near.org/docs/validator/staking-kr)
+* [Korean](running-a-validator-kr.md)
 * Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
 
 ### _READ THIS QUICKSTART GUIDE BEFORE YOU START_
