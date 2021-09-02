@@ -110,7 +110,7 @@ If this is your first time here, we're glad you stopped by! Here are a few resou
 
 * Create a NEAR Wallet: [https://wallet.near.org/create](https://wallet.near.org/create)
 * New to NEAR Overview: [https://docs.near.org/docs/concepts/new-to-near](https://docs.near.org/docs/concepts/new-to-near)
-
+* Subscribe to the NEARWEEK newsletter: https://nearweek.com/
 
 
 
