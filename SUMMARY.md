@@ -44,6 +44,7 @@
 * [Guides](validator/validator-guides/README.md)
   * [Running a Validator](validator/validator-guides/running-a-validator.md)
   * [Running a Validator \(KR\)](validator/validator-guides/running-a-validator-kr.md)
+  * [Running a Validator \(PT\)](validator/validator-guides/running-a-validator-pt.md)
 * [Education](validator/validator-education.md)
 * [Events](validator/validator-events.md)
 * [Support](validator/validator-support/README.md)
