@@ -6,3 +6,4 @@ NEAR Academy: [https://near.academy/](https://near.academy/)
 
 NEAR Certified Developer: [https://learnnear.club/courses/near-certified-developer-level-1/](https://learnnear.club/courses/near-certified-developer-level-1/)
 
+NEAR University: https://www.near.university/
