@@ -10,3 +10,4 @@ NEAR Crowd - [https://nearcrowd.com/](https://nearcrowd.com/)
 
 Open Web Sandbox \(OWS\) - [https://discord.gg/SjyJbpnUfh ](https://discord.gg/SjyJbpnUfh%20)
 
+NEARWEEK - https://nearweek.com/
