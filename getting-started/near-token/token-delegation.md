@@ -82,9 +82,6 @@ The default HD path for the NEAR app on Ledger devices is `44'/397'/0'/0'/1'`. S
 >  Signing a transaction with the wrong Ledger key can help associating multiple accounts of a user, since even failed transactions are recorded to the blockchain and can be subsequently analyzed. 
 
 
-In Windows, you can replace all the `export` commands with `set`:
-
-    set HD_PATH="account 44'/397'/0'/0'/2'"
 
 ## 1. Lockup Contracts Delegation
 
