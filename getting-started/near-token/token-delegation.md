@@ -333,7 +333,13 @@ Check that it looks correct:
 echo $AMOUNT
 ```
 
-And now unstake:
+And maybe also using `near-units`:
+
+```bash
+near-units -h $AMOUNT yN
+```
+
+And now unstake!
 
 ```bash
 near call $LOCKUP_ID unstake '{
