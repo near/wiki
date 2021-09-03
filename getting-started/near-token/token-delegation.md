@@ -61,6 +61,10 @@ It will also be helpful to set some variables, which we will use in commands bel
     export LOCKUP_ID=#your lockup contract address
     export POOL_ID=#your staking pool
     
+If you're using Windows, you can replace all the `export` commands with `set`:
+
+    set ACCOUNT_ID=#your account id
+
 You can check that you set these correctly with `echo`:
 
     echo $ACCOUNT_ID
