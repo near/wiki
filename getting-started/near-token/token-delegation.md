@@ -526,7 +526,7 @@ View call: valeraverim.pool.f863973.m0.get_account({"account_id": "meerkat.testn
 }
 ```
 
-The staked balance in this example is `100663740438210643632989745`, or `100.66` $NEAR (reminder: you can easily convert these using `near-units -h 100663740438210643632989745`).
+The staked balance in this example is `100663740438210643632989745`, or `100.66` $NEAR (reminder: you can easily convert these using `near-units -h 100663740438210643632989745yN`).
 
 A pool's rewards only compound if it has been "pinged", which means either having a direct action performed on it \(like someone delegating or undelegating\) or if the `ping` method is called on it once within a particular epoch. This is important to do if you run a pool and want your delegators to see updated reward balances.
 
