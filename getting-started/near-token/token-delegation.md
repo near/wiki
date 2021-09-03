@@ -51,9 +51,36 @@ You can use `near-cli` with NEAR Core Contracts to delegation via:
 
 Before starting, make sure you are running the latest version of [near-cli](https://github.com/near/near-cli), you are familiar with [gas fees](https://docs.near.org/docs/concepts/gas) and you are sending transactions to the correct NEAR network. By default `near-cli` is configured to work with TestNet. You can change the network to MainNet by issuing the command
 
-```text
+```bash
 export NODE_ENV=mainnet
 ```
+
+It will also be helpful to set some variables, which we will use in commands below. On Linux/macOS/Unix:
+
+    export ACCOUNT_ID=#your account id
+    export LOCKUP_ID=#your lockup contract address
+    export POOL_ID=#your staking pool
+    
+You can check that you set these correctly with `echo`:
+
+    echo $ACCOUNT_ID
+    
+Note that when you set variables with `export` you do not prefix them with the dollar sign, but when you use them elsewhere such as with `echo`, you need the dollar sign.
+
+If you're using a secondary account on a Ledger Nano device, you will also want to create an HD_PATH variable. For example:
+
+    export HD_PATH="account 44'/397'/0'/0'/2'"
+    
+The default HD path for the NEAR app on Ledger devices is `44'/397'/0'/0'/1'`. See more info on using `near-cli` with Ledger [here](token-custody.md#option-1-ledger-via-cli).
+
+> **Heads up**  
+>   
+>  Signing a transaction with the wrong Ledger key can help associating multiple accounts of a user, since even failed transactions are recorded to the blockchain and can be subsequently analyzed. 
+
+
+In Windows, you can replace all the `export` commands with `set`:
+
+    set HD_PATH="account 44'/397'/0'/0'/2'"
 
 ## 1. Lockup Contracts Delegation
 
@@ -64,11 +91,13 @@ The owner may want to stake these tokens \(including locked ones\) to help secur
 > **heads up**  
 >   
 >  The commands below are tested with [build 877e2db](https://github.com/near/core-contracts/tree/877e2db699a02b81fc46f5034642a2ebd06d9f19) of the Core Contracts.
+> 
+> They also use formatting only available on Linux/macOS/Unix. If you are using Windows, you will need to replace dollar variables, `$LOCKUP_ID`, with percent variables, `%LOCKUP_ID%`. And you will need to use all double quotes, so things like `'{"account_id": "'$ACCOUNT_ID'"}'` become `"{\"account_id\": \"%ACCOUNT_ID%\"}\"`.
 
 Before proceeding with the tutorial below, check that you have control of your lockup contract, by issuing the command
 
-```text
-near view <LOCKUP_ID> get_owner_account_id ''
+```bash
+near view $LOCKUP_ID get_owner_account_id ''
 ```
 
 You should expect a result like:
@@ -79,7 +108,7 @@ View call: meerkat.stakewars.testnet.get_owner_account_id()
 'meerkat.testnet'
 ```
 
-Where the `<LOCKUP_ID>` is `meerkat.stakewars.testnet`; and the result is `meerkat.testnet`. In the following examples, `<OWNER_ID>` is always the output of this command.
+Note that this example us using `NEAR_ENV=testnet` with `$LOCKUP_ID` set to `meerkat.stakewars.testnet` and `ACCOUNT_ID` set to `meerkat.testnet`, which matches the returned result above.
 
 You can stake with Lockup contracts in three steps:
 
@@ -93,15 +122,23 @@ Lockup contracts can stake **to one staking pool at a time**, so this parameter 
 
 You can select the staking pool by calling the method `select_staking_pool` from the lockup contract:
 
-```text
-near call <LOCKUP_ID> select_staking_pool '{"staking_pool_account_id": "<POOL_ID>"}' --accountId <OWNER_ID>
+```bash
+near call $LOCKUP_ID select_staking_pool '{
+  "staking_pool_account_id": "'$POOL_ID'"
+}' --accountId $ACCOUNT_ID
+```
+
+If using a Ledger:
+
+```bash
+near call $LOCKUP_ID select_staking_pool '{
+  "staking_pool_account_id": "'$POOL_ID'"
+}' --accountId $ACCOUNT_ID --useLedgerKey $HD_PATH
 ```
 
 You should expect a result like:
 
 ```text
-$ near call meerkat.stakewars.testnet select_staking_pool '{"staking_pool_account_id": "zpool.pool.f863973.m0"}' --accountId meerkat.testnet
-
 Scheduling a call: meerkat.stakewars.testnet.select_staking_pool({"staking_pool_account_id": "zpool.pool.f863973.m0"})
 Receipts: HEATt32tHqWdjkZoSxLhd43CYVBCUp1cFHexgWBEeKJg, EUP7tncJfKDPpKYdunx2qySZ6JmV3injBigyFBiuD96J, 99hdXWmaTQE7gR5vucxMWFNMw7ZLtzJ6WNMSVJHPGJxh
     Log [meerkat.stakewars.testnet]: Selecting staking pool @zpool.pool.f863973.m0. Going to check whitelist first.
@@ -111,19 +148,7 @@ https://explorer.testnet.near.org/transactions/4Z2t1SeN2rdbJcPvfVGScpwyuGGKobZjT
 true
 ```
 
-Where the `<LOCKUP_ID>` is `meerkat.stakewars.testnet`; `<POOL_ID>` is `zpool.pool.f863973.m0`; and `<OWNER_ID>` is `meerkat.testnet`. The `true` statement means that your call was successful, and the lockup contract accepted the `<POOL_ID>` parameter.
-
-In case if the `<OWNER_ID>` account uses Ledger for signing transactions, the above calls should be accompanied with the `--useLedgerKey` parameter:
-
-```text
-near call <LOCKUP_ID> select_staking_pool '{"staking_pool_account_id": "<POOL_ID>"}' --accountId <OWNER_ID> --useLedgerKey="<HD_PATH>"
-```
-
-Where `<HD_PATH>` is an HD path of the used key \(by default `HD_PATH=44'/397'/0'/0'/1'`\). Same flag should be used for all the other `call`-s \(not `view`-s\) below. See more info on using `near-cli` with Ledger [here](token-custody.md#option-1-ledger-via-cli).
-
-> **Heads up**  
->   
->  Signing the transaction with the wrong Ledger key can help clustering multiple accounts of the user, since even failed transactions are recorded to the blockchain and can be subsequently analyzed.
+The `true` statement means that your call was successful, and the lockup contract accepted the `$POOL_ID` parameter.
 
 ### b. Deposit and stake the tokens
 
@@ -134,7 +159,7 @@ Lockup contracts can stake their balance, regardless of their vesting schedule. 
 3. To know how many tokens you can stake, use the view method `get_balance`:
 
 ```text
-near view <LOCKUP_ID> get_balance ''
+near view $LOCKUP_ID get_balance ''
 ```
 
 You should expect a result like:
@@ -145,22 +170,54 @@ View call: meerkat.stakewars.testnet.get_balance()
 '100000499656128234500000000'
 ```
 
-Where the `<LOCKUP_ID>` is `meerkat.stakewars.testnet` and the resulting balance \(in Yocto\) is `100000499656128234500000000` or 100 $near.
+Where the resulting balance \(in [yocto](https://www.nist.gov/pml/weights-and-measures/metric-si-prefixes)NEAR\) is `100000499656128234500000000` or 100 $NEAR.
 
 > **heads up**  
 >   
->  You have to leave 35 $near in the lockup contract for the storage fees. If you have 100 tokens, you can stake up to 65 tokens. If you have 1000 tokens, you can stake up to 965 tokens.
+>  You have to leave 35 $NEAR in the lockup contract for the storage fees. If you have 100 tokens, you can stake up to 65 tokens. If you have 1000 tokens, you can stake up to 965 tokens.
+> 
+> You may want to `npm i -g near-units` to easily convert yoctoNEAR amounts to human-readable representations, and to go from human-typeable numbers to yoctoNEAR. Examples:
+> 
+> ```bash
+> near-units -h 100000499656128234500000000 yN
+> near-units 965 N
+> ```
+> 
+> On Linux/macOS/Unix, you can also use this directly in the following commands:
+> 
+> ```bash
+> near call $LOCKUP_ID deposit_and_stake '{
+>   "amount": "'$(near-units 965N)'"
+> }' --accountId $ACCOUNT_ID --gas $(near-units 200Tgas)
+> ```
 
-1. To stake the balance, use the call method `deposit_and_stake`:
+You may want to set your desired amount-to-stake to a variable:
 
-```text
-near call <LOCKUP_ID> deposit_and_stake '{"amount": "<AMOUNT>"}' --accountId <OWNER_ID> --gas=200000000000000
+    export AMOUNT=# your desired amount to stake
+
+To stake the balance, use the call method `deposit_and_stake`:
+
+```bash
+near call $LOCKUP_ID deposit_and_stake '{
+  "amount": "'$AMOUNT'"
+}' --accountId $ACCOUNT_ID --gas 200000000000000
 ```
+
+If using a Ledger:
+
+```bash
+near call $LOCKUP_ID deposit_and_stake '{
+  "amount": "'$AMOUNT'"
+}' --accountId $ACCOUNT_ID --gas 200000000000000 --useLedgerKey $HD_PATH 
+```
+
+> **Heads up**  
+>   
+>  This sets the gas parameter to 200000000000000 [gas units](https://docs.near.org/docs/concepts/gas), or 200 Tgas (Teragas), as the near-cli default allocation of 30Tgas is too low.
 
 You should expect a result like:
 
 ```text
-$ near call meerkat.stakewars.testnet deposit_and_stake '{"amount": "65000000000000000000000000"}' --accountId meerkat.testnet --gas 200000000000000
 Scheduling a call: meerkat.stakewars.testnet.deposit_and_stake({"amount": "65000000000000000000000000"})
 Receipts: BFJxgYMbPLpKy4jae3b5ZJfLuAmpcYCBG2oJniDgh1PA, 9sZSqdLvPXPzpRg9VLwaWjJaBUnXm42ntVCEK1UwmYTp, CMLdB4So6ZYPif8qq2s7zFvKw599HMBVcBfQg85AKNQm
     Log [meerkat.stakewars.testnet]: Depositing and staking 65000000000000000000000000 to the staking pool @zpool.pool.f863973.m0
@@ -178,30 +235,35 @@ https://explorer.testnet.near.org/transactions/AW9pFb5RjkCjsyu8ng56XVvckvd3drPBP
 true
 ```
 
-Where `<LOCKUP_ID>` is `meerkat.stakewars.testnet`; `<AMOUNT>` is `65000000000000000000000000` \(the total available, minus 35 $near for the minimum balance\); and `<OWNER_ID>` is `meerkat.testnet`. The `true` statement at the end means the transaction was successful.
-
-> **Heads up**  
->   
->  In the example above the pre-paid gas parameter is set to 200000000000000 Yocto, as near-cli default allocation is too low.
+The `true` statement at the end means the transaction was successful.
 
 ### c. Measure the rewards
 
-Since NEAR automatically re-stakes every staking pool rewards, you have to update your staked balance to know the amount of tokens you earned with your validator.
+Since NEAR automatically re-stakes all staking pool rewards, you have to update your staked balance to know the amount of tokens you earned with your validator.
 
 Use the call method `refresh_staking_pool_balance` to check your new balance:
 
-```text
-near call <LOCKUP_ID> refresh_staking_pool_balance '' --accountId <OWNER_ID>
+```bash
+near call $LOCKUP_ID refresh_staking_pool_balance '' \
+  --accountId $ACCOUNT_ID
+```
+
+If using a Ledger:
+
+```bash
+near call $LOCKUP_ID refresh_staking_pool_balance '' \
+  --accountId $ACCOUNT_ID --useLedgerKey $HD_PATH
 ```
 
 You should expect a result like:
 
 ```text
-$ near call meerkat.stakewars.testnet refresh_staking_pool_balance '' --accountId meerkat.testnet | grep "current total balance"
+$ near call $LOCKUP_ID refresh_staking_pool_balance '' \
+  --accountId $ACCOUNT_ID | grep "current total balance"
     Log [meerkat.stakewars.testnet]: The current total balance on the staking pool is 65000000000000000000000000
 ```
 
-Where `<LOCKUP_ID>` is `meerkat.stakewars.testnet`, and `<OWNER_ID>` is `meerkat.testnet`. In the example above, the result is passed to `| grep "current total balance"` to display only the relevant output.
+Note that in this example, the result is piped to [grep](https://www.tutorialspoint.com/unix_commands/grep.htm) (`| grep "current total balance"`) to display only the relevant output.
 
 Please refer to the [Lockup Contract readme](https://github.com/near/core-contracts/tree/master/lockup) if you need to know how to withdraw the staking rewards to your main wallet.
 
@@ -216,7 +278,7 @@ If you want to withdraw funds, you have to issue two separate commands:
 1. Manually unstake tokens from the staking pool, and wait three epochs
 2. Manually withdraw tokens back to your main account
 
-Both these command require the amount in _yoctoNEAR_, which is the smallest unit of account for NEAR tokens. You can use the table below for the conversion:
+Both these command require the amount in yoctoNEAR, which is the smallest unit of account for NEAR tokens. You can use the table below for the conversion, or install [near-units](https://www.npmjs.com/package/near-units) (`npm i -g near-units`) and use commands like `near-units 1,000N`:
 
 | NEAR | YoctoNEAR | YoctoNEAR |
 | :--- | :--- | :--- |
@@ -233,7 +295,7 @@ As an example, if you want to unstake `10` NEAR tokens from the staking pool, yo
 Before unstaking any tokens, use the the view method `get_account` introduced above to know what is the available balance:
 
 ```text
-near view <POOL_ID> get_account '{"account_id": "<LOCKUP_ID>"}'
+near view $POOL_ID get_account '{"account_id": "'$LOCKUP_ID'"}'
 ```
 
 You should expect a result like:
@@ -249,27 +311,47 @@ View call: zpool.pool.f863973.m0.get_account({"account_id": "meerkat.stakewars.t
 }
 ```
 
-Where `<POOL_ID>` is `zpool.pool.f863973.m0`, and the `<LOCKUP_ID>` is `meerkat.stakewars.testnet`. The result of this method shows:
+The result of this method shows:
 
 * An unstaked balance of `5` _yocto_
-* A staked balance of `86236099167204810592552675` _yocto_, or `86.23` NEAR tokens
+* A staked balance of `86236099167204810592552675` _yocto_, or `86.23` $NEAR
 * `can_withdraw` is `false` \(see below\)
 
 > **Check your rewards**  
 >   
 >  From the examples above, the initial stake of 65 NEAR tokens increased to 86.23 tokens, with 21.23 tokens as a reward!
 
-You can unstake an amount of funds that is equal or lower than your `staked_balance`, by calling the metod `unstake`:
+You can unstake an amount of funds that is equal or lower than your `staked_balance`, by calling the metod `unstake`. You may first want to set the amount you want to unstake to a variable `AMOUNT`:
 
-```text
-near call <LOCKUP_ID> unstake '{"amount": "<YOCTO>"}' --accountId <OWNER_ID>
+```bash
+export AMOUNT=# amount to unstake
+```
+
+Check that it looks correct:
+
+```bash
+echo $AMOUNT
+```
+
+And now unstake:
+
+```bash
+near call $LOCKUP_ID unstake '{
+  "amount": "'$AMOUNT'"
+}' --accountId $ACCOUNT_ID --gas 200000000000000
+```
+
+Or with a Ledger:
+
+```bash
+near call $LOCKUP_ID unstake '{
+  "amount": "'$AMOUNT'"
+}' --accountId $ACCOUNT_ID --gas 200000000000000 --useLedgerKey $HD_PATH
 ```
 
 You should expect a result like:
 
 ```text
-$ near call meerkat.stakewars.testnet unstake '{"amount": "42000000000000000000000000"}' --accountId meerkat.testnet --useLedgerKey="44'/397'/0'/0'/1'" --gas 300000000000000
-Make sure to connect your Ledger and open NEAR app
 Scheduling a call: meerkat.stakewars.testnet.unstake({"amount": "42000000000000000000000000"})
 Waiting for confirmation on Ledger...
 Using public key: ed25519:5JgsX9jWUTS5ttHeTjuDFgCmB5YX77f7GHxuQfaGVsyj
@@ -290,20 +372,19 @@ https://explorer.testnet.near.org/transactions/2rRpdN8AAoySfWsgE7BRtRfz7VFnyFzRh
 true
 ```
 
-Where `<LOCKUP_ID>` is `meerkat.stakewars.testnet`, the `<YOCTO>` is `42000000000000000000000000`, and the `<OWNER_ID>` is `meerkat.testnet`.
+The `true` statement at the end means the transaction was successful.
 
 **Wait three epochs, or ~36 hours before using the withdraw command**
 
 For security reasons, NEAR Protocol keeps your unstaked funds locked for three more epochs \(~36 hours\). Use again the view method `get_account` to verify if `can_withdraw` is `true`:
 
 ```text
-near view <POOL_ID> get_account '{"account_id": "<LOCKUP_ID>"}'
+near view $POOL_ID get_account '{"account_id": "'$LOCKUP_ID'"}'
 ```
 
 The result should be as follows:
 
 ```text
-$ near view zpool.pool.f863973.m0 get_account '{"account_id": "meerkat.stakewars.testnet"}'
 View call: zpool.pool.f863973.m0.get_account({"account_id": "meerkat.stakewars.testnet"})
 {
   account_id: 'meerkat.stakewars.testnet',
@@ -313,7 +394,7 @@ View call: zpool.pool.f863973.m0.get_account({"account_id": "meerkat.stakewars.t
 }
 ```
 
-Where `<POOL_ID>` is `zpool.pool.f863973.m0`, the `<LOCKUP_ID>` is `meerkat.stakewars.testnet` and the variable `can_withdraw` is `true`. This means that your `42000000000000000000000000` _Yocto_ \(42 NEAR tokens\) are now available for withdraw.
+Note that the variable `can_withdraw` is `true`. This means that the `unstaked_balance` of `42000000000000000000000000` yoctoNEAR \(42 NEAR tokens\) is now available for withdraw.
 
 ### b. Withdraw the tokens
 
@@ -321,16 +402,19 @@ Funds can be withdrawn after three epochs \(~36 hours\) from the `unstake` comma
 
 Use the call method `withdraw_all_from_staking_pool`:
 
-```text
-near call <LOCKUP_ID> withdraw_all_from_staking_pool '' --accountId <OWNER_ID>
+```bash
+near call $LOCKUP_ID withdraw_all_from_staking_pool '' --accountId $ACCOUNT_ID --gas 200000000000000
+```
+
+Or if using a Ledger:
+
+```bash
+near call $LOCKUP_ID withdraw_all_from_staking_pool '' --accountId $ACCOUNT_ID --gas 200000000000000 --useLedgerKey $HD_PATH
 ```
 
 You should expect a result like this one:
 
 ```text
-$ near call meerkat.stakewars.testnet withdraw_all_from_staking_pool '' --accountId meerkat.testnet --useLedgerKey="44'/397'/0'/0'/1'" --gas 300000000000000
-
-Make sure to connect your Ledger and open NEAR app
 Scheduling a call: meerkat.stakewars.testnet.withdraw_all_from_staking_pool()
 Waiting for confirmation on Ledger...
 Using public key: ed25519:5JgsX9jWUTS5ttHeTjuDFgCmB5YX77f7GHxuQfaGVsyj
@@ -352,18 +436,17 @@ https://explorer.testnet.near.org/transactions/EjNpoU7BNfEQujckL8JiAP8kYDH1SMLw4
 true
 ```
 
-Where `<LOCKUP_ID>` is `meerkat.stakewars.testnet`, the `<OWNER_ID>` is `meerkat.testnet` and the `true` statement confirms the successful withdrawal.
+The `true` statement confirms the successful withdrawal.
 
-By using again the view method  ``
+By using again the view method:
 
-```text
-near view <POOL_ID> get_account '{"account_id": "<LOCKUP_ID>"}'
+```bash
+near view $POOL_ID get_account '{"account_id": "'$LOCKUP_ID'"}'
 ```
 
 The result should be as follows:
 
 ```text
-$ near view zpool.pool.f863973.m0 get_account '{"account_id": "meerkat.stakewars.testnet"}'
 View call: zpool.pool.f863973.m0.get_account({"account_id": "meerkat.stakewars.testnet"})
 {
   account_id: 'meerkat.stakewars.testnet',
@@ -383,23 +466,33 @@ At this point the `unstaked_balance` is `0`, and the funds are back in the locku
 
 To change from one staking pool to another, you must first withdraw all deposits in the currently selected staking pool. Then call `unselect_staking_pool` as follows \([docs](https://github.com/near/core-contracts/blob/215d4ed2edb563c47edd961555106b74275c4274/lockup/README.md)\):
 
-```text
-$ near call meerkat.stakewars.testnet unselect_staking_pool --accountId meerkat.testnet --useLedgerKey="44'/397'/0'/0'/1'" --gas 300000000000000
+```bash
+near call $LOCKUP_ID unselect_staking_pool --accountId $ACCOUNT_ID --gas 300000000000000
+```
+
+Or if using Ledger:
+
+```bash
+near call $LOCKUP_ID unselect_staking_pool --accountId $ACCOUNT_ID --useLedgerKey $HD_PATH --gas 300000000000000
 ```
 
 ## Staking Pool Delegation
 
 Any funds that are not stored inside lockup contracts can be directly delegated to a [staking pool](https://github.com/near/core-contracts/tree/master/staking-pool) by using the call method `deposit_and_stake`:
 
-```text
-near call <POOL_ID> deposit_and_stake '' --accountId <OWNER_ID> --amount 100
+```bash
+near call $POOL_ID deposit_and_stake '' --accountId $ACCOUNT_ID --amount 100
+```
+
+Or if using Ledger:
+
+```bash
+near call $POOL_ID deposit_and_stake '' --accountId $ACCOUNT_ID --useLedgerKey $HD_PATH --amount 100
 ```
 
 You should expect a result like:
 
 ```text
-$ near call valeraverim.pool.f863973.m0 deposit_and_stake '' --accountId meerkat.testnet --amount 100
-
 Scheduling a call: valeraverim.pool.f863973.m0.deposit_and_stake() with attached 100 NEAR
 Receipts: FEfNuuCSttu7m4dKQPUSgpSFJSB86i6T2sYJWSv7PHPJ, GPYhZsyUuJgvr7gefxac4566DVQcyGs4wSFeydkmRX7D, 8hfcJuwsstnFQ1cgU5iUigvfrq1JcbaKURvKf5shaB4g
     Log [valeraverim.pool.f863973.m0]: Epoch 106: Contract received total rewards of 545371217890000000000 tokens. New total staked balance is 75030000959768421358700000000. Total number of shares 75029067713856889417103116457
@@ -413,18 +506,17 @@ https://explorer.testnet.near.org/transactions/FDtzMmusJgFbryeVrdQyNvp6XU2xr11te
 ''
 ```
 
-Where `<POOL_ID>` is `valeraverim.pool.f863973.m0`; and the `<OWNER_ID>` is `meerkat.testnet`.
+The empty string at the end, `''`, means the call was successful.
 
 If you want to check your staking rewards, use the view method `get_account`:
 
-```text
-near view <POOL_ID> get_account '{"account_id": "<OWNER_ID>"}'
+```bash
+near view $POOL_ID get_account '{"account_id": "'$ACCOUNT_ID'"}'
 ```
 
 You should expect a result like:
 
 ```text
-$ near view valeraverim.pool.f863973.m0 get_account '{"account_id": "meerkat.testnet"}'
 View call: valeraverim.pool.f863973.m0.get_account({"account_id": "meerkat.testnet"})
 {
   account_id: 'meerkat.testnet',
@@ -434,20 +526,25 @@ View call: valeraverim.pool.f863973.m0.get_account({"account_id": "meerkat.testn
 }
 ```
 
-Where `<POOL_ID>` is `valeraverim.pool.f863973.m0` and `<OWNER_ID>` is `meerkat.testnet`. The staked balance is `100663740438210643632989745`, or `100.66` tokens.
+The staked balance in this example is `100663740438210643632989745`, or `100.66` $NEAR (reminder: you can easily convert these using `near-units -h 100663740438210643632989745`).
 
 A pool's rewards only compound if it has been "pinged", which means either having a direct action performed on it \(like someone delegating or undelegating\) or if the `ping` method is called on it once within a particular epoch. This is important to do if you run a pool and want your delegators to see updated reward balances.
 
 Use the call method `ping` to re-calculate the rewards up to the previous epoch:
 
-```text
-near call <POOL_ID> ping '{}' --accountId <OWNER_ID>
+```bash
+near call $POOL_ID ping '{}' --accountId $ACCOUNT_ID
+```
+
+Or if using a Ledger:
+
+```bash
+near call $POOL_ID ping '{}' --accountId $ACCOUNT_ID --useLedgerKey $HD_PATH
 ```
 
 You should expect a result like:
 
 ```text
-$ near call valeraverim.pool.f863973.m0 ping '{}' --accountId meerkat.testnet
 Scheduling a call: valeraverim.pool.f863973.m0.ping({})
 Transaction Id 4mTrz1hDBMTWZx251tX4M5CAo5j7LaxLiPtQrDvQgcZ9
 To see the transaction in the transaction explorer, please open this url in your browser
@@ -455,7 +552,7 @@ https://explorer.testnet.near.org/transactions/4mTrz1hDBMTWZx251tX4M5CAo5j7LaxLi
 ''
 ```
 
-Where `<POOL_ID>` is `valeraverim.pool.f863973.m0`; and the `<OWNER_ID>` is `meerkat.testnet`. The `''` result means that your call was successful, and the `get_account` view method will provide updated results.
+The `''` result means that your call was successful, and the `get_account` view method will provide updated results.
 
 Note that you can ping any pool, not just one you own.
 
