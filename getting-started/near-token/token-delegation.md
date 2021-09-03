@@ -340,7 +340,7 @@ And maybe also using `near-units`:
 near-units -h $AMOUNT yN
 ```
 
-And now unstake!
+And now unstake:
 
 ```bash
 near call $LOCKUP_ID unstake '{
