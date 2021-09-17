@@ -12,7 +12,7 @@ description: >-
   * [Venture Capital Referral Form](https://nearprotocol1001.typeform.com/to/mvMzVF51?typeform-source=app.asana.com)
 * **Marketing**
   * Helping increase visibility, getting in front of media. Helping with your marketing launch.
-  * \*\*\*\*[Activation](https://near.org/activate/): Leveraging NEAR’s channels \(social, blog, newsletters\) to promote your event, announcement, giveaway and more.
+  * \*\*\*\*[Marketing Request Form](https://near.org/activate/): Leveraging NEAR’s channels \(social, blog, newsletters\) to promote your event, announcement, giveaway and more. *For blogs & newsletters please submit with 2-3 week notice*
   * [NEAR Guilds](https://nearguilds.com/guilds/): The community team and guilds can also help with resourcing.
   * Growth Marketing - Creating viral loops for your user base and project.
   * Community building - Building initial community. Cross pollinate with other communities.
