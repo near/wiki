@@ -14,7 +14,9 @@ Overview of options:
 
 4. NEAR Asia Fund 
 
-5. DAO Ecosystem
+5. Cypherpunk Guild
+
+6. DAO Ecosystem
 
 ## NEAR Foundation Grants Program
 
@@ -115,6 +117,23 @@ Allocations are aimed at funding new or small projects looking to shape ideas in
 **Contact Info:** amos@near.org
 
 **Website:** TBD
+
+## **Cypherpunk Guild**
+
+**Overview**: The Cypherpunk Guild funds projects in following areas:
+
+1. Private transactions (including every aspect of DeFi with more
+   privacy).
+2. DAO/governance technology (including private voting).
+3. Messaging and social networks.
+
+However, other innovative and surprising privacy and Cypherpunk related
+projects are potentially fundable, see the website for details or get in
+touch.
+
+**Contact Info:** [info@cypherpunkguild.org](mailto:info@cypherpunkguild.org)
+
+**Website:** [https://cypherpunkguild.org](https://cypherpunkguild.org)
 
 ## DAO Ecosystem
 
