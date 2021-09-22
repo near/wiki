@@ -22,10 +22,9 @@ description: >-
 * **Development and Education**
   * Help with development, from answering questions to direct help with developing parts of the application.
     * **Technical Support**
-      * Developer Relations office hours
-        * 12PM - 2PM PST on Tuesdays
-        * 9AM - 11AM PST on Fridays
-        * It will be hosted in the \#dev-support Office Hours channel under \#Development on our Discord server. So bring your questions, ideas, and maybe a cup of joe  and let's chat!
+      * Developer Relations [office hours](https://near.org/office-hours/)
+        * Every weekday 2pm - 3pm EST?
+        * Hosted in the \#dev-support Office Hours channel under \#Development on our Discord server. So bring your questions, ideas, and maybe a cup of joe and let's chat!
       * [Resources](https://app.gitbook.com/@near/s/wiki/~/drafts/-MggQpkuxxGSy1Z_R3G0/developer/dev-docs)
       * [Education](https://app.gitbook.com/@near/s/wiki/~/drafts/-MggQpkuxxGSy1Z_R3G0/developer/dev-education)
       * [Technical Documentation](https://app.gitbook.com/@near/s/wiki/~/drafts/-MggQpkuxxGSy1Z_R3G0/technology/technical-documentation)
