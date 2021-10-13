@@ -1,5 +1,5 @@
 ---
-description: 'Find tools, connections and resources to journey through the NEARVerse.'
+description: Find tools, connections and resources to journey through the NEARVerse.
 ---
 
 # Welcome to NEARVerse Portal
@@ -8,86 +8,17 @@ The NEARVerse portal is the “resource” to find information needed to journey
 
 ## _Start A Journey_
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="developer/dev-overview.md"><b>Developer</b></a>&lt;b&gt;&lt;/b&gt;</th>
-      <th
-      style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="validator/validator-overview.md"><b>Validator</b></a>&lt;b&gt;&lt;/b&gt;</th>
-        <th
-        style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="guild/guild-overview.md"><b>Guild</b></a>&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p><a href="developer/dev-docs.md">Docs</a>
-        </p>
-        <p><a href="developer/dev-guides.md">Guides</a>
-        </p>
-        <p><a href="developer/dev-education.md">Education</a>
-        </p>
-        <p><a href="developer/dev-support.md">Support</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><a href="validator/validator-docs/">Docs</a>
-        </p>
-        <p><a href="validator/validator-guides/">Guides</a>
-        </p>
-        <p><a href="validator/validator-education.md">Education</a>
-        </p>
-        <p><a href="validator/validator-support/">Support</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><a href="guild/guild-getstarted.md">Get Started</a>
-        </p>
-        <p>Communities</p>
-        <p>Support</p>
-        <p>Reporting</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="end-user/user-overview.md"><b>End-User</b></a>&lt;b&gt;&lt;/b&gt;</td>
-      <td
-      style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="investor/investor-overview.md"><b>Investor</b></a>&lt;b&gt;&lt;/b&gt;</td>
-        <td
-        style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="./"><b>Founder</b></a>&lt;b&gt;&lt;/b&gt;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><a href="end-user/user-dapps.md">dApps</a>
-        </p>
-        <p><a href="end-user/user-earn.md">Earn</a>
-          <br /><a href="end-user/user-support.md">Support</a>
-        </p>
-        <p><a href="./">Community</a>
-        </p>
-        <p><a href="end-user/user-education.md">Education</a>
-        </p>
-      </td>
-      <td style="text-align:left">Education
-        <br />Support
-        <br />
-      </td>
-      <td style="text-align:left">
-        <p><a href="https://www.openwebcollective.com/">OWC</a>
-        </p>
-        <p>Support
-          <br />
-          <br />
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| [**Developer**](developer/dev-overview.md)                                                                                                                                                                                                   | [**Validator**](validator/validator-overview.md)                                                                                                                                                                                   | [**Guild**](guild/guild-overview.md)                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| <p><a href="developer/dev-docs.md">Docs</a></p><p><a href="developer/dev-guides.md">Guides</a></p><p><a href="developer/dev-education.md">Education</a></p><p><a href="developer/dev-support.md">Support</a></p>                             | <p><a href="validator/validator-docs/">Docs</a></p><p><a href="validator/validator-guides/">Guides</a></p><p><a href="validator/validator-education.md">Education</a></p><p><a href="validator/validator-support/">Support</a></p> | <p><a href="guild/guild-getstarted.md">Get Started</a></p><p>Communities</p><p>Support</p><p>Reporting</p> |
+| [**End-User**](end-user/user-overview.md)                                                                                                                                                                                                    | [**Investor**](founder/founder-overview.md)                                                                                                                                                                                        | [**Founder**](./)                                                                                          |
+| <p><a href="end-user/user-dapps.md">dApps</a></p><p><a href="end-user/user-earn.md">Earn</a><br><a href="end-user/user-support.md">Support</a></p><p><a href="./">Community</a></p><p><a href="end-user/user-education.md">Education</a></p> | <p>Education<br>Support<br></p>                                                                                                                                                                                                    | <p><a href="https://www.openwebcollective.com">OWC</a></p><p>Support<br><br></p>                           |
 
 If you are interested in building on NEAR, check out [Developer Documentation](https://docs.near.org).
 
 _To contribute to this wiki, see the_ [_Contributing page_](https://wiki.near.org/resources/contributing)
 
-\_\_
+\__
 
 ## What is NEAR?
 
@@ -103,5 +34,4 @@ If this is your first time here, we're glad you stopped by! Here are a few resou
 
 * Create a NEAR Wallet: [https://wallet.near.org/create](https://wallet.near.org/create)
 * New to NEAR Overview: [https://docs.near.org/docs/concepts/new-to-near](https://docs.near.org/docs/concepts/new-to-near)
-* Subscribe to the NEARWEEK newsletter: [https://nearweek.com/](https://nearweek.com/)
-
+* Subscribe to the NEARWEEK newsletter: [https://nearweek.com/](https://nearweek.com)

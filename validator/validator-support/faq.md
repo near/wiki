@@ -1,9 +1,3 @@
----
-id: staking-faq
-title: Staking FAQ
-sidebar_label: Staking FAQ
----
-
 # FAQ
 
 ## What is a validator?
@@ -14,18 +8,18 @@ We use validator as the name for nodes that are engaged in building and maintain
 2. Chunk-Block producer
 3. Fishermen are validators
 
-The block producer is responsible for creating and broadcasting the block that contains all the current chunks \(shard blocks\). In comparison, the chunk producer collects transactions for the given shard.
+The block producer is responsible for creating and broadcasting the block that contains all the current chunks (shard blocks). In comparison, the chunk producer collects transactions for the given shard.
 
 The collection of transactions for the shard is called a chunk. Once a chunk and a block is created, the information has to be communicated to other chunk producers, fisherman and other validator nodes on the network. Fisherman and other validator nodes provide security by verifying the validity of state transitions in different blocks.
 
 ## How do I become a validator?
 
-You need an account with sufficient amount of funds. Follow the docs [here](/docs/validator/staking) to understand how to become a validator, and [here](/docs/develop/node/validator/running-a-node) to run a node.
+You need an account with sufficient amount of funds. Follow the docs [here](https://app.gitbook.com/docs/validator/staking) to understand how to become a validator, and [here](https://app.gitbook.com/docs/develop/node/validator/running-a-node) to run a node.
 
 More specific steps: 1. Create a new key pair that will be used for staking for given account, and load it with the funds you want to put at stake 2. Start a node with the new key pair stored in `validator_key.json` 3. Send a staking transaction using your wallet / CLI with your account including amount and public key from newly generated key pair. 4. Wait until the node becomes a validator
 
-> **heads up**  
->   
+>  **heads up**\
+> \
 >  External validators can't join MainNet or TestNet, they can only test their nodes on BetaNet. More info below
 
 ## What is 'staking'?
@@ -47,7 +41,7 @@ On the MainNet, the minimum amount is dynamic, and is defined by the amount of N
 
 ## What is a slashing behavior?
 
-In order to secure its Proof-of-Stake network, NEAR Protocol punish the validators that commit invalid state transitions. An example is signing two blocks with the same height \(this is also defined as 'equivocation'\). When this happens, the validator's stake is progressively destroyed, or 'slashed', based on the entity of the attack.
+In order to secure its Proof-of-Stake network, NEAR Protocol punish the validators that commit invalid state transitions. An example is signing two blocks with the same height (this is also defined as 'equivocation'). When this happens, the validator's stake is progressively destroyed, or 'slashed', based on the entity of the attack.
 
 ## Is NEAR enforcing liveness fault slashing?
 
@@ -63,7 +57,7 @@ There's no way for a validator to decide the shard. The protocol randomly assign
 
 ## How do I run a node?
 
-Follow [this tutorial.](/docs/develop/node/validator/running-a-node)
+Follow [this tutorial.](https://app.gitbook.com/docs/develop/node/validator/running-a-node)
 
 ## Do validators receive incentives for testing the protocol?
 
@@ -73,7 +67,7 @@ We don’t offer rewards to validators at this point in time. However, we may of
 
 NEAR doesn’t implement delegation on the protocol level. Instead NEAR allows smart contracts to stake, because in NEAR contracts and accounts are the same.
 
-Thus, if validators want to accept delegated stake, they must deploy a contract with specific rules of how delegation and reward splitting works and advertise that contract as destination to delegate. See the [delegation docs](/docs/validator/delegation) for more.
+Thus, if validators want to accept delegated stake, they must deploy a contract with specific rules of how delegation and reward splitting works and advertise that contract as destination to delegate. See the [delegation docs](https://app.gitbook.com/docs/validator/delegation) for more.
 
 ## Where can I find the neardev/ folder?
 
@@ -111,7 +105,6 @@ It is important to remember that delegation is not implemented on the protocol l
 
 _Last updated: 20201022_
 
-If a staking pool hasn't had an action applied to it recently \(like someone delegating or undelegating\), it will show an old balance on all staked accounts \(which may show up on your wallet account\). To see an updated balance, you can "ping" the pool. See the [delegation docs](/docs/validator/delegation) and search for `ping` for how to do this.
+If a staking pool hasn't had an action applied to it recently (like someone delegating or undelegating), it will show an old balance on all staked accounts (which may show up on your wallet account). To see an updated balance, you can "ping" the pool. See the [delegation docs](https://app.gitbook.com/docs/validator/delegation) and search for `ping` for how to do this.
 
 Got a question?  [Ask it on stack overflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
-

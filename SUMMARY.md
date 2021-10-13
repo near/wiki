@@ -43,8 +43,8 @@
   * [RPC Endpoints](https://docs.near.org/docs/api/rpc)
 * [Guides](validator/validator-guides/README.md)
   * [Running a Validator](validator/validator-guides/running-a-validator.md)
-  * [Running a Validator \(KR\)](validator/validator-guides/running-a-validator-kr.md)
-  * [Running a Validator \(PT\)](validator/validator-guides/running-a-validator-pt.md)
+  * [Running a Validator (KR)](validator/validator-guides/running-a-validator-kr.md)
+  * [Running a Validator (PT)](validator/validator-guides/running-a-validator-pt.md)
 * [Education](validator/validator-education.md)
 * [Events](validator/validator-events.md)
 * [Support](validator/validator-support/README.md)
@@ -80,17 +80,20 @@
 * [Education](founder/founder-education.md)
 * [Events](founder/founder-events.md)
 
-## Governance Forum
+## Governance
 
-* [What is the NEAR Governance Forum?](governance-forum/what-is-the-near-governance-forum.md)
-* [NEAR Forum Guidelines](governance-forum/near-forum-guidelines.md)
+* [What is the NEAR Governance Forum?](governance/what-is-the-near-governance-forum.md)
+* [NEAR Forum Guidelines](governance/near-forum-guidelines.md)
+* [Your Guide to DAOs on NEAR](governance/your-guide-to-daos-on-near.md)
+* [AstroDAO](governance/astrodao.md)
 
 ## Resources
 
 * [FAQ](resources/faq/README.md)
   * [Integrator FAQ](resources/faq/integrator-faq.md)
-* [Analytics](resources/analytics.md)
+  * [Onboarding With LinkDrop](resources/faq/onboarding-with-linkdrop.md)
+* [Legal Resources](resources/legal-resources.md)
 * [Contributing](resources/contributing.md)
 * [Community Blog](https://medium.com/nearprotocol)
 * [Developer Documentation](https://docs.near.org)
-
+* [Analytics](resources/analytics.md)
