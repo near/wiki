@@ -8,7 +8,9 @@
 
 ### SDK for building smart contracts
 
-* Rust SDK: [https://docs.near.org/docs/develop/contracts/rust/near-sdk-rs](https://docs.near.org/docs/develop/contracts/rust/near-sdk-rs)
+* Rust SDK: 
+  * [https://www.near-sdk.io](https://www.near-sdk.io)
+  * [https://docs.near.org/docs/develop/contracts/rust/near-sdk-rs](https://docs.near.org/docs/develop/contracts/rust/near-sdk-rs)
 * AssemblyScript SDK: [https://docs.near.org/docs/develop/contracts/as/intro](https://docs.near.org/docs/develop/contracts/as/intro)
 
 ### APIs for using blockchain
