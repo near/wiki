@@ -36,7 +36,9 @@ An easy way to onboard someone new to the NEAR ecosystem is by sending them a li
 
 ![](https://lh3.googleusercontent.com/c47G5BUTBYpcbTJCXcfiXfB0-G6tIfvJCedjrXBbvaEum-OrGe0lOW2A8M7n3qY_LSdx48abtNNU7x0Z82ClORBOGz1F48z5Jik9kxIvXO6SpBQw4Ka_UdDWmh7LwsFQsBGxOkYy=s0)
 
-#### **9. View Campaign** **** ****![](https://lh6.googleusercontent.com/V8F3CXHV3GapUWr5M7S9oz-WnJq-jw53LPDq0DiuQQH61ZfmNaMZ0-nGw5XMwtU6id7GjAWDFwAXkEiHXwfT_wpsyz8SOfORtH_XQRxiB9M8tk9kZrRds27XHKD2r5cvNhl6aRUS=s0)
+#### **9. View Campaign** **** ****
+
+![](https://lh6.googleusercontent.com/V8F3CXHV3GapUWr5M7S9oz-WnJq-jw53LPDq0DiuQQH61ZfmNaMZ0-nGw5XMwtU6id7GjAWDFwAXkEiHXwfT_wpsyz8SOfORtH_XQRxiB9M8tk9kZrRds27XHKD2r5cvNhl6aRUS=s0)
 
 #### **10. Export CSV (BACKUP LINKS)**
 

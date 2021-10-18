@@ -11,9 +11,11 @@
 
 * [Resources](getting-started/resources.md)
 * [NEAR Token](getting-started/near-token/README.md)
+  * [Token Balance](getting-started/near-token/token-balance.md)
   * [Token Custody](getting-started/near-token/token-custody.md)
   * [Token Delegation](getting-started/near-token/token-delegation.md)
   * [Lockups](getting-started/near-token/lockups.md)
+  * [What's an NFT?](getting-started/near-token/whats-an-nft.md)
 * [Grants & Funding](getting-started/grants-and-funding.md)
 * [Ecosystem Team](getting-started/ecosystem-success/README.md)
   * [Ecosystem Success](getting-started/ecosystem-success/ecosystem-success.md)
