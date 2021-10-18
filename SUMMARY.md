@@ -22,13 +22,13 @@
   * [Business Development](getting-started/ecosystem-success/business-development.md)
   * [Ecosystem Intelligence](getting-started/ecosystem-success/ecosystem-intelligence.md)
   * [Service Catalog](getting-started/ecosystem-success/resources-available.md)
-  * [Access Keys](getting-started/ecosystem-success/access-keys.md)
 
 ## Technology
 
 * [Overview of NEAR Protocol](technology/overview-of-near-protocol.md)
 * [Research](technology/research.md)
-* [Technical Documentation](technology/technical-documentation.md)
+* [Technical Documentation](technology/technical-documentation/README.md)
+  * [Access Keys](technology/technical-documentation/access-keys.md)
 
 ## Developer
 
