@@ -1,27 +1,42 @@
----
-description: >-
-  Think of ES as a router.  We take inbound requests and output them to the
-  relevant parties.  This will be a living post that will update over time with
-  improvements, feedback and more.
----
+# Ecosystem Team
 
-# Ecosystem Success
+The Ecosystem Team supports projects and builders committed to building on NEAR. 
 
-When a NEAR ecosystem participant is looking for help and doesn’t know where to start, they should be introduced to or reach out to ES.  We will hold periodic check-ins with teams to make sure they are not  blocked and making sure they have the resources needed to succeed.
+As a new L1 blockchain built on novel technologies the learning curve can slow down users, developers and entrepreneurs alike. With the support of the NEAR Foundation we are accelerating the path to a vibrant and self-supporting ecosystem by connecting projects with the resources they need to be successful.
 
-Here is a list of [various resources](https://app.gitbook.com/@near/s/wiki/\~/drafts/-MiNS9bGxERQ_zabhY8L/getting-started/ecosystem-success/resources-available) available to you..
+How do we attract more builders? How do we support them? What are the blockers? The Ecosystem Team answers these questions every day, but more importantly we look for trends and gaps in the ecosystem so that we can better prioritize and coordinate our resources to maximize impact.
 
-## **How to work with Ecosystem Success**
+The pages in this section outline our operational guides to supporting the ecosystem: Who our service providers are; how we support new projects; how we coordinate and prioritize resources. Working in the open is important as we gradually shift to a community driven initiative.
 
-**Ecosystem Success is a new and small team with a goal to eventually pass off core responsibilities to the community by way of a DAO. This means we are currently a finite resource to NEAR participants and have to manage our time effectively.**
+## Three Pillars of the Ecosystem Team
 
-1. A participant (term for people, projects or partners) has been identified by a member of the NEAR ecosystem and brought to our attention via one of our channels.
-2. Ecosystem Success is notified through one of the following channels listed below with proper context, project name, operating timezone, POC, their asks or blockers and next steps. 
-   1. Foundation Slack - #ecosystem-success channel
-   2. Email - es@near.foundation
-   3. Discord - TBD
-3. Set up an introductory call with a member of ES.
-   1. ES will handle the internal assignment and POC
-4. Ecosystem Success will handle further incoming requests from the participant as needed and maintain regular syncs.
+[Business Development](business-development.md) (BD) encourages entrepreneurs and developers to build new projects and on NEAR. 
 
-****
+[Ecosystem Success](ecosystem-success.md) (ES) supports those already committed to building on NEAR by removing blockers and accelerating the journey to a successful launch. The ES team maintains a [catalog of service providers](resources-available.md) willing to support NEAR projects across a variety of domains.
+
+[Ecosystem Intelligence](ecosystem-intelligence.md) (EI) measures ecosystem health with on-chain and off-chain data analytics. 
+
+## Prioritization
+
+As a small team we are constantly assessing the ecosystem and our partners to make tough decisions about where to focus our efforts.  
+
+For Q4 2021 we forecast the impact each project will have based on a 12-month time horizon, acknowledging that different classes of projects can deliver value in different ways. 
+
+|            | dApp (general)    | dApp (defi) | Infrastructure         |
+| ---------- | ----------------- | ----------- | ---------------------- |
+| **Large**  | 1M New Accounts   | $1B TVL     | High Impact / Required |
+| **Medium** | 100k new accounts | $500M TVL   | Redundant but Critical |
+| **Small**  | 10K new accounts  | $250M TVL   | Infra Startups         |
+| **Micro**  | <10K new accounts | <$250M TVL  | -                      |
+
+{% hint style="info" %}
+Even though the Ecosystem Team is focused on high impact engagements we'll never abandon projects in need. We work closely with the community team, guilds, and other groups in the NEAR collective to support projects at any stage. 
+{% endhint %}
+
+## **How to contact the Ecosystem Team**
+
+We encourage all projects to get in touch!  
+
+1. es@near.foundation
+2. [Discord](https://near.chat) #ecosystem channel
+3. NF Slack #ecosystem-success (NEAR Collective)

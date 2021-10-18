@@ -15,8 +15,11 @@
   * [Token Delegation](getting-started/near-token/token-delegation.md)
   * [Lockups](getting-started/near-token/lockups.md)
 * [Grants & Funding](getting-started/grants-and-funding.md)
-* [Ecosystem Success](getting-started/ecosystem-success/README.md)
-  * [Resources Available](getting-started/ecosystem-success/resources-available.md)
+* [Ecosystem Team](getting-started/ecosystem-success/README.md)
+  * [Ecosystem Success](getting-started/ecosystem-success/ecosystem-success.md)
+  * [Business Development](getting-started/ecosystem-success/business-development.md)
+  * [Ecosystem Intelligence](getting-started/ecosystem-success/ecosystem-intelligence.md)
+  * [Service Catalog](getting-started/ecosystem-success/resources-available.md)
 
 ## Technology
 
