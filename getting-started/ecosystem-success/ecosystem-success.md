@@ -38,8 +38,9 @@ Project Basics
 * [ ] Are you on the ecosystem map? 
 * [ ] Can you add yourself? 
 
-GTM & Growth & Ops Do you have a launch planned? 
+GTM & Growth & Ops  
 
+* [ ] Do you have a launch planned?
 * [ ] If so, do you feel prepared? 
 * [ ] Is the project fundraising? 
 * [ ] If so what is your timeline? 

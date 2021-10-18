@@ -7,24 +7,61 @@ description: >-
 
 # Service Catalog
 
-Startup & Founder Support 
+### Startup & Founder Support 
 
-* Jobs & Hiring Job Board: If you have a job posting or are looking for a job with a NEAR participant
-* \[TBD] NF Engagement: People Team working on consulting packages 
-* \[TBD] NEAR Edu for devs that have completed education programs 3rd Party Recruiters Brett Leverton 
-* \[TBD pending Kem approval] TBD Mark’s guy 
-* Funding NF Funding Team: Grants & Investment VC Network form Finance, Legal, Regulatory Questions NF FLO Team Legal Guild
+* Jobs & Hiring 
+  * [Job Board](https://jobs.openweb.dev): If you have a job posting or are looking for a job with a NEAR participant
+  * \[WIP] NF Engagement: People Team working on consulting packages 
+  * \[WIP] NEAR EDU. NEAR Certified Developer (NCD) graduate pipeline
+  * \[WIP] 3rd Party recruiters & partners 
+* Funding 
+  * NF Funding Team: [Grants ](https://near.org/grants/)& Investment 
+  * [VC Network form ](https://nearprotocol1001.typeform.com/nearvcnetwork)
+* Finance, Legal, Regulatory Questions 
+  * NF FLO Team 
+  * Legal Guild
 
-Technical & Dev Support Self Service Discord #dev-support chat & Office hours (live video weekdays 6pm - 8pm UTC) Telegram NEARdev channel Stackoverflow Technical documentation directory Engagements Code Review Max’s code review trello - Inc run Evgeny K (Eugene) - Proximity (DeFi) Peer review Guild / Edu -- TBD Sherif (Edu dev funnel), Sheryas (Guilds) 3rd Party Dev Shop Illias & Mike’s Eco Infra Trello for Dev Shops - managed by Inc
+### Technical & Dev Support 
+
+* Self Service 
+  * Discord chat [#dev-support chat ](https://discord.gg/SUAn8SEj32)
+  * Discord [Office hours](https://discord.gg/erSfP8KeKh) (live video weekdays 6pm - 8pm UTC)
+  * Telegram [NEARdev channel](https://t.me/neardev) 
+  * [Stackoverflow ](https://stackoverflow.com/questions/tagged/nearprotocol)
+  * [Technical documentation directory](../../developer/dev-docs.md) 
+* Engagements 
+  * Code Review 
+    * Max’s code review trello - Inc run 
+    * Evgeny K (Eugene) - Proximity (DeFi) 
+    * Peer review Guild / Edu -- TBD Sherif (Edu dev funnel), Sheryas (Guilds) 
+  * 3rd Party Dev Shop 
+    * Illias & Mike’s Eco Infra Trello for Dev Shops - managed by Inc
 
 Outsourced development. NEAR has partnered with Tech FAQ Wallet integration support
 
-Token Launch Support Proximity Labs k@proximity.dev Token advisory IDO Liquidity bootstrapping Market making CEX listing Engagement: TBD
+### Token Launch Support 
 
-Marketing Support New content on NEAR channels (tweets, retweets, blog posts): use the marketing activation form ( Growth Marketing Growth Guild Discord - walk projects through their marketing challenges and creating viral loops in products Strategy & Consulting: Helping increase visibility, getting in front of the media. Helping with your marketing launch.
+Proximity Labs telegram or  k@proximity.dev 
 
-Open Jobs/Roles If an Ecosystem partner has open positions, they can utilise our jobs portal
+* Token advisory 
+* IDO 
+* Liquidity bootstrapping 
+* Market making 
+* CEX listing 
+* Engagement: TBD
 
-Design and Product assistance Product Development - Helping to shape the product based on what’s possible, design sprints, PMF, user testing. Silicon Craftsmen Guild Product Architecture - help with how to architect the solution
+### Marketing Support 
 
-Collaboration in the NEAR Collective Understanding roadmaps and integrating with core products
+* New content on NEAR channels (tweets, retweets, blog posts): use the marketing activation form
+* Growth Marketing 
+  * [Growth Guild Discord](https://discord.gg/pRr6BakXP7) - walk projects through their marketing challenges and creating viral loops in products 
+  * Strategy & Consulting: Helping increase visibility, getting in front of the media. Helping with your marketing launch.
+
+### Design and Product assistance 
+
+* Product Development - Helping to shape the product based on what’s possible, design sprints, PMF, user testing. Silicon Craftsmen Guild 
+* Product Architecture - help with how to architect the solution
+
+### Collaboration in the NEAR Collective 
+
+Understanding roadmaps and integrating with core products
