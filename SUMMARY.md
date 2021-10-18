@@ -20,6 +20,7 @@
   * [Business Development](getting-started/ecosystem-success/business-development.md)
   * [Ecosystem Intelligence](getting-started/ecosystem-success/ecosystem-intelligence.md)
   * [Service Catalog](getting-started/ecosystem-success/resources-available.md)
+  * [Access Keys](getting-started/ecosystem-success/access-keys.md)
 
 ## Technology
 
