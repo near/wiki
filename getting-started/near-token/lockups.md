@@ -47,7 +47,11 @@ Lockup mechanics have 2 configurable parameters: 1. `lockup_timestamp` - The mom
 
 The lockup process could not be terminated. Lockup does not have a cliff.
 
+![](../../.gitbook/assets/lockup\_1-6767e999b2dca254b3f3979f8982ed12.png)
+
 \[deprecated] Apart from the lockup timestamp, there is a lockup duration. `lockup_duration` is the interval between [the Phase II launch](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/) (October 13th) and the moment when tokens start to unlock.
+
+![](../../.gitbook/assets/lockup\_2-33c47004e711b0c2d836f96a7d4b93e5.png)
 
 ### Vesting
 
@@ -55,15 +59,21 @@ Vesting also locks the tokens, and it allows configuring 2 more options: 1. Abil
 
 Vesting process includes 3 timestamps: `start_date`, `cliff_date`, `end_date`.
 
+![](../../.gitbook/assets/lockup\_3-c7f2d633dc7b496f27d23b3c2ec4e392.png)
+
 ### Combinations
 
 `v_start`, `v_cliff`, `v_end` are the aliases for vesting parameters; `l_start`, `l_end` are for lockup parameters. They could be easily transformed into initializing parameters described above.
+
+![](../../.gitbook/assets/lockup\_4-f036005bf997b396c630370ee3d14a31.png)
 
 The liquid tokens balance is always the minimum between unlocked and vested values.
 
 ### Termination of vesting
 
 Vesting could be terminated by the foundation, an account configured at the moment of initializing the contract. It's important to understand how the termination works combining with the lockup schedule.
+
+![](../../.gitbook/assets/lockup\_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
 
 At the moment of termination, we stop the vesting process, so the vested amount is going to remain constant after that; the lockup process keeps going and will unlock the tokens on its schedule. We continue to unlock the tokens as we normally do that by getting the minimum between unlocked and vested amounts.
 
@@ -77,7 +87,7 @@ First, the Owner Account `gio3gio.near` was created and configured using several
 Next, the account [9b84742f269952cea2877425b5e9d2e15cae8829.lockup.near](https://explorer.mainnet.near.org/accounts/9b84742f269952cea2877425b5e9d2e15cae8829.lockup.near) was created to store the actual balance of locked tokens on the account in [a batch transaction](https://explorer.mainnet.near.org/transactions/Eer14Fih17TRjpiF8PwWfVKNTB57vXnNJsDW93iqc2Ui) which also transferred these tokens to it (in this case, 594.11765 tokens).\
 You can see the arguments for the `new` method in the explorer, which show a 12-month release duration with an initial cliff of October 4th:
 
-```
+```json
 {
   "owner_account_id": "gio3gio.near",        // the Owner account who is allowed to call methods on this one
   "lockup_duration": "0",                    // not necessary if the lockup_timestamp is used
@@ -174,7 +184,7 @@ There are three ways to go:
 * [Import your account into NEAR Wallet](token-custody.md#importing-accounts-from-other-wallets); 
 * Use CLI to check your balance: `near view <LOCKUP_ACCOUNT_ID> get_balance ''` (note it outputs the value in yoctoNEAR - divide by 10e24 to get NEAR amount).
 
-### How do I delegate locked up tokens?
+### How do I delegate locked-up tokens?
 
 It's important to note, that a single lockup contract can only delegate to a single validator.
 
