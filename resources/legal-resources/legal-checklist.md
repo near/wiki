@@ -78,6 +78,3 @@ Businesses must closely monitor the legislative environment and stay informed on
 
 Build a detailed budget to have visibility on cash flows during \~18 months of operations. The focus will be on expenses, where a granural structure will help you foresee all expense items and realistic capital requirements. Token issuance might come as a substantial funding source, but also typically brings high costs of legal advise, structuring and regulatory compliance (often across several jurisdictions). NF-funded spinoffs are required to prepare budget per provided template (and it's recommended for all spinoffs) https://docs.google.com/spreadsheets/d/1TwavFQPB0XgZVNpf4N6xU-7pdnMRL6ppAa8FN2bD2Bs/edit?ts=60decc90#gid=
 
-### Bank Relationships
-
-[In this document ](https://docs.google.com/document/d/1MpCsusRD0NQscwX9rG28fZ1UQiR\_1EF5mW7mg\_PD8jI/edit?usp=sharing)you can find potentially useful contacts or links for banking relationship
