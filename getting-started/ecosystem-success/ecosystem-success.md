@@ -27,7 +27,8 @@ Project Basics&#x20;
 
 * [ ] How did you start building on NEAR?&#x20;
 * [ ] How has the experience been?&#x20;
-* [ ] What are your upcoming milestones?&#x20;
+* [ ] What are your upcoming milestones?
+* [ ] What metrics matter most to you?&#x20;
 * [ ] Do you have a roadmap to share?&#x20;
 * [ ] Can you describe the team?&#x20;
 * [ ] Tech stack?&#x20;
