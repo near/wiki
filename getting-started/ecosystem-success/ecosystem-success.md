@@ -2,7 +2,7 @@
 
 ### Onboarding projects into the ecosystem&#x20;
 
-The Ecosystem Success (ES) team works with projects to help them find early success in the NEAR ecosystem. This is accomplished via a consultative relationship that leverages a growing list of service providers that can assist projects in a variety of domains. The ES role can be broken down the following primary components:
+The Ecosystem Success (ES) team works with projects to help them find early success in the NEAR ecosystem. This is accomplished via a consultative relationship that leverages a growing list of service providers that can assist projects in a variety of domains. The ES role can be broken down into the following primary components:
 
 * Onboard new projects into the program to learn about their plans, needs, and experience
 * Host regular check-ins with projects to support them and learn about their experience&#x20;
@@ -13,10 +13,10 @@ The Ecosystem Success (ES) team works with projects to help them find early succ
 
 ### Onboarding - First Contact&#x20;
 
-The checklist below helps the ES team understand a project and it’s needs. After we have this information we can design a follow-up plan.
+The checklist below helps the ES team understand a project and its needs. After we have this information we can design a follow-up plan.
 
 {% hint style="info" %}
-Onboarding Tip: As much as we want to help, do not over promise (and under deliver!). ES provides the most value by matchmaking projects with service providers. The service providers need to be bought in too, so check with them first!
+Onboarding Tip: As much as we want to help, do not over-promise (and under deliver!). ES provides the most value by matchmaking projects with service providers. The service providers need to be bought in too, so check with them first!
 {% endhint %}
 
 The type of interaction and level of engagement will be guided by the project's [forecasted impact](./#prioritization). We want to use resources strategically and fairly. If a project doesn’t meet our current requirements then we look to the community for support.
@@ -36,6 +36,7 @@ Project Basics&#x20;
 * [ ] Are there technical blockers or issues? \*
 * [ ] Have you performed security reviews on your smart contracts? Do you need a review? \*
 * [ ] Will your project have a token? \*
+* [ ] What are your key metrics for success? (Users? TVL? Exposure?)
 * [ ] Are you on the ecosystem map? \* Can you add yourself?&#x20;
 
 GTM & Growth & Ops Questions
@@ -54,7 +55,7 @@ The ecosystem is starting to expand faster than we can track it! This is a good 
 
 * $10K+
   * Email intro. Use template announcing Ecosystem team, high level support options, request call with calendly link.&#x20;
-  * Ongoing: Followup with standarard ongoing guidelines below.
+  * Ongoing: Followup with standard ongoing guidelines below.
 * <$10K
   * Email intro. Use template announcing what we do. Request async communication channel (tg, discord)
 
