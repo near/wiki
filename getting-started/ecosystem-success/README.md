@@ -1,6 +1,6 @@
 # Ecosystem Team
 
-The Ecosystem Team supports projects and builders committed to building on NEAR. 
+The Ecosystem Team supports projects and builders committed to building on NEAR.&#x20;
 
 As a new L1 blockchain built on novel technologies the learning curve can slow down users, developers and entrepreneurs alike. With the support of the NEAR Foundation we are accelerating the path to a vibrant and self-supporting ecosystem by connecting projects with the resources they need to be successful.
 
@@ -10,17 +10,17 @@ The pages in this section outline our operational guides to supporting the ecosy
 
 ## Three Pillars of the Ecosystem Team
 
-[Business Development](business-development.md) (BD) encourages entrepreneurs and developers to build new projects and on NEAR. 
+[Business Development](business-development.md) (BD) encourages entrepreneurs and developers to build new projects and on NEAR.&#x20;
 
 [Ecosystem Success](ecosystem-success.md) (ES) supports those already committed to building on NEAR by removing blockers and accelerating the journey to a successful launch. The ES team maintains a [catalog of service providers](resources-available.md) willing to support NEAR projects across a variety of domains.
 
-[Ecosystem Intelligence](ecosystem-intelligence.md) (EI) measures ecosystem health with on-chain and off-chain data analytics. 
+[Ecosystem Intelligence](ecosystem-intelligence.md) (EI) measures ecosystem health with on-chain and off-chain data analytics.&#x20;
 
 ## Prioritization
 
-As a small team we are constantly assessing the ecosystem and our partners to make tough decisions about where to focus our efforts.  
+As a small team we are constantly assessing the ecosystem and our partners to make tough decisions about where to focus our efforts. &#x20;
 
-For Q4 2021 we forecast the impact each project will have based on a 12-month time horizon, acknowledging that different classes of projects can deliver value in different ways. 
+For Q4 2021 we forecast the impact each project will have based on a 12-month time horizon, acknowledging that different classes of projects can deliver value in different ways.&#x20;
 
 |            | dApp (general)    | dApp (defi) | Infrastructure         |
 | ---------- | ----------------- | ----------- | ---------------------- |
@@ -30,13 +30,15 @@ For Q4 2021 we forecast the impact each project will have based on a 12-month ti
 | **Micro**  | <10K new accounts | <$250M TVL  | -                      |
 
 {% hint style="info" %}
-Even though the Ecosystem Team is focused on high impact engagements we'll never abandon projects in need. We work closely with the community team, guilds, and other groups in the NEAR collective to support projects at any stage. 
+Even though the Ecosystem Team is focused on high impact engagements we'll never abandon projects in need. We work closely with the community team, guilds, and other groups in the NEAR collective to support projects at any stage.&#x20;
 {% endhint %}
 
 ## **How to contact the Ecosystem Team**
 
-We encourage all projects to get in touch!  
+We encourage all projects that need help to get in touch!  &#x20;
 
-1. es@near.foundation
-2. [Discord](https://near.chat) #ecosystem channel
-3. NF Slack #ecosystem-success (NEAR Collective)
+1. [NEAR Discord #ecosystem ](https://near.chat)channel
+2. [Ecosystem Support Form](https://forms.gle/Vefbf7t7EWYiFRKf6)
+3. Email: es@near.foundation
+4. Near Foundation Slack #ecosystem-success (limited access)
+
