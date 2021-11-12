@@ -5,6 +5,7 @@
 ### Translations
 
 * [Korean](running-a-validator-kr.md)
+* [Portuguese](running-a-validator-pt.md)
 * Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
 
 ### _READ THIS QUICKSTART GUIDE BEFORE YOU START_
