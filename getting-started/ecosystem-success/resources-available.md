@@ -34,14 +34,11 @@ description: >-
   * [Stackoverflow ](https://stackoverflow.com/questions/tagged/nearprotocol)
   * [Technical documentation directory](../../developer/dev-docs.md)&#x20;
 * Engagements&#x20;
-  * Code Review&#x20;
-    * Max’s code review trello - Inc run&#x20;
-    * Evgeny K (Eugene) - Proximity (DeFi)&#x20;
+  * Contract Audits&#x20;
+    * John Smith maintains at NEAR Inc manages relationships with firms that official support NEAR. Contact him to find a match and begin an engagement.
     * Peer review Guild / Edu -- TBD Sherif (Edu dev funnel), Sheryas (Guilds)&#x20;
-  * 3rd Party Dev Shop&#x20;
-    * Illias & Mike’s Eco Infra Trello for Dev Shops - managed by Inc
-
-Outsourced development. NEAR has partnered with Tech FAQ Wallet integration support
+  * Outsourced Development&#x20;
+    * Mike Purvis at NEAR Inc maintains relationships with NEAR friendly development shops. Contact him to start an engagement.&#x20;
 
 ### Token Launch Support&#x20;
 
