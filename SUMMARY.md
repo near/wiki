@@ -91,13 +91,14 @@
 * [What is the NEAR Governance Forum?](governance/what-is-the-near-governance-forum.md)
 * [NEAR Forum Guidelines](governance/near-forum-guidelines.md)
 * [Your Guide to DAOs on NEAR](governance/your-guide-to-daos-on-near.md)
+* [DAO Legal Discussion](governance/dao-legal-discussion.md)
 * [AstroDAO](governance/astrodao.md)
 
 ## Resources
 
 * [FAQ](resources/faq/README.md)
   * [Integrator FAQ](resources/faq/integrator-faq.md)
-  * [Onboarding With LinkDrop](resources/faq/onboarding-with-linkdrop.md)
+  * [📎 NEARDROP](resources/faq/neardrop.md)
 * [Legal Resources](resources/legal-resources/README.md)
   * [Legal Checklist](resources/legal-resources/legal-checklist.md)
 * [Contributing](resources/contributing.md)

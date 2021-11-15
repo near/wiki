@@ -1,12 +1,12 @@
-# Onboarding With LinkDrop
+# 📎 NEARDROP
 
-An easy way to onboard someone new to the NEAR ecosystem is by sending them a linkdrop URL to which will send the receiver to the NEAR wallet as shown below.\
+[NEARDROP](https://app.neardrop.io) is an easy way to onboard someone new to the NEAR ecosystem by sending them a linkdrop URL to which will send the receiver to the NEAR wallet. In this guide you will learn how to mass-generate onboarding links!\
 \
-**Warning: **Be sure to store your NEAR Linkdrop seed phrase in a safe at step 4, you’ll not be able to recover your Linkdrop account on another device without it.
+**Warning: **Be sure to store your NEARDROP seed phrase in a safe at step 4, you’ll not be able to recover your Linkdrop account on another device without it.
 
 ## **How to mass-generate NEAR onboarding links**
 
-#### **1. Go to the **[**Linkdrop Dashboard**](https://app.linkdrop.tech/campaigns)****
+#### **1. Go to the **[**NEARDROP Dashboard**](http://app.neardrop.io)
 
 #### **2. Connect Wallet**
 

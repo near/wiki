@@ -11,6 +11,8 @@ description: >-
 
 * Jobs & Hiring&#x20;
   * [Job Board](https://jobs.openweb.dev): If you have a job posting or are looking for a job with a NEAR participant
+  * Leverage OWS for community support on your project - content creation, developer support, design, etc.
+    * After [this form](https://airtable.com/shrwaPB7BgZTDnfn9) is filled in, you will be reached out to within a couple of days to set up a call and understand what is it exactly you need help with and how OWS can accomodate it.
   * [Database](https://docs.google.com/spreadsheets/d/1tiBYUSjC0q-l7ySW4shTv6aB6ZRGJ8QJ4GEoMCO\_OkE/edit?usp=sharing) of people/community members for hire/project support
   * \[WIP] NF Engagement: People Team working on consulting packages&#x20;
   * \[WIP] NEAR EDU. NEAR Certified Developer (NCD) graduate pipeline
@@ -53,7 +55,7 @@ Proximity Labs telegram or k@proximity.dev&#x20;
 * Engagement: TBD
 * Ref Finance [whitelisting procedure](https://gov.ref.finance/t/new-whitelisting-procedure/224)
 
-### Marketing Support&#x20;
+### Marketing & Awareness Support&#x20;
 
 * New content on NEAR channels (tweets, retweets, blog posts): use the [marketing activation form](https://near.org/activate/)
 * Growth Marketing&#x20;
@@ -61,6 +63,10 @@ Proximity Labs telegram or k@proximity.dev&#x20;
   * Strategy & Consulting: Helping increase visibility, getting in front of the media. Helping with your marketing launch.
 * NEARWeek weekly video interviews to further showcase & get eyes on your project
   * Reach out to [https://t.me/AntonNearweek](https://t.me/AntonNearweek) to schedule
+* 4NTS daily podcast with people/teams from the ecosystem to increase visibility & awareness
+  * [https://t.me/riseandgrindnear](https://t.me/riseandgrindnear)
+* Rhino Guild - kickstarting NEAR projects into orbit with social media marketing.
+  * [https://www.flyingrhinoguild.com/](https://www.flyingrhinoguild.com)
 
 ### Design and Product assistance&#x20;
 
