@@ -2,7 +2,7 @@
 
 The Ecosystem Team supports projects and builders committed to building on NEAR.&#x20;
 
-As a new L1 blockchain built on novel technologies the learning curve can slow down users, developers and entrepreneurs alike. With the support of the NEAR Foundation we are accelerating the path to a vibrant and self-supporting ecosystem by connecting projects with the resources they need to be successful.
+We are accelerating the path to a vibrant and self-supporting ecosystem by connecting projects with the resources they need to be successful.
 
 How do we attract more builders? How do we support them? What are the blockers? The Ecosystem Team answers these questions every day, but more importantly we look for trends and gaps in the ecosystem so that we can better prioritize and coordinate our resources to maximize impact.
 
@@ -37,7 +37,7 @@ Even though the Ecosystem Team is focused on high impact engagements we'll never
 
 We encourage all projects that need help to get in touch!  &#x20;
 
-1. [NEAR Discord #ecosystem ](https://near.chat)channel
+1. [NEAR Discord #ecosystem-success ](https://near.chat)channel
 2. [Ecosystem Support Form](https://forms.gle/Vefbf7t7EWYiFRKf6)
 3. Email: es@near.foundation
 4. Near Foundation Slack #ecosystem-success (limited access)

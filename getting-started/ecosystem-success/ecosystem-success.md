@@ -25,27 +25,26 @@ Onboarding Questionnaire:&#x20;
 
 Project Basics&#x20;
 
+* [ ] Major milestones&#x20;
+  * [ ] Do you have a roadmap to share?
+  * [ ] Do you have a launch planned?
+  * [ ] What are your key success metrics? (eg. Users? TVL? Exposure?)
+* [ ] Fundraising
+  * [ ] Do you plan on fundraising?
+  * [ ] Target dates and amounts?
+
+Additional Questions
+
 * [ ] How did you start building on NEAR?&#x20;
 * [ ] How has the experience been?&#x20;
-* [ ] What are your upcoming milestones?
-* [ ] What metrics matter most to you?&#x20;
-* [ ] Do you have a roadmap to share?&#x20;
 * [ ] Can you describe the team?&#x20;
+* [ ] Will your project have a token? \*
 * [ ] Tech stack?&#x20;
 * [ ] Are you getting support from any other groups (NEAR collective or otherwise)&#x20;
 * [ ] Are there technical blockers or issues? \*
 * [ ] Have you performed security reviews on your smart contracts? Do you need a review? \*
-* [ ] Will your project have a token? \*
-* [ ] What are your key metrics for success? (Users? TVL? Exposure?)
 * [ ] Are you on the ecosystem map? \* Can you add yourself?&#x20;
-
-GTM & Growth & Ops Questions
-
-* [ ] Do you have a launch planned? when? \*
 * [ ] Do you nee support? technical?\* marketing?\* FLO?\* product?\* design/usertesting?\*
-* [ ] Is the project fundraising? \*
-* [ ] If so what is your timeline? \*
-* [ ] Have you raised already? How much? \*
 
 ### ES Response Goals (Q4 2021)&#x20;
 
