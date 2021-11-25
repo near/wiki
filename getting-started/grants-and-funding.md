@@ -16,9 +16,7 @@ _Note, that it doesn't have to be a startup to get funded! We have a number of w
 
 The Grants Program deploys non-equity capital in check sizes from $5K - $500K primarily in the form of NEAR tokens. Allocations are usually prior to a formal investment round (series seed / A), but explore later stage allocations with high strategic value. If you are a later stage startup, please also scroll down to Other funding programs below.
 
-****
-
-**What is the Process for Obtaining a Grant?**
+## **What is the Process for Obtaining a Grant?**
 
 If you believe that your project benefits the ecosystem within one of the focus areas (see the list of focus areas below) we would like to invite you to apply for a grant
 
@@ -34,11 +32,7 @@ You can directly fill out a grant application in the following categories:&#x20;
 
 Additional information regarding our grants program can be found on : [https://near.org/grants/ ](https://near.org/grants/)Or contact grants@near.foundation for specific questions.
 
-
-
-##
-
-Currently the Grants Program is focused on the below areas within the ecosystem:
+### Currently the Grants Program is focused on the below areas within the ecosystem:
 
 * Infrastructure tools / features
   * Wallets
