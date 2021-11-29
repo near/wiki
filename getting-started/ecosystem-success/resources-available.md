@@ -29,7 +29,7 @@ description: >-
 
 * Self Service&#x20;
   * Discord chat [#dev-support chat ](https://discord.gg/SUAn8SEj32)
-  * Discord [Office hours](https://discord.gg/erSfP8KeKh) (live video weekdays 6pm - 8pm UTC)
+  * Discord [Office hours](https://discord.gg/erSfP8KeKh) (live video every weekday 6pm - 7pm UTC)
   * Telegram [NEARdev channel](https://t.me/neardev)&#x20;
   * [Stackoverflow ](https://stackoverflow.com/questions/tagged/nearprotocol)
   * [Technical documentation directory](../../developer/dev-docs.md)&#x20;
