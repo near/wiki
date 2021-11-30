@@ -49,7 +49,7 @@
 
 * [Overview](guilds/guild-overview.md)
 * [Get Started](guilds/guild-getstarted.md)
-* [Meetups](guilds/guild-community.md)
+* [Meetups](guilds/meetups.md)
 * [Reporting](guilds/guild-reporting.md)
 
 ## Governance
