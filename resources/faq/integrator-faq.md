@@ -162,7 +162,7 @@ We are currently upgrading via restarting with a new genesis block.
 
 NEAR is a sharded **proof-of-stake** blockchain.
 
-_You can read more in our _[_Nightshade whitepaper_](https://near.org/downloads/Nightshade.pdf)_._
+_You can read more in our_ [_Nightshade whitepaper_](https://near.org/downloads/Nightshade.pdf)_._
 
 > _A few relevant details have been extracted here for convenience:_
 >
@@ -195,7 +195,7 @@ Please check out the spec here on accounts [https://nomicon.io/DataStructures/Ac
 
 NEAR uses an `Account`-based model. All users and contracts are associated with at least 1 account. Each account lives on a single shard. Each account can have multiple keys for signing transactions.
 
-_You can read _[_more about NEAR accounts here_](https://nomicon.io/DataStructures/Account.html)
+_You can read_ [_more about NEAR accounts here_](https://nomicon.io/DataStructures/Account.html)
 
 ### How are user accounts represented on-chain?
 
@@ -282,6 +282,6 @@ We use a simple binary serialization format that's deterministic: [https://borsh
 * Github
   * [https://www.github.com/near](https://www.github.com/near)
 
-> Got a question? 
+> Got a question?&#x20;
 >
 > Ask it on [StackOverflow](https://stackoverflow.com/questions/tagged/nearprotocol)!
