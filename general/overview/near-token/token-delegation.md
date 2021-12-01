@@ -80,7 +80,7 @@ Note that when you set variables with `export` you do not prefix them with the d
 If you're using a secondary account on a Ledger Nano device, you will also want to create an HD\_PATH variable. For example:
 
 ```
-export HD_PATH="account 44'/397'/0'/0'/2'"
+export HD_PATH="44'/397'/0'/0'/2'"
 ```
 
 The default HD path for the NEAR app on Ledger devices is `44'/397'/0'/0'/1'`. See more info on using `near-cli` with Ledger [here](token-custody.md#option-1-ledger-via-cli).
