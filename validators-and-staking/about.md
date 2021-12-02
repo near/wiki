@@ -6,6 +6,11 @@ sidebar_label: Orientation
 
 # About
 
+## Translations
+
+* [Portuguese](about-pt.md)
+* Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
+
 ## Welcome
 
 This section introduces you to staking principles and running your validating node.

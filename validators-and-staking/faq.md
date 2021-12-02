@@ -1,5 +1,10 @@
 # FAQ
 
+## Translations
+
+* [Portuguese](faq-pt.md)
+* Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
+
 ## What is a validator?
 
 We use validator as the name for nodes that are engaged in building and maintaining the network. There are three different roles validators are automatically selected to do:
