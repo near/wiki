@@ -20,6 +20,18 @@
   * [Business Development](ecosystem/ecosystem-success/business-development.md)
   * [Ecosystem Intelligence](ecosystem/ecosystem-success/ecosystem-intelligence.md)
   * [Service Catalog](ecosystem/ecosystem-success/resources-available.md)
+* [People Team](ecosystem/people-team/README.md)
+  * [Hiring at NEAR (Coming Soon)](ecosystem/people-team/hiring-at-near-coming-soon.md)
+  * [Humans at NEAR Foundation](ecosystem/people-team/humans-at-near-foundation/README.md)
+    * [Communicating at NEAR Foundation](ecosystem/people-team/humans-at-near-foundation/communicating-at-near-foundation.md)
+    * [Onboarding at NEAR Foundation](ecosystem/people-team/humans-at-near-foundation/onboarding-at-near-foundation.md)
+    * [Benefits & Perks (Coming Soon)](ecosystem/people-team/humans-at-near-foundation/benefits-and-perks-coming-soon.md)
+    * [Time Off](ecosystem/people-team/humans-at-near-foundation/time-off.md)
+    * [Expenses](ecosystem/people-team/humans-at-near-foundation/expenses/README.md)
+      * [Education/Conferences](ecosystem/people-team/humans-at-near-foundation/expenses/education-conferences.md)
+      * [Home Office, Equipment & Technology](ecosystem/people-team/humans-at-near-foundation/expenses/home-office-equipment-and-technology.md)
+      * [Other Expenses](ecosystem/people-team/humans-at-near-foundation/expenses/other-expenses.md)
+      * [Process for Submitting Expenses](ecosystem/people-team/humans-at-near-foundation/expenses/process-for-submitting-expenses.md)
 
 ## Technology
 
@@ -64,7 +76,7 @@
 
 * [FAQ](resources/faq/README.md)
   * [Integrator FAQ](resources/faq/integrator-faq.md)
-  * [📎 NEARDROP](resources/faq/neardrop.md)
+  * [NEARDROP](resources/faq/neardrop.md)
 * [Legal Resources](resources/legal-resources/README.md)
   * [Legal Checklist](resources/legal-resources/legal-checklist.md)
 * [Analytics](resources/analytics.md)
