@@ -18,7 +18,7 @@ Most early accounts are subject to a cliff. For example, a 4-year linear lockup 
 3. Months 13-48: the remaining 75% of tokens are unlocked smoothly over each block of the remaining 36 months.
 4. Months 48+: all tokens are unlocked
 
-_See how NEAR tokens have been distributed and what lockups generally apply in _[_this post_](https://near.org/blog/near-token-supply-and-distribution/)_._
+_See how NEAR tokens have been distributed and what lockups generally apply in_ [_this post_](https://near.org/blog/near-token-supply-and-distribution/)_._
 
 _See the FAQ at the end for questions_
 
@@ -47,11 +47,11 @@ Lockup mechanics have 2 configurable parameters: 1. `lockup_timestamp` - The mom
 
 The lockup process could not be terminated. Lockup does not have a cliff.
 
-![](../../.gitbook/assets/lockup\_1-6767e999b2dca254b3f3979f8982ed12.png)
+![](../../../.gitbook/assets/lockup\_1-6767e999b2dca254b3f3979f8982ed12.png)
 
 \[deprecated] Apart from the lockup timestamp, there is a lockup duration. `lockup_duration` is the interval between [the Phase II launch](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/) (October 13th) and the moment when tokens start to unlock.
 
-![](../../.gitbook/assets/lockup\_2-33c47004e711b0c2d836f96a7d4b93e5.png)
+![](../../../.gitbook/assets/lockup\_2-33c47004e711b0c2d836f96a7d4b93e5.png)
 
 ### Vesting
 
@@ -59,13 +59,13 @@ Vesting also locks the tokens, and it allows configuring 2 more options: 1. Abil
 
 Vesting process includes 3 timestamps: `start_date`, `cliff_date`, `end_date`.
 
-![](../../.gitbook/assets/lockup\_3-c7f2d633dc7b496f27d23b3c2ec4e392.png)
+![](../../../.gitbook/assets/lockup\_3-c7f2d633dc7b496f27d23b3c2ec4e392.png)
 
 ### Combinations
 
 `v_start`, `v_cliff`, `v_end` are the aliases for vesting parameters; `l_start`, `l_end` are for lockup parameters. They could be easily transformed into initializing parameters described above.
 
-![](../../.gitbook/assets/lockup\_4-f036005bf997b396c630370ee3d14a31.png)
+![](../../../.gitbook/assets/lockup\_4-f036005bf997b396c630370ee3d14a31.png)
 
 The liquid tokens balance is always the minimum between unlocked and vested values.
 
@@ -73,7 +73,7 @@ The liquid tokens balance is always the minimum between unlocked and vested valu
 
 Vesting could be terminated by the foundation, an account configured at the moment of initializing the contract. It's important to understand how the termination works combining with the lockup schedule.
 
-![](../../.gitbook/assets/lockup\_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
+![](../../../.gitbook/assets/lockup\_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
 
 At the moment of termination, we stop the vesting process, so the vested amount is going to remain constant after that; the lockup process keeps going and will unlock the tokens on its schedule. We continue to unlock the tokens as we normally do that by getting the minimum between unlocked and vested amounts.
 
@@ -181,7 +181,7 @@ Not all wallets support looking up the locked-up balance.
 There are three ways to go:
 
 * Use the [NEAR official wallet](https://wallet.near.org);
-* [Import your account into NEAR Wallet](token-custody.md#importing-accounts-from-other-wallets); 
+* [Import your account into NEAR Wallet](token-custody.md#importing-accounts-from-other-wallets);&#x20;
 * Use CLI to check your balance: `near view <LOCKUP_ACCOUNT_ID> get_balance ''` (note it outputs the value in yoctoNEAR - divide by 10e24 to get NEAR amount).
 
 ### How do I delegate locked-up tokens?
