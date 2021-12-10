@@ -1,2 +1,0 @@
-# Humans at NEAR Foundation
-
