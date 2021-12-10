@@ -22,6 +22,7 @@
       * [Get Started](community/guilds/guild-overview/guild-getstarted.md)
       * [Meetups](community/guilds/guild-overview/meetups.md)
       * [Reporting](community/guilds/guild-overview/guild-reporting.md)
+  * [Guild Referral and Incentives](community/guild-referral-and-incentives.md)
   * [DAOs on NEAR](community/daos-on-near/README.md)
     * [✨ Astro DAO](community/daos-on-near/astrodao.md)
 * [Create and Learn](create-and-learn/README.md)
