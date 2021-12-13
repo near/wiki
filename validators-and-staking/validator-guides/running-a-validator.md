@@ -245,7 +245,7 @@ NEAR Protocol automatically re-stakes all inflationary rewards, unless you decid
 
 ## Additional links
 
-* [Lockup contracts explained](../../general/overview/near-token/lockups.md)
+* [Lockup contracts explained](../../readme/near-token/lockups.md)
 * [NEAR Core Contracts on Github](https://github.com/near/core-contracts)
 * [NEAR Stake Wars](https://github.com/nearprotocol/stakewars)
 
