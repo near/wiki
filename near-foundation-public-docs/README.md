@@ -1,2 +1,0 @@
-# NEAR Foundation - Public Docs
-

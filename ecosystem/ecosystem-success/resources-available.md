@@ -32,7 +32,7 @@ description: >-
   * Discord [Office hours](https://discord.gg/erSfP8KeKh) (live video every weekday 6pm - 7pm UTC)
   * Telegram [NEARdev channel](https://t.me/neardev)&#x20;
   * [Stackoverflow ](https://stackoverflow.com/questions/tagged/nearprotocol)
-  * [Technical documentation directory](../../create-and-learn/technology/docs/)&#x20;
+  * [Technical documentation directory](../../technology/docs/)&#x20;
 * Engagements&#x20;
   * Contract Audits&#x20;
     * John Smith maintains at NEAR Inc manages relationships with firms that official support NEAR. Contact him to find a match and begin an engagement.

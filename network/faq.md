@@ -2,7 +2,7 @@
 
 ## Translations
 
-* [Portuguese](faq-pt.md)
+* [Portuguese](../validators-and-staking/faq-pt.md)
 * Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
 
 ## What is a validator?
@@ -23,9 +23,9 @@ You need an account with sufficient amount of funds. Follow the docs [here](http
 
 More specific steps: 1. Create a new key pair that will be used for staking for given account, and load it with the funds you want to put at stake 2. Start a node with the new key pair stored in `validator_key.json` 3. Send a staking transaction using your wallet / CLI with your account including amount and public key from newly generated key pair. 4. Wait until the node becomes a validator
 
->  **heads up**\
+> **heads up**\
 > \
->  External validators can't join MainNet or TestNet, they can only test their nodes on BetaNet. More info below
+> External validators can't join MainNet or TestNet, they can only test their nodes on BetaNet. More info below
 
 ## What is 'staking'?
 
@@ -112,4 +112,4 @@ _Last updated: 20201022_
 
 If a staking pool hasn't had an action applied to it recently (like someone delegating or undelegating), it will show an old balance on all staked accounts (which may show up on your wallet account). To see an updated balance, you can "ping" the pool. See the [delegation docs](https://app.gitbook.com/docs/validator/delegation) and search for `ping` for how to do this.
 
-Got a question?  [Ask it on stack overflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
+Got a question? [Ask it on stack overflow!](https://stackoverflow.com/questions/tagged/nearprotocol)

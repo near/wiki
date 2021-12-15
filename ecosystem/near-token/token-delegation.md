@@ -8,7 +8,7 @@ sidebar_label: Token Delegation
 
 ## Overview
 
-To learn more about what validation and delegation are, please see the [Validation docs](../../../validators-and-staking/about.md) and [validation FAQ](../../../validators-and-staking/faq.md). The current page will describe the mechanics of participating in delegation.
+To learn more about what validation and delegation are, please see the [Validation docs](../../network/about.md) and [validation FAQ](../../network/faq.md). The current page will describe the mechanics of participating in delegation.
 
 At a high level, anyone can delegate their tokens to a staking pool which is run by a validator. This is usually just called "Staking". This is possible even if your tokens are in a lockup contract (as most tokens are during the network's early release). Delegating to a staking pool allows you to receive some staking rewards (which will activate as part of the Phase II rollout and depend on the exact fees charged by the validator) and to participate in protocol governance by adding weight to the vote of the validator whose pool you have delegated to.
 
