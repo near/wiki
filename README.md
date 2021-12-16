@@ -4,7 +4,7 @@ description: Find tools, connections and resources to journey through the NEARVe
 
 # NEARVerse Portal
 
-Discover the NEAR blockchain and its ecosystem! This [open-source](https://github.com/near/wiki), collaborative wiki connects you to information about everything from the protocol, \\\\, usage, infrastructure, opportunities, and guilds.
+Discover the NEAR blockchain and its ecosystem! This [open-source](https://github.com/near/wiki), collaborative wiki connects you to information about everything from the protocol, usage, infrastructure, opportunities, and guilds.
 
 {% embed url="https://near.org" %}
 
