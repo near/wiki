@@ -46,13 +46,13 @@
 * [FAQ](network/faq.md)
 * [Support](network/validator-support.md)
 
-## Guilds
+## Community
 
-* [Overview](guilds/guild-overview.md)
-* [Get Started](guilds/guild-getstarted.md)
-* [Meetups](guilds/meetups.md)
-* [Reporting](guilds/guild-reporting.md)
-* [Guild Referral and Incentives](guilds/guild-referral-and-incentives.md)
+* [Overview](community/guild-overview.md)
+* [Get Started](community/guild-getstarted.md)
+* [Meetups](community/meetups.md)
+* [Reporting](community/guild-reporting.md)
+* [Guild Referral and Incentives](community/guild-referral-and-incentives.md)
 
 ## Governance
 
