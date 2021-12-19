@@ -29,8 +29,30 @@ If this is your first time here, we're glad you stopped by!.Here are a few resou
 {% embed url="https://docs.near.org/docs/concepts/new-to-near" %}
 
 #### Create a NEAR Wallet
+NEAR wallet is an in-browser, web based wallet for creating & interacting with NEAR accounts.
 
 {% embed url="https://wallet.near.org/create" %}
+
+#### What can you do with your NEAR wallet?
+- Decentralised Finance (Defi): An open alternative to the current financial system that transcends borders. 
+{% embed url="https://near.org/use-cases/defi/" %}
+  - Proximity {% embed url="https://twitter.com/proximityfi" %}
+  - Ref Finance {% embed url="https://www.ref.finance/" %}
+  - Flux Protocol {% embed url="https://www.fluxprotocol.org/" %}
+
+- Non-fungible Tokens (NFTs): A way to represent anything as a unique asset and manage its ownership.
+  - Mintbase {% embed url="https://www.mintbase.io/" %}
+  - Paras {% embed url="https://paras.id/" %}
+  - Satori {% embed url="https://satori.art/" %}
+
+- Decentralized Autonomous Orgs (DAOs): A way to represent anything as a unique asset and manage its ownership.
+  - Astro {% embed url="https://astrodao.com/" %}
+  - Sputnik DAO {% embed url="https://www.sputnik.fund/#/" %}
+  - Guilds {% embed url="https://near.org/guilds/" %}
+
+For Details, please visit {% embed url="https://wiki.near.org/technology/use-cases" %}
+
+
 
 #### Subscribe to NEARweek
 
