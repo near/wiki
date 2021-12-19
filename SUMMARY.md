@@ -50,7 +50,7 @@
 
 * [Overview](community/guild-overview.md)
 * [Get Started](community/guild-getstarted.md)
-* [Meetups](community/meetups.md)
+* [NEAR Meet](community/meetups.md)
 * [Reporting](community/guild-reporting.md)
 * [Guild Referral and Incentives](community/guild-referral-and-incentives.md)
 

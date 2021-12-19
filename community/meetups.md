@@ -1,12 +1,12 @@
-# Meetups
+# NEAR Meet
 
 #### Goal: empowering community leaders to independently organize local events around the world in order to build awareness of NEAR and engage contributors in strategic ways.
 
 {% embed url="https://near.events" %}
 
-## NEAR Meetup Handbook
+## How-To Guide:
 
-_Our step-by-step guide will help your local guild coordinate a successful NEAR Meetup._
+_Our step-by-step guide will help your local guild coordinate a successful NEAR Meet._
 
 1. Planning
 2. Preparation
@@ -14,7 +14,7 @@ _Our step-by-step guide will help your local guild coordinate a successful NEAR 
 4. Promotion
 5. Participation
 
-Let us know if you are hosting a meetup near your city! Write a forum post in our section re: Community Events, and feel free to request a meeting with James Waugh of NEAR Foundation, who can hopefully answer any questions.
+Let us know if you are hosting local events! Write a forum post in our section re: Community Events, and feel free to request a meeting with James Waugh of NEAR Foundation, who can hopefully answer any questions.
 
 {% embed url="https://calendly.com/nearathon/events" %}
 
@@ -30,15 +30,15 @@ Let us know if you are hosting a meetup near your city! Write a forum post in ou
 
 #### Safety
 
-Check your local regulations re: COVID - would it be safe to host a meetup?
+Check your local regulations re: COVID - would it be safe to host an event?
 
 #### Venue
 
 Options:
 
 * Co-working space or office (good for presentations and workshops)
-* Cafe / restaurant / pub (good for social meetups)
-* Hotel conference room (good for large meetups)
+* Cafe / restaurant / pub (good for social events)
+* Hotel conference room (good for large events)
 
 Before you book:
 
@@ -46,11 +46,11 @@ Before you book:
 * Confirm date, time, and the duration
 * Confirm equipment needed (whiteboard, projector, etc.)
 
-_Make sure the venue is booked at least 2-3 weeks before the actual meetup._
+_Make sure the venue is booked at least 2-3 weeks before the actual event._
 
 #### Speakers
 
-Do you have any speakers in mind? If so, make sure they confirm their attendance weeks in advance, so they can help with promoting your meetup. Once they confirm, please coordinate on logistics once you have the meetup agenda.
+Do you have any speakers in mind? If so, make sure they confirm their attendance weeks in advance, so they can help with promoting your event. Once they confirm, please coordinate on logistics once you have the agenda.
 
 #### Food + Drinks&#x20;
 
@@ -66,7 +66,7 @@ Have you decided on a topic? If not, here is a list of suggested topics:
 * AssemblyScript
 * Interoperability
 
-Once you have confirmed the topic, here is a folder containing various resources you can use for your meetup: workshops, presentations, etc.
+Once you have confirmed the topic, here is a folder containing various resources you can use for your event: workshops, presentations, etc.
 
 {% embed url="https://drive.google.com/drive/folders/1a7HTmaMxk7ZB-k_2Dg_Rt5q0XS78-qr7?usp=sharing" %}
 
@@ -102,4 +102,4 @@ Generally, send an email to thank attendees, and follow up via social media. Spe
 
 ### Reporting
 
-Reply to your original forum post with an update on the meetup for accountability. Please include all metrics of success outlined in the proposal. Key results help others understand the value and importance of what you are doing.
+Reply to your original forum post with an update on your event for accountability. Please include all metrics of success outlined in the proposal. Key results help others understand the value and importance of what you are doing.
