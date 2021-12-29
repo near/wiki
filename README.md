@@ -24,7 +24,7 @@ NEAR is a simple, scalable, and secure blockchain platform designed to provide t
 
 ### Getting Started
 
-If this is your first time here, we're glad you stopped by!.Here are a few resources to help you start your journey in the NEARVerse.
+If this is your first time here, we're glad you stopped by! Here are a few resources to help you start your journey in the NEARVerse.
 
 {% embed url="https://docs.near.org/docs/concepts/new-to-near" %}
 
