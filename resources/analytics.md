@@ -57,3 +57,7 @@ Resources for doing analytics in the NEAR ecosystem:
 **Data Projects Proposed/in Progress**
 
 * [Here is a proposal](https://gov.near.org/t/analytics-dashboard/3771) for the momentum dashboard
+
+**Helpful Posts**
+
+* [NEAR Analytics Cheatsheet](https://analyticali.substack.com/p/near-analytics-cheatsheet) from [@analyticalali](https://twitter.com/analyticalali)&#x20;
