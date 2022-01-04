@@ -44,6 +44,10 @@
 
 {% embed url="https://nearguilds.com/guilds" %}
 
+#### News
+
+{% embed url="https://nearweek.com" %}
+
 #### Projects
 
 {% embed url="https://awesomenear.com" %}
