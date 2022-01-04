@@ -80,9 +80,10 @@ That list isn’t exhaustive, and you should keep in mind the below guidelines w
 1. Make personal attacks on other community members;
 2. Use defamatory remarks or make false statements against others;
 3. Post prejudiced comments or profanity;
-4. Post discriminating content;
-5. Bully or make inflammatory remarks to other community members;
-6. Post spam
+4. Post sexually explicit content;
+5. Post discriminating content, this includes content around religion and politics;
+6. Bully or make inflammatory remarks to other community members;
+7. Post spam
 
 Failing to adhere to these rules may result in a **permanent ban** from the NEAR Governance Forum without warning.
 
