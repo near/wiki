@@ -213,7 +213,7 @@ followed by: `nearup run testnet`
 
 ## Becoming a Validator in the _active set_
 
-Once the staking pool is deployed, you can _stake_ tokens using any of the methods offered in the [delegation docs](broken-reference). Make sure that you are using a tool that supports TestNet and not only MainNet.
+Once the staking pool is deployed, you can _stake_ tokens using any of the methods offered in the [delegation docs](broken-reference/). Make sure that you are using a tool that supports TestNet and not only MainNet.
 
 NEAR TestNet and MainNet require at least 24 hours bonding period to accept your staking pool bid. You can verify if you are a validator when in the logs of the node you see "V/" - where V means this node is currently a validator:
 
@@ -221,7 +221,7 @@ NEAR TestNet and MainNet require at least 24 hours bonding period to accept your
 
 The 0/0/40 shows the total validators: connected peers / up to date peers / my peers. This number may change over time.
 
-To learn more about how validators are chosen, take a look at the [Staking FAQ](../faq.md).
+To learn more about how validators are chosen, take a look at the [Staking FAQ](../../validator/validator-support/faq.md).
 
 ## See the list of current and future validators
 

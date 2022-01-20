@@ -43,7 +43,7 @@
   * [Running a Validator](network/validator-guides/running-a-validator.md)
   * [Running a Validator (KR)](network/validator-guides/running-a-validator-kr.md)
   * [Running a Validator (PT)](network/validator-guides/running-a-validator-pt.md)
-* [FAQ](network/faq.md)
+* [FAQ](validator/validator-support/faq.md)
 * [Support](network/validator-support.md)
 
 ## Community

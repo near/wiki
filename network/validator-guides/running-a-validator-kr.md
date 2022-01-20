@@ -133,7 +133,7 @@ Staking 50000 on thefutureisnear with public key = A4inyaard6yzt1HQL8u5BYdWhWQgC
 
 0/0/40는 현재 전체 검증인의 수: 연결된 피어/ 갱신된 피어/ 나의 피어 를 나타냅니다. 이 숫자는 시간에 따라 바뀔 수 있습니다.
 
-검증인의 선정에 대해 조금더 배우기 위해서는 다음을 참조하세요[Staking FAQ](../faq.md).
+검증인의 선정에 대해 조금더 배우기 위해서는 다음을 참조하세요[Staking FAQ](../../validator/validator-support/faq.md).
 
 ## 검증인의 현재 리스트와 스테이크 수량 보기
 

@@ -221,7 +221,7 @@ A TestNet e a MainNet da NEAR exigem um período de no mínimo 24 horas de ativa
 
 O valor 0/0/40 mostra o total de validadores: pares conectados / pares atualizados / meus pares. Este número pode mudar ao longo do tempo.
 
-Para saber mais sobre como os validadores são escolhidos, dê uma olhada nas [Perguntas Frequentes Sobre Staking](../faq.md).
+Para saber mais sobre como os validadores são escolhidos, dê uma olhada nas [Perguntas Frequentes Sobre Staking](../../validator/validator-support/faq.md).
 
 ## Veja a lista de validadores atuais e futuros
 

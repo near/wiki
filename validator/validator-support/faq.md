@@ -2,7 +2,7 @@
 
 ## Translations
 
-* [Portuguese](../validators-and-staking/faq-pt.md)
+* [Portuguese](../../validators-and-staking/faq-pt.md)
 * Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
 
 ## What is a validator?
@@ -20,6 +20,13 @@ The collection of transactions for the shard is called a chunk. Once a chunk and
 ## How do I become a validator?
 
 You need an account with sufficient amount of funds. Follow the docs [here](https://app.gitbook.com/docs/validator/staking) to understand how to become a validator, and [here](https://app.gitbook.com/docs/develop/node/validator/running-a-node) to run a node.
+
+More specific steps:&#x20;
+
+1. Create a new key pair that will be used for staking for a given account, and load it with the funds you want to put at stake&#x20;
+2. Start a node with the new key pair stored in `validator_key.json`&#x20;
+3. Send a staking transaction using your wallet / CLI with your account including the amount and public key from the newly generated key pair.&#x20;
+4. Wait until the node becomes a validator
 
 More specific steps: 1. Create a new key pair that will be used for staking for given account, and load it with the funds you want to put at stake 2. Start a node with the new key pair stored in `validator_key.json` 3. Send a staking transaction using your wallet / CLI with your account including amount and public key from newly generated key pair. 4. Wait until the node becomes a validator
 
@@ -39,6 +46,8 @@ An epoch is the interval of time that consists of several consensus rounds. Note
 * Collect the bids from new validators
 
 For one epoch, validators are randomly assigned into shards. After the epoch is over, validators are reshuffled and assigned to different shards. Validators participate in several validation rounds within the epoch. For each round, one of the validators in each shard is chosen to be the chunk producer and one validator is chosen of the entire set of validators to be the block producer.
+
+## What is the minimum amount to stake as a validator?
 
 ## What is a minimum amount to stake as a validator?
 
@@ -72,11 +81,13 @@ We don’t offer rewards to validators at this point in time. However, we may of
 
 NEAR doesn’t implement delegation on the protocol level. Instead NEAR allows smart contracts to stake, because in NEAR contracts and accounts are the same.
 
+Thus, if validators want to accept delegated stake, they must deploy a contract with specific rules of how delegation and reward splitting works and advertise that contract as a destination to delegate. See the [delegation docs](broken-reference) for more.
+
 Thus, if validators want to accept delegated stake, they must deploy a contract with specific rules of how delegation and reward splitting works and advertise that contract as destination to delegate. See the [delegation docs](https://app.gitbook.com/docs/validator/delegation) for more.
 
 ## Where can I find the neardev/ folder?
 
-_Last updated: ???_
+__
 
 Once you run 'near login', a folder, called 'neardev', will be created in the directory in which you ran 'near login'.
 
