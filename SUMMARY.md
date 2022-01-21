@@ -41,7 +41,7 @@
   * [Running a Validator (KR)](validators/validator-guides/running-a-validator-kr.md)
   * [Running a Validator (PT)](validators/validator-guides/running-a-validator-pt.md)
 * [Validator FAQ](validators/faq.md)
-* [Support](validators/validator-support.md)
+* [Validator Support](validators/validator-support.md)
 
 ## Community
 

@@ -49,7 +49,7 @@ At least 16GB RAM
 At least 100GB SSD (Note: HDD will not work)
 ```
 
-More information is on the [Hardware Requirements](broken-reference) docs.
+More information is on the [Hardware Requirements](../validators/hardware.md) docs.
 
 ## Setting up your environment
 
