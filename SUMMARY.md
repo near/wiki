@@ -31,19 +31,19 @@
 * [Dev Support](technology/dev-support.md)
 * [Use Cases](technology/use-cases.md)
 
-## Network
+## Validators
 
-* [Introduction to Validator Nodes](network/about.md)
-* [Validators](network/validators/README.md)
-  * [Hardware Requirements](network/validators/hardware.md)
-  * [Validator Economics](network/validators/validator-economics.md)
+* [Introduction to Validator Nodes](validators/about.md)
+* [Validators](validators/validators/README.md)
+  * [Hardware Requirements](validators/validators/hardware.md)
+  * [Validator Economics](validators/validators/validator-economics.md)
   * [RPC Endpoints](https://docs.near.org/docs/api/rpc)
-* [Guides](network/validator-guides/README.md)
-  * [Running a Validator](network/validator-guides/running-a-validator.md)
-  * [Running a Validator (KR)](network/validator-guides/running-a-validator-kr.md)
-  * [Running a Validator (PT)](network/validator-guides/running-a-validator-pt.md)
-* [FAQ](validator/validator-support/faq.md)
-* [Support](network/validator-support.md)
+* [Guides](validators/validator-guides/README.md)
+  * [Running a Validator](validators/validator-guides/running-a-validator.md)
+  * [Running a Validator (KR)](validators/validator-guides/running-a-validator-kr.md)
+  * [Running a Validator (PT)](validators/validator-guides/running-a-validator-pt.md)
+* [Validator FAQ](validators/faq.md)
+* [Support](validators/validator-support.md)
 
 ## Community
 

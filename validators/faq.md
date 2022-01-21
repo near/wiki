@@ -1,8 +1,8 @@
-# FAQ
+# Validator FAQ
 
 ## Translations
 
-* [Portuguese](../../validators-and-staking/faq-pt.md)
+* [Portuguese](../validators-and-staking/faq-pt.md)
 * Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
 
 ## What is a validator?
@@ -47,8 +47,6 @@ An epoch is the interval of time that consists of several consensus rounds. Note
 
 For one epoch, validators are randomly assigned into shards. After the epoch is over, validators are reshuffled and assigned to different shards. Validators participate in several validation rounds within the epoch. For each round, one of the validators in each shard is chosen to be the chunk producer and one validator is chosen of the entire set of validators to be the block producer.
 
-## What is the minimum amount to stake as a validator?
-
 ## What is a minimum amount to stake as a validator?
 
 On the MainNet, the minimum amount is dynamic, and is defined by the amount of NEAR tokens put at stake by other validators.
@@ -87,19 +85,13 @@ Thus, if validators want to accept delegated stake, they must deploy a contract 
 
 ## Where can I find the neardev/ folder?
 
-__
-
 Once you run 'near login', a folder, called 'neardev', will be created in the directory in which you ran 'near login'.
 
 ## Can I be a validator on the TestNet network?
 
-_Last updated: ???_
-
 Not at this time. MainNet and TestNet networks are run only by a set of permissioned validators. If you want to test your setup, you can configure your node to run on BetaNet, by following the tutorial on [Github](https://github.com/nearprotocol/stakewars) and requesting some BetaNet tokens via [this form](https://forms.gle/kZk2Gv79TB9qm3KP7).
 
 ## Why did my node get kicked-out of the validation process on BetaNet?
-
-_Last updated: ???_
 
 Considering that you are running betanet, you might be kicked out because your node is not producing enough blocks. Please try again or open an issue on [GitHub](https://github.com/nearprotocol/stakewars) if you are experiencing reoccurring issues.
 
@@ -107,19 +99,13 @@ Please note that sometimes we had to reset the BetaNet, and nodes might need to 
 
 ## After logging in using NEAR CLI with 'near login', I always receive an error message “Exceeded 10 status check attempts.” How should I solve this?
 
-_Last updated: ???_
-
 This means that something is broken in the wallet, please reach out to us on Slack for troubleshooting.
 
 ## Could someone permissionlessly delegate to me as a validator?
 
-_Last Updated: 20200501_
-
 It is important to remember that delegation is not implemented on the protocol level, which means each validator can have their own contract that they use to attract delegators. Delegation is supposed to be permissionless, but of course the validators can write their own staking contract to be permissioned if they would like. Also they get to decide commission fees and how reward distribution works.
 
 ## My stake has been delegated but rewards aren't showing up. How do I see them?
-
-_Last updated: 20201022_
 
 If a staking pool hasn't had an action applied to it recently (like someone delegating or undelegating), it will show an old balance on all staked accounts (which may show up on your wallet account). To see an updated balance, you can "ping" the pool. See the [delegation docs](https://app.gitbook.com/docs/validator/delegation) and search for `ping` for how to do this.
 
