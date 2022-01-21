@@ -34,9 +34,7 @@
 ## Validators
 
 * [Introduction to Validator Nodes](validators/about.md)
-* [Validators](validators/validators/README.md)
-  * [Hardware Requirements](validators/validators/hardware.md)
-  * [Validator Economics](validators/validators/validator-economics.md)
+* [Validator Requirements & Economics](validators/validators/README.md)
   * [RPC Endpoints](https://docs.near.org/docs/api/rpc)
 * [Guides](validators/validator-guides/README.md)
   * [Running a Validator](validators/validator-guides/running-a-validator.md)
