@@ -77,3 +77,13 @@ We currently offer Email based Two Factor Authentication.&#x20;
 **Note**: If you set up Ledger, you will not see the 2FA screen. We will eventually offer support for Ledger to be used as one of the authentication methods, but that is currently not possible in the Wallet.&#x20;
 
 **Important**: This feature requires additional tokens in your available balance to pay for the storage fees.
+
+## NEARDROPS - Bring Your Friends!
+
+Already a NEAR Ecosystem whiz, or have a group of friends who'd be interested in jumping into the world of Web3?
+
+Give them the gift of decentralization, data ownership, and DeFi with a NEARDROP.
+
+{% content-ref url="resources/faq/neardrop.md" %}
+[neardrop.md](resources/faq/neardrop.md)
+{% endcontent-ref %}
