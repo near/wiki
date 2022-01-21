@@ -1,5 +1,5 @@
 ---
-description: Find tools, connections and resources to journey through the NEARVerse.
+description: Your quick-start guide to NEAR Protocol and the NEARverse
 ---
 
 # Getting Started
