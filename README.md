@@ -52,3 +52,4 @@ To set the stage, we’re building a “base-layer blockchain,” or a layer-one
 
 _To contribute to this wiki, see the_ [_Contributing page_](https://wiki.near.org/resources/contributing)
 
+The next step in your NEAR journey, if you haven't yet, is to create your own NEAR Wallet. Your NEAR Wallet is your key to the world of dApps and Web3 on NEAR.
