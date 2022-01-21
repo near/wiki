@@ -10,7 +10,6 @@
 * [Grants & Funding](ecosystem/grants-and-funding.md)
 * [Education](ecosystem/dev-education.md)
 * [NEAR Token](ecosystem/near-token/README.md)
-  * [Token Balance](ecosystem/near-token/token-balance.md)
   * [Token Custody](ecosystem/near-token/token-custody.md)
   * [Token Delegation](ecosystem/near-token/token-delegation.md)
   * [Lockups](getting-started/near-token/lockups.md)
