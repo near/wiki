@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [Creating a NEAR Wallet](creating-a-near-wallet.md)
 
 ## Ecosystem
 
