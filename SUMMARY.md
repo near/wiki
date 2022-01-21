@@ -33,7 +33,7 @@
 
 ## Network
 
-* [About](network/about.md)
+* [Introduction to Validator Nodes](network/about.md)
 * [Validators](network/validators/README.md)
   * [Hardware Requirements](network/validators/hardware.md)
   * [Validator Economics](network/validators/validator-economics.md)
