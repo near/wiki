@@ -18,7 +18,7 @@ Reminder: If you haven't already, evaluate your token custody options from [this
 
 ### Viewing and Choosing Validators
 
-During early days, the staking pool contracts ([code](https://github.com/near/core-contracts/tree/master/staking-pool)) allow validators to select what fee they will charge on rewards earned by pools they run. In the future, updated versions of the staking pool contracts may include more parameters (which is one of the nice features enabled by NEAR's contract-based delegation).
+Currently, the staking pool contracts ([code](https://github.com/near/core-contracts/tree/master/staking-pool)) allow validators to select what fee they will charge on rewards earned by pools they run. In the future, updated versions of the staking pool contracts may include more parameters (which is one of the nice features enabled by NEAR's contract-based delegation).
 
 Several community-run lists of validators list who they are, how much stake they have, what their vote was [for the Phase II transition](https://near.org/blog/mainnet-phase-i/) and more. These can be helpful for selecting where to delegate your tokens. As always, do your own diligence.
 
