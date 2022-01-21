@@ -1,7 +1,6 @@
 # Table of contents
 
-* [NEARVerse Portal](README.md)
-* [Why NEAR?](why-near.md)
+* [Getting Started](README.md)
 
 ## Ecosystem
 
