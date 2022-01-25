@@ -6,7 +6,9 @@ description: Guilds are the heart beat of the NEARVerse.
 
 [Guilds](https://near.org/guilds/) are the heartbeat of the NEARverse. _Find a community of like-minded people, learn new skills or sharpen existing ones_ - Guilds make it happen!
 
-{% embed url="https://near.org/guilds" %}
+:::note link
+https://near.org/guilds
+:::
 
 Guilds drive innovation, contributions, and project development on NEAR. Guilds are how we refer to groups of communities within the NEAR ecosystem, which can be social in nature or business/project-oriented. As a main form of support, the NEAR Community Fund disperses funding to the community through the Guilds and the Guilds Program. The Guilds Program houses varied and diverse groups from all over the world. While the NEAR Community Team seeks to promote greater visibility and excitement about the projects all of the Guilds are doing, not all Guilds are at the same level of development and organization. The impetus is on the Guilds themselves, and their leadership, to promote good governance, actively grow and engage their membership, and advertise their successes and learnings as decentralized bodies within NEAR.
 

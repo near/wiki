@@ -42,7 +42,9 @@ NEAR is similar in principle to the “cloud-based” infrastructure that develo
 
 To set the stage, we’re building a “base-layer blockchain,” or a layer-one, meaning that it’s on the same level of the ecosystem as projects like Ethereum or Cosmos. That means everything in the ecosystem is built on top of the NEAR blockchain, including your application.
 
-{% embed url="https://near.org" %}
+:::note link
+https://near.org
+:::
 
 ## Journeys
 

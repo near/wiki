@@ -65,4 +65,6 @@ If anything is unclear or you get stuck, please head over to our official chat o
 
 ### Join Open Shards Alliance
 
-{% embed url="https://openshards.io" %}
+:::note link
+https://openshards.io
+:::

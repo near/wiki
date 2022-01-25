@@ -76,4 +76,6 @@ Se você quiser saber mais sobre esta oportunidade, leia a publicação ["Stake 
 
 ### Junte-se à _Shards Alliance_
 
-{% embed url="https://openshards.io" %}
+:::note link
+https://openshards.io
+:::

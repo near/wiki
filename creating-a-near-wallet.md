@@ -84,6 +84,6 @@ Already a NEAR Ecosystem whiz, or have a group of friends who'd be interested in
 
 Give them the gift of decentralization, data ownership, and DeFi with a NEARDROP.
 
-{% content-ref url="resources/faq/neardrop.md" %}
-[neardrop.md](resources/faq/neardrop.md)
-{% endcontent-ref %}
+:::note link
+[neardrop](resources/faq/neardrop.md)
+:::
