@@ -15,21 +15,21 @@ sidebar_label: Orientation
 
 This section introduces you to staking principles and running your validating node.
 
-NEAR Protocol uses Proof-of-Stake (PoS) to secure its blockchain. _Validators_ represent the community of node operators that take care of the [blockchain consensus](../roles/integrator/faq/#which-consensus-algorithm-does-near-use). Technically, the _validating nodes_ are servers that aggregate transactions into blocks, execute them, and maintain the latest state of the blockchain. The owners of these nodes, the _Validators_, get rewards for their service at the end of every epoch (\~12 hours).
+NEAR Protocol uses Proof-of-Stake (PoS) to secure its blockchain. _Validators_ represent the community of node operators that take care of the [blockchain consensus](../resources/faq/integrator-faq.md#which-consensus-algorithm-does-near-use). Technically, the _validating nodes_ are servers that aggregate transactions into blocks, execute them, and maintain the latest state of the blockchain. The owners of these nodes, the _Validators_, get rewards for their service at the end of every epoch (\~12 hours).
 
 All Validators must _stake_ a certain amount of NEAR tokens, which represent collateral against their dishonest behavior. _Staked tokens_ can't be spent: if a dishonest Validator attacks the blockchain consensus, the protocol progressively destroys their stake (see [slashing](faq.md#what-is-a-slashing-behavior)). Staked tokens can be _unlocked_ anytime, but remain unspendable for three epochs, even after the validating node goes offline or decides to stop validating.
 
-NEAR Protocol automatically picks the best validators with an auction. Anyone running a validating node can participate by staking their tokens. At the end of every epoch, NEAR automatically selects the nodes with the biggest stake, making them eligible to generate new blocks and get rewards. If the stake is too small, the validating node will not receive a _validator seat_ and will work as a normal relay node, waiting for the next epoch (see the [market dynamics](validators/validator-economics.md#understand-market-dynamics) from the validator economics page).
+NEAR Protocol automatically picks the best validators with an auction. Anyone running a validating node can participate by staking their tokens. At the end of every epoch, NEAR automatically selects the nodes with the biggest stake, making them eligible to generate new blocks and get rewards. If the stake is too small, the validating node will not receive a _validator seat_ and will work as a normal relay node, waiting for the next epoch (see the [market dynamics](validators/validators/README.md#understand-market-dynamics) from the validator economics page).
 
 Validators can increase their stake, thus their rewards, by asking for _delegation_. Delegation is the opportunity for all token holders to stake in partnership with a Validator, leasing a small portion of their validating node. _Delegators_ can lock their funds into a [_staking pool_](https://github.com/near/core-contracts), and receive rewards at the end of every epoch, minus the fees paid to the Validator.
 
-NEAR rewards are predictable, and proportional to your stake. The protocol generates new tokens at a rate of \~5% of the total supply (annualized) and most of them are rewards. As an example, if the total supply is 1 billion tokens, and the annualized rewards are \~4.5%, all Validators will share 45 million NEAR tokens (see the [economics page](validators/validator-economics.md) for more details). Regardless if you are a Validator or Delegator, the bigger the stake you provide, the higher your cut of those rewards.
+NEAR rewards are predictable, and proportional to your stake. The protocol generates new tokens at a rate of \~5% of the total supply (annualized) and most of them are rewards. As an example, if the total supply is 1 billion tokens, and the annualized rewards are \~4.5%, all Validators will share 45 million NEAR tokens (see the [economics page](validators/validators/README.md) for more details). Regardless if you are a Validator or Delegator, the bigger the stake you provide, the higher your cut of those rewards.
 
 ## For Delegators
 
 If you want staking rewards, but you don't want to run your own validating node, spend anyway some time to know NEAR economics and what it takes to become a great Validator. Good starting points are:
 
-1. Understand the [Economics of a Validator](validators/validator-economics.md)
+1. Understand the [Economics of a Validator](validators/validators/README.md)
 2. Look at the current Validators on the [block explorer](https://explorer.near.org/nodes/validators). Gather information on their reliability, fees, and current stake.
 3. Properly plan your tokens custody, starting from the [available custody options](../ecosystem/near-token/token-custody.md).
 4. Verify what Validators offer to you, asking if they use the [staking pool](https://github.com/near/core-contracts) from NEAR Core Contracts, or their own smart contracts.
@@ -46,7 +46,7 @@ You are decided to see how deep the rabbit hole goes? No worries! NEAR is like m
 
 You can find additional material below:
 
-1. Understand the [Economics of a Validator](validators/validator-economics.md)
+1. Understand the [Economics of a Validator](validators/validators/README.md)
 2. Check the basic [staking commands](validator-guides/running-a-validator.md)
 3. Deploy your staking pool from the [core contracts](https://github.com/near/core-contracts)
 
@@ -65,4 +65,6 @@ If anything is unclear or you get stuck, please head over to our official chat o
 
 ### Join Open Shards Alliance
 
-{% embed url="https://openshards.io" %}
+:::note link
+https://openshards.io
+:::

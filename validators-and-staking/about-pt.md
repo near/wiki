@@ -7,22 +7,22 @@ sidebar_label: Orientações
 # Sobre (PT)
 ## Traduções
 
-* [Inglês](about.md)
+* [Inglês](../validators/about.md)
 * Adicione seu idioma também através do [Github pull request](https://github.com/near/docs/pull/385)
 
 ## Bem Vindo
 
 Nesta seção você será introduzido aos princípios do staking e a como rodar seu próprio nó validador.
 
-Protocolo NEAR usa Proof-of-Stake (PoS) para fazer a segurança da blockchain. Os _Validadores_ são a comunidade de operadores de nó que tomam conta do [consenso da blockchain](../roles/integrator/faq/#which-consensus-algorithm-does-near-use). Tecnicamente, os _nós validadores_ são servidores que agregam transações em blocos, os executam, e mantém o último estado da blockchain. Os donos desses nós, os _Validadores_, ganham prêmios por seu serviço no final de cada época (\~12 horas).
+Protocolo NEAR usa Proof-of-Stake (PoS) para fazer a segurança da blockchain. Os _Validadores_ são a comunidade de operadores de nó que tomam conta do [consenso da blockchain](../resources/faq/integrator-faq.md#which-consensus-algorithm-does-near-use). Tecnicamente, os _nós validadores_ são servidores que agregam transações em blocos, os executam, e mantém o último estado da blockchain. Os donos desses nós, os _Validadores_, ganham prêmios por seu serviço no final de cada época (\~12 horas).
 
-Todos os Validadores devem deixar uma certa quantia de tokens NEAR em _stake_, o que representa um colateral contra um possível comportamento desonesto. _Tokens em stake_ não podem ser gastos: se um Validador desonesto atacar o consenso da blockchain, o protocolo progressivamente destrói seu stake (veja [slashing](faq.md#what-is-a-slashing-behavior)). Tokens em Stake podem ser _desbloqueados_ a qualquer momento, mas continuam sem poder ser gastos por três épocas, mesmo que o nó validador fique offline ou decida parar de validar.
+Todos os Validadores devem deixar uma certa quantia de tokens NEAR em _stake_, o que representa um colateral contra um possível comportamento desonesto. _Tokens em stake_ não podem ser gastos: se um Validador desonesto atacar o consenso da blockchain, o protocolo progressivamente destrói seu stake (veja [slashing](../validators/faq.md#what-is-a-slashing-behavior)). Tokens em Stake podem ser _desbloqueados_ a qualquer momento, mas continuam sem poder ser gastos por três épocas, mesmo que o nó validador fique offline ou decida parar de validar.
 
-O protocolo NEAR escolhe automaticamente os melhores validadores com um leilão. Qualquer um que esteja executando um nó de validação pode participar fazendo stake de seus tokens. No final de cada época, o protocolo NEAR seleciona automaticamente os nós com a maior participação, tornando-os elegíveis para gerar novos blocos e obter recompensas. Se o stake é pequeno demais, o nó de validação não receberá um _lugar de validador_ e funcionará como um nó de retransmissão normal, esperando pela próxima época (veja a [dinâmica de mercado](validators/validator-economics.md#understand-market-dynamics) na página da economia de validador).
+O protocolo NEAR escolhe automaticamente os melhores validadores com um leilão. Qualquer um que esteja executando um nó de validação pode participar fazendo stake de seus tokens. No final de cada época, o protocolo NEAR seleciona automaticamente os nós com a maior participação, tornando-os elegíveis para gerar novos blocos e obter recompensas. Se o stake é pequeno demais, o nó de validação não receberá um _lugar de validador_ e funcionará como um nó de retransmissão normal, esperando pela próxima época (veja a [dinâmica de mercado](validators/validators/README.md#understand-market-dynamics) na página da economia de validador).
 
 Validadores podem aumentar seu stake, e assim suas recompensas, pedindo _delegação_. Delegação é a oportunidade para todos os titulares de tokens participarem em parceria com um validador, alugando uma pequena porção do seu nó de validação. _Delegadores_ podem travar seus fundos em uma [_staking pool_](https://github.com/near/core-contracts), e receber recompensas no final de cada época, menos as taxas pagas ao Validador.
 
-As recompensas NEAR são previsíveis e proporcionais ao seu stake. O protocolo gera novos tokens a uma taxa de \~5% da oferta total (anualizada) e a maioria deles são recompensas. Como exemplo, se a oferta total for um bilhão de tokens, e as recompensas anuais forem \~4.5%, todos os validadores dividirão 45 milhões de tokens NEAR (veja a [página sobre economia](validators/validator-economics.md) para mais detalhes). Independente de você ser validador ou delegador, quanto mais stake você faz, maior é a sua parte dessas recompensas.
+As recompensas NEAR são previsíveis e proporcionais ao seu stake. O protocolo gera novos tokens a uma taxa de \~5% da oferta total (anualizada) e a maioria deles são recompensas. Como exemplo, se a oferta total for um bilhão de tokens, e as recompensas anuais forem \~4.5%, todos os validadores dividirão 45 milhões de tokens NEAR (veja a [página sobre economia](validators/validators/README.md) para mais detalhes). Independente de você ser validador ou delegador, quanto mais stake você faz, maior é a sua parte dessas recompensas.
 
 ## Para Delegadores
 
@@ -45,8 +45,8 @@ Você decidiu ver o quão fundo é o buraco do coelho? Sem problemas! A NEAR é 
 
 Você pode encontrar material adicional a seguir:
 
-1. Entenda a [economia de um validador](validators/validator-economics.md)
-2. Verifique os [comandos de staking](validator-guides/running-a-validator.md) básicos
+1. Entenda a [economia de um validador](validators/validators/README.md)
+2. Verifique os [comandos de staking](../validators/validator-guides/running-a-validator.md) básicos
 3. Implante sua staking pool a partir dos [contratos principais](https://github.com/near/core-contracts)
 
 Você ainda está aqui? Se você quiser aprender mais sobre a NEAR, confira
@@ -76,4 +76,6 @@ Se você quiser saber mais sobre esta oportunidade, leia a publicação ["Stake 
 
 ### Junte-se à _Shards Alliance_
 
-{% embed url="https://openshards.io" %}
+:::note link
+https://openshards.io
+:::

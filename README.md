@@ -42,13 +42,15 @@ NEAR is similar in principle to the “cloud-based” infrastructure that develo
 
 To set the stage, we’re building a “base-layer blockchain,” or a layer-one, meaning that it’s on the same level of the ecosystem as projects like Ethereum or Cosmos. That means everything in the ecosystem is built on top of the NEAR blockchain, including your application.
 
-{% embed url="https://near.org" %}
+:::note link
+Interested in learning more? Check out the [NEAR Website](https://near.org).
+:::
 
 ## Journeys
 
 | [**Developers**](https://wiki.near.org/technology/docs)                                                                                                                                                       | [**Validators**](validators/about.md)                                                                                                                                                                                | Communities                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="technology/docs/">Docs</a></p><p><a href="technology/dev-guides.md">Guides</a></p><p><a href="ecosystem/dev-education.md">Education</a></p><p><a href="technology/dev-support.md">Support</a></p> | <p><a href="validators/validators/">Docs</a></p><p><a href="validators/validator-guides/">Guides</a></p><p><a href="broken-reference/">Education</a></p><p><a href="validators/validator-support.md">Support</a></p> | <p><a href="community/guild-getstarted.md">Get Started</a></p><p><a href="ecosystem/dapps.md">dApps</a></p><p><a href="broken-reference/">Earn</a><br><a href="broken-reference/">Support</a></p><p><a href="broken-reference/">Community</a></p><p><a href="broken-reference/">Education</a></p> |
+| <p><a href="technology/docs/">Docs</a></p><p><a href="technology/dev-guides">Guides</a></p><p><a href="ecosystem/dev-education">Education</a></p><p><a href="technology/dev-support">Support</a></p> | <p><a href="validators/validators/">Docs</a></p><p><a href="validators/validator-guides/">Guides</a></p><p><a href="#broken-reference/">Education</a></p><p><a href="validators/validator-support">Support</a></p> | <p><a href="community/guild-getstarted">Get Started</a></p><p><a href="ecosystem/dapps">dApps</a></p><p><a href="#broken-reference/">Earn</a><br/><a href="#broken-reference/">Support</a></p><p><a href="#broken-reference/">Community</a></p><p><a href="#broken-reference/">Education</a></p> |
 
 _To contribute to this wiki, see the_ [_Contributing page_](https://wiki.near.org/resources/contributing)
 

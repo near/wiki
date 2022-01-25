@@ -1,3 +1,7 @@
+---
+slug: onboarding
+---
+
 # Ecosystem Success
 
 ### Onboarding projects into the ecosystem&#x20;
@@ -15,9 +19,9 @@ The Ecosystem Success (ES) team works with projects to help them find early succ
 
 The checklist below helps the ES team understand a project and its needs. After we have this information we can design a follow-up plan.
 
-{% hint style="info" %}
+:::tip
 Onboarding Tip: As much as we want to help, do not over-promise (and under deliver!). ES provides the most value by matchmaking projects with service providers. The service providers need to be bought in too, so check with them first!
-{% endhint %}
+:::
 
 The type of interaction and level of engagement will be guided by the project's [forecasted impact](./#prioritization). We want to use resources strategically and fairly. If a project doesn’t meet our current requirements then we look to the community for support.
 

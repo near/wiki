@@ -27,12 +27,12 @@ TestNet está sendo executado em URLs separadas para o explorador, a carteira e 
 
 Cada nova conta TestNet recebe automaticamente algumas centenas de tokens para fazer deploy de contratos inteligentes e testar as suas APIs.
 
-Você pode usar o [nearup](https://github.com/near/nearup) para facilmente fazer deploy do seu nó na TestNet em um VPS. Se você planeja fazer deploy na MainNet, **você não pode usar o nearup**, e sugerimos seguir as diretrizes [aqui](../../docs/develop/node/validator/deploy-on-mainnet/). Junte-se aos canais de validadores da NEAR [no Discord](https://near.chat) para receber suporte técnico da equipe NEAR e do resto da comunidade.
+Você pode usar o [nearup](https://github.com/near/nearup) para facilmente fazer deploy do seu nó na TestNet em um VPS. Se você planeja fazer deploy na MainNet, **você não pode usar o nearup**, e sugerimos seguir as diretrizes [aqui](https://docs.near.org/docs/develop/node/validator/deploy-on-mainnet). Junte-se aos canais de validadores da NEAR [no Discord](https://near.chat) para receber suporte técnico da equipe NEAR e do resto da comunidade.
 
 Validadores NEAR devem:
 
 * Saber como compilar, fazer deploy e configurar os nós de Validadores NEAR
-* Entender a diferença entre `account_key`, `node_key` e `validator_key` (consulte as [chaves no documento](../../docs/develop/node/intro/keys/) da Plataforma NEAR)
+* Entender a diferença entre `account_key`, `node_key` e `validator_key` (consulte as [chaves no documento](https://docs.near.org/docs/develop/node/intro/keys) da Plataforma NEAR)
 * Entender como fazer deploy de um contrato NEAR e a diferença entre métodos `view` e `call`. Saber como alavancá-los através do `near-cli` e `near RPC`
 * Ter uma plataforma de monitoramento para medir os blocos gerados e perdidos, pares e conectividade, versão atual do nó, além de cpu, memória, armazenamento e desempenho de rede
 * Entender o estado de um validador: `proposals`, `next` e `current`
@@ -49,7 +49,7 @@ Pelo menos 16GB RAM
 Pelo menos 100GB de SSD (Nota: HDD não funcionará)
 ```
 
-Mais informações estão na documentação de [Requisitos de Hardware](../../docs/develop/node/validator/hardware/).
+Mais informações estão na documentação de [Requisitos de Hardware](https://docs.near.org/docs/develop/node/validator/hardware).
 
 ## Configurando seu ambiente
 
@@ -62,7 +62,7 @@ Você pode instalar e atualizar o Near CLI usando npm:
 npm i -g near-cli
 ```
 
-**Nota:** A rede padrão para a `near-cli` é a `testnet`. Se você quiser mudar para a `mainnet` ou `betanet`, por favor veja instruções de [seleção de redes usando `near-cli`](../../docs/tools/near-cli/#network-selection).
+**Nota:** A rede padrão para a `near-cli` é a `testnet`. Se você quiser mudar para a `mainnet` ou `betanet`, por favor veja instruções de [seleção de redes usando `near-cli`](https://docs.near.org/docs/tools/near-cli#network-selection).
 
 Uma vez que o Near CLI estiver instalado, vá em frente e execute seu nó.
 
@@ -72,7 +72,7 @@ Uma vez que o Near CLI estiver instalado, vá em frente e execute seu nó.
 
 ## Executando o Nó
 
-Por favor, siga a [Documentação do Nearup](https://github.com/near/nearup) para iniciar o seu nó na TestNet. Lembre-se que `Nearup` não suporta a MainNet, então você terá que construir seus scripts de inicialização e seguir o [guia de implantação na MainNet](../../docs/develop/node/validator/deploy-on-mainnet/).
+Por favor, siga a [Documentação do Nearup](https://github.com/near/nearup) para iniciar o seu nó na TestNet. Lembre-se que `Nearup` não suporta a MainNet, então você terá que construir seus scripts de inicialização e seguir o [guia de implantação na MainNet](https://docs.near.org/docs/develop/node/validator/deploy-on-mainnet).
 
 Na primeira inicialização, o nearup pedirá o ID da sua conta de validador. Coloque um texto de exemplo, como `coming_soon`, para deixar o node sincronizar com a rede enquanto você coloca a staking pool no ar:
 
@@ -169,7 +169,7 @@ Em que:
 * `pool.f863973.m0` é a fábrica de staking pools mencionada acima
 * `<POOL_ID>` é o nome do contrato da staking pool. Se você passar o parâmetro `heyheyhey` o resultado será `heyheyhey.pool.f863973.m0`
 * `<OWNER_ID>` é a conta autorizada a enviar os _métodos do proprietário_ para a pool, como a chave de validador ou as taxas
-* `<VALIDATOR_KEY>` é a chave pública salva em `~/.near/testnet/validator_key.json` em seu nó validador (veja o passo [staking#run-the-node](../../validator/validator-guides/staking/#run-the-node) acima)
+* `<VALIDATOR_KEY>` é a chave pública salva em `~/.near/testnet/validator_key.json` em seu nó validador (veja o passo [staking#run-the-node](running-a-validator.md#run-the-node) acima)
 * `{"numerator": <X>, "denominator": <Y>}` configura as taxas do validador. Para uma taxa de 10% é preciso usar `x=10` e `y=100`
 * `--amount 50` atribui 50 $NEAR à transação, como uma reserva para pagar o armazenamento do contrato
 * `--gas 300000000000000` especifica o gás para a transação (optional)
@@ -213,7 +213,7 @@ seguido por: `nearup run testnet`
 
 ## Se Tornando um Validador no _Conjunto Ativo_
 
-Uma vez que a pool esteja no ar, você pode fazer _stake_ de seus tokens usando qualquer um dos métodos oferecidos na [documentação sobre delegação](../../validator/validator-guides/delegation/). Certifique-se que você está usando a ferramenta que suporta a TestNet, e não somente a MainNet.
+Uma vez que a pool esteja no ar, você pode fazer _stake_ de seus tokens usando qualquer um dos métodos oferecidos na [documentação sobre delegação](../../ecosystem/near-token/token-delegation.md). Certifique-se que você está usando a ferramenta que suporta a TestNet, e não somente a MainNet.
 
 A TestNet e a MainNet da NEAR exigem um período de no mínimo 24 horas de ativação para aceitar sua oferta de pool. Você pode verificar se você é um validador quando, nos logs do nó, você ver "V/" - onde V significa que esse nó é validador:
 
@@ -237,7 +237,7 @@ Você pode usar `near-cli` para rever o conjunto de validadores nos próximos tr
 >
 > Você tem que esperar pelo menos 2 épocas (43.200 blocos cada) antes do seu
 
-**Nota:** A rede padrão para o `near-cli` é a `testnet`. Se você quiser mudar para a `mainnet` ou `betanet`, por favor veja instruções de [seleção de redes usando `near-cli`](../../docs/tools/near-cli/#network-selection).
+**Nota:** A rede padrão para o `near-cli` é a `testnet`. Se você quiser mudar para a `mainnet` ou `betanet`, por favor veja instruções de [seleção de redes usando `near-cli`](https://docs.near.org/docs/tools/near-cli#network-selection).
 
 ## Re-staking automático
 
@@ -245,7 +245,7 @@ O Protocolo NEAR reposiciona todas as recompensas inflacionárias automaticament
 
 ## Links Adicionais
 
-* [Contratos de bloqueio explicados](../../validator/tokens/lockup/)
+* [Contratos de bloqueio explicados](../../getting-started/near-token/lockups.md)
 * [NEAR Core Contracts no Github](https://github.com/near/core-contracts)
 * [NEAR Stake Wars](https://github.com/nearprotocol/stakewars)
 

@@ -1,3 +1,5 @@
 # Protocol
 
-{% embed url="https://nomicon.io" %}
+:::note link
+https://nomicon.io
+:::

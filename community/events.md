@@ -2,7 +2,9 @@
 
 #### Goal: empowering community leaders to independently organize local events around the world in order to build awareness of NEAR and engage contributors in strategic ways.
 
-{% embed url="https://near.events" %}
+:::note link
+https://near.events
+:::
 
 ## How-To Guide:
 
@@ -16,7 +18,9 @@ _Our step-by-step guide will help your local guild coordinate a successful NEAR 
 
 Let us know if you are hosting local events! Write a forum post in our section re: Community Events, and feel free to request a meeting with James Waugh of NEAR Foundation, who can hopefully answer any questions.
 
-{% embed url="https://calendly.com/nearathon/events" %}
+:::note link
+https://calendly.com/nearathon/events
+:::
 
 ### Planning&#x20;
 
@@ -68,11 +72,15 @@ Have you decided on a topic? If not, here is a list of suggested topics:
 
 Once you have confirmed the topic, here is a folder containing various resources you can use for your event: workshops, presentations, etc.
 
-{% embed url="https://drive.google.com/drive/folders/1a7HTmaMxk7ZB-k_2Dg_Rt5q0XS78-qr7?usp=sharing" %}
+:::note link
+https://drive.google.com/drive/folders/1a7HTmaMxk7ZB-k_2Dg_Rt5q0XS78-qr7?usp=sharing
+:::
 
 #### Swag for Attendees
 
-{% embed url="https://store.near.org" %}
+:::note link
+https://store.near.org
+:::
 
 #### Event Page
 
@@ -92,7 +100,9 @@ Craft your message with a link to your event, and begin sharing  ± 3 weeks prio
 
 You can submit a request for support from the NEAR Marketing Team:
 
-{% embed url="https://near.org/activate" %}
+:::note link
+https://near.org/activate
+:::
 
 Contact james@near.foundation if you need further support.
 

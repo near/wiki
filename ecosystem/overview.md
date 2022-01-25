@@ -2,11 +2,15 @@
 
 #### Website
 
-{% embed url="https://near.org" %}
+:::note link
+https://near.org
+:::
 
 #### GitHub
 
-{% embed url="https://github.com/near" %}
+:::note link
+https://github.com/near
+:::
 
 #### Twitter Accounts
 
@@ -18,48 +22,74 @@
 
 #### NEAR Community Blog
 
-{% embed url="https://medium.com/nearprotocol" %}
+:::note link
+https://medium.com/nearprotocol
+:::
 
 #### Documentation:
 
-{% embed url="https://docs.near.org" %}
+:::note link
+https://docs.near.org
+:::
 
 #### Discord
 
-{% embed url="https://near.chat" %}
+:::note link
+https://near.chat
+:::
 
 #### Telegram
 
-{% embed url="https://t.me/cryptonear" %}
+:::note link
+https://t.me/cryptonear
+:::
 
 #### NEAR Governance Forum
 
-{% embed url="https://gov.near.org" %}
+:::note link
+https://gov.near.org
+:::
 
 #### NEAR Ecosystem Map
 
-{% embed url="https://github.com/near/ecosystem" %}
+:::note link
+https://github.com/near/ecosystem
+:::
 
 #### Communities
 
-{% embed url="https://nearguilds.com/guilds" %}
+:::note link
+https://nearguilds.com/guilds
+:::
 
 #### News
 
-{% embed url="https://nearweek.com" %}
+:::note link
+https://nearweek.com
+:::
 
 #### Projects
 
-{% embed url="https://awesomenear.com" %}
+:::note link
+https://awesomenear.com
+:::
 
 #### DAOs
 
-{% embed url="https://sputnik.fund" %}
+:::note link
+https://sputnik.fund
+:::
 
-{% embed url="https://astrodao.com" %}
+:::note link
+https://astrodao.com
+:::
 
 #### Education
 
-{% embed url="https://www.near.university" %}
+:::note link
+https://www.near.university
+:::
 
-{% embed url="https://learnnear.club" %}
+:::note link
+https://learnnear.club
+:::

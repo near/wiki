@@ -4,7 +4,7 @@ description: Your map to navigating the world of DAOs on NEAR
 
 # Your Guide to DAOs on NEAR
 
-## What’s a DAO? <a href="whats-a-dao" id="whats-a-dao"></a>
+## What’s a DAO?
 
 In short, a DAO is a Decentralised Autonomous Organisation. It’s like a company, coop, club, or task force. The secret that sets DAOs apart from these examples is all in the name.
 
@@ -16,7 +16,7 @@ To make things tangible let’s look at an example like AirBNB. If people with o
 
 In short, DAOs are digital companies living on a blockchain with participants united by a common purpose. SputnikDAO enables individuals to come together to form cooperative, open, accessible, and transparent organisations.
 
-## Why a DAO? <a href="why-a-dao" id="why-a-dao"></a>
+## Why a DAO?
 
 DAOs empower communities to govern on-chain activity, make united decisions, and interact with other DAOs.Ultimately, DAOs unlock an unprecedented level of transparent and collaborative coordination with built-in tools to allow for:
 
@@ -24,13 +24,13 @@ DAOs empower communities to govern on-chain activity, make united decisions, and
 * Community ownership through stakeholder participation
 * Responsible fund distribution through openness and transparency which results in meaningful accountability
 
-## DAOs on NEAR <a href="daos-on-near" id="daos-on-near"></a>
+## DAOs on NEAR
 
 In line with the goal of being the most accessible, user-friendly blockchain, DAOs on NEAR are created in a matter of clicks through the [SputnikDAO](https://www.sputnik.fund/#/) dApp. 
 
 SputnikDAO is a hub of DAOs empowering communities in the NEAR ecosystem. This playbook will guide you through the process of creating and interacting with DAOs in the NEARverse through SputnikDAO v1 and v2.
 
-## Sputnik DAO v1 vs v2 (Astro) <a href="sputnik-dao-v1-vs-v2-astro" id="sputnik-dao-v1-vs-v2-astro"></a>
+## Sputnik DAO v1 vs v2 (Astro)
 
 Like everything in the NEAR ecosystem, the SputnikDAO dApp is living. 
 
@@ -42,13 +42,13 @@ With V1, individuals and groups are able to create DAOs in a handful of clicks a
 
 In 2021 SputnikDAOs were used to gather funds for covid relief in [India](https://www.sputnik.fund/#/dao/indiacovidrelief.sputnikdao.near) and [Vietnam](https://www.sputnik.fund/#/dao/vietnam_covid19\_charity.sputnikdao.near), as well as [flooding relief in Hunan, China](https://www.sputnik.fund/#/dao/china_charity_dao.sputnikdao.near). DAOs have been used for more light-hearted causes such as [promoting NFTs](https://www.sputnik.fund/#/dao/nfthypesquad.sputnikdao.near) and creating the [NEARchan](https://www.sputnik.fund/#/dao/nearch4n.sputnikdao.near) anime mascot. [Nearguilds](https://nearguilds.com) has even more examples of DAOs working on everything from legal advice to UX.
 
-## Your Guide to DAOs <a href="your-guide-to-daos" id="your-guide-to-daos"></a>
+## Your Guide to DAOs
 
 The following playbook will serve as documentation and a guide to creating DAOs in both Sputnik V1 and Astro as well as a key for unlocking the full potential of DAOs within the NEAR Ecosystem.
 
-## SputnikDAO (V1) <a href="sputnikdao-v1" id="sputnikdao-v1"></a>
+## SputnikDAO (V1)
 
-### Creating a DAO <a href="creating-a-dao" id="creating-a-dao"></a>
+### Creating a DAO
 
 If you’re looking to set up a DAO in SputnikDAO V1 follow the steps below:
 
@@ -68,13 +68,13 @@ If you’re looking to set up a DAO in SputnikDAO V1 follow the steps below:
 
 Boom! Simple as that. Your DAO is up and running and you’re ready to achieve your goals in a decentralized, open, and transparent manner!
 
-### Interacting with a DAO: Proposals <a href="interacting-with-a-dao-proposals" id="interacting-with-a-dao-proposals"></a>
+### Interacting with a DAO: Proposals
 
 There are a number of proposal types that can be submitted to DAOs in SputnikDAO V1. Proposals can be submitted by anybody who holds sufficient NEAR to cover the bond which was sent by the DAO creator during the creation process.
 
 To create a new proposal for a DAO head to the DAO’s page on SputnikDAO (here’s the [SandcastleDAO page for reference](https://www.sputnik.fund/#/dao/sandcastle.sputnikdao.near)) and hit ‘Create new proposal’.In line with the transparency of all things on NEAR, payout proposals should first be discussed on the [NEAR Governance Forum](https://gov.near.org) before being submitted to a DAO.
 
-#### Payout <a href="payout" id="payout"></a>
+#### Payout
 
 This proposal is used when requesting a payout of NEAR from a particular DAO.To submit this proposal you’ll need to include the following:
 
@@ -87,23 +87,23 @@ This proposal is used when requesting a payout of NEAR from a particular DAO.To 
 
 On the final page, you’ll be asked to specify the amount of NEAR to be paid out. Once the bond has been paid (which is non-refundable if the proposal is declined) then your proposal will be sent to the DAO for council review.
 
-#### NewCouncil <a href="newcouncil" id="newcouncil"></a>
+#### NewCouncil
 
 This proposal type adds a new Council member to the DAO. Include the forum link, the description, and the NEAR wallet address of the proposed Council member.
 
-#### RemoveCouncil <a href="removecouncil" id="removecouncil"></a>
+#### RemoveCouncil
 
 As you might expect, this proposal removes an existing Council member from the DAO. Include the forum link, the description, and the NEAR wallet address of the proposed Council member.
 
-#### ChangePurpose <a href="changepurpose" id="changepurpose"></a>
+#### ChangePurpose
 
 When a DAO is created, the creator(s) are invited to submit a ‘Purpose’, essentially a description of what the DAO is designed to do. This proposal amends that purpose which is publicly available on the SputnikDAO platform.
 
-#### ChangeVotePeriod <a href="changevoteperiod" id="changevoteperiod"></a>
+#### ChangeVotePeriod
 
 The vote period for a DAO is the amount of time (in hours) that Council members have to vote on a proposal.
 
-### Interacting with a DAO: Council Members <a href="interacting-with-a-dao-council-members" id="interacting-with-a-dao-council-members"></a>
+### Interacting with a DAO: Council Members
 
 In SputnikDAO V1, DAOs are governed, at the point of on-chain decision making, by Council members. For a proposal to pass it requires more than 50% approval from sitting Council members.
 

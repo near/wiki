@@ -29,9 +29,9 @@ For Q4 2021 we forecast the impact each project will have based on a 12-month ti
 | **Small**  | 10K new accounts  | $250M TVL   | Infra Startups         |
 | **Micro**  | <10K new accounts | <$250M TVL  | -                      |
 
-{% hint style="info" %}
+:::info
 Even though the Ecosystem Team is focused on high impact engagements we'll never abandon projects in need. We work closely with the community team, guilds, and other groups in the NEAR collective to support projects at any stage.&#x20;
-{% endhint %}
+:::
 
 ## **How to contact the Ecosystem Team**
 

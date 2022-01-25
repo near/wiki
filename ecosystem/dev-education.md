@@ -1,19 +1,29 @@
 # Education
 
-{% embed url="https://near.org/learn" %}
+:::note link
+https://near.org/learn
+:::
 
 ### NEAR University
 
-{% embed url="https://near.university" %}
+:::note link
+https://near.university
+:::
 
 ### LearnNEAR
 
-{% embed url="https://learnnear.club" %}
+:::note link
+https://learnnear.club
+:::
 
 #### NEAR Certified Developer Program
 
-{% embed url="https://learnnear.club/courses/near-certified-developer-level-1" %}
+:::note link
+https://learnnear.club/courses/near-certified-developer-level-1
+:::
 
 ### NEAR Academy
 
-{% embed url="https://near.academy" %}
+:::note link
+https://near.academy
+:::

@@ -79,9 +79,9 @@ We don’t offer rewards to validators at this point in time. However, we may of
 
 NEAR doesn’t implement delegation on the protocol level. Instead NEAR allows smart contracts to stake, because in NEAR contracts and accounts are the same.
 
-Thus, if validators want to accept delegated stake, they must deploy a contract with specific rules of how delegation and reward splitting works and advertise that contract as a destination to delegate. See the [delegation docs](broken-reference) for more.
+Thus, if validators want to accept delegated stake, they must deploy a contract with specific rules of how delegation and reward splitting works and advertise that contract as a destination to delegate. See the [delegation docs](#) for more.
 
-Thus, if validators want to accept delegated stake, they must deploy a contract with specific rules of how delegation and reward splitting works and advertise that contract as destination to delegate. See the [delegation docs](https://app.gitbook.com/docs/validator/delegation) for more.
+Thus, if validators want to accept delegated stake, they must deploy a contract with specific rules of how delegation and reward splitting works and advertise that contract as destination to delegate. See the [delegation docs](#) for more.
 
 ## Where can I find the neardev/ folder?
 

@@ -49,7 +49,7 @@ At least 16GB RAM
 At least 100GB SSD (Note: HDD will not work)
 ```
 
-More information is on the [Hardware Requirements](../validators/hardware.md) docs.
+More information is on the [Hardware Requirements](https://docs.near.org/docs/develop/node/validator/hardware) docs.
 
 ## Setting up your environment
 
@@ -213,7 +213,7 @@ followed by: `nearup run testnet`
 
 ## Becoming a Validator in the _active set_
 
-Once the staking pool is deployed, you can _stake_ tokens using any of the methods offered in the [delegation docs](../../network/validator-guides/broken-reference/). Make sure that you are using a tool that supports TestNet and not only MainNet.
+Once the staking pool is deployed, you can _stake_ tokens using any of the methods offered in the [delegation docs](../../ecosystem/near-token/token-delegation.md). Make sure that you are using a tool that supports TestNet and not only MainNet.
 
 NEAR TestNet and MainNet require at least 24 hours bonding period to accept your staking pool bid. You can verify if you are a validator when in the logs of the node you see "V/" - where V means this node is currently a validator:
 
