@@ -8,7 +8,7 @@ sidebar_label: Orientation
 
 ## Translations
 
-* [Portuguese](../validators-and-staking/about-pt.md)
+* [Portuguese](about-pt.md)
 * Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
 
 ## Welcome

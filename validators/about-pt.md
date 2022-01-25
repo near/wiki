@@ -1,5 +1,5 @@
 ---
-id: staking-overview
+id: staking-overview-pt
 title: Orientações sobre Staking
 sidebar_label: Orientações
 ---

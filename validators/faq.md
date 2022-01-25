@@ -2,7 +2,7 @@
 
 ## Translations
 
-* [Portuguese](../validators-and-staking/faq-pt.md)
+* [Portuguese](faq-pt.md)
 * Add your language too via [Github pull request](https://github.com/near/docs/pull/385)
 
 ## What is a validator?
