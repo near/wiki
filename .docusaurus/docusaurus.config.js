@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'NEAR Wiki',
+  tagline: 'NEAR Wiki',
+  url: 'https://wiki.near.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'near', // Usually your GitHub org/user name.
+  projectName: 'wiki', // Usually your repo name.
 
   presets: [
     [
@@ -22,6 +22,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          "showLastUpdateAuthor": true,
+          "showLastUpdateTime": true,
           routeBasePath: '/',
           "path": "..",
           exclude: [
@@ -29,13 +31,7 @@ const config = {
           ],
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/near/wiki/edit/master/website',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -48,20 +44,44 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Wiki',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'NEAR Logo',
+          src: 'img/near_logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'README',
+            href: '/ecosystem',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Ecosystem',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: '/technology',
+            position: 'left',
+            label: 'Technology',
+          },
+          {
+            href: '/validators',
+            position: 'left',
+            label: 'Validators',
+          },
+          {
+            href: '/community',
+            position: 'left',
+            label: 'Community',
+          },
+          {
+            href: '/governance',
+            position: 'left',
+            label: 'Governance',
+          },
+          {
+            href: '/resources',
+            position: 'left',
+            label: 'Resources',
+          },
+          {
+            href: 'https://github.com/near/wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -74,8 +94,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Wiki',
                 to: '/',
+              },
+              {
+                label: 'Dev Docs',
+                to: 'https://docs.near.org',
+              },
+              {
+                label: 'Specifications',
+                to: 'https://nomicon.io',
               },
             ],
           },
@@ -84,15 +112,15 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://stackoverflow.com/questions/tagged/nearprotocol',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://near.chat',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/NEARProtocol',
               },
             ],
           },
@@ -100,17 +128,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: 'https://near.org',
+                label: 'SDK Docs',
+                to: 'https://near-sdk.io/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/near/wiki',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://near.org">NEAR Protocol</a> | All rights reserved | hello@near.org`,
       },
       prism: {
         theme: lightCodeTheme,
