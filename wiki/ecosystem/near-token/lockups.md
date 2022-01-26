@@ -100,7 +100,7 @@ At the moment of termination, we stop the vesting process, so the vested amount 
 Some of the contracts use the deprecated `lockup_duration` field and hashed vesting.
 It's better to look at the picture at first:
 
-![](../../.gitbook/assets/lockup\_6.png)
+![](/assets/lockup\_6.png)
 
 The vesting schedule, which could be hashed, is going earlier and has no impact on the resulting graph, except the situation with termination.
 
