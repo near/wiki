@@ -25,10 +25,7 @@ const config = {
           "showLastUpdateAuthor": true,
           "showLastUpdateTime": true,
           routeBasePath: '/',
-          "path": "..",
-          exclude: [
-            '**/.docusaurus/**',
-          ],
+          "path": "../wiki",
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/near/wiki/edit/master/website',
