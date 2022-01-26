@@ -245,7 +245,7 @@ O Protocolo NEAR reposiciona todas as recompensas inflacionárias automaticament
 
 ## Links Adicionais
 
-* [Contratos de bloqueio explicados](../../getting-started/near-token/lockups.md)
+* [Contratos de bloqueio explicados](../../ecosystem/near-token/lockups.md)
 * [NEAR Core Contracts no Github](https://github.com/near/core-contracts)
 * [NEAR Stake Wars](https://github.com/nearprotocol/stakewars)
 
