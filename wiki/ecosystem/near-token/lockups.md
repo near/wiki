@@ -47,7 +47,10 @@ The contract consists of lockup and vesting processes that go simultaneously. Bo
 
 ### Lockup
 
-Lockup mechanics have 2 configurable parameters: 1. `lockup_timestamp` - The moment when tokens start linearly unlocking; 2. `release_duration` - The length of the unlocking schedule during which tokens are linearly unlocked. By the end of this duration, all tokens are unlocked.
+Lockup mechanics have 2 configurable parameters:
+
+1. `lockup_timestamp` - The moment when tokens start linearly unlocking;
+2. `release_duration` - The length of the unlocking schedule during which tokens are linearly unlocked. By the end of this duration, all tokens are unlocked.
 
 1. `lockup_timestamp` - The moment when tokens start linearly unlocking;&#x20;
 2. `release_duration` - The length of the unlocking schedule during which tokens are linearly unlocked. By the end of this duration, all tokens are unlocked.
@@ -56,13 +59,16 @@ The lockup process could not be terminated. Lockup does not have a cliff.
 
 ![](/assets/lockup\_1-6767e999b2dca254b3f3979f8982ed12.png)
 
-\[deprecated] Apart from the lockup timestamp, there is a lockup duration. `lockup_duration` is the interval between [the Phase II launch](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/) (October 13th) and the moment when tokens start to unlock.
+\[deprecated] Apart from the lockup timestamp, there is a lockup duration. `lockup_duration` is the interval between [the Phase II launch](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/) (October 13th 2020) and the moment when tokens start to unlock.
 
 ![](/assets/lockup\_2-33c47004e711b0c2d836f96a7d4b93e5.png)
 
 ### Vesting
 
-Vesting also locks the tokens, and it allows configuring 2 more options: 1. Ability to terminate tokens vesting and refund non-vested tokens back. 2. Cliff vesting period.
+Vesting also locks the tokens, and it allows configuring 2 more options:
+
+1. Ability to terminate tokens vesting and refund non-vested tokens back.
+2. Cliff vesting period.
 
 1. Ability to terminate tokens vesting and refund non-vested tokens back.&#x20;
 2. Cliff vesting period.
@@ -88,6 +94,23 @@ Vesting could be terminated by the foundation, an account configured at the mome
 ![](/assets/lockup\_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
 
 At the moment of termination, we stop the vesting process, so the vested amount is going to remain constant after that; the lockup process keeps going and will unlock the tokens on its schedule. We continue to unlock the tokens as we normally do that by getting the minimum between unlocked and vested amounts.
+
+### [deprecated] `lockup_duration` usage, hashed vesting (employee's lockups)
+
+Some of the contracts use the deprecated `lockup_duration` field and hashed vesting.
+It's better to look at the picture at first:
+
+![](/assets/lockup\_6.png)
+
+The vesting schedule, which could be hashed, is going earlier and has no impact on the resulting graph, except the situation with termination.
+
+Since `lockup_timestamp` is not set, linear unlock should start from October 13th, 2020, but all the tokens are locked till `lockup_duration` is not finished.
+
+Lockup duration starts at the moment of enabling transfers (October 13th, 2020) and, as it's shown on the graph, acts as the cliff.
+
+After the finish of lockup duration, linear unlock starts.
+
+The termination process goes with the same logic as it was shown [above](https://wiki.near.org/getting-started/near-token/lockups#termination-of-vesting).
 
 ### An Example
 
