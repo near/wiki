@@ -1,37 +1,85 @@
----
-description: Find tools, connections and resources to journey through the NEARVerse.
----
+<br />
+<br />
 
-# NEARVerse Portal
+<p align="center">
+<img src="website/static/assets/near-img.png" width="600">
+</p>
 
-Discover the NEAR blockchain and its ecosystem! This [open-source](https://github.com/near/wiki), collaborative wiki connects you to information about everything from the protocol, usage, infrastructure, opportunities, and guilds.
+<br />
+<br />
 
-{% embed url="https://near.org" %}
+## NEAR Protocol - scalable and usable blockchain
 
-## Journeys
+[![Discord](https://img.shields.io/discord/490367152054992913.svg)](http://near.chat)
+[![CI](https://github.com/near/wiki/actions/workflows/build.yml/badge.svg)](https://github.com/near/wiki/actions/workflows/build.yml)
 
-| [**Developers**](broken-reference)                                                                                                                                                                            | [**Validators**](network/about.md)                                                                                                                                                                         | Communities                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="technology/docs/">Docs</a></p><p><a href="technology/dev-guides.md">Guides</a></p><p><a href="ecosystem/dev-education.md">Education</a></p><p><a href="technology/dev-support.md">Support</a></p> | <p><a href="network/validators/">Docs</a></p><p><a href="network/validator-guides/">Guides</a></p><p><a href="broken-reference">Education</a></p><p><a href="network/validator-support.md">Support</a></p> | <p><a href="community/guild-getstarted.md">Get Started</a></p><p><a href="ecosystem/dapps.md">dApps</a></p><p><a href="broken-reference">Earn</a><br><a href="broken-reference">Support</a></p><p><a href="broken-reference">Community</a></p><p><a href="broken-reference">Education</a></p> |
+* ⚖️ NEAR Protocol is a new smart-contract platform that delivers scalability and usability.
+* 🛠 Through sharding, it will linearly scale with the number of validation nodes on the network.
+* 🗝 Leveraging WebAssembly (via Rust and AssemblyScript), more sane contract management, ephemeral accounts and many other advancements, NEAR
+finally makes using a blockchain protocol easy for both developers and consumers.
 
-_To contribute to this wiki, see the_ [_Contributing page_](https://wiki.near.org/resources/contributing)
+## Quick start
 
-\_\_
+Check out the following links
 
-## What is NEAR?
+- Deployed, live Wiki: https://wiki.near.org
+- Example applications: https://near.dev
+- Community chat: https://near.chat
 
-NEAR is a simple, scalable, and secure blockchain platform designed to provide the best possible  experience for developers and users, which is necessary to bridge the gap to mainstream adoption of decentralized applications. Unlike other blockchains, this network has been built from the ground up to be the easiest in the world for both developers and their end users while still providing the scalability necessary to serve those users.
+## Contributing
 
-### Getting Started
+NEAR uses [Docusaurus](https://docusaurus.io) for documentation.  Please refer to their documentation for details on major structural contributions to the documentation.
 
-If this is your first time here, we're glad you stopped by!.Here are a few resources to help you start your journey in the NEARVerse.
+For simple content changes you have 2 options
 
-{% embed url="https://docs.near.org/docs/concepts/new-to-near" %}
+- [Submit an issue](https://github.com/near/wiki/issues)
+- [Submit a pull request](https://github.com/near/wiki/pulls) *(we prefer PRs of course)*
 
-#### Create a NEAR Wallet
+### The instant PR
 
-{% embed url="https://wallet.near.org/create" %}
+This is the fastest way to submit content changes directly from the page where you notice a mistake.
 
-#### Subscribe to NEARweek
+1. Open any page in the docs on https://docs.near.org
+2. Click the `[ Edit ]` button at the top right hand side of _every_ content page
+3. Make your edits to the document that opens in GitHub by clicking the ✎ (pencil) icon
+4. Submit a PR with your changes and comments for context
 
-{% embed url="https://nearweek.com" %}
+### The typical PR
+
+This is the standard fork-branch-commit workflow for submitting pull requests to open source repositories
+
+1. Fork this repo to your own GitHub account (or just clone it directly if you are currently a member of NEAR)
+
+2. Open your editor to the _top level repo folder_ to view the directory structure as seen below
+
+3. Move into the `/website` folder where you will run the following commands:
+
+   - Make sure all the dependencies for the website are installed:
+
+     ```sh
+     # Install dependencies
+     yarn
+     ```
+
+   - Run the local docs development server
+
+      ```sh
+      # Start the site
+      yarn start
+      ```
+
+      _Expected Output_
+
+      ```sh
+      # Website with live reload is started
+      LiveReload server started on port 35729
+      Docusaurus server started on port 3000
+      ```
+
+      The website for docs will open your browser locally to port `3000` 
+
+4. Make changes to the docs
+
+5. Observe those changes reflected in the local docs
+
+6. Submit a pull request with your changes

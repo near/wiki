@@ -1,0 +1,10 @@
+{
+  "label": "Community",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/community",
+    "title": "Community"
+  }
+}
