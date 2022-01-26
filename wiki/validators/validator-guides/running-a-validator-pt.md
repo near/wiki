@@ -217,7 +217,7 @@ Uma vez que a pool esteja no ar, você pode fazer _stake_ de seus tokens usando 
 
 A TestNet e a MainNet da NEAR exigem um período de no mínimo 24 horas de ativação para aceitar sua oferta de pool. Você pode verificar se você é um validador quando, nos logs do nó, você ver "V/" - onde V significa que esse nó é validador:
 
-![# 7153 | Altura do bloco V/1 | 'V' (validador) ou '—' (nó regular)](<../../.gitbook/assets/validators (1).png>)
+![# 7153 | Altura do bloco V/1 | 'V' (validador) ou '—' (nó regular)](</assets/validators (1).png>)
 
 O valor 0/0/40 mostra o total de validadores: pares conectados / pares atualizados / meus pares. Este número pode mudar ao longo do tempo.
 

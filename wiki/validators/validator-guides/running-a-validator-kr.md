@@ -129,7 +129,7 @@ Staking 50000 on thefutureisnear with public key = A4inyaard6yzt1HQL8u5BYdWhWQgC
 
 모든것을 완료후, 만약 검증인이 되기위한 충분한 스테이크를 가지고 있다면, BetaNet에서 약 \~6시간을 기다려야 할 수 있을 것입니다. 당신이 검증인으로 선출된것을 노드의 "V/"로그로도 확인할수 있으며, V는 노드가 현재 검증인임을 나타냅니다.
 
-![Legend: # 7153 | BlockHeight V/1 | 'V' (validator) or '—' (regular node)](<../../.gitbook/assets/validators (1).png>)
+![Legend: # 7153 | BlockHeight V/1 | 'V' (validator) or '—' (regular node)](</assets/validators (1).png>)
 
 0/0/40는 현재 전체 검증인의 수: 연결된 피어/ 갱신된 피어/ 나의 피어 를 나타냅니다. 이 숫자는 시간에 따라 바뀔 수 있습니다.
 

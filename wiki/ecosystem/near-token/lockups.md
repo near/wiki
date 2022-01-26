@@ -28,14 +28,10 @@ _See the FAQ at the end for questions_
 
 The lockups are implemented as a separate smart contract from your main account. Thus, if you have received tokens prior to [Phase II](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/), you will get two things:
 
-1. A regular account (also called "Owner Account" in the context of lockups), let's say `user.near` or `3e52c197feb13fa457dddd102f6af299a5b63465e324784b22aaa7544a7d55fb`;
+1. A regular account (also called "Owner Account" in context of lockups), let's say `user.near` or `3e52c197feb13fa457dddd102f6af299a5b63465e324784b22aaa7544a7d55fb`;
 2. A lockup contract, with a name like `4336aba00d32a1b91d313c81e8544ea1fdc67284.lockup.near`.
-3. A regular account (also called "Owner Account" in context of lockups), let's say `user.near` or `3e52c197feb13fa457dddd102f6af299a5b63465e324784b22aaa7544a7d55fb`;
-4. A lockup contract, with a name like `4336aba00d32a1b91d313c81e8544ea1fdc67284.lockup.near`.
 
 The owner account is created first, either by following the NEAR Drop process or by creating a new key pair using Trust, Ledger, or another wallet.
-
-
 
 The lockup contract is then deployed with a predictable name. It is defined as `hash(owner_account_id)[:20]` encoded in `hex` and deployed as subaccount under `lockup.near`. It means that all lockup contracts are deployed to the accounts named with `.lockup.near` at the end.
 
@@ -49,35 +45,27 @@ The contract consists of lockup and vesting processes that go simultaneously. Bo
 
 Lockup mechanics have 2 configurable parameters: 1. `lockup_timestamp` - The moment when tokens start linearly unlocking; 2. `release_duration` - The length of the unlocking schedule during which tokens are linearly unlocked. By the end of this duration, all tokens are unlocked.
 
-1. `lockup_timestamp` - The moment when tokens start linearly unlocking;&#x20;
-2. `release_duration` - The length of the unlocking schedule during which tokens are linearly unlocked. By the end of this duration, all tokens are unlocked.
-
 The lockup process could not be terminated. Lockup does not have a cliff.
 
-![](../../.gitbook/assets/lockup\_1-6767e999b2dca254b3f3979f8982ed12.png)
+![](/assets/lockup\_1-6767e999b2dca254b3f3979f8982ed12.png)
 
 \[deprecated] Apart from the lockup timestamp, there is a lockup duration. `lockup_duration` is the interval between [the Phase II launch](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/) (October 13th) and the moment when tokens start to unlock.
 
-![](../../.gitbook/assets/lockup\_2-33c47004e711b0c2d836f96a7d4b93e5.png)
+![](/assets/lockup\_2-33c47004e711b0c2d836f96a7d4b93e5.png)
 
 ### Vesting
 
 Vesting also locks the tokens, and it allows configuring 2 more options: 1. Ability to terminate tokens vesting and refund non-vested tokens back. 2. Cliff vesting period.
 
-1. Ability to terminate tokens vesting and refund non-vested tokens back.&#x20;
-2. Cliff vesting period.
-
-The vesting process includes 3 timestamps: `start_date`, `cliff_date`, `end_date`.
-
 Vesting process includes 3 timestamps: `start_date`, `cliff_date`, `end_date`.
 
-![](../../.gitbook/assets/lockup\_3-c7f2d633dc7b496f27d23b3c2ec4e392.png)
+![](/assets/lockup\_3-c7f2d633dc7b496f27d23b3c2ec4e392.png)
 
 ### Combinations
 
 `v_start`, `v_cliff`, `v_end` are the aliases for vesting parameters; `l_start`, `l_end` are for lockup parameters. They could be easily transformed into initializing parameters described above.
 
-![](../../.gitbook/assets/lockup\_4-f036005bf997b396c630370ee3d14a31.png)
+![](/assets/lockup\_4-f036005bf997b396c630370ee3d14a31.png)
 
 The liquid tokens balance is always the minimum between unlocked and vested values.
 
@@ -85,7 +73,7 @@ The liquid tokens balance is always the minimum between unlocked and vested valu
 
 Vesting could be terminated by the foundation, an account configured at the moment of initializing the contract. It's important to understand how the termination works combining with the lockup schedule.
 
-![](../../.gitbook/assets/lockup\_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
+![](/assets/lockup\_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
 
 At the moment of termination, we stop the vesting process, so the vested amount is going to remain constant after that; the lockup process keeps going and will unlock the tokens on its schedule. We continue to unlock the tokens as we normally do that by getting the minimum between unlocked and vested amounts.
 
@@ -98,8 +86,6 @@ First, the Owner Account `gio3gio.near` was created and configured using several
 
 Next, the account [9b84742f269952cea2877425b5e9d2e15cae8829.lockup.near](https://explorer.mainnet.near.org/accounts/9b84742f269952cea2877425b5e9d2e15cae8829.lockup.near) was created to store the actual balance of locked tokens on the account in [a batch transaction](https://explorer.mainnet.near.org/transactions/Eer14Fih17TRjpiF8PwWfVKNTB57vXnNJsDW93iqc2Ui) which also transferred these tokens to it (in this case, 594.11765 tokens).\
 You can see the arguments for the `new` method in the explorer, which show a 12-month release duration with an initial cliff of October 4th:
-
-For the actual lockup contract code and README, [see it on Github](https://github.com/near/core-contracts/tree/master/lockup).
 
 ```json
 {
@@ -118,19 +104,13 @@ For the actual lockup contract code and README, [see it on Github](https://githu
 }
 ```
 
+For the actual lockup contract code and README, [see it on Github](https://github.com/near/core-contracts/tree/master/lockup).
+
 ## Delegating locked tokens
 
 One of the unique features of the NEAR lockups is the ability to delegate tokens while they are still locked.
 
 There are few things to know: 1. You can only delegate to whitelisted pools, right now it's all the pools that end with `.poolv1.near`. 2. One lockup contract can only delegate to a single pool. 3. The account must keep a minimum balance of 3.5 $NEAR to cover storage for the lockup contract itself (transactions that will try to withdraw over that amount will just fail). 4. Delegation rewards can be withdrawn back to the lockup contract but are unlocked, so they can be withdrawn from it right away. 5. Delegating commands/tools which are not specifically configured to work with locked-up accounts won't work, as the "owner account" must call lockup contract. Currently, Dokia and NEAR Wallet are adding native support for lockup contract delegation.
-
-There are few things to know: 1. You can only delegate to whitelisted pools, right now it's all the pools that end with `.poolv1.near`. 2. One lockup contract can only delegate to a single pool. 3. The account must keep a minimum balance of 3.5 $NEAR to cover storage for the lockup contract itself (transactions that will try to withdraw over that amount will just fail). 4. Delegation rewards can be withdrawn back to the lockup contract but are unlocked, so they can be withdrawn from it right away. 5. Delegating commands/tools which are not specifically configured to work with locked-up accounts won't work, as the "owner account" must call lockup contract. Currently, Dokia and NEAR Wallet are adding native support for lockup contract delegation.
-
-1. You can only delegate to whitelisted pools, right now it's all the pools that end with `.poolv1.near`.&#x20;
-2. One lockup contract can only delegate to a single pool.&#x20;
-3. The account must keep a minimum balance of 3.5 $NEAR to cover storage for the lockup contract itself (transactions that will try to withdraw over that amount will just fail).&#x20;
-4. Delegation rewards can be withdrawn back to the lockup contract but are unlocked, so they can be withdrawn from it right away.&#x20;
-5. Delegating commands/tools which are not specifically configured to work with locked-up accounts won't work, as the "owner account" must call a lockup contract. Currently, Dokia and NEAR Wallet are adding native support for lockup contract delegation.
 
 ## Calling Arbitrary Methods
 
@@ -154,8 +134,6 @@ To illustrate a common case of calling lockup methods with arguments, this is an
 
 1. The tokens were unstaked from the pool (which takes a 4-epoch waiting period) using `unstake` or `unstake_all`;
 2. The tokens were withdrawn from the pool to the lockup contract.
-3. The tokens were unstaked from the pool (which takes a 4-epoch waiting period) using `unstake` or `unstake_all`;
-4. The tokens were withdrawn from the pool to the lockup contract.
 
 For more information (or examples) on either of these steps, click on the "Token Delegation" link in the docs navigation above.
 
@@ -203,7 +181,7 @@ Not all wallets support looking up the locked-up balance.
 There are three ways to go:
 
 * Use the [NEAR official wallet](https://wallet.near.org);
-* [Import your account into NEAR Wallet](../../ecosystem/near-token/token-custody.md#importing-accounts-from-other-wallets);
+* [Import your account into NEAR Wallet](token-custody.md#importing-accounts-from-other-wallets);&#x20;
 * Use CLI to check your balance: `near view <LOCKUP_ACCOUNT_ID> get_balance ''` (note it outputs the value in yoctoNEAR - divide by 10e24 to get NEAR amount).
 
 ### How do I delegate locked-up tokens?
@@ -222,4 +200,4 @@ Go to Dokia's staking UI: [https://staking.dokia.cloud/staking/near/validators](
 If you use NEAR Wallet, you can just spend them as normal. You will just have to confirm a couple of extra transactions ("check vote" and "transfer").\
 Other wallets may implement this differently.
 
-> Got a question? [Ask it on StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
+> Got a question?  [Ask it on StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
