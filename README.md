@@ -39,7 +39,7 @@ For simple content changes you have 2 options
 
 This is the fastest way to submit content changes directly from the page where you notice a mistake.
 
-1. Open any page in the docs on https://docs.near.org
+1. Open any page in the docs on https://wiki.near.org
 2. Click the `[ Edit ]` button at the top right hand side of _every_ content page
 3. Make your edits to the document that opens in GitHub by clicking the ✎ (pencil) icon
 4. Submit a PR with your changes and comments for context
@@ -72,7 +72,6 @@ This is the standard fork-branch-commit workflow for submitting pull requests to
 
       ```sh
       # Website with live reload is started
-      LiveReload server started on port 35729
       Docusaurus server started on port 3000
       ```
 
