@@ -217,7 +217,7 @@ Once the staking pool is deployed, you can _stake_ tokens using any of the metho
 
 NEAR TestNet and MainNet require at least 24 hours bonding period to accept your staking pool bid. You can verify if you are a validator when in the logs of the node you see "V/" - where V means this node is currently a validator:
 
-![Legend: # 7153 | BlockHeight V/1 | 'V' (validator) or '—' (regular node)](</assets/validators (1).png>)
+![Legend: # 7153 | BlockHeight V/1 | 'V' (validator) or '—' (regular node)](/assets/validators.png)
 
 The 0/0/40 shows the total validators: connected peers / up to date peers / my peers. This number may change over time.
 
