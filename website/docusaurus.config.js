@@ -15,7 +15,9 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'near', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
-
+  scripts: [
+    "/js/hotjar.js",
+  ],
   presets: [
     [
       'classic',
