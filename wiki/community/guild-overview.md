@@ -80,11 +80,21 @@ After receiving an overview about your prospective guild plans and needs, the gu
 
 [-Consider all of the legal aspects](https://nearlegal.com/ows_risk-assessment-recommendations/), who will be liable for receiving funds etc. 
 
--Sign up for Github/Telegram, add links (website, social, logo and general information + contact information).
+-Create your announcement post on the forum; [here’s a template](https://gov.near.org/t/template-guild-introduction-post/3450) to follow. 
+
+-Create your Guilds primary communication channels e.g. Telegram
 
 -Create your DAO/Community.
 
--Create your announcement post on the forum; [here’s a template](https://gov.near.org/t/template-guild-introduction-post/3450) to follow. 
+-Sign up for [Github](https://github.com/near/ecosystem), add links (website, social, logo and contact information):
+
+Github is the data source for our NEAR Ecosystem page, [guilds directory](https://near.org/guilds/) and [guilds platform.](https://app.nearguilds.com/#/guilds)
+
+![image](https://user-images.githubusercontent.com/89218771/152196796-385824dc-d199-4256-a306-806488c105fd.png)
+
+The aim is to have an accurate and regularly-updated database of all entities in the NEAR ecosystem.You can either input your guild information by following the [steps here](https://github.com/near/ecosystem/blob/main/README.md); or if you prefer you can use [this form](https://nearprotocol1001.typeform.com/submit-project) to submit your information to the database and someone from the ‘Ecosystem Success’ team will handle it!
+
+Please note that the [Guilds Platform](https://app.nearguilds.com/#/guilds) is still in its initial stages of product development; as of now, we are only featuring limited Guilds as we test and refine the features. If you would like to find out more about what we have planned for this product, please check out the [forum thread](https://gov.near.org/t/on-chain-guilds-platform-come-help-us-out/10275/30) here. 
 
 **Step Four:**
 
