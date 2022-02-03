@@ -14,8 +14,6 @@ The pages in this section outline our operational guides to supporting the ecosy
 
 [Ecosystem Success](ecosystem-success.md) (ES) supports those already committed to building on NEAR by removing blockers and accelerating the journey to a successful launch. The ES team maintains a [catalog of service providers](resources-available.md) willing to support NEAR projects across a variety of domains.
 
-[Ecosystem Intelligence](ecosystem-intelligence.md) (EI) measures ecosystem health with on-chain and off-chain data analytics.&#x20;
-
 ## Prioritization
 
 As a small team we are constantly assessing the ecosystem and our partners to make tough decisions about where to focus our efforts. &#x20;
