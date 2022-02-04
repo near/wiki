@@ -111,7 +111,7 @@ Onepager
 Overview video
 <br />
 
-## Service Guilds
+<!--- ## Service Guilds -->
 
 <br />
 
