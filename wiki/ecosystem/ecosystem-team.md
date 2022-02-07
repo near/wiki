@@ -23,8 +23,8 @@ We recommend that new projects perform the following onboarding tasks:
     * [#ecosystem-success](https://discord.gg/TNQKaY8vXA)
     * [#ecosystem-grantee-support](https://discord.gg/PN9hfsVtQx)
 - [ ] Submit upcoming launches & milestone dates for marketing support [here](https://airtable.com/shrS5oSPWcV91OQb3)
-Add your project to the ecosystem map: new project form or update on the github 
 - [ ] Add your project to the ecosystem map: [new project form](https://nearprotocol1001.typeform.com/submit-project) or [update on github](http://github.com/near/ecosystem)  
+- [ ] If you are planning on fundraising, please submit the applicable info here: [VC Referral Form](https://nearprotocol1001.typeform.com/nearvcnetwork)
 
 <br />
 
