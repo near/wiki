@@ -14,6 +14,7 @@ Contact the Ecosystem team:
 [discord](https://discord.gg/TNQKaY8vXA) 
 ecosystem-support@near.foundation
 bd@near.foundation  
+
 <br />
 
 # Onboarding Checklist
@@ -35,13 +36,16 @@ We provide to ensure the success of each project across different verticals. Her
 
 ### Fundamentals for you as a founder or your project to succeed, they are:
 * Talent across the NEAR Ecosystem / Filling open roles
-* NEAR University talent newsletter
-* Job Board
-* Community prospect database
-* Community (OWS) that can support gigs, link
-* NEAR Certified Developer Graduate Pipeline, link 
-* Funding Support: NEAR Grant(link) and external VC Referral Network(link)  
-* Legal Resources (link)
+   * NEAR Certified Developer Graduate [talent newsletter](https://jobs.near.university/)
+   * NEAR [Job Board](https://jobs.openweb.dev/)
+   * Community prospect [database](https://docs.google.com/spreadsheets/d/1tiBYUSjC0q-l7ySW4shTv6aB6ZRGJ8QJ4GEoMCO_OkE/edit?resourcekey#gid=259451723)
+* Community ([OWS](https://near.org/sandbox/)) that can support gigs
+* Funding Support 
+   * NEAR Grants [portal](https://near.org/grants)
+   * VC Referral Network [request](https://nearprotocol1001.typeform.com/nearvcnetwork)
+* Legal [Resources](https://wiki.near.org/resources/legal-resources/)
+
+<br />
 
 ## DeFi Project Resources: 
 
@@ -56,27 +60,29 @@ We provide to ensure the success of each project across different verticals. Her
 * AstroDAO - Advanced DAO framework for governance of DeFi protocols
 * The Graph - Native DeFi Indexer
 * Rainbow Bridge - official bridge for transferring tokens between Ethereum, NEAR and the Aurora networks
-<br />
 
+
+<br />
 
 
 ## NFT Project Resources: 
 
-* The most up-to-date examples of NEAR NFT Standard Implementation
-* NEAR NFT Specification
-* Dev Rel team NFT Tutorial
-* TENK - The best help you can get to launch a generative art project on
-* Spearmint - framework for building an NFT collection/series
-* https://tenk-dao.github.io/links/
-* Paras - Paras, All-in-one social DAC marketplace for creators and collectors
-* Onepager
-* Apollo42 - NFT ecosystem of services
-* NFT rarity tools live on NEAR
-* NEARton - A DeFi strategy game base on NFT staking
-* Integrating several NFT projects in the NEAR ecosystem into their game
-* Mintbase - NFT protocol that allows you to mint, sell, & develop on your own smart contract
-<br />
+* The most up-to-date examples of NEAR NFT Standard Implementation: [here](https://github.com/near-examples/nft)
+* [NEAR NFT Specification](https://nomicon.io/Standards/NonFungibleToken/README.html)
+* Dev Rel team [NFT Tutorial](https://near.org/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/)
+* [TENK](https://tenkbay.com/) - The best help you can get to launch a generative art project on
+* [Spearmint](https://spearmint-docs.satori.art/docs/quickstart/create-collection) - framework for building an NFT collection/series
+* [Paras](https://paras.id/) - Paras, All-in-one social DAC marketplace for creators and collectors
+   * [Onepager](https://docs.google.com/document/d/1oONz5oV-4sJXQ8j7KyY3x3x38h0JZ9JYULCO0ZO8vvI/edit?usp=sharing)
+* [Apollo42](https://apollo42.app/) - NFT ecosystem of services
+   * NFT rarity tools live on NEAR
+* [NEARify](https://twitter.com/NEARify_me) - Discord Wallet Verification Service for NEAR NFT Projects
+* [NEARton](https://twitter.com/MetaNEARton) - A DeFi strategy game based on NFT staking
+* [Mintbase](https://www.mintbase.io/) - NFT protocol that allows you to mint, sell, & develop on your own smart contract
+* NFT projects mint date [database](https://docs.google.com/spreadsheets/d/1Aer2mmqyD4ZL32vmLt2c0SNk6_XBntG3W78WN-JLGjM/edit#gid=0)
 
+
+<br />
 
 
 ## Growth & Marketing Resources: 
@@ -129,12 +135,12 @@ Overview video
 ## Aurora Resources: 
 Aurora is an EVM created by the team at NEAR Protocol, delivering a turn-key solution for developers to operate their apps on an Ethereum-compatible, high-throughput, scalable and future-safe platform, with low transaction costs for their users.
 
-### Comprehensive developer documentation and resources for building on Aurora
-* Aurora has stood up their own grant pipeline
-* DeFillama tracks Aurora TVL
-* Up to date dashboard of Aurora’s Ecosystem
-* Aurora official Discord
-* Discord for Aurora ecosystem and project teams building on Aurora to communicate and connect
+* Apply for a grant through Aurora [here](https://aurora.dev/grants)
+* Comprehensive [developer documentation](https://doc.aurora.dev) and resources for building on Aurora
+* [DeFillama](https://defillama.com/chain/Aurora) tracks Aurora TVL
+* Up to date [dashboard](https://aurora.dev/ecosystem) of Aurora’s Ecosystem
+* Aurora official [Discord](https://discord.gg/dEFJBz8HQV)
+* [Discord](https://discord.gg/MNzP48n4) for Aurora ecosystem support and project teams building on Aurora to communicate and connect
 * Aurora / Rainbow Bridge Official Telegram
 * Aurora Community Telegram
 
