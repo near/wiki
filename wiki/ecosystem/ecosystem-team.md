@@ -11,9 +11,9 @@ What Ecosystem Team does:
 * Share information and connect members of the ecosystem
 
 Contact the Ecosystem team:  
-[discord](https://discord.gg/TNQKaY8vXA) 
-ecosystem-support@near.foundation
-bd@near.foundation  
+* [Discord](https://discord.gg/TNQKaY8vXA) 
+* ecosystem-support@near.foundation
+* bd@near.foundation  
 
 <br />
 
@@ -49,17 +49,18 @@ We provide to ensure the success of each project across different verticals. Her
 
 ## DeFi Project Resources: 
 
-* Ref.Finance - Combines several core components: a decentralized exchange, and AMM Whitelisting procedure
-* Skyward Finance - Fair token distribution and price discovery for projects built on NEAR Protocol
-* Launch your IDO on Skyward - https://skyward.finance/launch/
-* GoverNauts - Token engineering / Tokenomics support
-* Burrow - Lending Protocol
-* DeFi Wizards Guild
-* Stablecoins - OIN Finance
-* Liquid Staking - Metapool
-* AstroDAO - Advanced DAO framework for governance of DeFi protocols
-* The Graph - Native DeFi Indexer
-* Rainbow Bridge - official bridge for transferring tokens between Ethereum, NEAR and the Aurora networks
+* [Ref.Finance](https://www.ref.finance/) - Combines several core components: a decentralized exchange, and AMM Whitelisting procedure
+* [Skyward Finance](https://gov.ref.finance/t/new-whitelisting-procedure/224) - Fair token distribution and price discovery for projects built on NEAR Protocol
+   * Launch your IDO on Skyward: [request form](https://skyward.finance/launch/)
+* [GoverNauts](https://t.me/GovCommons) - Token engineering / Tokenomics support
+* [Burrow](https://testnet.burrow.cash/supply) - Lending Protocol
+* [DeFi Wizards Guild](https://gov.near.org/t/wizards-guild/4213)
+* Stablecoins - [OIN Finance](https://near.oin.finance/)
+* Liquid Staking - [Metapool](https://metapool.app/)
+* [AstroDAO](https://astrodao.com/) - Advanced DAO framework for governance of DeFi protocols
+* [The Graph](https://thegraph.com/) - Native DeFi Indexer
+   * [Documentation](https://thegraph.com/docs/en/supported-networks/near/) for building subgraphs on NEAR 
+* [Rainbow Bridge](https://rainbowbridge.app/transfer) - official bridge for transferring tokens between Ethereum, NEAR and the Aurora networks
 
 
 <br />
