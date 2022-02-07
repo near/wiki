@@ -146,4 +146,4 @@ Aurora is an EVM created by the team at NEAR Protocol, delivering a turn-key sol
 * Aurora Community Telegram
 
 <br />
-Still get additional questions? Fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSep9ZA0lfQNgiDm_0uQ6iS65QEyape9u_NeFyHIVQQhJQ3aVQ/viewform ) and let us know!
+Still have additional questions? Fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSep9ZA0lfQNgiDm_0uQ6iS65QEyape9u_NeFyHIVQQhJQ3aVQ/viewform ) and let us know!
