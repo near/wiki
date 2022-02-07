@@ -5,7 +5,7 @@
 
 The NEAR Community is made up of Innovators, Creators, Contributors, and, of course, a few wild cards. We’re all here to build a stronger ecosystem.
 
-We’re a diverse community made up of individuals, Guilds, and teams from all around the globe. Although, as in every community, there is a tonne of differences between us, there is far more that unites.
+We’re a diverse community made up of individuals, Guilds, and teams from all around the globe.
 
 Want to dive in right away? Connect with a human over on our [Discord](https://discord.gg/XxveWn6bQT).
 
@@ -19,7 +19,7 @@ There are hundreds of communities built on and around NEAR. Many of these are bo
 
 In essence, Guilds are a group of individuals with a shared sense of purpose, vision, and goals. 
 
-Guilds a fundamental to the community at NEAR and have played a significant role in building out the ecosystem and, importantly, ensuring that at NEAR everyone has a place they can call home.
+Guilds are fundamental to the community at NEAR and have played a significant role in building out the ecosystem and, importantly, ensuring that at NEAR everyone has a place they can call home.
 
 Some service-style Guilds have evolved into incorporated companies and are now expanding their offerings to continue to build a sustainable revenue flow. All whilst still having deep-rooted connections with NEAR and the wider ecosystem.
 
