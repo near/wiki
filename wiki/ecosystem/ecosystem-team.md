@@ -145,24 +145,5 @@ Aurora is an EVM created by the team at NEAR Protocol, delivering a turn-key sol
 * Aurora / Rainbow Bridge Official Telegram
 * Aurora Community Telegram
 
-
-## Misc Resources:
-* Open Web Sandbox:  https://airtable.com/shrwaPB7BgZTDnfn9
-* NEAR Certified Developers: https://www.near.university/
-* Grants & Funding: https://near.org/grants/
-* VC Referral network: https://nearprotocol1001.typeform.com/nearvcnetwork 
-* Legal Resources:https://wiki.near.org/resources/legal-resources 
-* Tech Document Directory: https://wiki.near.org/technology/docs 
-* Stack Overflow:https://stackoverflow.com/questions/tagged/nearprotocol 
-* Whitelisting Procedure: https://gov.ref.finance/t/new-whitelisting-procedure/224
-* NEAR Growth Guild: https://discord.com/invite/pRr6BakXP7 
-* Rhino Guild (Social Media Support): https://www.flyingrhinoguild.com/ 
-* 4NTS Guild Marketing - Podcast: https://t.me/riseandgrindnear 
-* Product Design & Testing: https://community.uxisnear.com/c/start-here/welcome-to-the-silicon-craftsmen-sc-guild-hub 
-* Legal Resources: https://daotalk.org/t/resource-list-dao-legal/533 
 <br />
-Still get additional questions? Fill in this form and let us know. 
-https://docs.google.com/forms/d/e/1FAIpQLSep9ZA0lfQNgiDm_0uQ6iS65QEyape9u_NeFyHIVQQhJQ3aVQ/viewform 
-
-
-
+Still get additional questions? Fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSep9ZA0lfQNgiDm_0uQ6iS65QEyape9u_NeFyHIVQQhJQ3aVQ/viewform ) and let us know!
