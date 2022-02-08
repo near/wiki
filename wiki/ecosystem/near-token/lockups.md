@@ -52,9 +52,6 @@ Lockup mechanics have 2 configurable parameters:
 1. `lockup_timestamp` - The moment when tokens start linearly unlocking;
 2. `release_duration` - The length of the unlocking schedule during which tokens are linearly unlocked. By the end of this duration, all tokens are unlocked.
 
-1. `lockup_timestamp` - The moment when tokens start linearly unlocking;&#x20;
-2. `release_duration` - The length of the unlocking schedule during which tokens are linearly unlocked. By the end of this duration, all tokens are unlocked.
-
 The lockup process could not be terminated. Lockup does not have a cliff.
 
 ![](/assets/lockup\_1-6767e999b2dca254b3f3979f8982ed12.png)
@@ -68,9 +65,6 @@ The lockup process could not be terminated. Lockup does not have a cliff.
 Vesting also locks the tokens, and it allows configuring 2 more options:
 
 1. Ability to terminate tokens vesting and refund non-vested tokens back.
-2. Cliff vesting period.
-
-1. Ability to terminate tokens vesting and refund non-vested tokens back.&#x20;
 2. Cliff vesting period.
 
 The vesting process includes 3 timestamps: `start_date`, `cliff_date`, `end_date`.
@@ -177,8 +171,6 @@ To illustrate a common case of calling lockup methods with arguments, this is an
 
 1. The tokens were unstaked from the pool (which takes a 4-epoch waiting period) using `unstake` or `unstake_all`;
 2. The tokens were withdrawn from the pool to the lockup contract.
-3. The tokens were unstaked from the pool (which takes a 4-epoch waiting period) using `unstake` or `unstake_all`;
-4. The tokens were withdrawn from the pool to the lockup contract.
 
 For more information (or examples) on either of these steps, click on the "Token Delegation" link in the docs navigation above.
 
