@@ -1,35 +1,35 @@
-# Development Agency Partnership
+# Development Agency Partnerships
 
 NEAR's engineers are constantly building tools and infrastructure to make the NEAR platform the best in the industry, but it takes a village to keep up with the pace of growth. Agency partnerships, technical and otherwise, have been critical to our ability to deliver innovative features to our incredible community.
 
 We're fortunate to see the explosion of web3 attract the best and the brightest engineers, resulting in new development agencies forming all over the world. Many of these businesses, large and small, are interested in contributing to NEAR. We call these partners "dev shops", and increasingly they are responsible for some of the most exciting infrastructure work in development today.
 
-Bringing dev shops into the fold is as much about education as it is execution. We don't require dev shops to have complete master of NEAR technoliges, but we do hold them to a high standard. Through our granting process, dev shops are compensated not only for their work, but for their onboarding as well, so we expect our partners to show up as creative, curious, and courageous technologists.
+Bringing dev shops into the fold is as much about education as it is execution. We don't require dev shops to have complete mastery of NEAR technologies, but we do hold them to a high standard. Through our granting process, dev shops are compensated not only for their work but for their onboarding as well, so we expect our partners to show up as creative, curious, and courageous technologists.
 
-## Dev shop onboarding
+## Dev Shop onboarding
 
-Before a dev shop dives into a project, we work through an onboarding flow. That starts with a discussion to determine interest, capabilities, capacity, and more. From there, we share onboarding materials to give our dev shops the chance to engage in self-directed learning.
+Before a dev shop dives into a project, we work through an onboarding flow. That starts with a discussion to determine interests, capabilities, capacity, and more. From there, we share onboarding materials to give our dev shops the chance to engage in self-directed learning.
 
-Finally, we assigned our dev shops a discreet task so we can better understand their technical, project management, and communication skills. Our goal is to form lasting and trusted relationships with our dev shops so these sometimes simple tasks can evolve into full projects, often scaling the relationship from one-or-two developers to an autonomous team.
+Finally, we assign our dev shops a discreet task so we can better understand their technical, project management, and communication skills. Our goal is to form lasting and trusted relationships with our dev shops so these sometimes simple tasks can evolve into full projects, often scaling the relationship from one-or-two developers to an autonomous team.
 
 ## Everyone benefits
 
-Even during onboarding, NEAR pays grant money (fiat, tokens, or a combination) to our dev shops to reward them for their time and contributions. We also welcome our dev shops to be vocal about their partnership with NEAR, posting to social media and communicating through marketing per the terms of their grant agreement.
+Even during onboarding, NEAR pays grant money (fiat, tokens, or a combination) to our dev shops to reward them for their time and contributions. We also welcome our dev shops to be vocal about their partnership with NEAR, posting on social media and communicating through marketing per the terms of their grant agreement.
 
 As our partnership grows, NEAR will reciprocate through our own channels. Through grants and exposure, we're growing together and assuring the best dev shops are always busy helping us build the best platform.
 
-# Dev shop expectations
+# Dev Shop expectations
 
 At a high level, we’re looking for development agencies that are web3-native and aren’t just dipping their toes into crypto because it’s the hot new thing. Successful agency partners also demonstrate a high degree of communication and autonomy, asking questions and using their creative problem solving skills to get themselves unblocked whenever possible.
 
-And of course we want our agencies to represent strong technical and architectural skills, as well as mature development practices, so that we aren’t compromising on quality. Let's get into the details.
+And of course we want our agencies to represent strong technical and architectural skills, as well as mature development practices, so we're never compromising on quality. Let's get into the details.
 
 ## Ownership
 
 Everyone at NEAR operates with an ownership mentality, meaning that success and failure is shared and everyone is highly accountable to each other.
-We expect our partners to fully own the work that they agree to take on, which not only means executing at a high level, but ensuring the work is complete, thoughtful, high quality, well-documented, and fully delivered in a way that can be handed off easily if necessary.
+We expect our partners to fully own the work that they agree to take on, which not only means executing at a high level, but ensuring the work is complete, thoughtful, high quality, well-documented, and fully delivered in a way that can be handed off easily.
 
-When you accept a task or project a NEAR dev shop, you are doing so with confidence that it will be shipped and that you will be proud of the outcome. What does that mean?
+When you accept a task or project as a NEAR dev shop, you are doing so with confidence that it will be shipped and that you will be proud of the outcome. What does that mean?
 
 * **Work strategically.** You take ownership over the overall success of the project and always put the health of your team and the project above short term wins.
 
@@ -61,7 +61,7 @@ NEAR is in a constant state of iteration and evolution. It requires an execution
 
 ## Professionalism
 
-NEAR is maturing as an organization. The energy, excitement, and resourcefulness that made us such a successful startup will never go away, and we’ll never stop working toward a more open web, but chasing big dreams and scaling accordingly requires a little structure and predictability as well. No matter where our dev shop partners are in through own evolution, we expect a baseline level of professionalism. What does that mean?
+NEAR is maturing as an organization. The energy, excitement, and resourcefulness that made us such a successful startup will never go away, and we’ll never stop working toward a more open web, but chasing big dreams and scaling accordingly requires a little structure and predictability as well. No matter where our dev shops are in through own evolution, we expect a baseline level of professionalism. What does that mean?
 
 * **Come prepared.** You approach your regular check-ins with NEAR as an opportunity to show how organized, prepared, and accountable you are as an agency. You create agendas, solicit questions ahead of time, and have your demos ready to go.
 
