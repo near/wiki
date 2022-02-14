@@ -139,9 +139,7 @@ For the actual lockup contract code and README, [see it on Github](https://githu
 
 One of the unique features of the NEAR lockups is the ability to delegate tokens while they are still locked.
 
-There are few things to know: 1. You can only delegate to whitelisted pools, right now it's all the pools that end with `.poolv1.near`. 2. One lockup contract can only delegate to a single pool. 3. The account must keep a minimum balance of 3.5 $NEAR to cover storage for the lockup contract itself (transactions that will try to withdraw over that amount will just fail). 4. Delegation rewards can be withdrawn back to the lockup contract but are unlocked, so they can be withdrawn from it right away. 5. Delegating commands/tools which are not specifically configured to work with locked-up accounts won't work, as the "owner account" must call lockup contract. Currently, Dokia and NEAR Wallet are adding native support for lockup contract delegation.
-
-There are few things to know: 1. You can only delegate to whitelisted pools, right now it's all the pools that end with `.poolv1.near`. 2. One lockup contract can only delegate to a single pool. 3. The account must keep a minimum balance of 3.5 $NEAR to cover storage for the lockup contract itself (transactions that will try to withdraw over that amount will just fail). 4. Delegation rewards can be withdrawn back to the lockup contract but are unlocked, so they can be withdrawn from it right away. 5. Delegating commands/tools which are not specifically configured to work with locked-up accounts won't work, as the "owner account" must call lockup contract. Currently, Dokia and NEAR Wallet are adding native support for lockup contract delegation.
+There are few things to know: 
 
 1. You can only delegate to whitelisted pools, right now it's all the pools that end with `.poolv1.near`.&#x20;
 2. One lockup contract can only delegate to a single pool.&#x20;
