@@ -148,6 +148,20 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+          // The application ID provided by Algolia
+          appId: 'J7VARGY7RM',
+          // Public API key: it is safe to commit it
+          apiKey: '4723f2a6e5ef0c7f5c6d17feb6362b19',
+          indexName: 'wiki-near',
+          // Optional: see doc section below
+          contextualSearch: true,
+          // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+          externalUrlRegex: 'near\\.org|nomicon\\.io',
+          // Optional: Algolia search parameters
+          searchParameters: {},
+          //... other Algolia params
+      },
     }),
 };
 
