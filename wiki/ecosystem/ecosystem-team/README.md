@@ -75,6 +75,7 @@ We provide to ensure the success of each project across different verticals. Her
 * [Spearmint](https://spearmint-docs.satori.art/docs/quickstart/create-collection) - framework for building an NFT collection/series
 * [Paras](https://paras.id/) - Paras, All-in-one social DAC marketplace for creators and collectors
    * [Onepager](https://docs.google.com/document/d/1oONz5oV-4sJXQ8j7KyY3x3x38h0JZ9JYULCO0ZO8vvI/edit?usp=sharing)
+   * [Verification process](https://docs.google.com/document/d/1P_JxmBw9MNvQefQUONnh5EOOyr4YTZsMNrGpPaV0CQ8/edit?usp=sharing)
 * [Apollo42](https://apollo42.app/) - NFT ecosystem of services
    * NFT rarity tools live on NEAR
 * [NEARify](https://twitter.com/NEARify_me) - Discord Wallet Verification Service for NEAR NFT Projects
