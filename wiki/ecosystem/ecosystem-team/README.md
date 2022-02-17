@@ -89,27 +89,30 @@ We provide to ensure the success of each project across different verticals. Her
 
 ## Growth & Marketing Resources: 
 
-* Flying Rhino Guild - kickstarting NEAR projects into orbit with social media marketing
-* Swine Guild - NEAR Protocol's Hub for Ecosystem-wide Meme Marketing
-* 4NTS - community building and marketing focused guild.
-* (Vertical Specific) NEAR NFT Club - collaborate with all the developed and ongoing developing NFT dapps on NEAR
+* [Flying Rhino Guild](https://www.flyingrhinomedia.com/) - kickstarting NEAR projects into orbit with social media marketing
+* [Swine Guild](https://swineguild.com/) - NEAR Protocol's Hub for Ecosystem-wide Meme Marketing
+* [4NTS](https://nearguilds.com/about/)- community building and marketing focused guild.
+* [NEAR NFT Club](https://nearnft.club/) - collaborate with all the developed and ongoing developing NFT dapps on NEAR
 * Kitchen Guild - for blogger, YouTube, and other forms of influencer marketing
-* OWS or Human Guild - for any leads on talents or individual contributors within the ecosystem
-* Community AMA Resources
-* Kripto Raptor generally hosts Telegram AMAs
-* Benz | NEAR generally hosts Discord AMAs
-* Reddit Ops (Sue) generally hosts Reddit AMAs
-* Next Creators - a podcast interviewing creators forging a new path for themselves and others on the internet
-* Open Web Sandbox lead Sofia hosts AMAs on the OWS Discord: Email: sofia@4nts.com or Telegram
-* Rise and Grind is a daily podcast with people/teams from the ecosystem to increase visibility & awareness - Contact
-* NEARWeek does weekly video interviews to further showcase & get visibility on your project - reach out to Anton to vschedule
-<br />
+* [OWS](https://near.org/sandbox/) & [Human Guild](https://humanguild.io/) - for any leads on talents or individual contributors within the ecosystem
 
+   # Community AMA Resources
+
+* [Kripto Raptor](https://t.me/Kripto_Raptor) generally hosts Telegram AMAs
+* [Benz | NEAR](https://discordapp.com/users/691082062865891428/) generally hosts Discord AMAs
+* [Reddit Ops (Sue](http://t.me/seriousbusinessusername) generally hosts Reddit AMAs
+* [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
+* [Open Web Sandbox](https://near.org/sandbox/) lead Sofia hosts AMAs on the OWS Discord: Email: sofia@4nts.com or Telegram
+* [Rise and Grind](https://twitter.com/risengrind_near) is a daily podcast with people/teams from the ecosystem to increase visibility & awareness - Contact
+* [NEARWeek](https://twitter.com/NEARWEEK) does weekly video interviews to further showcase & get visibility on your project - reach out to Anton to vschedule
+* [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
+
+<br />
 
 
 ## Tools/Services Integrated with NEAR
 
-* The Graph - developer tools to process blockchain events and make the resulting data easily available
+* [The Graph](https://thegraph.com/) - developer tools to process blockchain events and make the resulting data easily available
  documentation for building subgraphs on NEAR 
 * Gateway.FM - a node infrastructure provider. Their NEAR RPC endpoint is  stable, easy-to-use, load tested and QA’d by the experienced Gateway team, being the most stable node in the market 
 Onepager
