@@ -114,12 +114,12 @@ We provide to ensure the success of each project across different verticals. Her
 
 * [The Graph](https://thegraph.com/) - developer tools to process blockchain events and make the resulting data easily available
  documentation for building subgraphs on NEAR 
-* Gateway.FM - a node infrastructure provider. Their NEAR RPC endpoint is  stable, easy-to-use, load tested and QA’d by the experienced Gateway team, being the most stable node in the market 
-Onepager
-* Flux Protocol - serving as the trust-less data layer for web3, Flux allows any smart contract to connect with crowdsourced, API-based, and Price-Feed data 
-* ELI5 thread
-* Kurtosis - local development and testing environments for developers in the NEAR ecosystem.
-Overview video
+* [Gateway.FM](https://gateway.fm/) - a node infrastructure provider. Their NEAR RPC endpoint is  stable, easy-to-use, load tested and QA’d by the experienced Gateway team, being the most stable node in the market 
+   * [Onepager](https://drive.google.com/file/d/1EvUJbGEffCW5DqSFbZku_LBMSVhYyV1Q/view?usp=sharing)
+* [Flux Protocol](https://www.fluxprotocol.org/) - serving as the trust-less data layer for web3, Flux allows any smart contract to connect with crowdsourced, API-based, and Price-Feed data 
+   * [ELI5 thread](https://twitter.com/peterflux/status/1465460419095678980?s=20&t=FrojGyASfcrTqs_hbqew6Q)
+* [Kurtosis](https://www.kurtosistech.com/) - local development and testing environments for developers in the NEAR ecosystem.
+   * [Overview video](https://www.youtube.com/watch?v=sdb3v9-syI8&t=26s)
 <br />
 
 <!--- ## Service Guilds -->
@@ -128,14 +128,15 @@ Overview video
 
 
 ## Technical Support:
-* Documentation for integrating NEAR Wallet into website/dapp
-* NEAR SDK resources for smart contract development
-* Technical Documentation Directory
-* Near spec website
-* The Graph documentation for building subgraphs on NEAR 
-* Developer Office Hours - Every weekday the Dev Rel team hosts “Office Hours” where several engineers will hang out and answer any questions you may have about building on NEAR
-* Active dev support Discord channels in NEAR Discord
-* Dev support Telegram
+
+* [Documentation](https://docs.near.org/docs/api/naj-quick-reference) for integrating NEAR Wallet into website/dapp
+* [NEAR SDK](https://www.near-sdk.io/) resources for smart contract development
+* [Technical Documentation Directory](https://wiki.near.org/technology/docs)
+* Near spec [website](http://nomicon.io/)
+* The Graph [documentation](https://thegraph.com/docs/en/supported-networks/near/) for building subgraphs on NEAR 
+* Developer [Office Hours](https://near.org/office-hours/) - Every weekday the Dev Rel team hosts “Office Hours” where several engineers will hang out and answer any questions you may have about building on NEAR
+* Active dev support Discord channels in NEAR [Discord](https://discord.gg/4UF24ah8aF)
+* Dev support [Telegram](https://t.me/neardev)
 
 ## Aurora Resources: 
 Aurora is an EVM created by the team at NEAR Protocol, delivering a turn-key solution for developers to operate their apps on an Ethereum-compatible, high-throughput, scalable and future-safe platform, with low transaction costs for their users.
@@ -146,8 +147,8 @@ Aurora is an EVM created by the team at NEAR Protocol, delivering a turn-key sol
 * Up to date [dashboard](https://aurora.dev/ecosystem) of Aurora’s Ecosystem
 * Aurora official [Discord](https://discord.gg/dEFJBz8HQV)
 * [Discord](https://discord.gg/MNzP48n4) for Aurora ecosystem support and project teams building on Aurora to communicate and connect
-* Aurora / Rainbow Bridge Official Telegram
-* Aurora Community Telegram
+* Aurora / Rainbow Bridge Official [Telegram](https://t.me/auroraisnear)
+* Aurora Community [Telegram](https://t.me/Aurora_community)
 
 <br />
 Still have additional questions? Fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSep9ZA0lfQNgiDm_0uQ6iS65QEyape9u_NeFyHIVQQhJQ3aVQ/viewform ) and let us know!
