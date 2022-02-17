@@ -96,7 +96,7 @@ We provide to ensure the success of each project across different verticals. Her
 * Kitchen Guild - for blogger, YouTube, and other forms of influencer marketing
 * [OWS](https://near.org/sandbox/) & [Human Guild](https://humanguild.io/) - for any leads on talents or individual contributors within the ecosystem
 
-   # Community AMA Resources
+   ### Community AMA Resources
 
 * [Kripto Raptor](https://t.me/Kripto_Raptor) generally hosts Telegram AMAs
 * [Benz | NEAR](https://discordapp.com/users/691082062865891428/) generally hosts Discord AMAs
