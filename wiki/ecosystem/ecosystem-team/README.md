@@ -36,7 +36,7 @@ The process for grant & milestone payments is pretty straightforward.
 
 - [ ] Fill out the invoice (template) accordingly with the information pertaining to the grant/milestone, payment instructions, etc.
 - [ ] Send the completed invoice to invoices@near.foundation, and cc in mark.ery@near.foundation or cindy.lam@near.foundation
-      - [ ] If the invoice is for milestone completion, please send proof of milestone completion (link, screenshot) as well
+  - [ ] If the invoice is for milestone completion, please send proof of milestone completion (link, screenshot) as well
 - [ ] Mark or Cindy will follow up with KYC procedure, or confirm it has been completed if already done
 - [ ] Once KYC has been approved our finance team will send payment via instructions provided in the invoice within 48 working hours
 
