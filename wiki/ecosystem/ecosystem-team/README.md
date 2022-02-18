@@ -89,12 +89,14 @@ We provide to ensure the success of each project across different verticals. Her
 
 ## Growth & Marketing Resources: 
 
+* Official NEAR [branding guidelines](https://near.org/brand/) - comprehensive overview of correct logos, typeography, colors, etc
 * [Flying Rhino Guild](https://www.flyingrhinomedia.com/) - kickstarting NEAR projects into orbit with social media marketing
 * [Swine Guild](https://swineguild.com/) - NEAR Protocol's Hub for Ecosystem-wide Meme Marketing
 * [4NTS](https://nearguilds.com/about/)- community building and marketing focused guild.
 * [NEAR NFT Club](https://nearnft.club/) - collaborate with all the developed and ongoing developing NFT dapps on NEAR
 * Kitchen Guild - for blogger, YouTube, and other forms of influencer marketing
 * [OWS](https://near.org/sandbox/) & [Human Guild](https://humanguild.io/) - for any leads on talents or individual contributors within the ecosystem
+* Request marketing support from NEAR Foundation for meaningful events such as product launch, marketing campaigns, etc. via the [activate form](https://near.org/activate/)
 
    ### Community AMA Resources
 
