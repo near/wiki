@@ -34,7 +34,7 @@ We recommend that new projects perform the following onboarding tasks:
 
 The process for grant & milestone payments is pretty straightforward.
 
-- [ ] Fill out the invoice (template) accordingly with the information pertaining to the grant/milestone, payment instructions, etc.
+- [ ] Fill out the invoice ([template](https://docs.google.com/spreadsheets/d/1DLRBwGTIkKhyfMLsDaSO-u__aHIKMmZIdL7jZM-BzBo/edit?usp=sharing)) accordingly with the information pertaining to the grant/milestone, payment instructions, etc.
 - [ ] Send the completed invoice to invoices@near.foundation, and cc in mark.ery@near.foundation or cindy.lam@near.foundation
   - [ ] If the invoice is for milestone completion, please send proof of milestone completion (link, screenshot) as well
 - [ ] Mark or Cindy will follow up with KYC procedure, or confirm it has been completed if already done
