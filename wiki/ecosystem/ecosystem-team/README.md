@@ -45,10 +45,9 @@ The process for grant & milestone payments is pretty straightforward.
 
 # Service Catalogue
 
-## List of Service resources: 
 We provide to ensure the success of each project across different verticals. Here is a list (not limited to) the areas which we can support, they are:
 
-### Fundamentals for you as a founder or your project to succeed, they are:
+## Fundamentals for you as a founder or your project to succeed, they are:
 * Talent across the NEAR Ecosystem / Filling open roles
    * NEAR Certified Developer Graduate [talent newsletter](https://jobs.near.university/)
    * NEAR [Job Board](https://jobs.openweb.dev/)
