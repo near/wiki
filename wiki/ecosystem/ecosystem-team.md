@@ -63,8 +63,11 @@ We provide to ensure the success of each project across different verticals. Her
 ## DeFi Project Resources: 
 
 * [Ref.Finance](https://www.ref.finance/) - Combines several core components: a decentralized exchange, and AMM Whitelisting procedure
-* [Skyward Finance](https://gov.ref.finance/t/new-whitelisting-procedure/224) - Fair token distribution and price discovery for projects built on NEAR Protocol
-   * Launch your IDO on Skyward: [request form](https://skyward.finance/launch/)
+* IDO Platforms
+   * [Skyward Finance](https://gov.ref.finance/t/new-whitelisting-procedure/224) - Fair token distribution and price discovery for projects built on NEAR Protocol
+      * Launch your IDO on Skyward: [request form](https://skyward.finance/launch/)
+   * [SmartPad](https://smartpad.network/)
+      * [Deck](https://drive.google.com/file/d/18OKyUtX_PJmYJ20V41_uAl2gGnRfnEBs/view?usp=sharing)
 * [GoverNauts](https://t.me/GovCommons) - Token engineering / Tokenomics support
 * [Burrow](https://testnet.burrow.cash/supply) - Lending Protocol
 * [DeFi Wizards Guild](https://gov.near.org/t/wizards-guild/4213)
