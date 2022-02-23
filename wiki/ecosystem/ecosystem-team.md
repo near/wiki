@@ -135,6 +135,7 @@ We provide to ensure the success of each project across different verticals. Her
 * [Gateway.FM](https://gateway.fm/) - a node infrastructure provider. Their NEAR RPC endpoint is  stable, easy-to-use, load tested and QA’d by the experienced Gateway team, being the most stable node in the market 
    * [Onepager](https://drive.google.com/file/d/1EvUJbGEffCW5DqSFbZku_LBMSVhYyV1Q/view?usp=sharing)
 * [Flux Protocol](https://www.fluxprotocol.org/) - serving as the trust-less data layer for web3, Flux allows any smart contract to connect with crowdsourced, API-based, and Price-Feed data 
+   * [One Pager](https://docs.google.com/document/d/19BtnWdzHtCPHX9AE0ieXeRxIf-orPYzpfyGTz7YbjSM/edit?usp=sharing)
    * [ELI5 thread](https://twitter.com/peterflux/status/1465460419095678980?s=20&t=FrojGyASfcrTqs_hbqew6Q)
 * [Kurtosis](https://www.kurtosistech.com/) - local development and testing environments for developers in the NEAR ecosystem.
    * [Overview video](https://www.youtube.com/watch?v=sdb3v9-syI8&t=26s)
