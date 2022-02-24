@@ -1,7 +1,7 @@
 ---
 id: economics
 title: The Economics of a Validator
-sidebar_label: Validator Economics
+sidebar_label: Economics
 ---
 
 ## Overview
