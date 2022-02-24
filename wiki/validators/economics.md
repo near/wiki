@@ -18,14 +18,13 @@ NEAR Protocol determines validators every new `epoch`, electing them based on th
 
 To obtain required tokens, you either can own them yourself or borrow via a stake delegation mechanism.
 
-<blockquote class="info">
-    <strong>did you know?</strong><br><br>
-    The reward is proportional to the stake, independently of how many discrete seats are taken by given validator.
-</blockquote>
+:::info did you know?
+The reward is proportional to the stake, independently of how many discrete seats are taken by given validator.
+:::
 
 ### Stake your NEAR tokens
 
-Use [NEAR CLI](/docs/tools/near-cli) to issue your staking transaction and generate your `proposal` to become a validator. At the end of the `epoch`, if your proposal is above the _seatPrice_, your node will become a validator - and will begin to generate rewards after one more epoch. You can increase your `proposal` anytime by signing a larger staking transaction.
+Use [NEAR CLI](https://docs.near.org/docs/tools/near-cli) to issue your staking transaction and generate your `proposal` to become a validator. At the end of the `epoch`, if your proposal is above the _seatPrice_, your node will become a validator - and will begin to generate rewards after one more epoch. You can increase your `proposal` anytime by signing a larger staking transaction.
 
 You can check current validators, upcoming validators and proposals via `validators` method on the RPC:
 
@@ -49,10 +48,9 @@ $ http post https://rpc.betanet.near.org jsonrpc=2.0 id=123 method=validators pa
 In NEAR Protocol token holders can lend their $NEAR to validators using _smart contracts_ receiving percentage of reward validators capturing (also called delegation). Therefore, every validator can implement its staking smart contract, or use the ones made available by NEAR Protocol or the community.
 This option is still work in progress, so please follow the [NEP on GitHub](https://github.com/nearprotocol/NEPs/pull/27) for specifications and features discussion.
 
-<blockquote class="warning">
-    <strong>heads up</strong><br><br>
-    In the beginning, the network will run on a limited number of shards, with all validators competing for a limited number of seats. As an example, with 40% of the total supply at stake (400 million out of 1 billion $NEAR) and 100 seats available, every validator will need 4 million $NEAR to take one seat.
-</blockquote>
+:::note heads up
+In the beginning, the network will run on a limited number of shards, with all validators competing for a limited number of seats. As an example, with 40% of the total supply at stake (400 million out of 1 billion $NEAR) and 100 seats available, every validator will need 4 million $NEAR to take one seat.
+:::
 
 ## 2. Economic implications of running a node
 
@@ -83,10 +81,9 @@ A common issue among validators comes from running multiple nodes which have acc
 
 For more information on slashing, [see specification](https://nomicon.io/Economics/#slashing).
 
-<blockquote class="warning">
-    <strong>heads up</strong><br><br>
-    At the launch of MainNet, NEAR will have no slashing. Therefore, consistency requirements will be initially lower.
-</blockquote>
+:::note heads up
+At the launch of MainNet, NEAR will have no slashing. Therefore, consistency requirements will be initially lower.
+:::
 
 ## 3. Maintaining validator seat
 
@@ -146,7 +143,7 @@ More details can be found in the validators section of the [Economics White Pape
 NEAR Protocol's rewards follow the formula `total_supply * 0.045/730` of NEAR tokens at the end of every `epoch`. However, the protocol _burns_ `tx_fees` at the end of each block. Therefore, while rewards increase `total_supply` of $NEAR tokens, the fees _reduce_ it.
 
 :::info did you know?
-    Inflation decreases proportionally to collected fees. Therefore, if fees overcome newly created tokens, the total supply will start decreasing.
+Inflation decreases proportionally to collected fees. Therefore, if fees overcome newly created tokens, the total supply will start decreasing.
 :::
 
 ## Additional links
