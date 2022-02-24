@@ -19,7 +19,7 @@ As with all blockchains, to claim or receive tokens you will need to generate a 
 
 If you have chosen an option which doesn't allow you to check balances or lockup details, you can lookup your account using [this tool](https://near.github.io/account-lookup).
 
-This list will be regularly updated as more products and providers offer NEAR support. Feel free to send Pull Request to [https://github.com/near/docs/edit/master/docs/tokens/token-custody.md](https://github.com/near/docs/edit/master/docs/tokens/token-custody.md) with new options.
+This list will be regularly updated as more products and providers offer NEAR support. Feel free to send Pull Request to [https://github.com/near/wiki/edit/master/wiki/ecosystem/near-token/token-custody.md](https://github.com/near/wiki/edit/master/wiki/ecosystem/near-token/token-custody.md) with new options.
 
 ### Security & Recovery
 
@@ -33,7 +33,7 @@ E.g. Ledger, Trust Wallet, NEAR Wallet all ask to back up seed phrase. If Trust 
 
 Note, NEAR Wallet has few less secure but more convenient options, which are just convenient ways to back up your seed phrase via email or sms. It's not recommeneded for large sums of money, as these are not very secure back up places \(your email can be hacked or SIM card can be highjacked and hackers would be able to access your funds\). We recommend to only use them for small amounts of money, similar to your wallet in the pocket.
 
-> Ledger uses a single seed phrase for all applications and accounts on it. It is done by combining the seed phrase with an "HD path" - derivation paths. You can read more \[in general about HD wallets and derivation\]\(https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2\) and \[Ledger specifics around mulitple coins\]\(https://ledger.readthedocs.io/en/latest/background/hd\_use\_cases.html\). You just need to secure the seed phrase and know the paths from which accounts were derived. Even if you lose the paths, a simple search can be done to find them as they are ususally sequential.
+> Ledger uses a single seed phrase for all applications and accounts on it. It is done by combining the seed phrase with an "HD path" - derivation paths. You can read more [in general about HD wallets and derivation](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2) and [Ledger specifics around mulitple coins](https://ledger.readthedocs.io/en/latest/background/hd\_use\_cases.html). You just need to secure the seed phrase and know the paths from which accounts were derived. Even if you lose the paths, a simple search can be done to find them as they are ususally sequential.
 
 ## Web Wallets
 
