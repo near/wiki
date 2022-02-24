@@ -48,7 +48,7 @@ The NEAR Ecosystem is global and, naturally, not everyone speaks English as thei
 
 _Learn, improve and fail productively so the ecosystem and the community are always becoming more effective._
 
-We’re not just here to BUIDL awesome dApps and NEAR fuelled solutions, we’re here to BUIDL ourselves and each other too! There is a tonne of amazing people here (including you) who we can all learn from and teach.
+We’re not just here to BUIDL awesome dApps and NEAR fueled solutions, we’re here to BUIDL ourselves and each other too! There is a tonne of amazing people here (including you) who we can all learn from and teach.
 
 **Ultimately**, if you’re ever asking yourself _‘should I post this on the forum’_ ask yourself if it aligns with the 5 values above. If it does, and it doesn’t violate any other guidelines, fire away
 

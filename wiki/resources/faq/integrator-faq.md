@@ -60,7 +60,7 @@ A validator will stop being a validator for the following reasons:
 
 Validator election happens in epochs. The [Nightshade whitepaper](https://near.org/downloads/Nightshade.pdf) introduces epochs this way: "the maintenance of the network is done in epochs" where an epoch is a period of time on the order of half a day.
 
-At the beginning of each epoch, some computation produces a list of validators for the _very next epoch_. The input to this computation includes all accounts that have "raised their hand to be a validator" by submitting a special transaction ([`StakeAction`](https://nomicon.io/RuntimeSpec/Actions.html#stakeaction)) expressing the committment of some amount of tokens over the system's staking threshold, as well as validators from the previous epoch. The output of this computation is a list of the validators for the very next epoch.
+At the beginning of each epoch, some computation produces a list of validators for the _very next epoch_. The input to this computation includes all accounts that have "raised their hand to be a validator" by submitting a special transaction ([`StakeAction`](https://nomicon.io/RuntimeSpec/Actions.html#stakeaction)) expressing the commitment of some amount of tokens over the system's staking threshold, as well as validators from the previous epoch. The output of this computation is a list of the validators for the very next epoch.
 
 ### What is the penalty for misbehaving validators?
 
