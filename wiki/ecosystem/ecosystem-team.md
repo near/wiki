@@ -165,7 +165,7 @@ Aurora is an EVM created by the team at NEAR Protocol, delivering a turn-key sol
 * [DeFillama](https://defillama.com/chain/Aurora) tracks Aurora TVL
 * Up to date [dashboard](https://aurora.dev/ecosystem) of Aurora’s Ecosystem
 * Aurora official [Discord](https://discord.gg/dEFJBz8HQV)
-* [Discord](https://discord.gg/MNzP48n4) for Aurora ecosystem support and project teams building on Aurora to communicate and connect
+* [Discord](https://discord.gg/fb8vnHrdAH) for Aurora ecosystem support and project teams building on Aurora to communicate and connect
 * Aurora / Rainbow Bridge Official [Telegram](https://t.me/auroraisnear)
 * Aurora Community [Telegram](https://t.me/Aurora_community)
 
