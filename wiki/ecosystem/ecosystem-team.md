@@ -17,7 +17,7 @@ Contact the Ecosystem team:
 
 <br />
 
-# Onboarding Checklist
+## Onboarding Checklist:
 We recommend that new projects perform the following onboarding tasks:
 
 - [ ] Join the NEAR discord and introduce the project: 
