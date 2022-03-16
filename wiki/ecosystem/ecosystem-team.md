@@ -76,7 +76,7 @@ We provide to ensure the success of each project across different verticals. Her
 * [AstroDAO](https://astrodao.com/) - Advanced DAO framework for governance of DeFi protocols
 * [The Graph](https://thegraph.com/) - Native DeFi Indexer
    * [Documentation](https://thegraph.com/docs/en/supported-networks/near/) for building subgraphs on NEAR 
-* [Rainbow Bridge](https://rainbowbridge.app/transfer) - official bridge for transferring tokens between Ethereum, NEAR and the Aurora networks
+* [Rainbow Bridge](https://rainbowbridge.app/transfer) - official bridge for transferring tokens between Ethereum, NEAR and the networks
 
 
 <br />
@@ -165,7 +165,7 @@ Aurora is an EVM created by the team at NEAR Protocol, delivering a turn-key sol
 * [DeFillama](https://defillama.com/chain/Aurora) tracks Aurora TVL
 * Up to date [dashboard](https://aurora.dev/ecosystem) of Aurora’s Ecosystem
 * Aurora official [Discord](https://discord.gg/dEFJBz8HQV)
-* [Discord](https://discord.gg/fb8vnHrdAH) for Aurora ecosystem support and project teams building on Aurora to communicate and connect
+* [Discord](https://discord.gg/5c4tyPh7VP) for Aurora ecosystem support and project teams building on Aurora to communicate and connect
 * Aurora / Rainbow Bridge Official [Telegram](https://t.me/auroraisnear)
 * Aurora Community [Telegram](https://t.me/Aurora_community)
 
