@@ -112,6 +112,8 @@ We provide to ensure the success of each project across different verticals. Her
 * [NEAR NFT Club](https://nearnft.club/) - collaborate with all the developed and ongoing developing NFT dapps on NEAR
 * Kitchen Guild - for blogger, YouTube, and other forms of influencer marketing
 * [OWS](https://near.org/sandbox/) & [Human Guild](https://humanguild.io/) - for any leads on talents or individual contributors within the ecosystem
+* Near Medium Blog for driving stories around what you're building
+   * [Submission guidelines](https://docs.google.com/document/d/1MNy9PikQWHLiXQyDs-E7ijeA79rsBZ2TY3wzh6GGG08/edit?usp=sharing)
 * Request marketing support from NEAR Foundation for meaningful events such as product launch, marketing campaigns, etc. via the [activate form](https://near.org/activate/)
 
    ### Community AMA Resources
