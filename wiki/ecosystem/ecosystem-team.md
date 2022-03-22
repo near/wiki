@@ -132,6 +132,7 @@ We provide to ensure the success of each project across different verticals. Her
 
 ## Tools/Services Integrated with NEAR
 
+* [Wallet Sellector](https://github.com/near-projects/wallet-selector) developer docs to integrate functionality to sellect different wallets into your dapp
 * [The Graph](https://thegraph.com/) - developer tools to process blockchain events and make the resulting data easily available
  documentation for building subgraphs on NEAR 
 * [Gateway.FM](https://gateway.fm/) - a node infrastructure provider. Their NEAR RPC endpoint is  stable, easy-to-use, load tested and QA’d by the experienced Gateway team, being the most stable node in the market 
