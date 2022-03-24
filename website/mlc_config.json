@@ -10,6 +10,12 @@
       "pattern": "^https://nearlegal.com"
     },
     {
+      "pattern": "^http://127.0.0.1"
+    },
+    {
+      "pattern": "^https://staking.dokia.cloud"
+    },
+    {
       "pattern": "^https://rpc."
     }
   ],
