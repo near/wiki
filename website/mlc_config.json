@@ -4,7 +4,13 @@
       "pattern": "^/"
     },
     {
-      "pattern": "^https://codepen.io"
+      "pattern": "^https://near.events"
+    },
+    {
+      "pattern": "^https://nearlegal.com"
+    },
+    {
+      "pattern": "^https://rpc."
     }
   ],
   "timeout": "20s",

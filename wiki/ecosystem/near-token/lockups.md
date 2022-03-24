@@ -104,7 +104,7 @@ Lockup duration starts at the moment of enabling transfers (October 13th, 2020) 
 
 After the finish of lockup duration, linear unlock starts.
 
-The termination process goes with the same logic as it was shown [above](https://wiki.near.org/getting-started/near-token/lockups#termination-of-vesting).
+The termination process goes with the same logic as it was shown [above](#termination-of-vesting).
 
 ### An Example
 
