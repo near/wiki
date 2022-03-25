@@ -33,7 +33,7 @@ https://docs.near.org/docs/develop/contracts/as/intro
 #### Library
 
 :::note link
-https://docs.near.org/docs/api/naj-overview
+https://docs.near.org/docs/api/javascript-library
 :::
 
 ### NEAR Github

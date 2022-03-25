@@ -82,7 +82,7 @@ We provide to ensure the success of each project across different verticals. Her
 ## NFT Project Resources: 
 
 * The most up-to-date examples of NEAR NFT Standard Implementation: [here](https://github.com/near-examples/nft)
-* [NEAR NFT Specification](https://nomicon.io/Standards/NonFungibleToken/README.html)
+* [NEAR NFT Specification](https://nomicon.io/Standards/NonFungibleToken/)
 * Dev Rel team [NFT Tutorial](https://near.org/blog/zero-to-hero-nft-series-happy-holidays-from-devrel/)
 * [TENK](https://tenkbay.com/) - The best help you can get to launch a generative art project on
 * [Spearmint](https://spearmint-docs.satori.art/docs/quickstart/create-collection) - framework for building an NFT collection/series

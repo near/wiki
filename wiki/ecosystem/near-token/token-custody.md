@@ -33,7 +33,7 @@ E.g. Ledger, Trust Wallet, NEAR Wallet all ask to back up seed phrase. If Trust 
 
 Note, NEAR Wallet has few less secure but more convenient options, which are just convenient ways to back up your seed phrase via email or sms. It's not recommended for large sums of money, as these are not very secure back up places \(your email can be hacked or SIM card can be highjacked and hackers would be able to access your funds\). We recommend to only use them for small amounts of money, similar to your wallet in the pocket.
 
-> Ledger uses a single seed phrase for all applications and accounts on it. It is done by combining the seed phrase with an "HD path" - derivation paths. You can read more [in general about HD wallets and derivation](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2) and [Ledger specifics around multiple coins](https://ledger.readthedocs.io/en/latest/background/hd\_use\_cases.html). You just need to secure the seed phrase and know the paths from which accounts were derived. Even if you lose the paths, a simple search can be done to find them as they are usually sequential.
+> Ledger uses a single seed phrase for all applications and accounts on it. It is done by combining the seed phrase with an "HD path" - derivation paths. You can read more [in general about HD wallets and derivation](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2) and [Ledger specifics around multiple coins](https://developers.ledger.com/docs/nano-app/psd-applications/). You just need to secure the seed phrase and know the paths from which accounts were derived. Even if you lose the paths, a simple search can be done to find them as they are usually sequential.
 
 ## Web Wallets
 
@@ -140,7 +140,7 @@ _**Support Pages:**_
 
 _Status: Currently available_
 
-[Finoa](https://finoa.io/) is the first qualified custodian to offer NEAR asset custody. Check with [Finoa](https://finoa.io/contact) to see if you are eligible and [their NEAR guide](https://www.finoa.io/near) for more information about their offering.
+[Finoa](https://finoa.io/) is the first qualified custodian to offer NEAR asset custody. Check with [Finoa](https://finoa.io/contact) to see if you are eligible and [their NEAR guide](https://www.finoa.io/custody/) for more information about their offering.
 
 **Delegation and Staking:** In early phases, users will be able to delegate funds to nodes run by Finoa or provided by Staking Facilities, Chorus One, Certus.One, Blockdaemon, Figment, BisonTrails or T-Systems.
 

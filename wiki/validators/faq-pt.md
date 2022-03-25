@@ -19,7 +19,7 @@ A coleção de transações para o fragmento é chamada de um pedaço (chunk). U
 
 ## Como posso me tornar um validador?
 
-Você precisa de uma conta com valor suficiente de fundos. Siga a documentação [aqui](https://docs.near.org/docs/validator/staking) para entender como se tornar um validador, e [aqui](https://docs.near.org/docs/develop/node/validator/running-a-node) para executar um nó.
+Você precisa de uma conta com valor suficiente de fundos. Siga a documentação [aqui](https://near-nodes.io/validator/staking-and-delegation) para entender como se tornar um validador, e [aqui](https://docs.near.org/docs/develop/node/validator/running-a-node) para executar um nó.
 
 Passos mais específicos:
 1. Crie um novo par de chaves que será usado para staking, para determinada conta, e carregá-lo com os fundos que você deseja colocar em stake
@@ -76,7 +76,7 @@ Não oferecemos recompensas aos validadores neste momento. No entanto, podemos o
 
 A NEAR não implementa delegação no nível do protocolo. Em vez disso, a NEAR permite que contratos inteligentes façam stake, porque na NEAR contas e contratos são a mesma coisa.
 
-Assim, se os validadores quiserem aceitar stake delegado, eles têm de implementar um contrato com regras específicas sobre como funciona a delegação e a distribuição de recompensas e anunciar tal contrato como destino para delegar.  Veja a [documentação sobre delegação](https://docs.near.org/docs/validator/delegation) para mais detalhes.
+Assim, se os validadores quiserem aceitar stake delegado, eles têm de implementar um contrato com regras específicas sobre como funciona a delegação e a distribuição de recompensas e anunciar tal contrato como destino para delegar.  Veja a [documentação sobre delegação](https://near-nodes.io/validator/staking-and-delegation#how-does-delegating-staking-works) para mais detalhes.
 
 ## Onde posso encontrar a pasta neardev/?
 
@@ -114,6 +114,6 @@ _Ultima atualização: 20200501_
 
 _Ultima atualização: 20201022_
 
-Se uma piscina de staking não teve uma ação aplicada a ela recentemente (como alguém delegando ou deixando de delegar), ela mostrará um saldo antigo em todas as contas com stake (o que pode aparecer na sua conta da carteira).  Para ver um saldo atualizado, você pode "pingar" a piscina. Veja a [documentação sobre delegação](https://docs.near.org/docs/validator/delegation) e procure por `ping` para saber como fazer isso.
+Se uma piscina de staking não teve uma ação aplicada a ela recentemente (como alguém delegando ou deixando de delegar), ela mostrará um saldo antigo em todas as contas com stake (o que pode aparecer na sua conta da carteira).  Para ver um saldo atualizado, você pode "pingar" a piscina. Veja a [documentação sobre delegação](https://near-nodes.io/validator/staking-and-delegation) e procure por `ping` para saber como fazer isso.
 
 Tem alguma dúvida?  [Pergunte no StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
