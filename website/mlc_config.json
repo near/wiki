@@ -16,6 +16,15 @@
       "pattern": "^https://staking.dokia.cloud"
     },
     {
+      "pattern": "^https://cms.law"
+    },
+    {
+      "pattern": "^https://openshards.io"
+    },
+    {
+      "pattern": "^https://www.mintbase.io"
+    },
+    {
       "pattern": "^https://rpc."
     }
   ],

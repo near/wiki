@@ -114,6 +114,6 @@ _Ultima atualização: 20200501_
 
 _Ultima atualização: 20201022_
 
-Se uma piscina de staking não teve uma ação aplicada a ela recentemente (como alguém delegando ou deixando de delegar), ela mostrará um saldo antigo em todas as contas com stake (o que pode aparecer na sua conta da carteira).  Para ver um saldo atualizado, você pode "pingar" a piscina. Veja a [documentação sobre delegação](https://docs.near.org/docs/validator/delegation) e procure por `ping` para saber como fazer isso.
+Se uma piscina de staking não teve uma ação aplicada a ela recentemente (como alguém delegando ou deixando de delegar), ela mostrará um saldo antigo em todas as contas com stake (o que pode aparecer na sua conta da carteira).  Para ver um saldo atualizado, você pode "pingar" a piscina. Veja a [documentação sobre delegação](https://near-nodes.io/validator/staking-and-delegation) e procure por `ping` para saber como fazer isso.
 
 Tem alguma dúvida?  [Pergunte no StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
