@@ -1,5 +1,8 @@
 ---
 description: Your quick-start guide to NEAR Protocol and the NEARverse
+sidebar_position: 1
+title: Overview
+slug: /
 ---
 
 # Getting Started
