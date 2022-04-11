@@ -59,6 +59,11 @@ const config = {
         },
         items: [
           {
+            href: '/',
+            position: 'left',
+            label: 'Getting Started',
+          },
+          {
             href: '/ecosystem',
             position: 'left',
             label: 'Ecosystem',
