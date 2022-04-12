@@ -22,89 +22,24 @@ _See how NEAR tokens have been distributed and what lockups generally apply in_ 
 
 _See the FAQ at the end for questions_
 
-## The Lockup Contract at NEAR
 
-[Lockup](https://github.com/near/core-contracts/tree/master/lockup) is a special smart contract that ensures that the full, or the partial amount is not transferable until it is supposed to be.
+A Lockup is a special smart contract that ensures that the full, or the partial amount is not transferable until it is supposed to be.
 
 The lockups are implemented as a separate smart contract from your main account. Thus, if you have received tokens prior to [Phase II](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/), you will get two things:
 
 1. A regular account (also called "Owner Account" in the context of lockups), let's say `user.near` or `3e52c197feb13fa457dddd102f6af299a5b63465e324784b22aaa7544a7d55fb`;
 2. A lockup contract, with a name like `4336aba00d32a1b91d313c81e8544ea1fdc67284.lockup.near`.
-3. A regular account (also called "Owner Account" in context of lockups), let's say `user.near` or `3e52c197feb13fa457dddd102f6af299a5b63465e324784b22aaa7544a7d55fb`;
-4. A lockup contract, with a name like `4336aba00d32a1b91d313c81e8544ea1fdc67284.lockup.near`.
 
-The owner account is created first, either by following the NEAR Drop process or by creating a new key pair using Trust, Ledger, or another wallet.
+ Have a look at the [Lockup page](https://github.com/near/core-contracts/tree/master/lockup) in the NEAR repo for a deeper dive into Lockups.
 
 
-
-The lockup contract is then deployed with a predictable name. It is defined as `hash(owner_account_id)[:20]` encoded in `hex` and deployed as subaccount under `lockup.near`. It means that all lockup contracts are deployed to the accounts named with `.lockup.near` at the end.
-
-If you have received additional tokens to the lockup account, they are considered unlocked and can be freely withdrawn. For example, any rewards that are earned using this lockup account (e.g. from delegation) or any other funds sent to this lockup contract can be withdrawn by the owner at any time.
-
-The actual lockup release process happens on per block basis. E.g. if the release length is 1 calendar year, it will actually be `31,536,000` seconds, and with \~1-second blocks, `~1/31,536,000` will be released per block. When the lockup has been fully released, the Owner Account can add the full-access key and withdraw all the funds from it.
-
-The contract consists of lockup and vesting processes that go simultaneously. Both of these processes lock the tokens, but the mechanics slightly differ.
-
-### Lockup
-
-Lockup mechanics have 2 configurable parameters:
-
-1. `lockup_timestamp` - The moment when tokens start linearly unlocking;
-2. `release_duration` - The length of the unlocking schedule during which tokens are linearly unlocked. By the end of this duration, all tokens are unlocked.
-
-The lockup process could not be terminated. Lockup does not have a cliff.
-
-![](/assets/lockup\_1-6767e999b2dca254b3f3979f8982ed12.png)
-
-\[deprecated] Apart from the lockup timestamp, there is a lockup duration. `lockup_duration` is the interval between [the Phase II launch](https://near.org/blog/near-mainnet-phase-2-unrestricted-decentralized/) (October 13th 2020) and the moment when tokens start to unlock.
-
-![](/assets/lockup\_2-33c47004e711b0c2d836f96a7d4b93e5.png)
-
-### Vesting
-
-Vesting also locks the tokens, and it allows configuring 2 more options:
-
-1. Ability to terminate tokens vesting and refund non-vested tokens back.
-2. Cliff vesting period.
-
-The vesting process includes 3 timestamps: `start_date`, `cliff_date`, `end_date`.
-
-Vesting process includes 3 timestamps: `start_date`, `cliff_date`, `end_date`.
-
-![](/assets/lockup\_3-c7f2d633dc7b496f27d23b3c2ec4e392.png)
-
-### Combinations
-
-`v_start`, `v_cliff`, `v_end` are the aliases for vesting parameters; `l_start`, `l_end` are for lockup parameters. They could be easily transformed into initializing parameters described above.
-
-![](/assets/lockup\_4-f036005bf997b396c630370ee3d14a31.png)
-
-The liquid tokens balance is always the minimum between unlocked and vested values.
-
-### Termination of vesting
+### Termination of Vesting
 
 Vesting could be terminated by the foundation, an account configured at the moment of initializing the contract. It's important to understand how the termination works combining with the lockup schedule.
 
 ![](/assets/lockup\_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
 
-At the moment of termination, we stop the vesting process, so the vested amount is going to remain constant after that; the lockup process keeps going and will unlock the tokens on its schedule. We continue to unlock the tokens as we normally do that by getting the minimum between unlocked and vested amounts.
-
-### [deprecated] `lockup_duration` usage, hashed vesting (employee's lockups)
-
-Some of the contracts use the deprecated `lockup_duration` field and hashed vesting.
-It's better to look at the picture at first:
-
-![](/assets/lockup\_6.png)
-
-The vesting schedule, which could be hashed, is going earlier and has no impact on the resulting graph, except the situation with termination.
-
-Since `lockup_timestamp` is not set, linear unlock should start from October 13th, 2020, but all the tokens are locked till `lockup_duration` is not finished.
-
-Lockup duration starts at the moment of enabling transfers (October 13th, 2020) and, as it's shown on the graph, acts as the cliff.
-
-After the finish of lockup duration, linear unlock starts.
-
-The termination process goes with the same logic as it was shown [above](#termination-of-vesting).
+At the moment of termination, we stop the vesting process, so the vested amount is going to remain constant after that; the lockup process keeps going and will unlock the tokens on its schedule. We continue to unlock the tokens by getting the minimum between unlocked and vested amounts.
 
 ### An Example
 
@@ -135,11 +70,11 @@ For the actual lockup contract code and README, [see it on Github](https://githu
 }
 ```
 
-## Delegating locked tokens
+## Delegating Locked Tokens
 
 One of the unique features of the NEAR lockups is the ability to delegate tokens while they are still locked.
 
-There are few things to know: 
+There are a few things you need to know: 
 
 1. You can only delegate to whitelisted pools, right now it's all the pools that end with `.poolv1.near`.&#x20;
 2. One lockup contract can only delegate to a single pool.&#x20;
@@ -147,67 +82,7 @@ There are few things to know:
 4. Delegation rewards can be withdrawn back to the lockup contract but are unlocked, so they can be withdrawn from it right away.&#x20;
 5. Delegating commands/tools which are not specifically configured to work with locked-up accounts won't work, as the "owner account" must call a lockup contract. Currently, Dokia and NEAR Wallet are adding native support for lockup contract delegation.
 
-## Calling Arbitrary Methods
-
-Calling methods on the lockup contract is a bit more complicated than doing so on a normal contract because you will need to include the `accountId` option as well, which references the "owner" account for that lockup contract.\
-This is because the lockup contract isn't designed to do anything on its own; its methods need to be called from the perspective of the account which owns it.
-
-Methods must be called using one of two options:
-
-1. `near view ...`: these are simpler and don't modify anything or cost anything
-2. `near call ...`: these do require more arguments and require gas
-
-Arguments are passed using a hash with string arguments inside single quotes, for example:
-
-`near call some_lockup some_method '{"arg1": "value1", "arg2": "value2"}' --accountId=lockup_owner_account`
-
-View the [lockup github README](https://github.com/near/core-contracts/tree/master/lockup) for the documentation and the examples.
-
-### Example: Transferring staking reward tokens from the lockup
-
-To illustrate a common case of calling lockup methods with arguments, this is an example of transferring NEAR tokens that were earned from staking out of a lockup contract and into another arbitrary account. We assume the following have already occurred:
-
-1. The tokens were unstaked from the pool (which takes a 4-epoch waiting period) using `unstake` or `unstake_all`;
-2. The tokens were withdrawn from the pool to the lockup contract.
-
-For more information (or examples) on either of these steps, click on the "Token Delegation" link in the docs navigation above.
-
-Now that the staking rewards are in your account, it requires several steps to transfer them out because some values need to be manually updated in the contracts.
-
-The following steps will show how functions are called in the lockup contract while helping to illustrate a common use case. Of course, to simply transfer tokens that are already unlocked (not staking rewards), then skip to step 3.
-
-#### Step 1: Transfer Unlock Ping
-
-Start by pinging the lockup contract to tell it that transfers are unlocked. This _only needs to be done once total_.
-
-```
-# replace some_lockup.lockup.near and lockup_owner.near with the appropriate accounts
-near call some_lockup.lockup.near check_transfers_vote '{}' --accountId=lockup_owner.near --gas=75000000000000 --useLedgerKey="44'/397'/0'/0'/1'"
-```
-
-If you forget to do this, you might get an error like `panicked at 'Transfers are disabled', src/internal.rs:68:9`.
-
-#### Step 2: Refresh the staking pool balance
-
-Next, refresh the staking pool balance, so the lockup understands that you aren't trying to withdraw tokens beyond the amount which should still be locked.
-
-```
-near call some_lockup.lockup.near refresh_staking_pool_balance '{}' --accountId=lockup_owner.near --gas=75000000000000 --useLedgerKey="44'/397'/0'/0'/1'"
-```
-
-If you forget to do this, you might get an error like `panicked at 'The available liquid balance " 123456789 is smaller than the requested transfer amount 100000000000000000000000000`.
-
-#### Step 3: Transfer the tokens
-
-Transfer 100 NEAR from `some_lockup.near` to `some_recipient.near`. Remember that, to be transferable, the tokens must either be unlocked or staking rewards earned on top of the locked balance.
-
-```
-near call some_lockup.lockup.near transfer '{"receiver_id": "some_recipient.near", "amount": "100000000000000000000000000"}' --accountId=lockup_owner.near --gas=50000000000000 --useLedgerKey="44'/397'/0'/0'/1'"
-```
-
-If you forget to use the large amount of yoctoNEAR (e.g. you wrote "1.5" instead of "1500000000000000000000000"), you might get an error like `panicked at 'Failed to deserialize input from JSON.: Error("invalid digit found in string", line: 1, column: 17)'`
-
-## Frequent questions?
+## Frequently Asked Questions
 
 ### I don't see my full balance in my wallet
 

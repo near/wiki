@@ -12,6 +12,7 @@ New block creators are selected by the amount of wealth they’ve locked-up in t
 In the NEAR network, a decentralized pool of validators keeps the network secure by processing transactions and in return these validators receive a reward.
 
 ## Staking on NEAR
+
 Validators are people that stake their NEAR to build and maintain the NEAR network.
 Potential validators should have between three and five years of system administration, performance and monitoring experience as well as familiarity with open source software.
 To learn how to set up a validator node, have a look at our [Validator BootCamp](https://bootcamp.openshards.io/).
@@ -40,3 +41,10 @@ It's important to do your own due dilligence before any transaction, including d
 
 ## Liquid Staking
 
+Staking on PoS networks like NEAR means that your tokens are "locked", so you won't be able to transfer or use them for any other purpose while they are staked.
+This can present a dilemma for users who want to stake their NEAR, but also want to use their NEAR for other purposes, this is known as a liquidity crisis.
+
+That's where liquid staking comes in.
+Liquid staking allows you to use your staked assets in other activities so that you can benefit from staking rewards, and other on-chain activities including: lending, borrowing, or collateral.
+
+The number of liquid staking solutions is always growing, check out the community-run resource [AwesomeNEAR](https://awesomenear.com/) to find them.
