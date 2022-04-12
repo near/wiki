@@ -31,9 +31,9 @@ If you want staking rewards, but you don't want to run your own validating node,
 
 1. Understand the [Economics of a Validator](economics.md)
 2. Look at the current Validators on the [block explorer](https://explorer.near.org/nodes/validators). Gather information on their reliability, fees, and current stake.
-3. Properly plan your tokens custody, starting from the [available custody options](../getting-started/near-token/token-custody).
+3. Properly plan your tokens custody, starting from the [available custody options](../getting-started/near-token/token-custody.md).
 4. Verify what Validators offer to you, asking if they use the [staking pool](https://github.com/near/core-contracts) from NEAR Core Contracts, or their own smart contracts.
-5. If you are proficient with a command-line interface, look at the [delegation page](../getting-started/near-token/token-delegation) for a list of low-level commands you can use to stake.
+5. If you are proficient with a command-line interface, look at the [delegation page](../getting-started/near-token/token-delegation.md) for a list of low-level commands you can use to stake.
 6. Join the Validators channels on [Discord](https://near.chat) to ask questions and meet NEAR staking community.
 
 > **did you know?**

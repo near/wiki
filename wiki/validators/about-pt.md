@@ -32,7 +32,7 @@ Se você quer recompensas por fazer staking, mas não quer executar seu próprio
 2. Veja os validadores atuais no [explorador de blocos](https://explorer.near.org/nodes/validators). Colete informações sobre sua confiabilidade, taxas e stake atual.
 3. Planeje adequadamente sua custódia de tokens, a partir das [opções de custódia disponíveis](../getting-started/near-token/token-custody).
 4. Verifique o que os validadores oferecem para você, pergunte se eles usam a [staking pool](https://github.com/near/core-contracts) dos contratos principais NEAR ou seus próprios contratos inteligentes.
-5. Se você é proficiente com a interface de linha de comando, consulte a [página sobre delegação](../getting-started/near-token/token-delegation) para obter uma lista de comandos de baixo nível que você pode usar para fazer stake.
+5. Se você é proficiente com a interface de linha de comando, consulte a [página sobre delegação](../getting-started/near-token/token-delegation.md) para obter uma lista de comandos de baixo nível que você pode usar para fazer stake.
 6. Junte-se aos canais dos validadores no [Discord](https://near.chat) para fazer perguntas e conhecer a comunidade de staking da NEAR.
 
 > **você sabia?**
