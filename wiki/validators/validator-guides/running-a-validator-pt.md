@@ -213,7 +213,7 @@ seguido por: `nearup run testnet`
 
 ## Se Tornando um Validador no _Conjunto Ativo_
 
-Uma vez que a pool esteja no ar, você pode fazer _stake_ de seus tokens usando qualquer um dos métodos oferecidos na [documentação sobre delegação](../getting-started/near-token/token-delegation.md). Certifique-se que você está usando a ferramenta que suporta a TestNet, e não somente a MainNet.
+Uma vez que a pool esteja no ar, você pode fazer _stake_ de seus tokens usando qualquer um dos métodos oferecidos na [documentação sobre delegação](../../getting-started/near-token/token-delegation.md). Certifique-se que você está usando a ferramenta que suporta a TestNet, e não somente a MainNet.
 
 A TestNet e a MainNet da NEAR exigem um período de no mínimo 24 horas de ativação para aceitar sua oferta de pool. Você pode verificar se você é um validador quando, nos logs do nó, você ver "V/" - onde V significa que esse nó é validador:
 
