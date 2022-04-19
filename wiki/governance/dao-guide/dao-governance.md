@@ -1,76 +1,11 @@
 ---
-description: Astro DAO Factory aka Astro DAO of DAOs
+description: This is a guide to DAO Governance with Astro on NEAR.
 ---
+Before we discuss DAO governance, it's important that you either join a DAO, or [launch one](./how-to-launch-a-dao.md).
 
-# ✨ Astro DAO
+This guide covers the different features available to DAOs built with Astro on NEAR, including voting, custom tokens, NFTs, and other exciting features.
 
-### A**stro (SputnikDAO V2)**
-
-[**Astro**](https://astrodao.com) builds on the foundations of SputnikDAO V1 and widely expands the functionality of DAOs built atop it.  Features shipped with Astro include:
-
-* Flexible, role-based voting policies
-  * In V1 all DAO members were Council members and each had equal voting rights
-* Stable coin payouts
-  * This reduces the uncertainty imposed by crypto volatility between proposal requests and payouts
-* Polling system for governance
-* Electing representatives
-* Cross-DAO accountability&#x20;
-  * DAOs can serve as members of other DAOs
-  * DAOs can own each other's social tokens for shared investment in collaboration.
-
-Astro truly is the next evolution of SputnikDAO and comes with a host of new features, more flexibility, and a friendly UI.&#x20;
-
-With Astro, DAOs will be able to retain more autonomy and, importantly, cast the net further in regards to governance through increased flexibility and the introduction of governance tokens.&#x20;
-
-Despite the revamped user experience and broadened feature set, the goal of Astro remains the same; to empower communities within the NEAR ecosystem.
-
-### **Launching a DAO on Astro: DAO Presets**
-
-Before we guide you through the process of setting up your DAO, it’s important to understand the four pre-set DAO types that Astro has to offer. Do note that each of these can be fully customized during the creation process:
-
-![Astro DAO](/images/astrodao1.png)
-
-
-
-| **PRE-SET DAO TYPES**                                                                                                                                                                                                                                                      | **Proposals**                                                                                  | **Structure**                                                                                      | **Voting Power**                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <p><strong>Foundation</strong> - Ideal for groups giving donations, a DAO funding community projects, or a general-purpose fund for open-source projects.<br/></p>                                                                                                          | **Open** - Anyone can submit a proposal                                                        | <p><strong>Groups and Committees</strong> - Specific groups can vote on specific proposals<br/></p> | <p><strong>Democratic</strong> - Every member gets one vote<br/></p>   |
-| <p><strong>Clubs</strong> - Although still as flexible as any other DAO on Astro, are designed to cater to a small circle of friends/acquaintances with a common goal, a group of fans for anything and everything, or a social club - anything along those lines.<br/></p> | <p><strong>Members only</strong> - Only members or token-holders can submit a proposal<br/></p> | **Flat - No groups -** all members have equal access                                               | **Democratic** - Every member gets one vote                           |
-| <p><strong>Corporation</strong> - Enable more structure, this type is ideal for business with shareholders, and companies/startups.<br/></p>                                                                                                                                | **Members only** - Only members or token-holders can submit a proposal                         | **Groups and Committees** - Specific groups can vote on specific proposals                         | **Weighted** - The more tokens you own, the more voting power you get |
-| <p><strong>Cooperative</strong> - Aimed towards creative collectives, or businesses with members, rather than shareholders.<br/></p>                                                                                                                                        | **Members only** - Only members or token-holders can submit a proposal                         | **Groups and Committees** - Specific groups can vote on specific proposals                         | **Democratic** - Every member gets one vote                           |
-
-### **Launching a DAO on Astro: Step-By-Step**
-
-If you’re not already logged into your NEAR Wallet, go ahead and do so by clicking ‘log in’ in the top right corner of the Astro homepage.
-
-![Astro DAO](/images/astrodao2.png)
-
-1. On the landing page of Astro, select the organization you’re starting out of the four presets or hit ‘Create a DAO’ in the top right corner
-2. **Customize** each of the settings in regards to proposals, structure, and voting power to your liking
-3. **Name your DAO**
-   1. DAO Address
-      * This is unchangeable and will be the on-chain address of your DAO
-   2. Display name
-      * How your DAO will be displayed within the Astro application
-   3. Purpose
-      * Why have you created this DAO? Concentrating on your goals may help
-4. **Links**
-   * Here you can enter the links to your website and social media channels, if applicable
-5. **Select a flag**
-   * Move the window around to pick the flag of your DAO
-6. **Review and launch**
-   * Double check the information you’ve added is up to scratch and hit ‘Launch DAO’
-7. **Confirm the transaction** in your NEAR wallet and pay a small transaction fee
-
-![Astro DAO](/images/astrodao3.png)
-
-_**Voila**_! Your DAO is live and thriving on Astro!
-
-### Next Steps
-
-If your DAO isn’t utilizing a voting token, then you can skip the next part and refer to the details below to flex all the features of your DAO on Astro.
-
-#### Voting Tokens (Creation)
+## Voting Tokens (Creation)
 
 On the overview of your page you can begin the process of creating a voting token by hitting ‘Create a token for voting’.
 
@@ -86,7 +21,7 @@ On the overview of your page you can begin the process of creating a voting toke
 
 ![Astro DAO](/images/astrodao4.png)
 
-#### Creating a New Token
+### Creating a New Token
 
 If you’re creating a new token for governance within your DAO then you’ll need to fill out the details:
 
@@ -105,7 +40,7 @@ The DAO can then distribute voting tokens to members accordingly after the creat
 
 ![Astro DAO](/images/astrodao5.png)
 
-#### Adopting a Token Farm Token
+### Adopting a Token Farm Token
 
 1. Select ‘Adopt a Token Farm token’
 2. Select the token from the drop-down list
@@ -116,7 +51,7 @@ Note: Once you’ve selected a token for governance, this cannot be changed&#x20
 
 ![Astro DAO](/images/astrodao6.png)
 
-#### Adopting the NEAR Native Token
+### Adopting the NEAR Native Token
 
 1. Hit ‘Adopt the NEAR native token’
 2. Select ‘Propose’
@@ -125,11 +60,11 @@ Anyone with NEAR will be able to vote for proposals within this DAO.
 
 ![Astro DAO](/images/astrodao7.png)
 
-### Tasks
+## Tasks
 
 Astro is endowed with considerable flexibility within the interface itself. DAOs can create bounties, host polls, and  interact with the NEAR ecosystem directly through function calls under the ‘Plugins’ section
 
-#### Bounties
+### Bounties
 
 DAOs are able to post bounties which are, in essence, projects, tasks, and other pieces of work the DAO wants to complete. Each bounty will come with a specified reward which, upon successful completion of the bounty, will be received by the claimant.&#x20;
 
@@ -137,7 +72,7 @@ Bounties can range in complexity and length from meme/content creation to the re
 
 ![Astro DAO](/images/astrodao8.png)
 
-#### Creating a Bounty
+### Creating a Bounty
 
 DAOs looking to post bounties to the wider NEAR Community can do so in a few clicks:
 
@@ -152,7 +87,7 @@ DAOs looking to post bounties to the wider NEAR Community can do so in a few cli
 
 ![Astro DAO](/images/astrodao9.png)
 
-#### Claiming a Bounty
+### Claiming a Bounty
 
 Completing bounties can be a rewarding endeavor that contributes to the growth of the NEAR Ecosystem and the growth of DAOs.
 
@@ -172,7 +107,7 @@ You can un**-**claim a bounty within 2 days of claiming it in order to retrieve 
 
 Once your bounty is complete head back to the bounty which you claimed in Astro and hit ‘Complete bounty’. Fill in the details, including your payment address and the completed bounty, and hit ‘Propose’. This will then be sent to the DAO for review. If the bounty has been satisfied, the DAO will distribute funds to your specified payout address.
 
-#### Polls
+### Polls
 
 Polls are a simple way to gauge the opinions of the members of your DAO. You can ask any question and invite members to vote with a simply yes or no. Creating a poll is easy:
 
@@ -190,7 +125,7 @@ All done. Your poll is live!
 
 To participate in a poll simply select the poll and hit the green thumbs up or red thumbs down depending on which way you want to vote.
 
-#### Plugins
+### Plugins
 
 The plugins section allows for NEAR function calls which enable your DAO to interact with applications in the NEAR ecosystem. This functionality is only restricted by the breadth of function calls on NEAR. Essentially, the DAO can interact with any other dApp just as a user would.
 
@@ -198,9 +133,9 @@ The plugins section allows for NEAR function calls which enable your DAO to inte
 
 ![Astro DAO](/images/astrodao14.png)
 
-### Treasury
+## Treasury
 
-Unlike SputnikDAO V1, DAOs built on Astro can retain a treasury of multiple assets, rather than being restricted to just NEAR. The treasury is divided into fungible tokens (tokens) and NFTs.
+DAOs built on Astro can retain a treasury of multiple assets, rather than being restricted to just NEAR. The treasury is divided into fungible tokens (tokens) and NFTs.
 
 From the Treasury section of Astro, users can send tokens to create a new payment proposal and find more details on a particular token in the treasury.
 
@@ -208,17 +143,17 @@ The treasury balance is displayed in USD.
 
 ![Astro DAO](/images/astrodao15.png)
 
-#### Tokens
+### Tokens
 
 Here the balance of all fungible tokens is displayed. DAOs can ‘hold’ any NEP141 asset within the treasury.
 
-#### NFTs
+### NFTs
 
 Non fungible tokens are displayed in a gallery style and can be sent out in a similar manner to sending fungible tokens.
 
 ![Astro DAO](/images/astrodao16.png)
 
-#### Sending Tokens
+### Sending Tokens
 
 Tokens can be sent by a DAO to those who may have requested funding or a grant.&#x20;
 
@@ -234,7 +169,7 @@ This will create a proposal within Astro for governance participants to vote upo
 
 ![Astro DAO](/images/astrodao17.png)
 
-#### Requesting Payouts
+### Requesting Payouts
 
 If you’re external to the DAO and wish to request funding you can do so:
 
@@ -251,13 +186,13 @@ Head to the DAO page on Astro
 
 Governance participants will be invited to vote on the payout request. If approved, funds will be sent to the specified payout address. The bond will be returned to the proposer unless the proposal is marked as spam.
 
-### Groups
+## Groups
 
 Within Astro, members of DAOs can be bundled into groups. With groups, DAOs have more flexibility in regards to governance due to the ability to restrict the voting on certain proposal types to members of specific groups. Additionally, groups serve as a way to clearly identify the roles of members within a DAO.
 
 ![Astro DAO](/images/astrodao18.png)
 
-#### How to Create a Group
+### How to Create a Group
 
 1. Under the ‘Groups’ section of Astro hit ‘Add group’
 2. Enter the details for your proposed group:
@@ -271,7 +206,7 @@ After the proposal is accepted the group will be created and members can be adde
 
 ![Astro DAO](/images/astrodao19.png)
 
-#### Adding Group Members
+### Adding Group Members
 
 1. Under the ‘Groups’ section of Astro select the Group you want to add a member to and hit ‘Add member to this group’
 2. Enter the details
@@ -300,11 +235,11 @@ If and when it’s approved by the DAO that member will be removed from the spec
 
 ![Astro DAO](/images/astrodao21.png)
 
-### Governance
+## Governance
 
 The governance process sits at the core of a DAO and is exemplified within Astro. With a variety of governance methods, DAOs are empowered to leverage their community and members to achieve their goals in a transparent manner.
 
-#### DAO Settings
+### DAO Settings
 
 The setting section of your DAO in Astro includes details on:
 
@@ -317,7 +252,7 @@ The setting section of your DAO in Astro includes details on:
 
 Each of these are set during the DAO creation process but, through governance, can be amended through the DAO Settings section.
 
-#### Voting policy
+### Voting policy
 
 Here, Astro users can amend the voting policies for all aspects of the DAO. Proposals can be restricted to ensure that only members of the DAO who are in a certain group have voting rights.&#x20;
 
@@ -329,11 +264,3 @@ DAOs can amend
 * The bond required to submit proposals
 * The threshold required for proposals to pass
 
-### A Note on DAOs
-
-Decentralized autonomous organizations are still in their relative infancy. However, we believe the accessibility granted by Astro will open up the world of DAOs to the masses.&#x20;
-
-On that note, build, create, and innovate through your DAO and unlock all of the benefits that a decentralized, open, and transparent system can yield.
-
-Happy building! \
-Come and join the Astro Community over on Telegram [here](https://t.me/astro\_near)\
