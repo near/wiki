@@ -1,3 +1,7 @@
+---
+title: NFTs on NEAR
+description: A guide to non-fungible tokens on NEAR.
+---
 ## What's an NFT?
 
 Non-Fungible Tokens (NFTs) are digital certificates of ownership for digital assets. These digital certificates are published into an [ERC-721](https://eips.ethereum.org/EIPS/eip-721) token, and once written, they're secured on the blockchain.

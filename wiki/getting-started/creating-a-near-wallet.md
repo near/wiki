@@ -1,5 +1,6 @@
 ---
 description: A step-by-step guide to creating your NEAR Wallet
+title: Creating a NEAR Wallet
 ---
 
 # Creating a NEAR Wallet

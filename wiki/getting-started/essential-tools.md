@@ -1,4 +1,7 @@
-
+---
+title: Essential Tools
+description: A brief overview of some essential tools to get started with NEAR.
+---
 There are a lot of ways to interact with both NEAR protocol and the NEAR token.
 While the number of tools that can interface with NEAR for different use-cases is always growing, we're going to look at a short list of essential tools to help you start using NEAR.
 

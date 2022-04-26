@@ -1,4 +1,6 @@
-# Integrator FAQ
+
+
+# FAQ
 
 ## Orientation
 

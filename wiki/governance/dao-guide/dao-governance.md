@@ -1,5 +1,6 @@
 ---
 description: This is a guide to DAO Governance with Astro on NEAR.
+title: DAO Governance
 ---
 Before we discuss DAO governance, it's important that you either join a DAO, or [launch one](./how-to-launch-a-dao.md).
 
@@ -264,3 +265,4 @@ DAOs can amend
 * The bond required to submit proposals
 * The threshold required for proposals to pass
 
+Now that you know what you can DAO,
