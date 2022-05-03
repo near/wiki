@@ -2,9 +2,5 @@
   "label": "Ecosystem",
   "collapsible": true,
   "collapsed": true,
-  "link": {
-    "type": "generated-index",
-    "slug": "/ecosystem",
-    "title": "Ecosystem"
-  }
+  "position": 2
 }

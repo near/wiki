@@ -1,4 +1,9 @@
-# Ecosystem Team
+---
+title: Projects on NEAR
+description: Information and resources to launch a project on NEAR.
+---
+
+# Projects on NEAR
 
 Welcome to the NEARverse! 
 

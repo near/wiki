@@ -1,3 +1,8 @@
+---
+title: DApps
+description: DApps are unique to blockchain.
+---
+
 # dApps
 
 decentralized Applications (dApps) are applications developed for blockchains.

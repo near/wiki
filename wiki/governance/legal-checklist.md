@@ -1,3 +1,7 @@
+---
+title: Legal Checklist
+description: A basic list of legal processes to go through when creating and organizing a DAO.
+---
 # Legal Checklist
 
 ## Legal Setup

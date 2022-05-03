@@ -1,4 +1,5 @@
 ---
+title: Communities on NEAR
 description: Guilds are the heart beat of the NEARVerse.
 ---
 

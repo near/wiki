@@ -15,13 +15,15 @@ The contributions to this Wiki have been made by the NEAR Community and members 
 
 
 
-## What is NEAR Protocol?&#x20;
+## What is NEAR Protocol?
 
 NEAR is a simple, scalable, and secure blockchain platform designed to provide the best possible experience for developers and users, which is necessary to bridge the gap to mainstream adoption of decentralized applications. NEAR is completely carbon neutral as certified by South Pole.
 
-Unlike other blockchains, this network has been built from the ground up to be the easiest in the world for both developers and their end-users while still providing the scalability necessary to serve those users. Specifically, NEAR is designed to make it easier to: Build decentralized applications, even if you're only used to building with "traditional" web or app concepts. Onboard users with a smooth experience, even if they have never used crypto, tokens, keys, wallets, or other blockchain artifacts. Scale your application seamlessly - the underlying platform automatically expands capacity via sharding without additional costs or effort on your part.
+Unlike other blockchains, this network has been built from the ground up to be the easiest in the world for both developers and their end-users while still providing the scalability necessary to serve those users.
+Specifically, NEAR is designed to make it easier to: Build decentralized applications, even if you're only used to building with "traditional" web or app concepts.
+Onboard users with a smooth experience, even if they have never used crypto, tokens, keys, wallets, or other blockchain artifacts. Scale your application seamlessly - the underlying platform automatically expands capacity via sharding without additional costs or effort on your part.
 
-## What is the NEAR Token and How Can I Use It?&#x20;
+## What is the NEAR Token and How Can I Use It?
 
 NEAR is the native token of the NEAR blockchain. It has a variety of use cases:
 
@@ -35,7 +37,7 @@ NEAR is the native token of the NEAR blockchain. It has a variety of use cases:
 
 ## Why NEAR?
 
-&#x20;You may have heard of distributed computing, databases, or computer networks, all of which play a role in blockchains.
+You may have heard of distributed computing, databases, or computer networks, all of which play a role in blockchains.
 
 Currently, most web-services utilize a single server and a single database to process your request and provide information. This infrastructure is usually managed by an individual entity who treats all of their data processing like a black box: the request goes in, something happens, and the user receives an output.
 
@@ -49,12 +51,9 @@ To set the stage, we’re building a “base-layer blockchain,” or a layer-one
 Interested in learning more? Check out the [NEAR Website](https://near.org).
 :::
 
-## Journeys
-
-| [**Developers**](https://wiki.near.org/technology/docs)                                                                                                                                                       | [**Validators**](validators/about.md)                                                                                                                                                                                | Communities                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="technology/docs/">Docs</a></p><p><a href="technology/dev-guides">Guides</a></p><p><a href="ecosystem/dev-education">Education</a></p><p><a href="technology/dev-support">Support</a></p> | <p><a href="validators/validators/">Docs</a></p><p><a href="validators/validator-guides/">Guides</a></p><p><a href="#broken-reference/">Education</a></p><p><a href="validators/validator-support">Support</a></p> | <p><a href="community/Community-Intro">Get Started</a></p><p><a href="ecosystem/dapps">dApps</a></p><p><a href="#broken-reference/">Earn</a><br/><a href="#broken-reference/">Support</a></p><p><a href="#broken-reference/">Community</a></p><p><a href="#broken-reference/">Education</a></p> |
 
 _To contribute to this wiki, see the_ [_Contributing page_](contributing.md)
 
-The next step in your NEAR journey, if you haven't yet, is to create your own NEAR Wallet. Your NEAR Wallet is your key to the world of dApps and Web3 on NEAR.
+This wiki is a great resource to start learning about NEAR.
+The next step in your NEAR journey, if you haven't yet, is to [create your own NEAR Wallet](./creating-a-near-wallet.md).
+Your NEAR Wallet is your key to the world of dApps and Web3 on NEAR.

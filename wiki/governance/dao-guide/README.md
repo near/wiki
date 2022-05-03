@@ -1,5 +1,7 @@
 ---
+title: DAO Guide
 description: Your map to navigating the world of DAOs on NEAR
+slug: /governance
 ---
 
 # Your Guide to DAOs on NEAR

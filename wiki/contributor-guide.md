@@ -94,6 +94,11 @@ title: Contributor Guide
 This tells browsers and search engines what content is on a page, and what each page is called. 
 Every page should have frontmatter, to make pages on the wiki easy to find and share.
 
+If you want to link to a definition in the glossary, you can use a markdown link:
+```md
+[Word](./getting-started/glossary.md#word)
+```
+In the above example, you put the word you're defining inside a pair of `[]`, then you link the glossary page inside `()` with a `#` followed by the specific word you're linking to.
 
 ### NEAR-Specific style
 
