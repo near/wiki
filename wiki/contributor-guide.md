@@ -19,7 +19,7 @@ For simple content changes you have 2 options
 This is the fastest way to submit content changes directly from the page where you notice a mistake.
 
 1. Open any page in the docs on https://wiki.near.org
-2. Click the `[ Edit ]` button at the top right hand side of _every_ content page
+2. Click the `[ Github ]` button at the top right hand side of _every_ content page
 3. Make your edits to the document that opens in GitHub by clicking the ✎ (pencil) icon
 4. Submit a PR with your changes and comments for context
 
