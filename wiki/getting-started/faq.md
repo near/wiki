@@ -27,7 +27,7 @@ A US-based software research and development company that did much of the early 
 
 ### Who is Building The NEAR Protocol?
 
-Much of the early development of the protocol and its tooling has been done by NEAR Inc.
+Much of the early development of the protocol and its tooling has been done by Near Inc. (now Pagoda)
 
 ### Where Can I Learn More About NEAR?
 
