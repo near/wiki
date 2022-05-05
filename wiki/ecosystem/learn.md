@@ -15,7 +15,7 @@ If you're looking to learn more about NEAR, have a look at [NEAR University](htt
 This resource isn't just for developers, there are courses for people fulfilling all kinds of roles in the NEAR ecosystem, from enthusiasts to designers. Visit [NEAR University](https://near.university) to learn more about it.
 
 ## LearnNEAR
-[LearnNEAR](learnnear.club) is a resource with guides and courses about NEAR. 
+[LearnNEAR](https://learnnear.club) is a resource with guides and courses about NEAR. 
 It covers topics about the NEAR protocol,blockchain technology, and also covers different use-cases for NEAR.
 
 When you complete guides on LearnNEAR, you gain [nLearns](https://learnnear.club/what-are-nlearns/). 
