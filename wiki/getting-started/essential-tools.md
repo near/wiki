@@ -20,7 +20,7 @@ It also gives you a historical look at [statistics](https://explorer.near.org/st
 
 You can find detailed information about the latest block, and the latest transaction.
 Alternatively, you can search for a specific block hash, or transaction hash to find out more about them.
-You can also, search for a specific account address to find out more about it.
+Additionally, you can search for a specific account address to find out more about it.
 
 ## Command Line Interface (CLI)
 
