@@ -37,3 +37,5 @@ Now, you need to confirm your transaction.
 Finally, if the transfer details are accurate and you're satisfied with the fee, click the "Approve" button.
 
 ![Approve transfer](/images/rainbowbridge4.png)
+
+**Note:** Depending on the direction of your bridge transactions, you may be requested to confirm additional transactions in MetaMask and/or NEAR Wallet.
