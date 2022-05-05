@@ -27,3 +27,5 @@ This resource is aimed at developers with experience in Web 2, who are new to We
 It's an interactive course that teaches how to integrate blockchain technology with an application.
 When you complete it, you receive a certificate of completion.
 
+## NEAR Week
+[NEAR Week](https://nearweek.com/) is a community-driven newsletter. It covers anything and everything within the NEAR Ecosystem. If you're looking for an extra dose of NEAR-focused news, look no further.
