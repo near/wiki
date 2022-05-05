@@ -6,8 +6,8 @@ title: NEAR Token
 # NEAR Token
 This is the native token used in NEAR Protocol.
 It has multiple use cases:
-- Secures the network
-- Provides a unit of account
+- Secures the network through staking
+- Provides a unit of account - NEAR is used for processing transactions and storing data
 - Serves as a medium of exchange
 
 ### Securing the Network
@@ -18,8 +18,6 @@ Rewards for providing this service are received in NEAR.
 ## Providing a Unit of Account
 NEAR is used to price computation and storage on the NEAR infrastructure.
 The network charges transaction fees in NEAR to process changes and transactions.
-NEAR can also be used in applications (or other external parties) to measure the amount of exchange within an application.
-
 
 ## Medium of Exchange
 NEAR is readily available on the protocol level, so it can be used to transfer value between NEAR applications and accounts.
