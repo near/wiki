@@ -80,7 +80,7 @@ There are a few things you need to know:
 2. One lockup contract can only delegate to a single pool.&#x20;
 3. The account must keep a minimum balance of 3.5 $NEAR to cover storage for the lockup contract itself (transactions that will try to withdraw over that amount will just fail).&#x20;
 4. Delegation rewards can be withdrawn back to the lockup contract but are unlocked, so they can be withdrawn from it right away.&#x20;
-5. Delegating commands/tools which are not specifically configured to work with locked-up accounts won't work, as the "owner account" must call a lockup contract. Currently, Dokia and NEAR Wallet are adding native support for lockup contract delegation.
+5. Delegating commands/tools which are not specifically configured to work with locked-up accounts won't work, as the "owner account" must call a lockup contract. 
 
 ## Frequently Asked Questions
 
@@ -94,20 +94,9 @@ There are three ways to go:
 * [Import your account into NEAR Wallet](token-custody.md#importing-accounts-from-other-wallets);
 * Use CLI to check your balance: `near view <LOCKUP_ACCOUNT_ID> get_balance ''` (note it outputs the value in yoctoNEAR - divide by 10e24 to get NEAR amount).
 
-### How do I delegate locked-up tokens?
-
-It's important to note, that a single lockup contract can only delegate to a single validator.
-
-Go to Dokia's staking UI: [https://staking.dokia.cloud/staking/near/validators](https://staking.dokia.cloud/staking/near/validators)
-
-1. Select the validator you want to delegate;
-2. Choose either to do it via Web Interface or CLI;
-3. With NEAR Wallet or Ledger you can use Web Interface;
-4. To use CLI, make sure you have [near-cli](https://github.com/near/near-cli) installed and either use Ledger, have seed phrase, or have secret key locally.
-
 ### If I have a lockup, what do I need to do to transfer my tokens once they are available from the Wallet?
 
-If you use NEAR Wallet, you can just spend them as normal. You will just have to confirm a couple of extra transactions ("check vote" and "transfer").\
+If you use NEAR Wallet, you can just transfer them as normal. You will just have to confirm a couple of extra transactions ("check vote" and "transfer").\
 Other wallets may implement this differently.
 
 > Got a question? [Ask it on StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
