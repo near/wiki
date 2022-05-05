@@ -9,7 +9,7 @@ title: FAQs
 
 It’s a decentralized application platform running on its own blockchain, that solves usability and scaling via sharding.
 
-### What is The Difference Between NEAR Inc and The NEAR Protocol?
+### What is The Difference Between Near Inc and The NEAR Protocol?
 
 Generally, we differentiate between many of the different entities who are building the NEAR platform. Two of those different entities are the NEAR Foundation and NEAR Inc.
 
@@ -21,9 +21,9 @@ A permissionless, Proof-of-Stake blockchain protocol that anyone can access, add
 
 A non-profit foundation headquartered in Switzerland, and is responsible for contracting protocol maintainers, funding ecosystem development, and shepherding core governance of the protocol.
 
-#### NEAR Inc
+#### Pagoda (Formely Near Inc)
 
-A US-based software research and development company that did much of the early development of the protocol and its tooling. While NEAR Inc does not own or run the NEAR Protocol (which is decentralized), it continues to propose changes to the reference implementation codebase as one of multiple third-party entities performing R&D work for the protocol.
+A US-based software research and development company that did much of the early development of the protocol and its tooling. While [Pagoda](https://www.pagoda.co//), which is the new branding of Near Inc, does not own or run the NEAR Protocol (which is decentralized), it continues to propose changes to the reference implementation codebase as one of multiple third-party entities performing R&D work for the protocol.
 
 ### Who is Building The NEAR Protocol?
 
