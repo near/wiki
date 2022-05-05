@@ -25,6 +25,9 @@
       "pattern": "^https://www.mintbase.io"
     },
     {
+      "pattern": "^https://twitter.com"
+    },
+    {
       "pattern": "^https://rpc."
     }
   ],
