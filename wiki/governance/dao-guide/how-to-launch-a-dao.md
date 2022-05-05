@@ -44,6 +44,8 @@ If you’re not already logged into your NEAR Wallet, go ahead and do so by clic
 
 _**Voila**_! Your DAO is live and thriving on Astro!
 
+**Note:** The creation of a DAO on Astro requires a storage fee of 5 NEAR, this is a fee for deploying the DAO and does not go to the platform.
+
 ### Next Steps
 
 If your DAO isn’t utilizing a voting token, then you can skip the next part and refer to the details below to flex all the features of your DAO on Astro.
