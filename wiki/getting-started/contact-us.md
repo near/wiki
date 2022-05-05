@@ -10,6 +10,6 @@ NEAR is primarily community centered, so the best way to contact somebody with k
 - [Telegram](https://t.me/cryptonear)
 - [NEAR Forum](https://gov.near.org/)
 
-Alternatively, if you need to contact somebody at NEAR Foundation and the community links above weren't helpful you can email [NEAR Foundation](mailto:hello@near.foundation).
+Alternatively, if you need to contact somebody at NEAR Foundation and the community links above weren't helpful you drop us an [email](mailto:hello@near.foundation).
 
 If you are encountering issues with your wallet, you can open a [support ticket here](https://nearhelp.zendesk.com/hc/en-us).
