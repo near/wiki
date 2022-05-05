@@ -4,7 +4,7 @@ description: A guide to non-fungible tokens on NEAR.
 ---
 ## What's an NFT?
 
-Non-Fungible Tokens (NFTs) are digital certificates of ownership for digital assets. These digital certificates are published into an [ERC-721](https://eips.ethereum.org/EIPS/eip-721) token, and once written, they're secured on the blockchain.
+Non-Fungible Tokens (NFTs) are digital certificates of ownership for digital assets. These digital certificates are published into an [NEP-171](https://nomicon.io/Standards/Tokens/NonFungibleToken/Core) token, and once written, they're secured on the blockchain.
 
 To create NFTs, the identifying information for these unique digital assets must be recorded on a smart contract. The information on the smart contract is what makes an NFT unique. Anything can be turned into an NFT, with the most popular being videos, media files, or images.
 
