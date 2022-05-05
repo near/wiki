@@ -265,4 +265,4 @@ DAOs can amend
 * The bond required to submit proposals
 * The threshold required for proposals to pass
 
-Now that you know what you can DAO,
+Now that you know what you can _DAO_, go ahead and explore!
