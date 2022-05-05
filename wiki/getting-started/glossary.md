@@ -11,9 +11,6 @@ A string of letters and numbers used to receive or send cryptocurrencies, tokens
 ## Airdrop
 A marketing campaign used by crypto developers to distribute tokens to their early adopters and followers of their projects.
 
-## Atomic Swap
-An exchange of tokens that does not involve the intervention of any trusted intermediary and automatically reverts if all of the provisions are not met.
-
 ## Block
 An aggregation of chunks.
 
@@ -86,9 +83,8 @@ An attack where a blockchain network user attempts to explicitly double spend a 
 This is a problem which has plagued many digital money systems, and a problem that most blockchain networks are designed to prevent.
 
 ## Epoch
-A large time bucket during which many blocks are produced.
+A time bucket during which many blocks are produced.
 Certain calculations are performed only based on this time window.
-An epoch is initially set to ½ of a day.
 
 ## Formal Verification
 A systematic process that uses mathematical reasoning and mathematical proofs (i.e., formal methods in mathematics) to verify that the system satisfies its desired properties, behavior, or specification (i.e., the system implementation is a faithful representation of the design).
@@ -155,7 +151,7 @@ An individual system within the blockchain network.
 
 ## Non-Fungible Token (NFT)
 Non-Fungible Tokens (NFTs) are digital certificates of ownership for digital assets.
-These digital certificates are published into an [ERC-721](https://eips.ethereum.org/EIPS/eip-721) token, and once written, they're secured on the blockchain.
+These digital certificates are published into an [NEP-171](https://nomicon.io/Standards/Tokens/NonFungibleToken/Core) token, and once written, they're secured on the blockchain.
 
 To create NFTs, the identifying information for these unique digital assets must be recorded on a smart contract.
 The information on the smart contract is what makes an NFT unique.
@@ -170,7 +166,7 @@ Refers to data that is stored or a process that is implemented and executed outs
 A community based organisation within the NEAR Protocol ecosystem.
 
 ## Oracle
-A source of data from outside a blockchain that serves as input for a smart contract.
+A tool which transfers off-chain data on-chain and vice versa.
 
 ## Paper Wallet
 A paper wallet is an offline method (written on a piece of paper) that includes a user’s private key, public key, and wallet address that are used to store and transact cryptocurrencies online with an exchange or blockchain node.
@@ -219,15 +215,8 @@ A staking pool allows multiple stakeholders (or bagholders) to combine their com
 ## Testnet
 This is a separate blockchain on a network where developers can put new features through their paces without worrying about jeopardizing the main network.
 
-## Token
-A token is a type of cryptocurrency that represents an asset or specific use and resides on it's own blockchain.
-Tokens can be used for investment purposes, to store value, or to make purchases.
-
 ## Token Lockup
-This refers to a time period during which cryptocurrency tokens cannot be exchanged or traded.
-
-## Trading
-Buying and selling digital assets.
+This refers to a time period during which crypto tokens cannot be exchanged or traded.
 
 ## Transactions Per Second (TPS)
 This is the speed that a blockchain network processes transactions.
