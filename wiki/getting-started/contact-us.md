@@ -6,9 +6,9 @@ sidebar_position: 10
 
 NEAR is primarily community centered, so the best way to contact somebody with knowledge about NEAR when you have questions or suggestions is within the NEAR community:
 
-- [Discord](near.chat)
-- [Telegram](t.me/cryptonear)
-- [NEAR Forum](gov.near.org/)
+- [Discord](https://discord.com/invite/UY9Xf2k)
+- [Telegram](https://t.me/cryptonear)
+- [NEAR Forum](https://gov.near.org/)
 
 Alternatively, if you need to contact somebody at NEAR Foundation and the community links above weren't helpful you can email [NEAR Foundation](mailto:hello@near.foundation).
 
