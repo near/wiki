@@ -41,7 +41,7 @@ It depends on the guild, some have an open door policy, whereas others are more 
 
 **What if I have a talent and want to use it but am not interested in joining a guild right now?**
 
-If you want to contribute but aren’t sure about joining a Guild right now, you can still contribute by taking part in bounties or applying for grants. The Open Web Sandbox is a great place to explore what opportunities are currently available. 
+If you want to contribute but aren’t sure about joining a Guild right now, you can still contribute by taking part in bounties or applying for grants. The [Open Web Sandbox](https://www.openwebsandbox.org/) is a great place to explore what opportunities are currently available. 
 
 **What if after exploring all of the existing guilds I still don't find one that matches my passions?**
 
