@@ -9,9 +9,9 @@ title: FAQs
 
 It’s a decentralized application platform running on its own blockchain, that solves usability and scaling via sharding.
 
-### What is The Difference Between Near Inc and The NEAR Protocol?
+### What is The Difference Between Pagoda (formerly NEAR Inc) and The NEAR Protocol?
 
-Generally, we differentiate between many of the different entities who are building the NEAR platform. Two of those different entities are the NEAR Foundation and NEAR Inc.
+Generally, we differentiate between many of the different entities who are building the NEAR platform. Two of those different entities are the NEAR Foundation and Pagoda.
 
 #### The NEAR Protocol
 
@@ -27,7 +27,7 @@ A US-based software research and development company that did much of the early 
 
 ### Who is Building The NEAR Protocol?
 
-Much of the early development of the protocol and its tooling has been done by Near Inc. (now Pagoda)
+Much of the early development of the protocol and its tooling has been done by Pagoda (formerly NEAR Inc).
 
 ### Where Can I Learn More About NEAR?
 
