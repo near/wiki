@@ -1,9 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "NEAR Wiki",
@@ -15,7 +12,14 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "near", // Usually your GitHub org/user name.
   projectName: "wiki", // Usually your repo name.
-  scripts: ["/js/hotjar.js"],
+  scripts: [
+    "/js/hotjar.js",
+    "https://use.fontawesome.com/releases/v5.15.4/js/all.js",
+  ],
+  stylesheets: [
+    "https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700&display=swap",
+    "https://cdn.statically.io/gh/nearprotocol/near-global-footer/main/footer.css",
+  ],
   presets: [
     [
       "classic",
@@ -48,12 +52,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: true,
+      },
       navbar: {
         title: "Wiki",
         logo: {
           alt: "NEAR Logo",
           src: "img/near_logo.svg",
-          srcDark: "img/near_logo_white.svg",
         },
         items: [
           {
@@ -98,62 +105,8 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Wiki",
-                to: "/",
-              },
-              {
-                label: "Dev Docs",
-                to: "https://docs.near.org",
-              },
-              {
-                label: "Specifications",
-                to: "https://nomicon.io",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/nearprotocol",
-              },
-              {
-                label: "Discord",
-                href: "https://near.chat",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/NEARProtocol",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "SDK Docs",
-                to: "https://near-sdk.io/",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/near/wiki",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://near.org">NEAR Protocol</a> | All rights reserved | hello@near.org`,
-      },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: require("prism-react-renderer/themes/github"),
       },
       algolia: {
         // The application ID provided by Algolia
