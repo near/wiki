@@ -48,6 +48,7 @@ The NF Grants program provides non-equity funding for a variety of projects rang
 <li>Pitch, memo
 
 </li>
+</li>
 </ul>
    </td>
   </tr>
