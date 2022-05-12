@@ -60,7 +60,7 @@ Overall, the standard application review time is 4-6 weeks. The table above feat
 
 We encourage projects applying for the first time to submit an application for a pilot of their project. Typically pilot projects have been funded on average at ~$60K for 3-6 months of dev work.
 
-To learn more about the grants process and to apply for a grant, visit [Near.org/grants](Near.org/grants)
+To learn more about the grants process and to apply for a grant, visit [Near.org/grants](https://near.org/grants/)
 
 
 ## Education Grants
