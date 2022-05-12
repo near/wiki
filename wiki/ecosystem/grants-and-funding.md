@@ -1,3 +1,8 @@
+---
+description: All you need to know about funding and grants on NEAR.
+title: Grants and Funding
+---
+
 **Welcome to the NEAR Foundation funding platform** — your home to grow your decentralized project from non-equity grant to seed funding and beyond. Funding from the Near Foundation (NF) comprises the following programs: Direct Grant, Education Grants, Grant Pools, Direct Investments, Ecosystem Funds, our Backer Network, and DAO Investments. To learn more about each program and where your project fits in, read below.
 
 ![NF Funding Image](/images/nffunding.png)
