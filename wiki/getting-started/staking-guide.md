@@ -20,13 +20,53 @@ Delegators are those who commit their NEAR to a validator to assist in securing 
 Potential validators should have between three and five years of system administration, performance and monitoring experience as well as familiarity with open source software.
 To learn how to set up a validator node, have a look at our [Validator BootCamp](https://bootcamp.openshards.io/).
 
-
 The number of seats for validators is limited, so most people who stake on NEAR are delegators.
 Delegators are entities who provide security for NEAR by delegating their tokens to validators.
 This empowers members of the NEAR community to provide security to the network without becoming a validator.
 When you delegate your NEAR to a validator, you receive a percentage of their reward.
 This is what is commonly referred to as "Staking".
 
+## How to Stake
+
+You can use the [NEAR wallet](https://wallet.near.org/) to stake your NEAR.
+Choose the `Staking` tab in the navigation menu.
+
+
+This screen shows you how much NEAR you currently have staked, how much you have earned in NEAR rewards from staking, and where you're NEAR is staked.
+Choose the `Stake My Tokens` button to start staking your NEAR.
+
+![Staking tab](/images/staking1.png)
+
+You'll be able to choose a validator pool to stake your tokens with.
+Different pools charge different fees, and the fee is a percentage of your staking rewards.
+
+![Choose pool](/images/staking2.png)
+
+After selecting a pool, you'll see:
+- The validator fee
+- A summary of how much you already have staked with that particular pool
+- The amount of NEAR rewards you've earned with that pool
+- How much you can withdraw from that pool
+
+If this is the first time you're staking with a particular pool, you won't have any rewards earned from them yet.
+
+When you're satisfied with your choice, click the `Stake with Validator` button.
+
+![Pool summary](/images/staking3.png)
+
+Next, you can choose how much you'd like to stake with the validator pool.
+
+![Staking page](/images/staking5.png)
+
+Finally, you'll have a success screen confirming that you've staked your NEAR with a validator pool.
+
+![Staking success](/images/staking7.png)
+
+The staking tab will now be updated to show how much you have staked in total, and which validator pools you've staked your NEAR with.
+When you earn rewards, you'll also be able to see how much you have earned in NEAR here.
+![Staking overview update](/images/staking8.png)
+
+Next, let's take a look at how to find validators to stake with.
 ## Finding Validators
 
 The staking pool currently allows validators to choose what fee they charge on the rewards earned by their staking pools.
