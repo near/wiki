@@ -85,7 +85,7 @@ Next, choose the amount of NEAR you'd like to unstake from the validator and cli
 
 Finally, confirm the amount of NEAR you're unstaking.
 This screen also tells you how long you'll need to wait for the NEAR you've unstaked to become available in your wallet.
-It can take up to 4 epochs to unstake your NEAR.
+Unstaked tokens will be made available pending a release period of ~52-65hrs (4 epochs).
 
 ![Unstake confirmation page](/images/Unstaking4.png)
 
