@@ -66,6 +66,38 @@ The staking tab will now be updated to show how much you have staked in total, a
 When you earn rewards, you'll also be able to see how much you have earned in NEAR here.
 ![Staking overview update](/images/staking8.png)
 
+
+## Unstaking Your NEAR
+
+You can also unstake your NEAR from the `Staking` tab.
+When you'd like to unstake your NEAR, start by clicking the `Unstake` button.
+
+![Staking Overview](/images/Unstaking1.png)
+
+The next screen will show you which validator pools you're currently staking your NEAR with.
+Choose the validator you want to unstake your NEAR from.
+
+![Unstake from validator page](/images/Unstaking2.png)
+
+Next, choose the amount of NEAR you'd like to unstake from the validator and click `Unstake Tokens`.
+
+![Unstake tokens page](/images/Unstaking3.png)
+
+Finally, confirm the amount of NEAR you're unstaking.
+This screen also tells you how long you'll need to wait for the NEAR you've unstaked to become available in your wallet.
+It can take up to 4 epochs to unstake your NEAR.
+
+![Unstake confirmation page](/images/Unstaking4.png)
+
+You'll now see a success page to let you know your NEAR is being unstaked.
+
+![Unstake success page](/images/Unstaking5.png)
+
+
+You can keep track of how much NEAR you have available, and how much is still being unstaked in the `Staking` tab.
+
+![Staking tab with pending transaction](/images/Unstaking6.png)
+
 Next, let's take a look at how to find validators to stake with.
 ## Finding Validators
 
@@ -90,3 +122,4 @@ That's where liquid staking comes in.
 Liquid staking allows you to use your staked assets in other activities so that you can benefit from staking rewards, and other on-chain activities.
 
 The number of liquid staking solutions is always growing, check out the community-run resource [AwesomeNEAR](https://awesomenear.com/) to find them.
+
