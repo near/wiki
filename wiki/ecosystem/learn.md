@@ -14,13 +14,11 @@ If you're looking to learn more about NEAR, have a look at [NEAR University](htt
 
 This resource isn't just for developers, there are courses for people fulfilling all kinds of roles in the NEAR ecosystem, from enthusiasts to designers. Visit [NEAR University](https://near.university) to learn more about it.
 
-## LearnNEAR
-[LearnNEAR](https://learnnear.club) is a resource with guides and courses about NEAR. 
-It covers topics about the NEAR protocol,blockchain technology, and also covers different use-cases for NEAR.
+## Learn NEAR Club (LNC)
+[Learn NEAR Club](https://learnnear.club) All inclusive hands-on onboarding platform to NEAR Protocol – connecting NEAR
+Ecosystem projects to pro-active community members via (L)Earn method.
+Learn and Earn NEAR with LNC
 
-When you complete guides on LearnNEAR, you gain [nLearns](https://learnnear.club/what-are-nlearns/). 
-NLearns, are an internal point that you can use on LearnNEAR.
-They are not tokens, and do not have monetary value.
 
 ## NEAR Academy
 This resource is aimed at developers with experience in Web 2, who are new to Web 3 [NEAR Academy](htpps://near.academy).
