@@ -17,5 +17,7 @@ If you are encountering issues with your wallet, you can open a [support ticket 
 **NEAR Foundation Address**
 
 NEAR Foundation
+
 Chamerstrasse 12C
+
 6300 Zug
