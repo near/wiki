@@ -13,4 +13,4 @@ There are a wide variety of dApps for different purposes including: gaming, soci
 
 To find dApps on NEAR, take a look at [Awesome NEAR](https://awesomenear.com/), a community owned resource that lists dApps available on NEAR.
 
-If you're interested in building dApps on NEAR, have a look at [our tutorial](https://learnnear.club/how-to-build-on-near-starting-guide/) or dive right into our [developer documentation](https://docs.near.org/docs/develop/basics/getting-started).
+If you're interested in building dApps on NEAR, have a look at [our tutorial](https://learnnear.club/how-to-build-on-near-starting-guide/) or dive right into our [developer documentation](https://docs.near.org/).
