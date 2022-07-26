@@ -158,7 +158,7 @@ _Status: Implementation Phase, no estimated date_
 
 ### Option 1: Ledger via CLI
 
-For users with advanced security requirements and the need for flexibility \(developers and validators\), we highly recommend using our command line interface [\(NEAR-CLI\)](https://docs.near.org/docs/tools/near-cli) with a Ledger hardware device.
+For users with advanced security requirements and the need for flexibility \(developers and validators\), we highly recommend using our command line interface [\(NEAR-CLI\)](https://docs.near.org/tools/near-cli) with a Ledger hardware device.
 
 This [community-authored guide](https://medium.com/@bonsfi/how-to-use-ledger-with-near-cli-648d5d990517) walks through several common commands.
 
@@ -255,7 +255,7 @@ For example, to send money using the seed phrase from another wallet, use:
 near send <your account> <other account> --seedPhrase="words"
 ```
 
-**Note:** The default network for `near-cli` is `testnet`. If you would like to change this to `mainnet` or `betanet`, please see [`near-cli` network selection](https://docs.near.org/docs/tools/near-cli#network-selection) for instructions.
+**Note:** The default network for `near-cli` is `testnet`. If you would like to change this to `mainnet` or `betanet`, please see [`near-cli` network selection](https://docs.near.org/tools/near-cli#network-selection) for instructions.
 
 > Got a question?  [Ask it on StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
 
