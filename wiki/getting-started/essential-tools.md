@@ -33,4 +33,4 @@ You can use it for more granular control over common NEAR functions including:
 - Querying transactions
 - Finding information about validators
 
-For more information about the CLI, [check out our developer documentation](https://docs.near.org/docs/tools/near-cli)
+For more information about the CLI, [check out our developer documentation](https://docs.near.org/tools/near-cli)
