@@ -18,7 +18,7 @@ An example of a non-fungible asset can be a unique painting or limited edition c
 
 Minting NFTs on NEAR is fast, and costs a negligible fee. 
 If you'd like to build NFTs on NEAR, check out this [contract example](https://examples.near.org/NFT) to help you get started.
-Our develper documentation contains a more detailed minting [tutorial](https://docs.near.org/docs/tutorials/contracts/nfts/minting-nfts), if you'd like more information about developing an NFT minting contract on NEAR.
+Our develper documentation contains a more detailed minting [tutorial](https://docs.near.org/tutorials/nfts/minting-nfts), if you'd like more information about developing an NFT minting contract on NEAR.
 
 
 NFT projects on NEAR allow you to mint NFTs, exchange NFTs, or use NFTs in dApps.
