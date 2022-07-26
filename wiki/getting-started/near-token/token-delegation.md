@@ -49,7 +49,7 @@ You can use `near-cli` with NEAR Core Contracts to delegation via:
 1. Lockup Contract
 2. Staking Pool
 
-Before starting, make sure you are running the latest version of [near-cli](https://github.com/near/near-cli), you are familiar with [gas fees](https://docs.near.org/docs/concepts/gas) and you are sending transactions to the correct NEAR network. By default `near-cli` is configured to work with TestNet. You can change the network to MainNet by issuing the command
+Before starting, make sure you are running the latest version of [near-cli](https://github.com/near/near-cli), you are familiar with [gas fees](https://docs.near.org/concepts/basics/transactions/gas) and you are sending transactions to the correct NEAR network. By default `near-cli` is configured to work with TestNet. You can change the network to MainNet by issuing the command
 
 ```bash
 export NODE_ENV=mainnet
@@ -222,7 +222,7 @@ near call $LOCKUP_ID deposit_and_stake '{
 
 > **Heads up**
 >
-> This sets the gas parameter to 200000000000000 [gas units](https://docs.near.org/docs/concepts/gas), or 200 Tgas (Teragas), as the near-cli default allocation of 30Tgas is too low.
+> This sets the gas parameter to 200000000000000 [gas units](https://docs.near.org/concepts/basics/transactions/gas), or 200 Tgas (Teragas), as the near-cli default allocation of 30Tgas is too low.
 
 You should expect a result like:
 
