@@ -14,7 +14,7 @@ At a high level, anyone can delegate their tokens to a staking pool which is run
 
 You can participate in delegation by using a website (GUI), using the `view` and `call` methods of the command-line interface (CLI) or via sending RPC calls directly. These are described below.
 
-Reminder: If you haven't already, evaluate your token custody options from [this documentation page](token-custody).
+Reminder: If you haven't already, evaluate your token custody options from [this documentation page](token-custody.md).
 
 ### Viewing and Choosing Validators
 
@@ -83,7 +83,7 @@ If you're using a secondary account on a Ledger Nano device, you will also want 
 export HD_PATH="44'/397'/0'/0'/2'"
 ```
 
-The default HD path for the NEAR app on Ledger devices is `44'/397'/0'/0'/1'`. See more info on using `near-cli` with Ledger [here](token-custody#option-1-ledger-via-cli).
+The default HD path for the NEAR app on Ledger devices is `44'/397'/0'/0'/1'`. See more info on using `near-cli` with Ledger [here](token-custody.md#option-1-ledger-via-cli).
 
 > **Heads up**
 >
@@ -91,7 +91,7 @@ The default HD path for the NEAR app on Ledger devices is `44'/397'/0'/0'/1'`. S
 
 ## 1. Lockup Contracts Delegation
 
-The [Lockup Contract](https://github.com/near/core-contracts/tree/master/lockup) is common among NEAR contributors and, essentially, anyone who didn't acquire tokens through an exchange. This contract acts as an escrow that locks and holds an owner's tokens for a lockup period (such as vesting). You can learn more about lockups and their implementation in the [this documentation page](lockups).
+The [Lockup Contract](https://github.com/near/core-contracts/tree/master/lockup) is common among NEAR contributors and, essentially, anyone who didn't acquire tokens through an exchange. This contract acts as an escrow that locks and holds an owner's tokens for a lockup period (such as vesting). You can learn more about lockups and their implementation in the [this documentation page](lockups.md).
 
 The owner may want to stake these tokens (including locked ones) to help secure the network and also earn staking rewards that are distributed to the validator. The lockup contract doesn't allow to directly stake from its account, so the owner delegates the tokens using the contract built-in functions.
 
@@ -280,7 +280,7 @@ Please refer to the [Lockup Contract readme](https://github.com/near/core-contra
 
 NEAR Protocol automatically re-stakes all the rewards back to the staking pools, so your staked balance increases over time, accruing rewards.
 
-Before starting, it's highly recommended to read the [Lockup contracts documentation](lockups) to understand which portion of the tokens is liquid, and which one is still _locked_ even after the three epochs.
+Before starting, it's highly recommended to read the [Lockup contracts documentation](lockups.md) to understand which portion of the tokens is liquid, and which one is still _locked_ even after the three epochs.
 
 If you want to withdraw funds, you have to issue two separate commands:
 
@@ -413,7 +413,7 @@ Note that the variable `can_withdraw` is `true`. This means that the `unstaked_b
 
 ### b. Withdraw the tokens
 
-Funds can be withdrawn after three epochs (\~36 hours) from the `unstake` command. It is highly recommended to read the [Lockup contracts documentation](lockups) to understand which portion of the unstaked tokens is available for transfers, and which is still vesting and unavailable (even after three epochs).
+Funds can be withdrawn after three epochs (\~36 hours) from the `unstake` command. It is highly recommended to read the [Lockup contracts documentation](lockups.md) to understand which portion of the unstaked tokens is available for transfers, and which is still vesting and unavailable (even after three epochs).
 
 Use the call method `withdraw_all_from_staking_pool`:
 
@@ -573,7 +573,7 @@ Note that you can ping any pool, not just one you own.
 
 ## Additional links
 
-* [Lockup contracts explained](lockups)
+* [Lockup contracts explained](lockups.md)
 * [NEAR Core Contracts on Github](https://github.com/near/core-contracts)
 * [NEAR block explorer](https://explorer.near.org)
 * [near-cli on Github](https://github.com/near/near-cli)
