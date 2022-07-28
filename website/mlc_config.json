@@ -19,6 +19,9 @@
       "pattern": "^https://cms.law"
     },
     {
+      "pattern": "^https://nearhelp.zendesk.com"
+    },
+    {
       "pattern": "^https://openshards.io"
     },
     {

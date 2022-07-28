@@ -7,7 +7,7 @@ If you have existing assets on Ethereum, it's possible to transfer them to NEAR 
 The Rainbow Bridge allows you to move ERC-20 assets between Ethereum, Aurora and NEAR.
 The bridge was built by Aurora, the Ethereum-compatible scaling solution built on NEAR.
 
-To use the Rainbow Bridge, you will need to create a [NEAR wallet](./creating-a-near-wallet), and you will need to install MetaMask.
+To use the Rainbow Bridge, you will need to create a [NEAR wallet](./creating-a-near-wallet.md), and you will need to install MetaMask.
 
 ## How Much Does it Cost?
 

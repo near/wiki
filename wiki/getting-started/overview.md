@@ -52,7 +52,7 @@ Interested in learning more? Check out the [NEAR Website](https://near.org).
 :::
 
 
-_To contribute to this wiki, see the_ [_Contributing page_](contributor-guide.md)
+_To contribute to this wiki, see the_ [_Contributing page_](../contributor-guide.md)
 
 This wiki is a great resource to start learning about NEAR.
 The next step in your NEAR journey, if you haven't yet, is to [create your own NEAR Wallet](./creating-a-near-wallet.md).
