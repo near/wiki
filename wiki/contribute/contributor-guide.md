@@ -1,6 +1,7 @@
 ---
 description: A guide to contributing to the wiki.
 title: Contributor Guide
+slug: /contributor-guide
 ---
 
 # Contributing
