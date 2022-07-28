@@ -28,14 +28,14 @@ As part of the NEAR contributor program
 
 If you are interested in testing our documentation, guides and developer tools, head over to the following pages. We would love to jump on a call and get to know your insights, or you can submit directly issues in the respective repositories on GitHub. For more information on where and how to file issues, please head over to our [developer contribution section.](how-to-contribute.md)
 
-- [Developer tools](/docs/develop/basics/create-account)
+- [Developer tools](https://docs.near.org/develop/basics/create-account)
 - [Local development](https://near-nodes.io/validator/running-a-node)
-- [Introduction to near-api-js](/docs/develop/front-end/introduction)
+- [Introduction to near-api-js](https://docs.near.org/develop/front-end/introduction)
 
 #### Development {#development}
 
 - We are always looking for more example applications. If you are interested in building a dApp, we would love to help you along the way and see the final result.
-- Create a walk-through example of how to use the [NEAR-explorer](/docs/tools/near-explorer) or highlight different aspects of the [NEAR CLI](/docs/tools/near-cli). An example walkthrough of the wallet can be found [here](/docs/develop/basics/create-account). Please submit your example to the [docs repository](https://github.com/near/docs).
+- Create a walk-through example of how to use the [NEAR-explorer](https://docs.near.org/tools/near-explorer) or highlight different aspects of the [NEAR CLI](https://docs.near.org/tools/near-cli). An example walkthrough of the wallet can be found [here](https://docs.near.org/develop/basics/create-account). Please submit your example to the [docs repository](https://github.com/near/docs).
 
 #### You can always ask questions on either of our developer channels {#you-can-always-ask-questions-on-either-of-our-developer-channels}
 
