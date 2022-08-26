@@ -184,7 +184,7 @@ sys     0m3.804s
 
 By default, building `neard` will result in compiling `librocksdb`
 which takes up some non-negligible amount of memory especially when
-building on a system with many cores.  It’s possible to configure
+building on a system without many cores.  It’s possible to configure
 build process to provide system-provided library instead.  This is
 done by setting `ROCKSDB_LIB_DIR` environment variable to location
 where `librocksdb.a` file is installed:
