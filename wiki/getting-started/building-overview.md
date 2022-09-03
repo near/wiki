@@ -30,4 +30,4 @@ For more courses focused on different aspects of NEAR, have a look at [NEAR Univ
 [NEAR Academy](https://near.academy/) is a resource for web developers who want to learn more about building on Web 3, and NEAR specifically.
 It's an interactive course that dives deep into how Web 2 developers can start integrating NEAR into their projects.
 
-For more resources about building on NEAR for people building on NEAR under all kinds of different roles, visit [NEAR Uninversity](https://www.near.university) for educational courses.
+For more resources about building on NEAR for people building on NEAR under all kinds of different roles, visit [NEAR University](https://www.near.university) for educational courses.
