@@ -98,6 +98,11 @@ const config = {
             position: 'left',
             label: 'Resources',
           },*/,
+          { 
+            href: "/knowledge-base/collab",
+            position: "left",
+            label: "Knowledge Base",
+          },
           {
             href: "https://github.com/near/wiki",
             label: "GitHub",
