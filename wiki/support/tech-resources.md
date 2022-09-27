@@ -4,6 +4,9 @@ title: Tech Resources
 sidebar_label: Tech Resources
 ---
 
+We understand that the tech/dev side is fundamental to developing web3 projects and taking them to the next level. Below are a collection of some of the most commonly referenced and most sought after technichal resources to help you get started.
+
+
 ## Theoretical Documentation 
 
 * [Wallet Selector repo for integrating NEAR Wallets into your dApp](https://github.com/near/wallet-selector)
@@ -30,9 +33,3 @@ sidebar_label: Tech Resources
 ## Specific Documentation related to Gaming
 * https://github.com/vgrichina/near-lands/blob/main/HOWTO.md 
 * https://github.com/vgrichina/near-lands/blob/main/GAME-ECONOMIES.md 
-
-
-
-
-
-
