@@ -18,9 +18,7 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 * [OWS](https://near.org/sandbox/) - Support community and resources for new builders
 * [NEAR Insider](https://drive.google.com/file/d/1MboTFLzp-8ydMgyVcww0H_BgjUpPnWOR/view) - digital marketing and social media agency
 * [Flying Rhino Guild](https://www.flyingrhinomedia.com/) - Social media marketing support focused on the NEAR ecosystem
-* [Swine Guild](https://swineguild.com/) - NEAR Protocol's Hub for Ecosystem-wide Meme Marketing
 * [NEAR NFT Club](https://nearnft.club/) - Collaborate with all the developed and ongoing developing NFT dapps on NEAR. Join the discord to interact.
-* Professorial Marketing Agencies familiar with NEAR and WEB3 - reach out on NEAR discord #ecosystem-chat
 * [Near Blockchain](https://twitter.com/NEAR_Blockchain) - Twitter account from where you can get Quotes and RT.
 
 ### Community AMA Resources
