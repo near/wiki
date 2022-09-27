@@ -11,7 +11,9 @@ There are resources available in the NEAR ecosystem that can assist with amplifi
 If you are integrating with NEAR or building directly within the ecosystem and wish to utilize NEAR branding, please refer to the official [branding guidelines](https://near.org/brand/).
 
 * [NEAR Marketing Toolkit](https://docs.google.com/presentation/d/1Abjnbw6qNSC7hu3vAqWqo9hn5pOArakIfU9ZRR0SQTI/edit?usp=sharing) - An in depth overview of best practices and proven strategies for growth & marketing your project in the web3/crypto space
-Near Medium publication [guidelines](https://docs.google.com/document/d/1MNy9PikQWHLiXQyDs-E7ijeA79rsBZ2TY3wzh6GGG08/edit?usp=sharing)
+* NEAR Ecosystem Marketing [activation workflow](https://docs.google.com/document/d/1OGDwVpHPC5FMLrlOtnjkEtOQ4Ps4G8QtaEhMvAhDjJQ/edit#heading=h.vbf0dxubymwq)
+* Near Medium publication [guidelines](https://docs.google.com/document/d/1MNy9PikQWHLiXQyDs-E7ijeA79rsBZ2TY3wzh6GGG08/edit?usp=sharing)
+* [NearStarter](https://www.google.com/url?q=https%3A%2F%2Fdocsend.com%2Fview%2Fjnyhkf75fbavu5i6&sa=D&sntz=1&usg=AOvVaw04qMt85ZJLRy6dBXSu6xvK) and their [partnership](https://docs.google.com/document/d/1GOUVZBJc-fqxx34c_qyYMr3cQVlM3fFjevI_1J2YsNw/edit?usp=sharing) with CoinTelegraph
 * [MarketingDAO](https://gov.near.org/t/guide-how-to-submit-a-funding-proposal-to-the-marketing-dao/4603) for funding support around marketing plans
 * [OWS](https://near.org/sandbox/) - Support community and resources for new builders
 * [NEAR Insider](https://drive.google.com/file/d/1MboTFLzp-8ydMgyVcww0H_BgjUpPnWOR/view) - digital marketing and social media agency
@@ -30,22 +32,21 @@ Near Medium publication [guidelines](https://docs.google.com/document/d/1MNy9Pik
 * [Ru guild](https://t.me/yu1ian)
 * [NFT club](https://t.me/naveenkandwal)
 
+
 ## Legal
 
+There are several entities in the NEAR ecosystem that can provide legal support in the web3 space:
 
-The Legal Guild is an independent multi-disciplinary, global community of lawyers bringing expert legal advice to the intersection of crypto and law for the betterment of the blockchain Ecosystem.
-You can reach out to the Legal Guild via their: 
+* [CavenwellDAO](https://www.google.com/url?q=https%3A%2F%2Fgov.near.org%2Ft%2Fhello-we-are-cavenwell-dao-corporate-structuring-specialists%2F12607&sa=D&sntz=1&usg=AOvVaw1_QjBdGJUAYiAZRKgMFgIs)
+* [DAObox](https://www.google.com/url?q=https%3A%2F%2Fdaobox.org%2F&sa=D&sntz=1&usg=AOvVaw30NfKF0u-wJIce2Kn_SvB3)
+* [Legal Guild](https://www.google.com/url?q=https%3A%2F%2Fnearlegal.com%2F&sa=D&sntz=1&usg=AOvVaw3Bv8ZD_7EdoLOcNuU6rGCI)
 
-* [Linkedin](https://www.linkedin.com/company/near-legal-guild?originalSubdomain=es)
-* [Website](https://nearlegal.com/)
-* [Telegram](https://t.me/NEARLegal)
-* [Twitter](https://twitter.com/GuildNear)
 
-## IDO Platform
+## IDO Platforms
 
 [A guide to launchpads on NEAR](https://medium.com/nearweek/a-guide-to-launchpads-on-near-ido-edition-b3afe6659cb9)
 
 * NEAR Native: [NearStarter](https://twitter.com/near_starter), [GoNear](https://gonear.io/), [Skyward Finance](https://skyward.finance/)
 * Aurora: [BocaChica](https://bocachica.io/), [NearPad](https://pad.fi/) 
-* NFT:  [AstroGen](https://www.astrogen.io/), [Utopia](https://secretskelliessociety.com/launchpad-utopia/), [NearLabs](https://twitter.com/near_labs)
+* NFT:  [AstroGen](https://www.astrogen.io/), [Utopia](https://secretskelliessociety.com/launchpad-utopia/)
 * Near & Aurora: [SmartPad](https://smartpad.network/) 
