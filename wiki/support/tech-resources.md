@@ -1,13 +1,8 @@
 ---
-id: technology
-title: Technology
-sidebar_label: Technology
+id: tech-resources
+title: Tech Resources
+sidebar_label: Tech Resources
 ---
-
-## Education
-
-* [NEAR University](https://www.near.university/)
-* [Discord Channel for University](https://discord.com/invite/k4pxafjMWA)
 
 ## Theoretical Documentation 
 
