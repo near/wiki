@@ -1,7 +1,7 @@
 ---
 id: growth
-title: Growth
-sidebar_label: Growth
+title: Growth & Marketing
+sidebar_label: Growth & Marketing
 ---
 
 ## Marketing
@@ -10,7 +10,7 @@ There are resources available in the NEAR ecosystem that can assist with amplifi
 
 If you are integrating with NEAR or building directly within the ecosystem and wish to utilize NEAR branding, please refer to the official [branding guidelines](https://near.org/brand/).
 
-* [NEAR Marketing Toolkit](https://drive.google.com/file/d/1FQsRs5G0sokoaH-n-Jop-mOAYIxUEXTe/view?usp=sharing) (PDF) - A quick-start guide for projects that are new to marketing
+* [NEAR Marketing Toolkit](https://docs.google.com/presentation/d/1Abjnbw6qNSC7hu3vAqWqo9hn5pOArakIfU9ZRR0SQTI/edit?usp=sharing) - An in depth overview of best practices and proven strategies for growth & marketing your project in the web3/crypto space
 Near Medium publication [guidelines](https://docs.google.com/document/d/1MNy9PikQWHLiXQyDs-E7ijeA79rsBZ2TY3wzh6GGG08/edit?usp=sharing)
 * [MarketingDAO](https://gov.near.org/t/guide-how-to-submit-a-funding-proposal-to-the-marketing-dao/4603) for funding support around marketing plans
 * [OWS](https://near.org/sandbox/) - Support community and resources for new builders
