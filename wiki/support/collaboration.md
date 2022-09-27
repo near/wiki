@@ -1,7 +1,7 @@
 ---
-id: collab
-title: Collab
-sidebar_label: Collab
+id: collaboration
+title: Collaboration
+sidebar_label: Collaboration
 ---
 The NEAR community is formed by many different on-chain communities. Each community shares a specific vision and mission related to driving a more open, interconnected, and consumer-empowered world. 
 
