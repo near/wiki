@@ -6,7 +6,7 @@ sidebar_label: Growth & Marketing
 
 ## Marketing
 
-There are resources available in the NEAR ecosystem that can assist with amplification of your project.
+There is a wide variety of marketing, amplification, and community building resources available to you in the NEAR Ecosystem.
 
 If you are integrating with NEAR or building directly within the ecosystem and wish to utilize NEAR branding, please refer to the official [branding guidelines](https://near.org/brand/).
 
