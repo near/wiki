@@ -38,7 +38,7 @@ If you are planning a GTM push or looking to host an event in partnership with N
 *Ideally, please try to complete and submit with 4 weeks overhead to allow for review*
 
 1. Submit the Ecosystem Marketing Grants application [form](https://airtable.com/shrm92EDb6ydLrSxr)
-2. Create a copy of the [Event Playbook Toolkit](https://docs.google.com/presentation/d/1MysTwrdWgwd7DdEGD-O6CCIwZZ68YxpZWIqzba3k0jk/edit#slide=id.g13072457ef4_0_0), complete the sections that are relevant to your event/GTM push, and email the copy to [events@near.foundation](events@near.foundation)
+2. Create a copy of the [Event Playbook Toolkit](https://docs.google.com/presentation/d/1MysTwrdWgwd7DdEGD-O6CCIwZZ68YxpZWIqzba3k0jk/edit#slide=id.g13072457ef4_0_0), complete the sections that are relevant to your event/GTM push, and email the copy to events@near.foundation
 3. Upon approval you will receive an email follow up from the grants team with a milstone form to complete for the funding, as well as an invoice request
 4. After the event, please complete the post-event [retro form](https://docs.google.com/document/d/1wGYvxcEIgocgj32NnRnnfCycCQFNKp3iwvfThKwp73E/edit) for the remainder of the funding.
 
