@@ -59,4 +59,4 @@ There are several entities in the NEAR ecosystem that can provide legal support 
 * NEAR Native: [NearStarter](https://twitter.com/near_starter), [GoNear](https://gonear.io/), [Skyward Finance](https://skyward.finance/)
 * Aurora: [BocaChica](https://bocachica.io/), [NearPad](https://pad.fi/) 
 * NFT:  [AstroGen](https://www.astrogen.io/), [Utopia](https://secretskelliessociety.com/launchpad-utopia/)
-* Near & Aurora: [SmartPad](https://smartpad.network/) 
+* Near & Aurora: [SmartPad](https://smartpad.network/)
