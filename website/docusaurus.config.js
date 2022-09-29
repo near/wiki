@@ -99,9 +99,9 @@ const config = {
             label: 'Resources',
           },*/,
           { 
-            href: "/knowledge-base/collab",
+            href: "/support/growth",
             position: "left",
-            label: "Knowledge Base",
+            label: "Support",
           },
           {
             href: "https://github.com/near/wiki",
