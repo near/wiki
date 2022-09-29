@@ -32,4 +32,4 @@ We understand that the tech/dev side is fundamental to developing web3 projects 
 
 ## Specific Documentation related to Gaming
 * https://github.com/vgrichina/near-lands/blob/main/HOWTO.md 
-* https://github.com/vgrichina/near-lands/blob/main/GAME-ECONOMIES.md 
+* https://github.com/vgrichina/near-lands/blob/main/GAME-ECONOMIES.md
