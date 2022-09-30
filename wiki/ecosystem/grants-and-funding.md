@@ -112,6 +112,8 @@ Visit: [https://www.metaweb.vc/](https://www.metaweb.vc/)
 
 NEAR Foundation’s Backer Network is a global and diverse network of nearly 300 VCs, angels, advisors, and mentors with a common goal of externally accelerating the growth of the NEAR ecosystem. These backers represent over $20 billion in capital and provide a range of ecosystem support from external capital for fundraising, liquidity providing, advisory services, mentorship, and more.
 
+If you are an investor and interested in learning more about participating within the NEAR backer network, please contact Corey Pigott, Strategic Funding Manager at NEAR. His email is corey@near.foundation. If you would like to subscribe to our monthly newsletter to stay up to date on the NEAR ecosystem, please subscribe [here](https://near.us14.list-manage.com/subscribe?u=faedf5dec8739fb92e05b4131&id=cdc7be7d09). 
+
 
 ## GTM/Event Funding
 
@@ -123,8 +125,6 @@ If you are planning a GTM push or looking to host an event in partnership with N
 2. Create a copy of the [Event Playbook Toolkit](https://docs.google.com/presentation/d/1MysTwrdWgwd7DdEGD-O6CCIwZZ68YxpZWIqzba3k0jk/edit#slide=id.g13072457ef4_0_0), complete the sections that are relevant to your event/GTM push, and email the copy to events@near.foundation
 3. Upon approval you will receive an email follow up from the grants team with a milstone form to complete for the funding, as well as an invoice request
 4. After the event, please complete the post-event [retro form](https://docs.google.com/document/d/1wGYvxcEIgocgj32NnRnnfCycCQFNKp3iwvfThKwp73E/edit) for the remainder of the funding.
-
-If you are an investor and interested in learning more about participating within the NEAR backer network, please contact Corey Pigott, Strategic Funding Manager at NEAR. His email is corey@near.foundation. If you would like to subscribe to our monthly newsletter to stay up to date on the NEAR ecosystem, please subscribe [here](https://near.us14.list-manage.com/subscribe?u=faedf5dec8739fb92e05b4131&id=cdc7be7d09). 
 
 
 ## DAO Investments
