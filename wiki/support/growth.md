@@ -6,7 +6,18 @@ sidebar_label: Growth & Marketing
 
 ## Marketing
 
-There is a wide variety of marketing, amplification, and community building resources available to you in the NEAR Ecosystem.
+The NEAR Foundation is thrilled to see all of the amazing projects joining and building on NEAR over the last year. The Foundation has come a long way since NEAR first went live on mainnet, and has since been consistently evolving its approach on how it operates and supports projects in regards to marketing.
+
+During the early days, NEAR Foundation took on the role of amplifying each project through the NEAR Protocol Twitter account. However, with the ecosystem growing at such a rapid rate, amplification and one-to-one marketing support for every single project becomes a bottleneck. 
+
+The role of the NEAR Foundation is to raise awareness of NEAR and to support projects in a way that is scalable and manageable, and as the ecosystem grows and flourishes, it is stepping in to fill that role.
+
+In line with the NEAR Foundation’s ultimate objective of decentralization, it is  adapting its  efforts to empower teams to become the vehicles for marketing and amplification within the NEAR ecosystem. E.g. - [NEARWEEK](https://nearweek.com/) and its ecosystem marketing [pipeline](https://docs.google.com/document/d/1OGDwVpHPC5FMLrlOtnjkEtOQ4Ps4G8QtaEhMvAhDjJQ/edit?usp=sharing), or [NearStarter](https://nearstarter.fi/) and its partnership with [Cointelegraph](https://docs.google.com/document/d/1GOUVZBJc-fqxx34c_qyYMr3cQVlM3fFjevI_1J2YsNw/edit?usp=sharing), [AwesomeNEAR’s](https://awesomenear.com/) ecosystem dashboard and highlights.
+
+Due to the sheer volume of amazing projects, it isn’t scalable for the Foundation to act as an amplification channel for all announcements. It is here to support and ensure the community has visibility into the [tools and resources](https://wiki.near.org/support/growth) available to them to empower their growth. However, if you feel that your upcoming launch is a notable development for the NEAR ecosystem and would like to explore co-marketing with NEAR Foundation, you can submit the marketing [brief intake form](https://form.asana.com/?k=S-5eg9E3W4uLZDP4bHH0zQ&d=1200511332919466) which prioritizes higher-level efforts that will help the ecosystem reach its North Star goals of a billion users and the seamless mass-onboarding of Web2 -> Web3.
+
+The Foundation hopes that with the platform, the tech, and the access to funding, the ecosystem will leverage those resources to build their own communities and marketing strategies, and drive the growth of NEAR! Lastly, as always, the Foundation welcomes feedback on how it can continuously improve.
+
 
 If you are integrating with NEAR or building directly within the ecosystem and wish to utilize NEAR branding, please refer to the official [branding guidelines](https://near.org/brand/).
 
