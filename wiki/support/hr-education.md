@@ -8,10 +8,6 @@ sidebar_label: HR & Education Resources
 
 With NEAR being among the most interoperable and developer friendly Layer 1’s, developers of any technical background should find building on NEAR proves to be a great experience. There are various outlets available for discovering and recruiting talent for your project. 
 
-* NEAR University [talent newsletter](https://jobs.near.university/talent) to discover the most recent NEAR certified developers 
-* Discover open roles & post yours on the NEAR [Job Board](https://jobs.openweb.dev/)
-* OWS [project dashboard](https://www.openwebsandbox.org/projects-dashboard) are short term collaborative tasks provided by dApps and Guilds from the NEAR ecosystem
-
 
 ## [NEAR University](https://www.near.university/)
 
