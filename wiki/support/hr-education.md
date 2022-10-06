@@ -6,7 +6,7 @@ sidebar_label: HR & Education Resources
 
 ## Discover Talent & Post Open Roles 
 
-With NEAR being among the most interoperable and developer friendly Layer 1’s, developers of any technical background should find building on NEAR proves to be a great experience. There are various outlets available for discovering and recruiting talent for your project. 
+With NEAR being among the most interoperable and developer friendly Layer 1’s, developers of any technical background should find building on NEAR proves to be a great experience. You can discover open roles & post yours on the NEAR [Job Board](https://careers.near.org/jobs), and there are also various outlets available for discovering and recruiting talent for your project.
 
 
 ## [NEAR University](https://www.near.university/)
