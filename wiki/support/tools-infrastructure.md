@@ -1,7 +1,7 @@
 ---
-id: infrastructure
-title: Infrastructure Resources
-sidebar_label: Infrastructure Resources
+id: tools-infrastructure
+title: Tools & Infrastructure Resources
+sidebar_label: Tools & Infrastructure Resources
 ---
 
 There are a multitude of infrastructure tools & services integrated into the NEAR ecosystem to facilitate, and accelerate, your building on NEAR.
@@ -9,6 +9,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 * [The Graph](https://thegraph.com/) - developer tools to process blockchain events and make the resulting data easily available
   * [Documentation](https://thegraph.com/docs/en/supported-networks/near/) for building subgraphs on NEAR 
+* [NEAR Lake](https://near-indexers.io/docs/projects/near-lake-framework) is a game changing indexer because for a fraction of the cost of running your own you will have a fast, easy to maintain indexer.
 * [Octopus Network](https://oct.network/) - A NEAR-based multichain interoperable crypto-network for launching and running Web3 substrate-based, EVM compatible Appchains.
   * How to launch an Appchain in Octopus Network: [detailed guide](https://medium.com/oct-network/the-appchain-journey-how-to-launch-an-appchain-in-octopus-network-256c8679c5da)
 * [Flux Protocol](https://www.fluxprotocol.org/) - serving as the trust-less data layer for web3, Flux allows any smart contract to connect with crowdsourced, API-based, and Price-Feed data 
