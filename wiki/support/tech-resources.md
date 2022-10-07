@@ -25,11 +25,6 @@ We understand that the tech/dev side is fundamental to developing web3 projects 
 * [Active dev support on the NEAR Discord](https://discord.com/channels/490367152054992913/542945453533036544)
 * [Dev support Telegram](https://t.me/neardev)
 
-## Specific Documentation related to DeFi
-* [$USN Stablecoin](https://github.com/DecentralBankDAO)
-* [Metapool](https://github.com/Narwallets/meta-pool)
-* [NEAR core staking](https://github.com/near/core-contracts)
-
 ## Specific Documentation related to Gaming
 * https://github.com/vgrichina/near-lands/blob/main/HOWTO.md 
 * https://github.com/vgrichina/near-lands/blob/main/GAME-ECONOMIES.md
