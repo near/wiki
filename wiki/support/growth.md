@@ -23,7 +23,7 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 
 * [Project Growth & Marketing Toolkit](https://docs.google.com/presentation/d/1Abjnbw6qNSC7hu3vAqWqo9hn5pOArakIfU9ZRR0SQTI/edit?usp=sharing) - An in depth overview of best practices and proven strategies for growth & marketing your project in the web3/crypto space
 * NEAR Ecosystem Marketing [activation workflow](https://drive.google.com/file/d/1NsMDzKxFHoKopgEOpf2JGVXI8NzvDrsc/view)
-* Near Medium publication [guidelines](https://docs.google.com/document/d/1MNy9PikQWHLiXQyDs-E7ijeA79rsBZ2TY3wzh6GGG08/edit?usp=sharing)
+* Near Medium publication [guidelines](https://docs.google.com/document/d/1MNy9PikQWHLiXQyDs-E7ijeA79rsBZ2TY3wzh6GGG08/edit?usp=sharing) for top stories & project launches
 * [NearStarter](https://www.google.com/url?q=https%3A%2F%2Fdocsend.com%2Fview%2Fjnyhkf75fbavu5i6&sa=D&sntz=1&usg=AOvVaw04qMt85ZJLRy6dBXSu6xvK) and their [partnership](https://docs.google.com/document/d/1GOUVZBJc-fqxx34c_qyYMr3cQVlM3fFjevI_1J2YsNw/edit?usp=sharing) with CoinTelegraph
 * [MarketingDAO](https://gov.near.org/t/guide-how-to-submit-a-funding-proposal-to-the-marketing-dao/4603) for funding support around marketing plans
 * [OWS](https://near.org/sandbox/) - Support community and resources for new builders
