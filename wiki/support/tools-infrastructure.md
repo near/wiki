@@ -109,7 +109,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 * [Allbridge](https://allbridge.io/) - A fast, affordable and secure way of moving liquidity between EVM, non-EVM, and L2 blockchains.
 
 
-## Developer Opportunities
+## Developer Opportunities 
 
 * [MetaBUIDL](https://near.org/metabuild/) - The NEAR MetaBUIDL hackathons will feature exciting themes focused on solving real-world problems.
 * [NEAR University](https://www.near.university/) - Learn, earn and connect with friends in the NEAR community. NEAR University is the best place to start learning about everything NEAR.
