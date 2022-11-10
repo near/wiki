@@ -26,14 +26,13 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 * Near Medium publication [guidelines](https://docs.google.com/document/d/1MNy9PikQWHLiXQyDs-E7ijeA79rsBZ2TY3wzh6GGG08/edit?usp=sharing) for top stories & project launches
 * [NearStarter](https://www.google.com/url?q=https%3A%2F%2Fdocsend.com%2Fview%2Fjnyhkf75fbavu5i6&sa=D&sntz=1&usg=AOvVaw04qMt85ZJLRy6dBXSu6xvK) and their [partnership](https://docs.google.com/document/d/1GOUVZBJc-fqxx34c_qyYMr3cQVlM3fFjevI_1J2YsNw/edit?usp=sharing) with CoinTelegraph
 * [NEAR Insider](https://drive.google.com/file/d/1MboTFLzp-8ydMgyVcww0H_BgjUpPnWOR/view) - digital marketing and social media agency
-* [Flying Rhino Guild](https://www.flyingrhinomedia.com/) - Social media marketing support focused on the NEAR ecosystem
+* [Flying Rhino Guild](https://beacons.ai/flyingrhino) - Social media marketing support focused on the NEAR ecosystem
 * [NEAR NFT Club](https://nearnft.club/) - Collaborate with all the developed and ongoing developing NFT dapps on NEAR. Join the discord to interact.
 
 ### Community AMA Resources
 
 * Apply for an AMA with NEAR on Telegram or Discord [here](https://docs.google.com/forms/d/e/1FAIpQLSc0Xf9UdCuZmJ9mTooqtyDpthRFfn1-yfC0yfGdBAAdnA_Vhg/viewform)
 * [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
-* [Rise and Grind](https://twitter.com/risengrind_near) is a daily podcast with people/teams from the ecosystem to increase visibility & awareness - [Contact](https://t.me/riseandgrindnear)
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
 * [Ru guild](https://t.me/yu1ian)
 * [NFT club](https://t.me/naveenkandwal)
@@ -66,5 +65,5 @@ There are several entities in the NEAR ecosystem that can provide legal support 
 
 * NEAR Native: [NearStarter](https://twitter.com/near_starter), [GoNear](https://gonear.io/), [Skyward Finance](https://skyward.finance/)
 * Aurora: [BocaChica](https://bocachica.io/), [NearPad](https://pad.fi/) 
-* NFT:  [AstroGen](https://www.astrogen.io/), [Utopia](https://secretskelliessociety.com/launchpad-utopia/)
+* NFT:  [Eros Ventures](https://www.eros.ventures/), [Utopia](https://secretskelliessociety.com/launchpad-utopia/)
 * Near & Aurora: [SmartPad](https://smartpad.network/)
