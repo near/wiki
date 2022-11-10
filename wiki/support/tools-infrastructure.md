@@ -46,7 +46,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 * [IPFS](https://ipfs.tech/) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 * [OnMachina](https://www.onmachina.io/) (coming soon) - A sharded data storage structure that is designed to provide scalable, cost-efficient, and immediately retrievable information on-chain.
-* [Arweave]() - Arweave is a new type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to truly store data forever.
+* [Arweave](https://www.arweave.org/) - Arweave is a new type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to truly store data forever.
 * [Ceramic Network](https://ceramic.network/) - Ceramic is a decentralized content computation network for a world of open source information.
 
 
