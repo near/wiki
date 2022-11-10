@@ -72,7 +72,6 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 * [MoonPay](https://www.moonpay.io/) - established fiat onramp solution integrated with NEAR
 * [NearPay](https://nearpay.co/) - fiat onramp & PoS solution built on NEAR 
-* [BlackIDE]() - 
 * [ZokshPay](https://zoksh.com/) - No-Code, Non-Custodial Payments for Creators.
 
 
