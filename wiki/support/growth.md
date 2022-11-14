@@ -33,6 +33,7 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 ### Community AMA Resources
 
 * Apply for an AMA with NEAR on Telegram or Discord [here](https://docs.google.com/forms/d/e/1FAIpQLSc0Xf9UdCuZmJ9mTooqtyDpthRFfn1-yfC0yfGdBAAdnA_Vhg/viewform)
+* [Chill & Shill](https://linktr.ee/chillandshill) - Twitter space that aims to educate its listeners about NEAR Protocol and its ecosystem through AMAs, community, and educational sessions. Hosted on Mon/Wed/Fri/Sun by [Wax](https://twitter.com/waxnear).
 * [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
 * [Ru guild](https://t.me/yu1ian)
