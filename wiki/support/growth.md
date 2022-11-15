@@ -57,6 +57,7 @@ If you are planning a GTM push or looking to host an event in partnership with N
 There are several entities in the NEAR ecosystem that can provide legal support in the web3 space:
 
 * [CavenwellDAO](https://www.google.com/url?q=https%3A%2F%2Fgov.near.org%2Ft%2Fhello-we-are-cavenwell-dao-corporate-structuring-specialists%2F12607&sa=D&sntz=1&usg=AOvVaw1_QjBdGJUAYiAZRKgMFgIs)
+* [Legal Nodes](https://legalnodes.com/) - Legal Nodes connects founders with multiple legal professionals, all in one place.
 * [DAObox](https://www.google.com/url?q=https%3A%2F%2Fdaobox.org%2F&sa=D&sntz=1&usg=AOvVaw30NfKF0u-wJIce2Kn_SvB3)
 * [Legal Guild](https://www.google.com/url?q=https%3A%2F%2Fnearlegal.com%2F&sa=D&sntz=1&usg=AOvVaw3Bv8ZD_7EdoLOcNuU6rGCI)
 
