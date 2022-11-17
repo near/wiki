@@ -29,7 +29,7 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 * [NEAR Stars](t.me/nearstarsguild) - Promotion of NEAR ecosystem projects
 * [Flying Rhino](https://beacons.ai/flyingrhino) - Social media marketing support focused on the NEAR ecosystem
 * [NEAR NFT Club](https://nearnft.club/) - Collaborate with all the developed and ongoing developing NFT dapps on NEAR. Join the discord to interact.
-* [NEAR News Twitter Accounts](https://twitter.com/i/lists/1590678464478208001) - Curated Twitter list of the many accounts focused on pushing out NEAR ecosystem news
+* [NEAR News Twitter Accounts](https://twitter.com/i/lists/1590678464478208001) - Curated Twitter list of the many accounts focused on pushing out NEAR ecosystem news 
 
 ### Community AMA Resources
 
