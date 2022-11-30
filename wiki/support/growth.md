@@ -21,6 +21,8 @@ The Foundation hopes that with the platform, the tech, and the access to funding
 
 If you are integrating with NEAR or building directly within the ecosystem and wish to utilize NEAR branding, please refer to the official [branding guidelines](https://near.org/brand/).
 
+## Ecosystem Resources
+
 * [Project Growth & Marketing Toolkit](https://docs.google.com/presentation/d/1Abjnbw6qNSC7hu3vAqWqo9hn5pOArakIfU9ZRR0SQTI/edit?usp=sharing) - An in depth overview of best practices and proven strategies for growth & marketing your project in the web3/crypto space
 * NEAR Ecosystem Marketing [activation workflow](https://drive.google.com/file/d/1NsMDzKxFHoKopgEOpf2JGVXI8NzvDrsc/view)
 * Near Medium publication [guidelines](https://docs.google.com/document/d/1MNy9PikQWHLiXQyDs-E7ijeA79rsBZ2TY3wzh6GGG08/edit?usp=sharing) for top stories & project launches
@@ -33,13 +35,22 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 
 ### Community AMA Resources
 
-* Apply for an AMA with NEAR on Telegram or Discord [here](https://docs.google.com/forms/d/e/1FAIpQLSc0Xf9UdCuZmJ9mTooqtyDpthRFfn1-yfC0yfGdBAAdnA_Vhg/viewform)
 * [Chill & Shill](https://linktr.ee/chillandshill) - Twitter space that aims to educate its listeners about NEAR Protocol and its ecosystem through AMAs, community, and educational sessions. Hosted on Mon/Wed/Fri/Sun by [Wax](https://twitter.com/waxnear).
 * [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
 * [Ru guild](https://t.me/yu1ian)
 * [NFT club](https://t.me/naveenkandwal)
 
+## MarketingDAO
+
+The MarketingDAO is a Near Community-run organization of globally distributed marketing professionals, creatives, and NEAR enthusiasts who engage with the Near Community to facilitate the allocation of Community funds for marketing activities under $10 000. The Marketing DAO was established as a key pillar on the road to decentralization of the Near Ecosystem and empowers the NEAR Community to access funding for marketing activities furthering the overall growth and expansion of the NEAR ecosystem. 
+
+
+Interested in Applying? Please read:
+
+[Marketing DAO Handbook](https://docs.google.com/document/d/1i1PbFQKlwyWzjGZMoeUIM3gy3ghWKH3Yo4iOi-D8N_U/view)
+and 
+[Guidelines for Assessment Marketing DAO Proposals](https://gov.near.org/t/guidelines-for-assessment-marketing-dao-proposals/31645)
 
 ## GTM/Event Funding
 
@@ -60,7 +71,6 @@ There are several entities in the NEAR ecosystem that can provide legal support 
 * [CavenwellDAO](https://www.google.com/url?q=https%3A%2F%2Fgov.near.org%2Ft%2Fhello-we-are-cavenwell-dao-corporate-structuring-specialists%2F12607&sa=D&sntz=1&usg=AOvVaw1_QjBdGJUAYiAZRKgMFgIs)
 * [Legal Nodes](https://legalnodes.com/) - Legal Nodes connects founders with multiple legal professionals, all in one place.
 * [DAObox](https://www.google.com/url?q=https%3A%2F%2Fdaobox.org%2F&sa=D&sntz=1&usg=AOvVaw30NfKF0u-wJIce2Kn_SvB3)
-* [Legal Guild](https://www.google.com/url?q=https%3A%2F%2Fnearlegal.com%2F&sa=D&sntz=1&usg=AOvVaw3Bv8ZD_7EdoLOcNuU6rGCI)
 
 
 ## IDO Platforms
