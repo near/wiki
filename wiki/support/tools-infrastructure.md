@@ -95,7 +95,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 * [Ref Analytics](https://stats.ref.finance/) - Data & Analytics on Ref Finance.
 * [NEAR Staking](https://near-staking.com/) - See how decentralization is going and monitor if the pool you've delegated to is increasing or decreasing in stake.
 * [Flipside](https://docs.flipsidecrypto.com/) - Flipside provides Community Enabled Crypto Analytics, allowing our users to create and share data insights on the crypto projects they care most about.
-  * [About Flipside NEAR integration]
+  * [About Flipside NEAR integration](https://docs.google.com/document/d/1EHuDoR1VGJvUh47lWMRkAI5PR-_MM-4mlgLcXNC8CQE/edit?usp=sharing)
   * [Intake](https://vjpyk02mbl8.typeform.com/to/F6ctil9c) to explore their services & tools.
 
 
