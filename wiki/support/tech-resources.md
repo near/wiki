@@ -11,13 +11,17 @@ We understand that the tech/dev side is fundamental to developing web3 projects 
 
 * [Wallet Selector repo for integrating NEAR Wallets into your dApp](https://github.com/near/wallet-selector)
     * [Guide for Wallet Selector](https://github.com/near/wallet-selector/blob/dev/packages/core/docs/guides/custom-wallets.md)
-* [NEAR SDK resources for smart contract development](https://www.near-sdk.io/)
-* [Technical Documentation Directory](https://wiki.near.org/technology/docs)
+* [NEAR SDK resources for smart contract development](https://docs.near.org/sdk/welcome)
+* [Technical Documentation Directory](https://docs.near.org/)
 * [Near spec website](http://nomicon.io/)
+* [Understanding NEAR Keys](https://www.vitalpoint.ai/understanding-near-keys/) - deep dive into NEAR accounts, contracts, and keys.
+* [Create a NEAR App](https://github.com/near/create-near-app)
+* [NEAR Core Development](https://near.github.io/nearcore/) resources - useful if you want to develop at protocol level, or run a node.
 * [The Graph documentation for building subgraphs on NEAR](https://thegraph.com/docs/en/supported-networks/near/)
 * [Kurtosis - local development and testing environments for developers in the NEAR ecosystem](https://www.kurtosistech.com/)
 
 ## Synchronous support: Video, Audio, Office-hours 
+
 * [Developer Office Hours](https://near.org/office-hours/) - Every weekday NEAR hosts “Office Hours” where DevRel and Community team members are available to field any questions you may have about building on NEAR
 
 ## Asynchronous support
