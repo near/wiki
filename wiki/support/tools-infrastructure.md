@@ -15,6 +15,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 * [Gateway.FM](https://gateway.fm/) - a node infrastructure provider. Their NEAR RPC endpoint is  stable, easy-to-use, load tested and QA’d by the experienced Gateway team, being the most stable node in the market
   * [Onepager](https://drive.google.com/file/d/1EvUJbGEffCW5DqSFbZku_LBMSVhYyV1Q/view?usp=sharing)
 * [Croncat](https://cron.cat/) - Decentralized Scheduling for Blockchain Transactions.
+* [Calimero](https://www.calimero.network/) - Allowing deployment of a customisable, easy to use private shard with built-in privacy features and confidential native WASM or EVM smart contracts.
 * [Torus](https://tor.us/) - The most secure passwordless authentication and private key management platform
 * [Kurtosis](https://www.kurtosistech.com/) - local development and testing environments for developers in the NEAR ecosystem.
   * [Overview video](https://www.youtube.com/watch?v=sdb3v9-syI8&t=26s)
