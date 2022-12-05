@@ -34,6 +34,7 @@ Get involved in the various communities in the ecosystem:
 * [Open Shard Alliance](https://discord.gg/uvVhKxbCaz): The OSA is a guild of NEAR enthusiasts comprised of professional validators and StakeWars participants that are dedicated to contribute back to the NEAR ecosystem.NEAR Community validator guild
 * [The Merchants of NEAR](https://t.me/joinchat/9p64iHVo1e41ZjBh): Trading and technical analysis
 * [NFT Infinity](https://t.me/nftinfinity): NFT Infinity aims to redefine the NFT ecosystem so that everyone can participate, create, and make profit.
+* [Shitzu Apes](https://t.me/ShitzuApes): A strong and vibrant community, built around a meme coin, is focused on driving growth and awareness of NEAR & Aurora.
 
 
 ## Regional Communities
