@@ -27,6 +27,8 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 * [NEAR Playground](https://github.com/CSFM93/NearPlayGround) - Browser-based editor that allows developers to write, compile, test and call Near Rust and AssemblyScript Smart contracts in the browser
 * [Creator Studio](https://studio-client.pages.dev/auth) - A one-stop shop for minting, distributing, and managing NFT collections from an intuitive app dashboard, without a single line of code.
 * [Chainstack](https://chainstack.com/build-better-with-near/) - allows anyone to run high-performing NEAR nodes in minutes on a platform built for scale
+* [Kuutamo](https://kuutamo.cloud/) - Dedicated NEAR staking infrastructure, Next generation cloud services, built for blockchain.
+ * [Kuutamo GitHub](https://github.com/kuutamolabs)
 
 
 ## Rust Stack
