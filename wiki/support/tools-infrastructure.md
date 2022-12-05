@@ -6,11 +6,6 @@ sidebar_label: Tools & Infrastructure Resources
 
 There are a multitude of infrastructure tools & services integrated into the NEAR ecosystem to facilitate, and accelerate, your building on NEAR.
 
-# Quick Links
-
-[Developer Docs](https://docs.near.org/) - This is the starting point for all the documentation in NEAR.
-[NEAR Examples](https://near.org/examples/) - Explore code examples.
-
 
 ## Developer Tools
 
