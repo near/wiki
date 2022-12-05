@@ -94,6 +94,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 * [Flipside](https://docs.flipsidecrypto.com/) - Flipside provides Community Enabled Crypto Analytics, allowing our users to create and share data insights on the crypto projects they care most about.
   * [About Flipside NEAR integration](https://docs.google.com/document/d/1EHuDoR1VGJvUh47lWMRkAI5PR-_MM-4mlgLcXNC8CQE/edit?usp=sharing)
   * [Intake](https://vjpyk02mbl8.typeform.com/to/F6ctil9c) to explore their services & tools.
+* [Wombi](https://wombi.xyz/) - WOMBI helps dapps better understand audience and acquire high-quality users. WOMBI connects web2 and web3 analytics identifying channels and geographies that bring the best users.
 
 
 ## Interoperability
