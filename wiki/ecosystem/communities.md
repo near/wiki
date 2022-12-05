@@ -42,7 +42,6 @@ Get involved in the various communities in the ecosystem:
 * [NEAR Argentina](https://t.me/NEARargentina): A community focused on getting cryptocurrency and blockchain technology adopted in Argentina through NEAR.
 * [NEAR Australia](https://t.me/near_au): NEAR Australia community
 * [NEAR Canada](https://t.me/+K2fLlaK5xWRiOWJh): To empower Canadians with the knowledge of Web 3.0 and NEAR technology.
-* [NEAR China](): NEAR China community
 * [NEAR Francais](https://t.me/NearFrancais): NEAR French community
 * [NEAR Hispano](http://t.me/NEARHispano): For Spanish-speaker developers
 * [NEAR India](https://t.me/cryptonear_IN): NEAR INDIA community
