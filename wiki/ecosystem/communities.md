@@ -29,7 +29,6 @@ Get involved in the various communities in the ecosystem:
 * [NEAR Stars guild](https://t.me/nearstarsguild): A community focused on getting near promoted by content creators like bloggers, etc. 
 * [NEARWEEK](https://t.me/nearweek): Discuss exciting news in the NEAR ecosystem.
 * [NEAR is NOW](https://t.me/NEARisNOW): The focus of this group is to help drive the mass adoption of NEAR Protocol through a consolidation of efforts to educate new users and spread awareness about ecosystem developments, updates, partnerships, etc. 
-* [NEARverse Portal Guild](https://t.me/joinchat/Gveno_5H7FJmM2Zk): NEAR Wiki Curation and Content Creation Guild
 * [NxM - NEAR x Music Guild](https://t.me/joinchat/H7iKol-2HgZXNEl9): NxM is a grassroots movement and a community of creatives around Music and NFTs in the NEAR ecosystem
 * [Octopus Guild](https://t.me/octopusnetwork): Octopus Guild is a community of developers, enthusiasts, appchains, and appchain candidates within the 
 * [Open Shard Alliance](https://discord.gg/uvVhKxbCaz): The OSA is a guild of NEAR enthusiasts comprised of professional validators and StakeWars participants that are dedicated to contribute back to the NEAR ecosystem.NEAR Community validator guild
