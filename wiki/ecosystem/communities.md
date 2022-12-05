@@ -21,6 +21,7 @@ Get involved in the various communities in the ecosystem:
 * [MutiDAO](https://t.me/joinchat/T7ZyEUtQ0EQzNDA0): A collective using blockchain technology & community building to nurture creativity.
 * [NEAR Data center guild](https://t.me/joinchat/VF7l9wGIS3UzZDcx): Discussion around projects involving data & analytics.
 * [NEAR Gaming guild](https://t.me/NearGamesChat): Community & discussion around gaming projects on NEAR.
+* [Near GameFi Group](https://t.me/+JGpzQIiKnTtlYzg0): This group is all about gaming projects on Near, growing the econosystem, and support.
 * [NEAR Insider](https://t.me/nearinsider_chat): Helping with promotion, feedback, marketing
 * [NEAR Intelligence Agency](https://nearintelligence.agency): The NEAR Intelligence Agency exists to grow the NEAR Ecosystem utilizing deep research, crypto experience, and a strong and dedicated community.
 * [NEAR Marketing](https://t.me/DiscoverNEAR): A guild focused around marketing initiatives.
