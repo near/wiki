@@ -13,6 +13,7 @@ Get involved in the various communities in the ecosystem:
 * [Clean NFT guild](https://discord.gg/DpF4g2eWha): A group working towards educating, raising awareness and looking at ways to improve the environmental impacts of releasing NFTs.
 * [Codame Guild](https://t.me/codame_art_tech): CODAME sparks visionaries with playful workshops and an inclusive ART+TECH Festival, running since 2010.
 * [Createbase](https://t.me/creatorsNEAR): Createbase is a community that works to support creative projects that are building within the Mintbase/NEAR ecosystem
+* [Harmonic Guild](https://www.harmonicguild.io/): Harmonic Technology Guild lets you make your own NFT economy without worrying about the technical infrastructure
 * [Human Guild](https://t.me/HumanGuildNear): With a primary focus around incubating & supporting web3 gaming projects, the Human Guild is an open group of founders and creators who believe everyone should be able to earn what they need in order to do what they love.
 * [HypeDAO](https://t.me/hypedao): Marketing hype
 * [INC4](https://inc4.net/near-guild-team/): Entrepreneurs and development teams looking for additional support, and any project looking to get started in the NEAR Ecosystem now have a reliable and consistent place to go for their technical needs.
