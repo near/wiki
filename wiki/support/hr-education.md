@@ -35,6 +35,8 @@ BlackFreelancer is a hub for black creatives across the globe to showcase their 
 All-inclusive hands-on onboarding platform to NEAR Protocol – connecting NEAR Ecosystem projects to pro-active community members via (L)Earn method.
 Supported by NEAR Foundation.
 
+LNC also has some pretty great invite-only offers to help NEAR Ecosystem projects to bring their products to thousands of NEAR users via the [LNC for Projects](https://learnnear.club/lnc-for-near-projects/) initiative!
+
 * Earn NEAR by learning about the tech and ecosystem
 * While interacting on LNC, you will receive [nLearns](https://learnnear.club/what-are-nlearns/), LNC internal points.
 * Both Creators and Learners get rewards in nLEARNs
