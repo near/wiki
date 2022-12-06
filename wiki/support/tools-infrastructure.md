@@ -89,6 +89,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 * [NEAR Stats Explorer](https://explorer.near.org/stats)
 * [GokuStats](https://www.gokustats.xyz/dashboard/near) - Aggregating key metrics for Layer1s.
+* [Datrics](https://blockchain.datrics.ai): Datrics is a tool for no-code analytics, machine learning, and dashboard creation. We empower blockchain teams with meaningful insights from on-chain and off-chain data.
 * [Stats Gallery](https://stats.gallery/) - Guides and tutorials from around the network! Quests. Get and complete quests to pump your account up!
 * [Ref Analytics](https://stats.ref.finance/) - Data & Analytics on Ref Finance.
 * [NEAR Staking](https://near-staking.com/) - See how decentralization is going and monitor if the pool you've delegated to is increasing or decreasing in stake.
