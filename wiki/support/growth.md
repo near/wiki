@@ -21,6 +21,7 @@ The Foundation hopes that with the platform, the tech, and the access to funding
 
 If you are integrating with NEAR or building directly within the ecosystem and wish to utilize NEAR branding, please refer to the official [branding guidelines](https://near.org/brand/).
 
+
 ## Ecosystem Resources
 
 * [Project Growth & Marketing Toolkit](https://docs.google.com/presentation/d/1Abjnbw6qNSC7hu3vAqWqo9hn5pOArakIfU9ZRR0SQTI/edit?usp=sharing) - An in depth overview of best practices and proven strategies for growth & marketing your project in the web3/crypto space
@@ -43,16 +44,27 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 * [Ru guild](https://t.me/yu1ian)
 * [NFT club](https://t.me/naveenkandwal)
 
+
+## [NEARWEEK](https://nearweek.com/)
+
+NEARWEEK has established itself as a prominent news & amplification platform in the NEAR ecosystem, having built out a suite of services and tools for teams to effectively promote their projects. These include:
+
+* NEAR Ecosystem Marketing [activation workflow](https://drive.google.com/file/d/1NsMDzKxFHoKopgEOpf2JGVXI8NzvDrsc/view)
+* [Ecosystem Calendar](https://nearweek.com/calendar) for wider visibility into upcoming events, launches, Twitter Spaces, campaigns, etc... Make sure to submit yours!
+* Check out NEARWEEK's NEAR ecosystem [swag shop](https://store.nearweek.com/)!
+* [Audio Page](https://nearweek.com/podcasts) for Twitter Spaces and podcast recordings & discovery. Make sure to upload yours!
+
+
 ## MarketingDAO
 
 The MarketingDAO is a Near Community-run organization of globally distributed marketing professionals, creatives, and NEAR enthusiasts who engage with the Near Community to facilitate the allocation of Community funds for marketing activities under $10 000. The Marketing DAO was established as a key pillar on the road to decentralization of the Near Ecosystem and empowers the NEAR Community to access funding for marketing activities furthering the overall growth and expansion of the NEAR ecosystem. 
-
 
 Interested in Applying? Please read:
 
 [Marketing DAO Handbook](https://docs.google.com/document/d/1i1PbFQKlwyWzjGZMoeUIM3gy3ghWKH3Yo4iOi-D8N_U/view)
 and 
 [Guidelines for Assessment Marketing DAO Proposals](https://gov.near.org/t/guidelines-for-assessment-marketing-dao-proposals/31645)
+
 
 ## GTM/Event Funding
 
