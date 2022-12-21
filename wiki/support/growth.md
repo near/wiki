@@ -53,6 +53,8 @@ NEARWEEK has established itself as a prominent news & amplification platform in 
 * [Ecosystem Calendar](https://nearweek.com/calendar) for wider visibility into upcoming events, launches, Twitter Spaces, campaigns, etc... Make sure to submit yours!
 * Check out NEARWEEK's NEAR ecosystem [swag shop](https://store.nearweek.com/)!
 * [Audio Page](https://nearweek.com/podcasts) for Twitter Spaces and podcast recordings & discovery. Make sure to upload yours!
+* With their own custom bot, you can send your news directly to NEARWEEK via Twitter. This is the easiest way to make sure that your news is picked up by NEARWEEK for inclusion in the daily and weekly newsletter.
+  * Learn how to use it [here](https://docs.nearweek.com/start/newsletter/newsletter/news-submission-twitter#twitter-bot-command)!
 
 
 ## MarketingDAO
