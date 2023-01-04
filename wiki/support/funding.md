@@ -5,7 +5,7 @@ title: Funding Resources
 
 # Ecosystem Funds
 
-**Open Web Collective (OWC)** \
+## Open Web Collective (OWC)
 Open Web Collective is an early-stage investor, accelerator program, and supportive community for blockchain and web3 startups. OWC is protocol-agnostic with the goal of removing the hurdles of web3 company building and making the journey into the blockchain revolution easier for promising builders.
 
 Visit: [https://www.openwebcollective.com](https://www.openwebcollective.com/)
