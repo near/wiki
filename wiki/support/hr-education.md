@@ -2,35 +2,42 @@
 id: hr-education-resources
 title: HR & Education Resources
 sidebar_label: HR & Education Resources
+sidebar_position: 3
 ---
+---
+
+## Opportunities
 
 ## Discover Talent & Post Open Roles 
 
 With NEAR being among the most interoperable and developer friendly Layer 1’s, developers of any technical background should find building on NEAR proves to be a great experience.
 
 
-## [NEAR Careers Portal](https://careers.near.org/jobs)
+### [NEAR Careers Portal](https://careers.near.org/jobs)
 
 Discover open roles available within the NEAR Ecosystem, and you can also post open roles within your team as well.
 
+### NEAR Week
+[NEAR Week](https://nearweek.com/) is a community-driven newsletter. It covers anything and everything within the NEAR Ecosystem. If you're looking for an extra dose of NEAR-focused news, look no further.
 
-## [NEAR University](https://www.near.university/)
-
-Your gateway to the NEAR ecosystem and community. 
-
-Learn, earn and connect with NEAR University programs. Start your new career now, level up your skills.
-
-* Whether self-paced, online or in-person, we have created learning experiences that transform.
-* Get paid to learn and build as part of our fellowship programs, supplement your income with bounties or fund your dream project with a grant.
-* Engage with our fast-growing ecosystem of entrepreneurs and developers as we build the future of the Open Web.
-
-
-## [BlackFreelancer](https://www.blackfreelancer.com/)
+### [BlackFreelancer](https://www.blackfreelancer.com/)
 
 BlackFreelancer is a hub for black creatives across the globe to showcase their work and get hired.
 
+### [BEExperience](https://beexperience.io/)
 
-## [Learn NEAR Club](https://learnnear.club/)
+The HUB of education and recruitment within web3. We provide services to hiring entities, as well as individuals seeking employment.
+
+* Help with connecting candidates to open vacancies.
+* HR and Technical screening interviews to garantuee talent.
+* Educational frameworks to help with onboarding and upskilling
+* Providing facilities for instructor lead workshops both virtually and in person 
+* Web3 LinkedIn framework
+
+## Learning Resources
+
+### [freeCodeCamp NEAR Curriculum](https://www.freecodecamp.org/news/near-curriculum/) - a freeCodeCamp initiative rolling out courses on NEAR Protocol.
+### [Learn NEAR Club](https://learnnear.club/)
 
 All-inclusive hands-on onboarding platform to NEAR Protocol – connecting NEAR Ecosystem projects to pro-active community members via (L)Earn method.
 Supported by NEAR Foundation.
@@ -41,13 +48,9 @@ LNC also has some pretty great invite-only offers to help NEAR Ecosystem project
 * While interacting on LNC, you will receive [nLearns](https://learnnear.club/what-are-nlearns/), LNC internal points.
 * Both Creators and Learners get rewards in nLEARNs
 
+### NEAR Academy
+This resource is aimed at developers with experience in Web 2, who are new to Web 3 [NEAR Academy](htpps://near.academy).
+It's an interactive course that teaches how to integrate blockchain technology with an application.
+When you complete it, you receive a certificate of completion.
 
-## [BEExperience](https://beexperience.io/)
 
-The HUB of education and recruitment within web3. We provide services to hiring entities, as well as individuals seeking employment.
-
-* Help with connecting candidates to open vacancies.
-* HR and Technical screening interviews to garantuee talent.
-* Educational frameworks to help with onboarding and upskilling
-* Providing facilities for instructor lead workshops both virtually and in person 
-* Web3 LinkedIn framework

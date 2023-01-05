@@ -1,12 +1,21 @@
 ---
 description: All you need to know about funding and grants on NEAR.
 title: Grants and Funding
+sidebar_position: 1
+---
+
 ---
 
 **Welcome to the NEAR Foundation funding platform** — your home to grow your decentralized project from non-equity grant to seed funding and beyond. Funding from the Near Foundation (NF) comprises the following programs: Direct Grant, Education Grants, Grant Pools, Direct Investments, Ecosystem Funds, our Backer Network, and DAO Investments. To learn more about each program and where your project fits in, read below.
 
-![NF Funding Image](/images/nffunding.png)
+:::note
 
+NEAR's Grants & Funding Approach is currently being refined. To learn more about the changes, read the blog post on the **[Near Foundation's Grant Approach](https://near.org/blog/refining-near-foundations-grant-approach/)**.
+
+:::
+
+<!-- ![NF Funding Image](/images/nffunding.png) -->
+<!-- 
 ## Direct Grants
 
 The NF Grants program provides non-equity funding for a variety of projects ranging from Near-native dapps to community programs and research. Some of the projects we’ve supported include but are not limited to:
@@ -129,4 +138,4 @@ If you are planning a GTM push or looking to host an event in partnership with N
 
 ## DAO Investments
 
-NEAR Foundation is keen to participate in growing DAO ecosystems on NEAR and having NEAR Protocol and Astro DAO play a meaningful role within the overall DAO landscape. We look to invest and participate in both NEAR-native DAOs as well as non-native DAOs that can provide a strategic value for growing NEAR’s reach within the overall DAO landscape. If you are interested in a DAO investment and participation from NEAR Foundation or the NEAR Backer Network, please email us at funding@near.foundation or [complete the following form](https://nearprotocol1001.typeform.com/nearvcnetwork?typeform-source=www.google.com).
+NEAR Foundation is keen to participate in growing DAO ecosystems on NEAR and having NEAR Protocol and Astro DAO play a meaningful role within the overall DAO landscape. We look to invest and participate in both NEAR-native DAOs as well as non-native DAOs that can provide a strategic value for growing NEAR’s reach within the overall DAO landscape. If you are interested in a DAO investment and participation from NEAR Foundation or the NEAR Backer Network, please email us at funding@near.foundation or [complete the following form](https://nearprotocol1001.typeform.com/nearvcnetwork?typeform-source=www.google.com). -->
