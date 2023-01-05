@@ -104,9 +104,14 @@ const config = {
             label: "Support",
           },
           {
+            href: "/contribute",
+            position: "left",
+            label: "Contribute",
+          },
+          {
             href: "https://github.com/near/wiki",
-            label: "GitHub",
             position: "right",
+            label: "GitHub",
           },
         ],
       },
