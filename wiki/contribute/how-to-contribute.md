@@ -2,6 +2,7 @@
 id: how-to-contribute
 title: How to Contribute
 sidebar_label: How to Contribute
+sidebar_position: 3
 ---
 
 ## Ways to Contribute to the code {#ways-to-contribute-to-the-code}

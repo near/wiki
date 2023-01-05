@@ -2,6 +2,7 @@
 id: contribute-faq
 title: Contributor FAQ
 sidebar_label: Contributor FAQ
+sidebar_position: 6
 ---
 
 ### How can I get involved? {#how-can-i-get-involved}

@@ -3,7 +3,9 @@ description: Everything you need to know about NEAR Token
 title: NEAR Token
 ---
 
-# NEAR Token
+
+---
+
 This is the native token used in NEAR Protocol.
 It has multiple use cases:
 - Secures the network through staking

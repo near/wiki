@@ -2,8 +2,10 @@
 id: growth
 title: Growth & Marketing
 sidebar_label: Growth & Marketing
+sidebar_position: 2
 ---
 
+---
 ## NEAR Foundation's Role Around Marketing Support
 
 The NEAR Foundation is thrilled to see all of the amazing projects joining and building on NEAR over the last year. The Foundation has come a long way since NEAR first went live on mainnet, and has since been consistently evolving its approach on how it operates and supports projects in regards to marketing.

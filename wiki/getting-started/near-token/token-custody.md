@@ -2,9 +2,11 @@
 id: token-custody
 title: Token Custody Options
 sidebar_label: Token Custody
+sidebar_position: 1
 ---
 
-# Token Custody
+
+---
 
 There are several options available to manage your NEAR and NEAR-based assets.
 

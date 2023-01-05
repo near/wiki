@@ -2,6 +2,9 @@
 id: tools-infrastructure
 title: Tools & Infrastructure Resources
 sidebar_label: Tools & Infrastructure Resources
+sidebar_position: 6
+---
+
 ---
 
 There are a multitude of infrastructure tools & services integrated into the NEAR ecosystem to facilitate, and accelerate, your building on NEAR.

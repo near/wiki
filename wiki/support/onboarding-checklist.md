@@ -2,9 +2,12 @@
 id: onboarding-checklisk
 title: Project Onboarding Checklist
 sidebar_label: Project Onboarding Checklist
+sidebar_position: 4
 ---
 
-## NEAR Project Onboarding Checklist
+# NEAR Project Onboarding Checklist
+---
+
 
 Welcome to the NEAR ecosystem! Here are some concise and helpful guidelines to effectively onboard into the NEAR ecosystem.
 

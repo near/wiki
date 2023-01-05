@@ -1,9 +1,15 @@
 ---
 title: Essential Tools
-description: A brief overview of some essential tools to get started with NEAR.
+description: A brief overview of some essential tools to get started with NEAR
+sidebar_position: 4
 ---
+
+----
+
 There are a lot of ways to interact with both NEAR protocol and the NEAR token.
-While the number of tools that can interface with NEAR for different use-cases is always growing, we're going to look at a short list of essential tools to help you start using NEAR.
+While the number of tools that can interface with NEAR for different use-cases is always growing, we're going to look at a short list of essential tools to help you start using NEAR. 
+
+In addition to the tools listed below, you can also find additional resource in the [support](../support/tools-infrastructure) section of this wiki
 
 ## NEAR Wallet
 
