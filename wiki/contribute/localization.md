@@ -2,6 +2,7 @@
 id: localization
 title: How to translate NEAR Docs
 sidebar_label: Docs Localization
+sidebar_position: 4
 ---
 
 ## Introduction

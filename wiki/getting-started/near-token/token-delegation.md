@@ -2,9 +2,10 @@
 id: delegation
 title: Token Delegation
 sidebar_label: Token Delegation
+sidebar_position: 2
 ---
 
-# Token Delegation
+---
 
 ## Overview
 

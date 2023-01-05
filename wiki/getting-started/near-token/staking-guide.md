@@ -1,6 +1,9 @@
 ---
 description: A guide to staking on NEAR.
 title: Staking Guide
+sidebar_position: 5
+---
+
 ---
 
 Staking allows you to earn NEAR rewards in return for delegating your tokens with a validator. This is an essential process in Proof-of-Stake (PoS) blockchains which is required to ensure security and decentralisation.

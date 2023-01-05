@@ -1,9 +1,10 @@
 ---
 description: Frequently asked questions about NEAR
 title: FAQs
+sidebar_position: 5
 ---
 
-## FAQ
+---
 
 ### What is NEAR?
 

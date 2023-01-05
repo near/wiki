@@ -2,9 +2,10 @@
 id: glossary
 title: Glossary
 description: Helpful definitions for the wiki.
+sidebar_position: 11
 ---
 
-
+---
 ## Address
 A string of letters and numbers used to receive or send cryptocurrencies, tokens, or NFTs.
 

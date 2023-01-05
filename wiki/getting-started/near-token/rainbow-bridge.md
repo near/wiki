@@ -1,6 +1,9 @@
 ---
 description: A guide to using the Rainbow Bridge.
 title: Rainbow Bridge
+sidebar_position: 7
+---
+
 ---
 
 If you have existing assets on Ethereum, it's possible to transfer them to NEAR and vice-versa.

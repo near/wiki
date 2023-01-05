@@ -1,6 +1,9 @@
 ---
 title: NFTs on NEAR
 description: A guide to non-fungible tokens on NEAR.
+sidebar_position: 4
+---
+
 ---
 ## What's an NFT?
 
