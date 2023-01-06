@@ -2,10 +2,8 @@
 id: growth
 title: Growth & Marketing
 sidebar_label: Growth & Marketing
-sidebar_position: 2
 ---
 
----
 ## NEAR Foundation's Role Around Marketing Support
 
 The NEAR Foundation is thrilled to see all of the amazing projects joining and building on NEAR over the last year. The Foundation has come a long way since NEAR first went live on mainnet, and has since been consistently evolving its approach on how it operates and supports projects in regards to marketing.
@@ -42,10 +40,10 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 
 * [Ready Layer One](https://near.social/#/mob.near/widget/MyPage?accountId=readylayerone.near) - Web3 podcast focused on the NEAR ecosystem. Educating users and bringing together the community.
 * [NEAR is Nao](https://twitter.com/Naomi_fromhh) - A series of Twitter Spaces hosted by Nao(mi), writer and weeb bringing together founders and thoughtleaders from the NEAR ecosystem and other chains to discuss what's happening in the industry, provide alpha, and drop book recommendations here and there.
+* [Wild User Interviews (WUI)](https://linktr.ee/uxisnear) Podcast is a show about People, Product and Crypto hosted by AVB
 * [Chill & Shill](https://linktr.ee/chillandshill) - Twitter space that aims to educate its listeners about NEAR Protocol and its ecosystem through AMAs, community, and educational sessions. Hosted on Mon/Wed/Fri/Sun by [Wax](https://twitter.com/waxnear).
 * [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
-* [Ru guild](https://t.me/yu1ian)
 * [NFT club](https://t.me/naveenkandwal)
 
 
