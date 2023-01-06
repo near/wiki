@@ -2,6 +2,7 @@
 id: style-guide
 title: Writing Style Guide
 sidebar_label: Writing Style Guide
+sidebar_position: 5
 ---
 
 This style guide provides a set of editorial guidelines for anyone writing developer

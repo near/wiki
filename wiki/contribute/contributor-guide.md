@@ -2,6 +2,7 @@
 description: A guide to contributing to the wiki.
 title: Contributor Guide
 slug: /contributor-guide
+sidebar_position: 2
 ---
 
 # Contributing
@@ -73,6 +74,8 @@ Once logged in, you will be in the editor. The editor allows you to edit "Markdo
 When you are done with changes, you can describe what have you done in the text field at the bottom.
 The next step is to create a Pull Request that will inform Wiki editors to review your changes.
 
+For more information on how to use Github, please refer to [How to Contribute page](/wiki/contribute/how-to-contribute.md) of this section.
+
 ## Style Guide
 
 To add images to a page in the wiki, start by adding an image to the folder under `website/static/images`.
@@ -119,3 +122,5 @@ This section is for terminology directly related to NEAR:
 - Avoid listing future plans for a product or feature, in part because when a feature is implemented can be ambiguous, or the product may be cancelled before it ever releases.
 - Use markdown (files ending in .md), and avoid using HTML snippets in markdown because HTML can make reading and editing documents in the wiki more complex.
 - Be respectful.
+  
+For more information on style, please refer to [Style Guide page](/wiki/contribute/style-guide.md) of this section.

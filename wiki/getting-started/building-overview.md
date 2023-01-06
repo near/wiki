@@ -1,6 +1,7 @@
 ---
 description: A quick quide to building projects on NEAR.
 title: Building Overview
+sidebar_position: 3
 ---
 
 Welcome to the building overview!

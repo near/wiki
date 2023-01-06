@@ -1,4 +1,11 @@
-# Lockups
+---
+description: Secure way to lock NEAR tokens for a period of time
+title: Lockups
+sidebar_position: 6
+---
+
+---
+
 
 These docs include information about lockups in general, how they are implemented on NEAR, some challenges this causes, and how you can delegate your locked tokens.
 

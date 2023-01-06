@@ -6,6 +6,7 @@ slug: /
 ---
 
 # Getting Started
+---
 
 Welcome to the [NEAR](http://near.org) Wiki! Thanks for coming!
 

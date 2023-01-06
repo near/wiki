@@ -1,6 +1,7 @@
 ---
 description: This is a guide to DAO Governance with Astro on NEAR.
 title: DAO Governance
+sidebar_position: 2
 ---
 Before we discuss DAO governance, it might be beneficial if you either join a DAO, or [launch one](./how-to-launch-a-dao.md).
 

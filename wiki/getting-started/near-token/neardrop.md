@@ -1,4 +1,10 @@
-# NEARDROP
+---
+description: Easily onboard new users to the NEAR ecosystem
+title: NEARDROP
+sidebar_position: 3
+---
+
+---
 
 [NEARDROP](https://app.neardrop.io) is an easy way to onboard someone new to the NEAR ecosystem by sending them a linkdrop URL to which will send the receiver to the NEAR wallet. In this guide you will learn how to mass-generate onboarding links!\
 \

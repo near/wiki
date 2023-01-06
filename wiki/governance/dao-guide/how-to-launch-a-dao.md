@@ -1,6 +1,7 @@
 ---
 description: This is a guide to launching DAOs on NEAR with Astro.
 title: How to Launch a DAO
+sidebar_position: 1
 ---
 ### **Launching a DAO on Astro: DAO Presets**
 
