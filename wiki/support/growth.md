@@ -72,7 +72,7 @@ and
 
 ## GTM/Event Funding
 
-If you are planning a GTM push or looking to host an event in partnership with NEAR - a side event alongside a major crypto event, a launch event, etc. - and want to explore funding opportunities from NEAR Foundation to support this, please follow the workflow outlined below in [this document](https://docs.google.com/document/d/1-0kw-kV1iDa-3h6bMA9MEdmdJal8w5yiLH56K9hfKBE/edit?usp=sharing).
+If you are planning a GTM push or looking to host an event in partnership with NEAR - a side event alongside a major crypto event, a launch event, etc. - and want to explore funding opportunities from NEAR Foundation to support this, please follow the workflow outlined below in [this document](https://docs.google.com/document/d/1-0kw-kV1iDa-3h6bMA9MEdmdJal8w5yiLH56K9hfKBE/edit?usp=sharing). 
 
 *Ideally, please try to complete and submit with 4 - 6 weeks overhead to allow for review*
 
