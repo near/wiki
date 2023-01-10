@@ -74,7 +74,7 @@ Once logged in, you will be in the editor. The editor allows you to edit "Markdo
 When you are done with changes, you can describe what have you done in the text field at the bottom.
 The next step is to create a Pull Request that will inform Wiki editors to review your changes.
 
-For more information on how to use Github, please refer to [How to Contribute page](/wiki/contribute/how-to-contribute.md) of this section.
+For more information on how to use Github, please refer to [How to Contribute page]([/wiki/contribute/how-to-contribute.md](https://wiki.near.org/contribute/how-to-contribute)) of this section.
 
 ## Style Guide
 
@@ -123,4 +123,4 @@ This section is for terminology directly related to NEAR:
 - Use markdown (files ending in .md), and avoid using HTML snippets in markdown because HTML can make reading and editing documents in the wiki more complex.
 - Be respectful.
   
-For more information on style, please refer to [Style Guide page](/wiki/contribute/style-guide.md) of this section.
+For more information on style, please refer to [Style Guide page](https://wiki.near.org/contribute/style-guide) of this section.
