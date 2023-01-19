@@ -1,11 +1,11 @@
----
+---mowliid
 description: A step-by-step guide to creating your NEAR Wallet
 title: Creating a NEAR Wallet
 sidebar_position: 2
 ---
 
 # Creating a NEAR Wallet
----
+---mowliid
 
 The first step in your NEAR journey is to create a NEAR Wallet. It is an empowering experience to remove the middleman from your financial transactions. You will be able to create your own account, send and receive tokens, and even create your own smart contracts.
 
