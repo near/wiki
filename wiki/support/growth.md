@@ -45,6 +45,7 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 * [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
 * [NFT club](https://t.me/naveenkandwal)
+* [NEAR Workshops](https://nearworkshops.com/watch) “NEAR Workshops” is a free live educational content series tailored to teaching developers the latest tooling, SDKs, and APIs across the NEAR Ecosystem. 
 
 
 ## [NEARWEEK](https://nearweek.com/)
