@@ -17,7 +17,7 @@ Visit: [https://www.metaweb.vc/](https://www.metaweb.vc/)
 
 NEAR Foundation’s Backer Network is a global and diverse network of nearly 300 VCs, angels, advisors, and mentors with a common goal of externally accelerating the growth of the NEAR ecosystem. These backers represent over $20 billion in capital and provide a range of ecosystem support from external capital for fundraising, liquidity providing, advisory services, mentorship, and more.
 
-If you are an investor and interested in learning more about participating within the NEAR backer network, please [complete the following form](https://nearprotocol1001.typeform.com/nearvcnetwork?typeform-source=www.google.com) to ensure the details are captured by Corey Pigott, Strategic Funding Manager at NEAR, who will be in touch. If you would like to subscribe to our monthly newsletter to stay up to date on the NEAR ecosystem, please subscribe [here](https://near.us14.list-manage.com/subscribe?u=faedf5dec8739fb92e05b4131&id=cdc7be7d09).
+If you are an investor and interested in learning more about participating within the NEAR backer network, please subscribe to the monthly newsletter to stay up to date on the NEAR ecosystem - subscribe [here](https://near.us14.list-manage.com/subscribe?u=faedf5dec8739fb92e05b4131&id=cdc7be7d09). If you are a project planning on raising, [complete the following form](https://nearprotocol1001.typeform.com/nearvcnetwork?typeform-source=www.google.com) to ensure the details are captured by Corey Pigott, Strategic Funding Manager at NEAR, who will be in touch.
 
 
 ## MarketingDAO
