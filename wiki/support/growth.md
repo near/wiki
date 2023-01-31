@@ -34,14 +34,14 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 * [NearStarter](https://www.google.com/url?q=https%3A%2F%2Fdocsend.com%2Fview%2Fjnyhkf75fbavu5i6&sa=D&sntz=1&usg=AOvVaw04qMt85ZJLRy6dBXSu6xvK) and their [partnership](https://docs.google.com/document/d/1GOUVZBJc-fqxx34c_qyYMr3cQVlM3fFjevI_1J2YsNw/edit?usp=sharing) with CoinTelegraph
 * [NEAR Insider](https://drive.google.com/file/d/1MboTFLzp-8ydMgyVcww0H_BgjUpPnWOR/view) - NEAR ecosystem focused digital marketing and social media agency
 * [NEAR Stars](https://t.me/nearstarsguild) - Promotion of NEAR ecosystem projects
-* [Flying Rhino](https://beacons.ai/flyingrhino) - Social media marketing support focused on the NEAR ecosystem
+* [Flying Rhino](https://flyingrhinoweb3.com/) - Social media marketing support focused on the NEAR ecosystem
 * [NEAR NFT Club](https://nearnft.club/) - Collaborate with all the developed and ongoing developing NFT dapps on NEAR. Join the discord to interact.
 * [NEAR News Twitter Accounts](https://twitter.com/i/lists/1590678464478208001) - Curated Twitter list of the many accounts focused on pushing out NEAR ecosystem news 
 
 ## Community Spaces/AMA Resources
 
 * [Ready Layer One](https://near.social/#/mob.near/widget/MyPage?accountId=readylayerone.near) - Web3 podcast focused on the NEAR ecosystem. Educating users and bringing together the community.
-* [NEAR is Nao](https://twitter.com/Naomi_fromhh) - A series of Twitter Spaces hosted by Nao(mi), writer and weeb bringing together founders and thoughtleaders from the NEAR ecosystem and other chains to discuss what's happening in the industry, provide alpha, and drop book recommendations here and there.
+* [NEAR is Nao](https://twitter.com/Naomi_fromhh) - A series of Twitter Spaces hosted by Nao(mi), writer and weeb bringing together founders and thought-leaders from the NEAR ecosystem and other chains to discuss what's happening in the industry, provide alpha, and drop book recommendations here and there.
 * [Chill & Shill](https://linktr.ee/chillandshill) - Twitter space that aims to educate its listeners about NEAR Protocol and its ecosystem through AMAs, community, and educational sessions. Hosted on Mon/Wed/Fri/Sun by [Wax](https://twitter.com/waxnear).
 * [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
@@ -56,7 +56,7 @@ NEARWEEK has established itself as a prominent news & amplification platform in 
 * NEAR Ecosystem Marketing [activation workflow](https://drive.google.com/file/d/1NsMDzKxFHoKopgEOpf2JGVXI8NzvDrsc/view)
 * [Ecosystem Calendar](https://nearweek.com/calendar) for wider visibility into upcoming events, launches, Twitter Spaces, campaigns, etc... Make sure to submit yours!
 * Check out NEARWEEK's NEAR ecosystem [swag shop](https://store.nearweek.com/)!
-* [Audio Page](https://nearweek.com/podcasts) for Twitter Spaces and podcast recordings & discovery. Make sure to upload yours!
+* [NEAR Twitter Spaces](https://open.spotify.com/show/2zp3qdHYbKR7V8Xm8ySN3y) for Twitter Spaces and podcast recordings & discovery. Make sure to upload yours!
 * With their own custom bot, you can send your news directly to NEARWEEK via Twitter. This is the easiest way to make sure that your news is picked up by NEARWEEK for inclusion in the daily and weekly newsletter.
   * Learn how to use it [here](https://docs.nearweek.com/start/newsletter/newsletter/news-submission-twitter#twitter-bot-command)!
 
@@ -97,7 +97,7 @@ There are several entities in the NEAR ecosystem that can provide legal support 
 
 [A guide to launchpads on NEAR](https://medium.com/nearweek/a-guide-to-launchpads-on-near-ido-edition-b3afe6659cb9)
 
-* NEAR Native: [NearStarter](https://twitter.com/near_starter), [GoNear](https://gonear.io/), [Skyward Finance](https://skyward.finance/)
+* NEAR Native: [NearStarter](https://twitter.com/near_starter), [Skyward Finance](https://skyward.finance/)
 * Aurora: [BocaChica](https://bocachica.io/), [NearPad](https://pad.fi/) 
-* NFT:  [Eros Ventures](https://www.eros.ventures/), [Few and Far](https://fewfar.com/launchpad/), [Utopia](https://secretskelliessociety.com/launchpad-utopia/)
+* NFT:  [Eros Ventures](https://www.eros.ventures/), [Few and Far](https://fewfar.com/launchpad/), [Secret Skellies Society Utopia Token](https://secretskelliessociety.com/)
 * Near & Aurora: [SmartPad](https://smartpad.network/)

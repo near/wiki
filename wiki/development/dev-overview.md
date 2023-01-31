@@ -12,7 +12,7 @@ It contains tools and resources that can improve your experience building projec
 ## Tools
 
 There are a wide variety of tools available to help you develop your project.
-You can start by looking at our [essential tools](./essential-tools.md), the NEAR wallet, the block explorer, and the command-line interface(CLI).
+You can start by looking at our [essential tools](overview/essential-tools.md), the NEAR wallet, the block explorer, and the command-line interface(CLI).
 These tools allow you to interface the NEAR protocol in different ways, the NEAR wallet makes it easy to store your NEAR and interact with the NEAR network with a convenient graphical user interface.
 The block explorer allows you to see what's happening on the NEAR network on a larger scale, including what transactions are happening, statistics about nodes and blocks, and a historical look at the NEAR network.
 
@@ -23,12 +23,7 @@ For developers looking to dive right into a project, have a look at our [documen
 ## Learning About Building on NEAR
 
 Once you have the essential tools to interact with the NEAR network, you can use our educational resources to learn more about NEAR.
-We have a wide variety of resources for builders in both technical and non-technical roles.
-For entrepreneurs interested in building a blockchain enterprise, have a look at our [NEAR Certified Entrepreneur](https://www.near.university/courses/near-certified-entrepreneur) course.
-To learn more about the broader context of Web 3, and the NEAR ecosystem, the [NEAR Certified Analyst](https://www.near.university/courses/near-certified-analyst) course is a great start for anybody interested in NEAR with no technical prerequisites.
-For more courses focused on different aspects of NEAR, have a look at [NEAR University](https://www.near.university/).
 
-[NEAR Academy](https://near.academy/) is a resource for web developers who want to learn more about building on Web 3, and NEAR specifically.
-It's an interactive course that dives deep into how Web 2 developers can start integrating NEAR into their projects.
+We have a wide variety of resources for builders in both technical and non-technical roles, and are always adding more. You can find out what's available by on our [learning resources](support/hr-education.md) page.
 
-For more resources about building on NEAR for people building on NEAR under all kinds of different roles, visit [NEAR University](https://www.near.university) for educational courses.
+

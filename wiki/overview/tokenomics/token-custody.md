@@ -133,8 +133,8 @@ Either Create a new wallet, Recover an old one or Connect to your Ledger device.
 
 _**Support Pages:**_
 
-* Check here for more about Near Staking within Moonlet: [https://moonlet.io/near-staking/](https://moonlet.io/near-staking/)
-* Check this page to learn more about Ledger connectivity: [https://moonlet.io/moonlet-a-ledger-ready-hodl-wallet/](https://moonlet.io/moonlet-a-ledger-ready-hodl-wallet/)
+* Check here for more about Near Staking within Moonlet including information on connecting to a ledger: [https://moonlet.io/near-staking/](https://moonlet.io/near-staking/)
+
 
 ## Custodians \(Recommended for institutional users\)
 

@@ -82,7 +82,7 @@ const config = {
             label: "Governance",
           },
           {
-            href: '/development',
+            href: '/development/dev-overview',
             position: 'left',
             label: 'Development',
           },
@@ -92,7 +92,7 @@ const config = {
             label: "Support",
           },
           {
-            href: "/contribute/contribute-overview",
+            href: "/contribute/near-contributing",
             position: "left",
             label: "Contribution",
           },

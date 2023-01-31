@@ -106,7 +106,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 * [Aurora EVM](https://aurora.dev/) - Aurora is an EVM solution built on the NEAR Protocol
 * [Octopus Network](https://oct.network/) - A NEAR-based multichain interoperable crypto-network for launching and running Web3 substrate-based, EVM compatible Appchains.
-  * How to launch an Appchain in Octopus Network: [detailed guide](https://medium.com/oct-network/the-appchain-journey-how-to-launch-an-appchain-in-octopus-network-256c8679c5da)
+  * How to launch an Appchain in Octopus Network: [detailed guide](https://oct.network/appchains)
 * [Rainbow Bridge](https://rainbowbridge.app/transfer) - Bridge for transferring tokens between Ethereum, NEAR and the Aurora networks.
 * [Allbridge](https://allbridge.io/) - A fast, affordable and secure way of moving liquidity between EVM, non-EVM, and L2 blockchains.
 
@@ -114,4 +114,4 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 ## Developer Opportunities 
 
 * [MetaBUIDL](https://near.org/metabuild/) - The NEAR MetaBUIDL hackathons will feature exciting themes focused on solving real-world problems.
-* [NEAR University](https://www.near.university/) - Learn, earn and connect with friends in the NEAR community. NEAR University is the best place to start learning about everything NEAR.
+

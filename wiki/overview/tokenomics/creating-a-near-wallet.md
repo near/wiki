@@ -63,7 +63,7 @@ We send the email recovery message only once, so make sure to have a copy of the
 
 Next, you will need to fund your account with NEAR tokens.
 
-To do anything with the NEAR Wallet, you will need at least 0.1 NEAR. There are several ways to obtain NEAR, including from popular exchanges like [Binance](https://www.binance.com/en) and [Huobi](https://www.huobi.com/en-us/).
+To do anything with the NEAR Wallet, you will need at least 0.1 NEAR. There are several ways to obtain NEAR, including from popular exchanges like [Binance](https://www.binance.com/en) and [Huobi](https://huobi.com/en-us/).
 
 NEAR Wallet provides a simplified account creation process for first-time users who provide a valid email address. In this case, you can directly top up your wallet using the account name without the temporary address passage below.
 
@@ -102,5 +102,5 @@ Already a NEAR Ecosystem whiz, or have a group of friends who'd be interested in
 Give them the gift of decentralization, data ownership, and DeFi with a NEARDROP.
 
 :::note link
-[neardrop](./near-token/neardrop.md)
+[neardrop](overview/tokenomics/neardrop.md)
 :::

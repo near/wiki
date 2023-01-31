@@ -8,7 +8,7 @@ Welcome! If you are in this repository, you are probably interested in contribut
 
 We have tons of open issues across repositories and regularly post [bounties](https://github.com/near/bounties).
 
-To learn more about the contribution flow for developers, please head over to the [Developer Contributions walkthrough](how-to-contribute.md).
+To learn more about the contribution flow for developers, please head over to the [Developer Contributions walkthrough](development/how-to-contribute.md).
 
 ## Contributor Program {#contributor-program}
 
@@ -21,11 +21,11 @@ As part of the NEAR contributor program
 - You receive exclusive support and feedback
   and you have the option to earn tokens for your contributions.
 
-## Example Contributions {#example-contributions}
+<!-- ## Example Contributions {#example-contributions} -->
 
 #### Testing {#testing}
 
-If you are interested in testing our documentation, guides and developer tools, head over to the following pages. We would love to jump on a call and get to know your insights, or you can submit directly issues in the respective repositories on GitHub. For more information on where and how to file issues, please head over to our [developer contribution section.](how-to-contribute.md)
+If you are interested in testing our documentation, guides and developer tools, head over to the following pages. We would love to jump on a call and get to know your insights, or you can submit directly issues in the respective repositories on GitHub. For more information on where and how to file issues, please head over to our [developer contribution section.](development/how-to-contribute.md)
 
 - [Developer tools](https://docs.near.org/develop/welcome)
 - [Local development](https://near-nodes.io/validator/running-a-node)

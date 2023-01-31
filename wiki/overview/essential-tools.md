@@ -9,14 +9,14 @@ sidebar_position: 5
 There are a lot of ways to interact with both NEAR protocol and the NEAR token.
 While the number of tools that can interface with NEAR for different use-cases is always growing, we're going to look at a short list of essential tools to help you start using NEAR. 
 
-In addition to the tools listed below, you can also find additional resource in the [support](../support/tools-infrastructure) section of this wiki
+In addition to the tools listed below, you can also find additional resource in the [support](development/tools-infrastructure) section of this wiki
 
 ## NEAR Wallet
 
 The [NEAR Wallet](https://wallet.near.org) serves as an entry-point to using NEAR. 
 It is a non-custodial, web-based wallet for the NEAR blockchain.
 It allows you to send and receive NEAR, stake NEAR, and create NEARdrops to easily onboard new people on NEAR.
-Check out our guide to [creating a NEAR wallet](./creating-a-near-wallet.md)
+Check out our guide to [creating a NEAR wallet](overview/tokenomics/creating-a-near-wallet.md)
 
 ## NEAR Explorer
 

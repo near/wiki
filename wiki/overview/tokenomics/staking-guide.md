@@ -108,7 +108,7 @@ The staking pool currently allows validators to choose what fee they charge on t
 
 There are several community-run validator lists that detail who they are, how much stake they have, and other information.
 These can help inform where you delegate your tokens.
-It's important to do your own due dilligence before any transaction, including delegating your NEAR.
+It's important to do your own due diligence before any transaction, including delegating your NEAR.
 
 | Operator           | URL (to copy and paste)                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
