@@ -74,7 +74,7 @@ Once logged in, you will be in the editor. The editor allows you to edit "Markdo
 When you are done with changes, you can describe what have you done in the text field at the bottom.
 The next step is to create a Pull Request that will inform Wiki editors to review your changes.
 
-For more information on how to use Github, please refer to [How to Contribute page](./how-to-contribute.md) of this section.
+For more information on how to use Github, please refer to [How to Contribute page](../development/how-to-contribute.md) of the Development section.
 
 ## Style Guide
 

@@ -34,7 +34,7 @@ If you are interested in testing our documentation, guides and developer tools, 
 #### Development {#development}
 
 - We are always looking for more example applications. If you are interested in building a dApp, we would love to help you along the way and see the final result.
-- Create a walk-through example of how to use the [NEAR-explorer](https://docs.near.org/tools/indexer-for-explorer) or highlight different aspects of the [NEAR CLI](https://docs.near.org/tools/near-cli). An example walkthrough of the wallet can be found [here](../getting-started/creating-a-near-wallet.md). Please submit your example to the [docs repository](https://github.com/near/docs).
+- Create a walk-through example of how to use the [NEAR-explorer](https://docs.near.org/tools/indexer-for-explorer) or highlight different aspects of the [NEAR CLI](https://docs.near.org/tools/near-cli). An example walkthrough of the wallet can be found on the [Creating a NEAR Wallet](overview/tokenomics/creating-a-near-wallet.md) page. Please submit your example to the [docs repository](https://github.com/near/docs).
 
 #### You can always ask questions on either of our developer channels {#you-can-always-ask-questions-on-either-of-our-developer-channels}
 

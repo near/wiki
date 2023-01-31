@@ -22,7 +22,7 @@ Welcome to the NEAR ecosystem! Here are some concise and helpful guidelines to e
 - [ ] For support around technical aspects:
 * Daily DevRel [Office Hours](https://near.org/developers/get-help/office-hours/)
 * Dev Support Discord [channel](https://discord.gg/9ezRXvQ3EG)
-* Infrastructure & Tools [available](https://wiki.near.org/support/infrastructure) on NEAR
+* Infrastructure & Tools [available](development/tools-infrastructure.md) on NEAR
 - [ ] Discover talent to fill open roles and needs within your team
 * NEAR Ecosystem careers portal: [here](https://careers.near.org/jobs)
 * Beexperience: [here](https://beexperience.io/)
