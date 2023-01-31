@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-<img src="website/static/assets/near-img.png" width="600">
+<img src="website/static/img/near-img.png" width="600">
 </p>
 
 <br />
