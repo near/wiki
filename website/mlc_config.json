@@ -35,6 +35,24 @@
     },
     {
       "pattern": "^@site/"
+    },
+    {
+      "pattern": "overview/"
+    },
+    {
+      "pattern": "ecosystem/"
+    },
+    {
+      "pattern": "governance/"
+    },
+    {
+      "pattern": "development/"
+    },
+    {
+      "pattern": "support/"
+    },
+    {
+      "pattern": "contribute/"
     }
   ],
   "timeout": "20s",
