@@ -1,0 +1,42 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^/"
+    },
+    {
+      "pattern": "^https://near.events"
+    },
+    {
+      "pattern": "^https://nearlegal.com"
+    },
+    {
+      "pattern": "^http://127.0.0.1"
+    },
+    {
+      "pattern": "^https://staking.dokia.cloud"
+    },
+    {
+      "pattern": "^https://cms.law"
+    },
+    {
+      "pattern": "^https://nearhelp.zendesk.com"
+    },
+    {
+      "pattern": "^https://openshards.io"
+    },
+    {
+      "pattern": "^https://www.mintbase.io"
+    },
+    {
+      "pattern": "^https://twitter.com"
+    },
+    {
+      "pattern": "^https://rpc."
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206]
+}

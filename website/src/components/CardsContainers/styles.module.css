@@ -1,0 +1,13 @@
+.cards__container {
+  display: flex;
+  flex-direction: row;
+  max-width: 1440px;
+}
+
+/* .card__div {
+
+}
+
+.card.developer:hover {}
+
+.card.founder:hover {} */
