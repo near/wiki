@@ -40,7 +40,7 @@ const cardData = {
           Connect with funding, talent, and resources to launch your project
         </>
       ),
-      link: '/',
+      link: '/support/funding',
       level: 'easy',
       cardType: 'profile',
       profile: 'founder'
