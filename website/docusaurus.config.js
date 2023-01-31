@@ -7,7 +7,7 @@ const config = {
   tagline: "NEAR Wiki",
   url: "https://wiki.near.org",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "near", // Usually your GitHub org/user name.
@@ -41,14 +41,17 @@ const config = {
           changefreq: "weekly",
           priority: 0.5,
         },
-        gtag: {
-          trackingID: "G-Z976HN06X8",
-          anonymizeIP: true,
-        },
+        // gtag: {
+        //   trackingID: "G-Z976HN06X8",
+        //   anonymizeIP: true,
+        // },
+
       }),
     ],
   ],
-
+  plugins: [
+    'docusaurus-plugin-matomo',
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -66,47 +69,37 @@ const config = {
           {
             href: "/",
             position: "left",
-            label: "Getting Started",
+            label: "Overview",
           },
           {
             href: "/ecosystem/dapps",
             position: "left",
             label: "Ecosystem",
           },
-          /*{
-            href: '/technology',
-            position: 'left',
-            label: 'Technology',
-          },
-          {
-            href: '/validators',
-            position: 'left',
-            label: 'Validators',
-          },
-          {
-            href: '/community',
-            position: 'left',
-            label: 'Community',
-          },*/
           {
             href: "/governance",
             position: "left",
             label: "Governance",
-          } /*
+          },
           {
-            href: '/resources',
+            href: '/development/dev-overview',
             position: 'left',
-            label: 'Resources',
-          },*/,
+            label: 'Development',
+          },
           { 
             href: "/support/growth",
             position: "left",
             label: "Support",
           },
           {
+            href: "/contribute/near-contributing",
+            position: "left",
+            label: "Contribution",
+          },
+          {
             href: "https://github.com/near/wiki",
-            label: "GitHub",
             position: "right",
+            label: "GitHub",
           },
         ],
       },
@@ -126,6 +119,12 @@ const config = {
         // Optional: Algolia search parameters
         searchParameters: {},
         //... other Algolia params
+      },
+      matomo: {
+        matomoUrl: 'https://near-wiki.matomo.cloud',
+        siteId: '1',
+        phpLoader: 'matomo.php',
+        jsLoader: 'matomo.js',
       },
     }),
 };

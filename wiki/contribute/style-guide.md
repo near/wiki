@@ -10,7 +10,7 @@ documentation for NEAR related projects.
 
 ## Goals and audience {#goals-and-audience}
 
-This guide codifies and records style decisions so that you can write documentation
+This guide codifies and records style decisions so that you can write wiki articles
 that is consistent with existing documentation, and ensure that what you write is
 as easy as possible to understand. We hope that you'll join us in striving for
 high-quality documentation.
@@ -69,8 +69,7 @@ developer documentation published by O'Rielly media group:
 General guidelines to improve reading accessibility:
 
 - Place a paragraph's key information in the first sentence to aid in *scannability*. To
-  learn more about scannability, see [How Users Read on the
-  Web](https://www.nngroup.com/articles/how-users-read-on-the-web/).
+  learn more about scannability, see [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/).
 - Break up walls of text (large paragraphs) to aid in scannability. You can do this by
   separating paragraphs, adding headings, and using lists.
 - Use shorter sentences, and avoid complex-compound sentences. Try to use fewer than 26
@@ -178,7 +177,6 @@ instruction if the circumstance doesn't apply.
 
 ## Credits and more style guidance {#credits-and-more-style-guidance}
 
-This style guide is inspired by and borrows from [Google's developer documentation style
-guide](https://developers.google.com/style/), which you can use for anything not covered here.
+This style guide is inspired by and borrows from [Googles developer documentation style guide](https://developers.google.com/style/), which you can use for anything not covered here.
 For anything not found in Google's style guide, see
 [Microsoft's Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).

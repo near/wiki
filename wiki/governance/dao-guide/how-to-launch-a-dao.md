@@ -1,13 +1,13 @@
 ---
 description: This is a guide to launching DAOs on NEAR with Astro.
 title: How to Launch a DAO
-sidebar_position: 1
+sidebar_position: 0
 ---
 ### **Launching a DAO on Astro: DAO Presets**
 
 Before we guide you through the process of setting up your DAO, it’s important to understand the four pre-set DAO types that Astro has to offer. Do note that each of these can be fully customized during the creation process:
 
-![Astro DAO](/images/astrodao1.png)
+![Astro DAO](@site/static/img/astrodao1.png)
 
 
 
@@ -22,7 +22,7 @@ Before we guide you through the process of setting up your DAO, it’s important
 
 If you’re not already logged into your NEAR Wallet, go ahead and do so by clicking ‘log in’ in the top right corner of the Astro homepage.
 
-![Astro DAO](/images/astrodao2.png)
+![Astro DAO](@site/static/img/astrodao2.png)
 
 1. On the landing page of Astro, select the organization you’re starting out of the four presets or hit ‘Create a DAO’ in the top right corner
 2. **Customize** each of the settings in regards to proposals, structure, and voting power to your liking
@@ -41,7 +41,7 @@ If you’re not already logged into your NEAR Wallet, go ahead and do so by clic
    * Double check the information you’ve added is up to scratch and hit ‘Launch DAO’
 7. **Confirm the transaction** in your NEAR wallet and pay a small transaction fee
 
-![Astro DAO](/images/astrodao3.png)
+![Astro DAO](@site/static/img/astrodao3.png)
 
 _**Voila**_! Your DAO is live and thriving on Astro!
 

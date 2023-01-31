@@ -1,7 +1,6 @@
 ---
 description: This is a guide to DAO Governance with Astro on NEAR.
 title: DAO Governance
-sidebar_position: 2
 ---
 Before we discuss DAO governance, it might be beneficial if you either join a DAO, or [launch one](./how-to-launch-a-dao.md).
 
@@ -21,7 +20,7 @@ On the overview of your page you can begin the process of creating a voting toke
    3. Adopt the NEAR native token
       * Anyone who holds NEAR will be able to vote within the DAO
 
-![Astro DAO](/images/astrodao4.png)
+![Astro DAO](@site/static/img/astrodao4.png)
 
 ### Creating a New Token
 
@@ -40,7 +39,7 @@ If you’re creating a new token for governance within your DAO then you’ll ne
 
 The DAO can then distribute voting tokens to members accordingly after the creation of the token.
 
-![Astro DAO](/images/astrodao5.png)
+![Astro DAO](@site/static/img/astrodao5.png)
 
 ### Adopting a Token Farm Token
 
@@ -51,7 +50,7 @@ The DAO can then distribute voting tokens to members accordingly after the creat
 
 Note: Once you’ve selected a token for governance, this cannot be changed&#x20;
 
-![Astro DAO](/images/astrodao6.png)
+![Astro DAO](@site/static/img/astrodao6.png)
 
 ### Adopting the NEAR Native Token
 
@@ -60,7 +59,7 @@ Note: Once you’ve selected a token for governance, this cannot be changed&#x20
 
 Anyone with NEAR will be able to vote for proposals within this DAO.
 
-![Astro DAO](/images/astrodao7.png)
+![Astro DAO](@site/static/img/astrodao7.png)
 
 ## Tasks
 
@@ -72,7 +71,7 @@ DAOs are able to post bounties which are, in essence, projects, tasks, and other
 
 Bounties can range in complexity and length from meme/content creation to the refactoring of code repositories.
 
-![Astro DAO](/images/astrodao8.png)
+![Astro DAO](@site/static/img/astrodao8.png)
 
 ### Creating a Bounty
 
@@ -87,7 +86,7 @@ DAOs looking to post bounties to the wider NEAR Community can do so in a few cli
 6. Enter the amount of time from claiming the bounty to completion
 7. Hit ‘Propose’
 
-![Astro DAO](/images/astrodao9.png)
+![Astro DAO](@site/static/img/astrodao9.png)
 
 ### Claiming a Bounty
 
@@ -103,7 +102,7 @@ When you’ve found a bounty you’d like to take onboard you can claim it and g
    * **Note:** If you fail to complete the bounty or your submission is rejected then you will lose your bond and it will be sent to the DAOs treasury
 4. Good luck, and happy bounty hunting!
 
-![Astro DAO](/images/astrodao10.png)
+![Astro DAO](@site/static/img/astrodao10.png)
 
 You can un**-**claim a bounty within 2 days of claiming it in order to retrieve your bond. This is done through the same Bounties interface of Astro.
 
@@ -113,7 +112,7 @@ Once your bounty is complete head back to the bounty which you claimed in Astro 
 
 Polls are a simple way to gauge the opinions of the members of your DAO. You can ask any question and invite members to vote with a simply yes or no. Creating a poll is easy:
 
-![Astro DAO](/images/astrodao11.png)
+![Astro DAO](@site/static/img/astrodao11.png)
 
 1. Head to the Polls section of Astro in your DAO
 2. Click ‘Create new poll’
@@ -121,7 +120,7 @@ Polls are a simple way to gauge the opinions of the members of your DAO. You can
 4. Add an external URL if applicable
 5. Hit ‘Propose’
 
-![Astro DAO](/images/astrodao12.png)
+![Astro DAO](@site/static/img/astrodao12.png)
 
 All done. Your poll is live!
 
@@ -131,9 +130,9 @@ To participate in a poll simply select the poll and hit the green thumbs up or r
 
 The plugins section allows for NEAR function calls which enable your DAO to interact with applications in the NEAR ecosystem. This functionality is only restricted by the breadth of function calls on NEAR. Essentially, the DAO can interact with any other dApp just as a user would.
 
-![Astro DAO](/images/astrodao13.png)
+![Astro DAO](@site/static/img/astrodao13.png)
 
-![Astro DAO](/images/astrodao14.png)
+![Astro DAO](@site/static/img/astrodao14.png)
 
 ## Treasury
 
@@ -143,7 +142,7 @@ From the Treasury section of Astro, users can send tokens to create a new paymen
 
 The treasury balance is displayed in USD.
 
-![Astro DAO](/images/astrodao15.png)
+![Astro DAO](@site/static/img/astrodao15.png)
 
 ### Tokens
 
@@ -153,7 +152,7 @@ Here the balance of all fungible tokens is displayed. DAOs can ‘hold’ any NE
 
 Non fungible tokens are displayed in a gallery style and can be sent out in a similar manner to sending fungible tokens.
 
-![Astro DAO](/images/astrodao16.png)
+![Astro DAO](@site/static/img/astrodao16.png)
 
 ### Sending Tokens
 
@@ -169,7 +168,7 @@ Tokens can be sent by a DAO to those who may have requested funding or a grant.&
 
 This will create a proposal within Astro for governance participants to vote upon. If accepted, the funds will be sent to the specified payout address.
 
-![Astro DAO](/images/astrodao17.png)
+![Astro DAO](@site/static/img/astrodao17.png)
 
 ### Requesting Payouts
 
@@ -192,7 +191,7 @@ Governance participants will be invited to vote on the payout request. If approv
 
 Within Astro, members of DAOs can be bundled into groups. With groups, DAOs have more flexibility in regards to governance due to the ability to restrict the voting on certain proposal types to members of specific groups. Additionally, groups serve as a way to clearly identify the roles of members within a DAO.
 
-![Astro DAO](/images/astrodao18.png)
+![Astro DAO](@site/static/img/astrodao18.png)
 
 ### How to Create a Group
 
@@ -206,7 +205,7 @@ Within Astro, members of DAOs can be bundled into groups. With groups, DAOs have
 
 After the proposal is accepted the group will be created and members can be added and removed at the will of the DAO.
 
-![Astro DAO](/images/astrodao19.png)
+![Astro DAO](@site/static/img/astrodao19.png)
 
 ### Adding Group Members
 
@@ -220,7 +219,7 @@ After the proposal is accepted the group will be created and members can be adde
 
 If and when it’s approved by the DAO that member will be added to the specified group.
 
-![Astro DAO](/images/astrodao20.png)
+![Astro DAO](@site/static/img/astrodao20.png)
 
 ### Removing Group Members
 
@@ -235,7 +234,7 @@ If and when it’s approved by the DAO that member will be added to the specifie
 
 If and when it’s approved by the DAO that member will be removed from the specified group.
 
-![Astro DAO](/images/astrodao21.png)
+![Astro DAO](@site/static/img/astrodao21.png)
 
 ## Governance
 
@@ -245,7 +244,7 @@ The governance process sits at the core of a DAO and is exemplified within Astro
 
 The setting section of your DAO in Astro includes details on:
 
-![Astro DAO](/images/astrodao22.png)
+![Astro DAO](@site/static/img/astrodao22.png)
 
 * Name & Purpose of the DAO
 * Links
@@ -258,7 +257,7 @@ Each of these are set during the DAO creation process but, through governance, c
 
 Here, Astro users can amend the voting policies for all aspects of the DAO. Proposals can be restricted to ensure that only members of the DAO who are in a certain group have voting rights.&#x20;
 
-![Astro DAO](/images/astrodao23.png)
+![Astro DAO](@site/static/img/astrodao23.png)
 
 DAOs can amend
 

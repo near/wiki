@@ -1,0 +1,49 @@
+.card {
+  position: relative;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: none;
+  transition: all 0.5s ease;
+  margin: 1.5vw;
+}
+
+/* tablet */
+/* @media screen and (max-width: 834px) {
+
+  .card.profile {
+    width: 
+  }
+} */
+
+.card a {
+  text-decoration: none;
+  color: #111;
+  display: inline-block;
+  width: 100%;
+}
+
+svg.card__icon {
+  position: relative;
+  z-index: 1;
+  width: 4vw;
+  transition: all 0.5s ease;
+  display: inline-block;
+}
+
+.level {
+  width: 17%;
+  display: flex;
+  flex-wrap: nowrap !important;
+  margin: 7% -5% 0 auto;
+}
+
+
+
+/* .level > div {
+  height: 2px;
+  width: 24%;
+  margin: 0 4%;
+  background-color: green;
+} */
