@@ -1,7 +1,7 @@
 ---
 description: Easily onboard new users to the NEAR ecosystem
 title: NEARDROP
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 ---
