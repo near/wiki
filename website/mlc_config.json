@@ -53,6 +53,18 @@
     },
     {
       "pattern": "contribute/"
+    },
+    {
+      "pattern": "https://secretskelliessociety.com/"
+    },
+    {
+      "pattern": "https://chainstack.com/build-better-with-near/"
+    },
+    {
+      "pattern": "https://nearpay.co/"
+    },
+    {
+      "pattern": "https://huobi.com/en-us/"
     }
   ],
   "timeout": "20s",

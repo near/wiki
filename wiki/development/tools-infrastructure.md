@@ -32,7 +32,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 ## Rust Stack
 
-* [Rust SDK](https://docs.near.org/tools/near-sdk-rs) - Documentation around writing smart contracts on NEAR in Rust.
+* [Rust SDK](https://docs.near.org/sdk/rust/introduction) - Documentation around writing smart contracts on NEAR in Rust.
 * [Rust Library](https://github.com/near/near-sdk-rs) for writing NEAR smart contracts.
 
 
