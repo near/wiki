@@ -66,7 +66,7 @@ const cardData = {
           Discover learning resources to help you get started on NEAR
         </>
       ),
-      link: '/support/hr-education',
+      link: '/support/hr-education-resources',
       level: 'easy'
     },
     {
@@ -103,11 +103,11 @@ const cardData = {
       level: 'easy'
     },
     {
-      title: 'Grants & Funding',
+      title: 'Funding',
       icon: require('@site/static/img/icons/icon_funding.svg').default,
       text: (
         <>
-          Learn about NEAR Grants and other funding opportunities
+          Learn about funding opportunities available to NEAR projects
         </>
       ),
       link: '/support/funding',

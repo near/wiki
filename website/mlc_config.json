@@ -65,6 +65,9 @@
     },
     {
       "pattern": "https://huobi.com/en-us/"
+    },
+    {
+      "pattern": "https://legalnodes.com/"
     }
   ],
   "timeout": "20s",
