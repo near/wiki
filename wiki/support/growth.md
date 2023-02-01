@@ -47,6 +47,7 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
 * [Ru guild](https://t.me/yu1ian)
 * [NFT club](https://t.me/naveenkandwal)
+* [NEAR Workshops](https://nearworkshops.com/watch) is a free live educational content series tailored to teaching developers the latest tooling, SDKs, and APIs across the NEAR Ecosystem.
 
 
 ## [NEARWEEK](https://nearweek.com/)
