@@ -22,7 +22,7 @@ export default function Home() {
           <center className="header"> <h1>Welcome to the <br /> NEAR Wiki</h1> </center>
           <center className="subheader"><p>This <a href="https://github.com/near/wiki">open-source</a>, collaborative wiki connects you to information about everything the protocol has to offer including usage, infrastructure, opportunities, and guilds.</p></center>
           
-          <div class="header__links">
+          <div className="header__links">
             <a href="#path">Choose a path</a>
             <a href="#domain">Browse by domain</a>
             <a href="#product">Browse by product</a>
@@ -39,7 +39,7 @@ export default function Home() {
             </div>
           </div>
 
-          <center class="section__footer"><p>Just looking around? <a href="/overview/getting-started">Enter NEAR Wiki</a></p></center>
+          <center className="section__footer"><p>Just looking around? <a href="/overview/getting-started">Enter NEAR Wiki</a></p></center>
         </section>
 
         <section id="domain" className="browseByDomain__section landing__section">
@@ -58,7 +58,7 @@ export default function Home() {
           <div className="section__cards">
             <BrowseByProduct />
           </div>
-          <center class="section__footer"><p>Just looking around? <a href="/overview/getting-started">Enter NEAR Wiki</a></p></center>
+          <center className="section__footer"><p>Just looking around? <a href="/overview/getting-started">Enter NEAR Wiki</a></p></center>
         </section>
 
       </main>
