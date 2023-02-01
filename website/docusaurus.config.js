@@ -94,7 +94,7 @@ const config = {
           {
             href: "/contribute/near-contributing",
             position: "left",
-            label: "Contribution",
+            label: "Contribute",
           },
           {
             href: "https://github.com/near/wiki",
