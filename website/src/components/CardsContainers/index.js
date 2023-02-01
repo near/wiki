@@ -88,7 +88,7 @@ const cardData = {
           Quickly get started with NEAR Explorer, Wallet, and NEAR CLI
         </>
       ),
-      link: '/overview/essentials',
+      link: '/overview/essential-tools',
       level: 'easy'
     },
     {
@@ -212,7 +212,7 @@ const cardData = {
           Take a deep dive into NEAR's technology with tutorials, guides, and more
         </>
       ),
-      link: 'https://docs.near.org',
+      link: 'development/tools-infrastructure#developer-tools',
       level: 'easy'
     },
   ]

@@ -67,7 +67,7 @@ const config = {
         },
         items: [
           {
-            href: "/",
+            href: "/overview/getting-started",
             position: "left",
             label: "Overview",
           },

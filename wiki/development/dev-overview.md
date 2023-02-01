@@ -24,6 +24,6 @@ For developers looking to dive right into a project, have a look at our [documen
 
 Once you have the essential tools to interact with the NEAR network, you can use our educational resources to learn more about NEAR.
 
-We have a wide variety of resources for builders in both technical and non-technical roles, and are always adding more. You can find out what's available by on our [learning resources](support/hr-education.md) page.
+We have a wide variety of resources for builders in both technical and non-technical roles, and are always adding more. You can find out what's available by on our [learning resources](support/hr-education-resources.md) page.
 
 
