@@ -26,7 +26,7 @@ Total supply is the amount of tokens in the whole system. Each example is select
 
 There are different scenarios why the amount of tokens could change on the account. Let's look at it on real examples.
 
-Each example (except rewarding) contains fees user pays for the operation. You could read about fees calculation [here](https://nomicon.io/Economics/README.html#transaction-fees).
+Each example (except rewarding) contains fees user pays for the operation. You could read about fees calculation [here](https://nomicon.io/Economics/Economic#transaction-fees).
 
 #### Transfer of tokens
 
@@ -50,7 +50,7 @@ For this example, final cost of transferring tokens was `22318256250000000000 * 
 
 #### Creating the account
 
-https://explorer.mainnet.near.org/transactions/Hant2anxPJHm3sh8ncc5AWn5VpXTmwq6iyEumVoQcUJP
+[Create Account Receipt](https://explorer.mainnet.near.org/transactions/Hant2anxPJHm3sh8ncc5AWn5VpXTmwq6iyEumVoQcUJP)
 
 `nearcrowd.near` created account `app.nearcrowd.near`, gave the access key, transfer some tokens for that account. These 3 actions are usually go together.
 
@@ -68,7 +68,7 @@ We also have receipt for returning a change: it is made without fee. For this ex
 
 #### Deleting the account
 
-https://explorer.mainnet.near.org/transactions/8nZeedU6RUnj65zxQYHrGx2Urx5sLe6J2T123xSNL2RK
+[Delete Account Receipt](https://explorer.mainnet.near.org/transactions/8nZeedU6RUnj65zxQYHrGx2Urx5sLe6J2T123xSNL2RK)
 
 It's not possible to delete not your account: user is always deleting their own account. User should provide beneficiary account that receive all tokens. User could provide the account that does not exist, in such case the tokens will burn.
 
@@ -87,7 +87,7 @@ Note: we do not have the change. For this example, final cost of deleting accoun
 
 #### Calling a function
 
-https://explorer.mainnet.near.org/transactions/8oBZrKk8jkAzrsYasoL2DW9Yg6K2GznLhvoiXmSm7kHe
+[Function Call Receipt](https://explorer.mainnet.near.org/transactions/8oBZrKk8jkAzrsYasoL2DW9Yg6K2GznLhvoiXmSm7kHe)
 
 `relayer.bridge.near` invoked a function in the contract of `client.bridge.near`
 
@@ -103,11 +103,11 @@ For such kind of transactions, sender pays 2 fees: for making receipt from trans
 
 For this example, final cost of invoking the function was `(250815301972200000000 + 3551880449426700000000) / 10^24 = 0.0038026957513989` Near Tokens. Reward was `0.0009903195442363` Near Tokens.
 
-TODO: add Nomicon link about royalties when [this issue](https://github.com/near/NEPs/issues/198) will be resolved.
+<!-- TODO: add Nomicon link about royalties when [this issue](https://github.com/near/NEPs/issues/198) will be resolved. -->
 
-**The example of calling a function could be more complex.**
+<!-- **The example of calling a function could be more complex.** -->
 
-https://explorer.mainnet.near.org/transactions/DuGWWTK2sAxjffifJiJBv6hs3Hc8MdhpHnzgRJryV4Be
+[Transaction Receipt](https://explorer.mainnet.near.org/transactions/DuGWWTK2sAxjffifJiJBv6hs3Hc8MdhpHnzgRJryV4Be)
 
 `lulukuang.near` invokes a function in a protocol of `berryclub.ek.near`. It triggers `berryclub.ek.near` to send the money to third account, `farm.berryclub.ek.near`. So we need to analyze 3 accounts in this scenario.
 
@@ -120,7 +120,7 @@ https://explorer.mainnet.near.org/transactions/DuGWWTK2sAxjffifJiJBv6hs3Hc8MdhpH
 
 #### Adding the key
 
-https://explorer.mainnet.near.org/transactions/A9767GbmRCLdeCpZYfKTQUqe17KyAu5JrZHanoRChMSV
+[Add Key Receipt](https://explorer.mainnet.near.org/transactions/A9767GbmRCLdeCpZYfKTQUqe17KyAu5JrZHanoRChMSV)
 
 `slavon.near` added the key to their own account.
 
@@ -137,7 +137,7 @@ Note: we do not have the change. For this example, final cost of adding the key 
 
 #### Deleting the key
 
-https://explorer.mainnet.near.org/transactions/CfuXcVPy7vZNVabYKzemSwDdNF9fnhbMLaaDKjAMyw8j
+[Delete Key Receipt](https://explorer.mainnet.near.org/transactions/CfuXcVPy7vZNVabYKzemSwDdNF9fnhbMLaaDKjAMyw8j)
 
 `77yen.near` deleted the key from their own account.
 
@@ -154,7 +154,7 @@ Note: we do not have the change. For this example, final cost of adding the key 
 
 #### Deploying the contract
 
-https://explorer.mainnet.near.org/transactions/3DN4XiQCX2EeSN5sjiaB4WBjJizthbhUfqQhCBcZK57A
+[Deployment Receipt](//explorer.mainnet.near.org/transactions/3DN4XiQCX2EeSN5sjiaB4WBjJizthbhUfqQhCBcZK57A)
 
 `ref-finance.near` deployed the contract.
 
@@ -204,12 +204,12 @@ If the validator decrease the stake during the epoch, it will be actually decrea
 
 `artemis.poolv1.near` received the reward and stopped being validator at that epoch, so all the stake are on the liquid balance, stake becomes zero.
 
-The reword value is calculated based on stake size and number of calculated blocks per epoch. Read more about it [here](https://nomicon.io/Economics/README.html#rewards-calculation)
+The reword value is calculated based on stake size and number of calculated blocks per epoch. Read more about it on the [Economics](https://nomicon.io/Economics/Economic#validator-rewards-calculation) page of the Nomicon.
 
 If the validator increase the stake during the epoch, stake will be increased in next few blocks, we do not need to wait for the moment of the epoch boundary. For current epoch, blockchain will take into account stake value fixed at the start of the epoch.
 
-https://explorer.mainnet.near.org/transactions/HajXjY1gSf47jakXP44ERecjFE2hFvF4FgRyQzNdZzDZ
+[Transaction Receipt](https://explorer.mainnet.near.org/transactions/HajXjY1gSf47jakXP44ERecjFE2hFvF4FgRyQzNdZzDZ)
 
 `elecnodo.near` put 245.7788678019393 tokens from its locked account `57bea511f28a9c0d44148c332826a9b9fb14f13c.lockup.near` to a staking pool `staked.poolv1.near`
 
-Read more about epochs changing [here](https://github.com/near/NEPs/tree/master/specs/BlockchainLayer/EpochManager).
+Read more about epochs changing in the [NEP](https://github.com/near/NEPs/tree/master/specs/BlockchainLayer/EpochManager) guide.
