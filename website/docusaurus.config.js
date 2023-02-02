@@ -40,17 +40,17 @@ const config = {
         sitemap: {
           changefreq: "weekly",
           priority: 0.5,
-        },
-        gtag: {
-          trackingID: "GTM-TNPGV9L",
-          anonymizeIP: true,
-        },
-
+        }
       }),
     ],
   ],
   plugins: [
-    'docusaurus-plugin-matomo',
+    [
+      '@docusaurus/plugin-google-tag-manager',
+      {
+        containerId: 'GTM-TNPGV9L',
+      },
+    ]
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -120,12 +120,12 @@ const config = {
         searchParameters: {},
         //... other Algolia params
       },
-      matomo: {
-        matomoUrl: 'https://near-wiki.matomo.cloud',
-        siteId: '1',
-        phpLoader: 'matomo.php',
-        jsLoader: 'matomo.js',
-      },
+      // matomo: {
+      //   matomoUrl: 'https://near-wiki.matomo.cloud',
+      //   siteId: '1',
+      //   phpLoader: 'matomo.php',
+      //   jsLoader: 'matomo.js',
+      // },
     }),
 };
 
