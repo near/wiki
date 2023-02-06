@@ -43,6 +43,7 @@ If you are integrating with NEAR or building directly within the ecosystem and w
 * [Ready Layer One](https://near.social/#/mob.near/widget/MyPage?accountId=readylayerone.near) - Web3 podcast focused on the NEAR ecosystem. Educating users and bringing together the community.
 * [NEAR is Nao](https://twitter.com/Naomi_fromhh) - A series of Twitter Spaces hosted by Nao(mi), writer and weeb bringing together founders and thought-leaders from the NEAR ecosystem and other chains to discuss what's happening in the industry, provide alpha, and drop book recommendations here and there.
 * [Chill & Shill](https://linktr.ee/chillandshill) - Twitter space that aims to educate its listeners about NEAR Protocol and its ecosystem through AMAs, community, and educational sessions. Hosted on Mon/Wed/Fri/Sun by [Wax](https://twitter.com/waxnear).
+* [GM $NEAR](https://twitter.com/officialloozr) - Is a community-led event to highlight projects and communities based on NEAR, highlighting their distinctiveness and allowing everyone to interact and learn more about the opportunities they provide to the NEAR ecosystem and beyond. hosted by the [Loozr](https://loozr.io) team and community.
 * [Next Creators](https://nextcreators.simplecast.com/) - a podcast interviewing creators forging a new path for themselves and others on the internet
 * [NPKguild](https://t.me/damboy22) - events, AMAs, influencer outreach, translation, promotion & marketing
 * [Ru guild](https://t.me/yu1ian)
