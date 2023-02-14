@@ -68,6 +68,9 @@
     },
     {
       "pattern": "https://legalnodes.com/"
+    },
+    {
+      "pattern": "https://airtable.com/shrm92EDb6ydLrSxr"
     }
   ],
   "timeout": "20s",
