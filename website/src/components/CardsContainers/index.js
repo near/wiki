@@ -21,7 +21,7 @@ const cardData = {
     },
     {
       title: 'Developer',
-      icon: require('@site/static/img/icons/icon_dev.svg').default,
+      icon: require('@site/static/img/icons/icon_founder.svg').default,
       text: (
         <>
           Collection of tools and resources for developers building on NEAR
@@ -34,7 +34,7 @@ const cardData = {
     },
     {
       title: 'Founder',
-      icon: require('@site/static/img/icons/icon_founder.svg').default,
+      icon: require('@site/static/img/icons/icon_dev.svg').default,
       text: (
         <>
           Connect with funding, talent, and resources to launch your project
