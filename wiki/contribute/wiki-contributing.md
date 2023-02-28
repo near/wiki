@@ -13,27 +13,58 @@ NEAR uses [Docusaurus](https://docusaurus.io) for documentation. Please refer to
 
 For simple content changes you have 2 options
 
-- [Submit an issue](https://github.com/near/wiki/issues)
-- [Submit a pull request](https://github.com/near/wiki/pulls) _(we prefer PRs of course)_
+- [Edit this page](#the-instant-pr)
+- [Create an issue and PR](#the-typical-pr) _(Please create your branch from the issue you created)_
+
+## How To Contribute
+
+To contribute, you can use the Github repository: https://github.com/near/wiki.
+You can start editing any file by clicking "Edit this page" on any page in the wiki (you will need to sign up for Github to make changes).
+
+Once logged in, you will be in the editor. The editor allows you to edit "Markdown" files - a special formatting used for this Wiki.
+
+When you are done with changes, you can describe what have you done in the text field at the bottom.
+
+The next step is to create a Pull Request (PR) that will inform Wiki editors to review your changes.
+
 
 ## The Instant PR
 
 This is the fastest way to submit content changes directly from the page where you notice a mistake.
 
-1. Open any page in the docs on [wiki.near.org](https://wiki.near.org)
-2. Click the `[ Github ]` button at the top right hand side of _every_ content page
+1. Open any page in on this [wiki](https://wiki.near.org)
+
+2. Click the `[ Edit this page ]` button at the bottom of _every_ content page
+
 3. Make your edits to the document that opens in GitHub by clicking the ✎ (pencil) icon
+
 4. Submit a PR with your changes and comments for context
+
+::: note 
+
+Please check all links before submitting a PR. If you are adding a new page, please add it to the sidebar in the `website/sidebars.js` file.
+
+For more information on working with the sidebar, please refer to [Docusaurus documentation](https://docusaurus.io/docs/sidebar).
+
+:::
 
 ## The Typical PR
 
 This is the standard fork-branch-commit workflow for submitting pull requests to open source repositories
 
-1. Fork this repo to your own GitHub account (or just clone it directly if you are currently a member of NEAR)
+1. Create an issue for your proposed changes.
 
-2. Open your editor to the _top level repo folder_ to view the directory structure as seen below
+![](@site/static/img/wiki-contribute_issue.jpg)
 
-3. Move into the `/website` folder where you will run the following commands:
+1. Create a branch from the issue.
+
+![](@site/static/img/wiki-contribute_submit-issue.jpg)
+
+2. Checkout the branch locally and make your changes in the `/website` folder.
+
+![](@site/static/img/wiki-contribute_create-branch-from-issue.jpg)
+![](@site/static/img/wiki-contribute_create-branch.jpg)
+![](@site/static/img/wiki-contribute_checkout-branch.jpg)
 
    - Make sure all the dependencies for the website are installed:
 
@@ -58,23 +89,22 @@ This is the standard fork-branch-commit workflow for submitting pull requests to
 
      The website for docs will open your browser locally to port `3000`
 
-4. Make changes to the docs
+3. Make your edits.
 
-5. Observe those changes reflected in the local docs
+4. Check that the project builds correctly
+     ```sh
+     # Start the site
+     yarn build
+     ```
 
-6. Submit a pull request with your changes
+5. Commit and push your changes. refence the issue you made in your commit message. e.g. `git commit -m "fix: #1234"`
+   
+6. If you do not have permissions to push to the repo, you will need to fork the repo and submit a PR from your fork. Please refer to the issue you created in step 1 for context.
+7. Assign a reviewer to your PR. For now this will be [@humanman](https://github.com/humanman) or [@mrdevri](https://github.com/mrdevri)
 
-## How To Contribute
 
-To contribute, you can use the Github repository: https://github.com/near/wiki.
-You can start editing any file by clicking "Edit this page" on any page in the wiki (you will need to sign up for Github to make changes).
 
-Once logged in, you will be in the editor. The editor allows you to edit "Markdown" files - a special formatting used for this Wiki.
 
-When you are done with changes, you can describe what have you done in the text field at the bottom.
-The next step is to create a Pull Request that will inform Wiki editors to review your changes.
-
-For more information on how to use Github, please refer to [How to Contribute page](../development/how-to-contribute.md) of the Development section.
 
 ## Style Guide
 
@@ -100,9 +130,16 @@ Every page should have frontmatter, to make pages on the wiki easy to find and s
 
 If you want to link to a definition in the glossary, you can use a markdown link:
 ```md
-[Word](./../getting-started/glossary.md)
+[Word](overview/glossary.md#blockchain)
 ```
+
 In the above example, you put the word you're defining inside a pair of `[]`, then you link the glossary page inside `()` with a `#` followed by the specific word you're linking to.
+
+Images work the same way, but you use `@site/static/img/` instead of `overview/glossary.md#`:
+
+If you want to flex your React skills, you can add a component to a page by changing the file extension from `.md` to `.mdx`. Reference the ["Using JSD in Markdown"](https://docusaurus.io/docs/markdown-features/react#using-jsx-in-markdown) page of Docusaurus for more details.
+
+
 
 ### NEAR-Specific style
 
