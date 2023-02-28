@@ -40,28 +40,18 @@ Get involved in the various communities in the ecosystem:
 
 ## Regional Communities
 
-* [NEAR Arabia](https://t.me/NEAR_Arabic): NEAR Arabic community
 * [NEAR Argentina](https://t.me/NEARargentina): A community focused on getting cryptocurrency and blockchain technology adopted in Argentina through NEAR.
-* [NEAR Australia](https://t.me/near_au): NEAR Australia community
 * [NEAR Canada](https://t.me/+K2fLlaK5xWRiOWJh): To empower Canadians with the knowledge of Web 3.0 and NEAR technology.
 * [NEAR China](https://t.me/NEAR_China): NEAR China community
 * [NEAR Francais](https://t.me/NearFrancais): NEAR French community
 * [NEAR Hispano](http://t.me/NEARHispano): For Spanish-speaker developers
 * [NEAR India](https://t.me/cryptonear_IN): NEAR INDIA community
-* [NEAR Korea](https://t.me/nearprotocol_korea): NEAR Korea community
 * [NEAR Malaysia](https://t.me/NEAR_Malaysia): NEAR Malaysia community
-* [NEAR Mexico](https://t.me/joinchat/SuhzirHG_S04MjQx): NEAR Mexico community
-* [NEAR Nigeria](https://t.me/NPKGUILD): The First regional guild in West African facilitating awareness of Near blockchain and its usecase in solving problems currently affecting Nigeria as a whole
-  * [NEAR Nigeria Dev Guild](https://t.me/joinchat/idTiZc4wlF03Nzhk):
-* [NEAR Philippines](https://t.me/NEARPhilippines): NEAR Philippines community
 * [NEAR Portuguese](https://t.me/near_pt): NEAR Portuguese community
 * [NEAR Protocol Persian](https://t.me/NEARProtocol_persian): A community focusing on promoting NEAR to Persian speakers 
 * [NEAR Protocol Thai](https://t.me/nearthaicommunity): NEAR Thai community
 * [NEAR Russia](https://t.me/near_protocol): A guild focused on the NEAR protocol russian speaking community
-* [NEAR Spain](https://t.me/+AWWDfqcOGlQ2OTNh): Creation, development and establishment of NEAR community in the Kingdom of Spain
-* [NEAR Sri Lanka](https://t.me/NEARSriLanka): NEAR Sri Lanka community
 * [NEAR Turkey](https://t.me/near_tr):
-* [NEAR UK](https://t.me/+Y1h_-qQQH5owYWJk): NEAR UK community
 * [NEAR Venezuela](https://t.me/NearVenezuela): primary goal is to educate the Venezuelan community about the potential of the NEAR protocol and channel grants from the foundation to projects or members that contribute to the growth and / or adoption of NEAR in their locality / region.
 * [NEAR Vietnam](https://t.me/nearvietnamofficial): NEAR Vietnam community
   * [NEAR Developer Vietnam](https://t.me/neardev_vncommuity): To help Vietnamese developers learn and better understand the ecosystem and application development on NEAR Protocol
