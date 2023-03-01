@@ -373,6 +373,7 @@ html {
   margin-top: 1vw;
   margin-bottom: .7vw;
   white-space: nowrap;
+  transition: all 0.5s ease;
 }
 
 .card.profile:hover .card-title {
@@ -772,6 +773,55 @@ html[class*="onboarding-checklist"] .markdown>table:nth-child(16)>tbody>tr:nth-c
   .navbar__item {
       padding: .5rem;
   }
+}
+
+/* ------------------------------------------- */
+/* Growth & Marketing Page */
+/* ------------------------------------------- */
+
+.growth_cards .card {
+  display: inline-block;
+  border: 1px solid #eee;
+  width: 50%;
+  height: 13vw;
+  background-color: rgba(248, 244, 244, 0.1);
+}
+
+.growth_cards .card a {
+  text-decoration: none;
+  color: #222;
+  display: inline;
+}
+
+.growth_cards .card:hover a {
+  color: #1a24ad;
+  /* text-decoration: underline; */
+}
+
+.growth_cards .card a a {
+  text-decoration: underline;
+}
+
+.growth_cards .level_src-components-NavCard-styles-module {
+  display: none;
+}
+
+.growth_cards .card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.growth_cards .card-title {
+  white-space: normal;
+  font-size: 1.5rem;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+
+.growth_cards .card-text {
+  text-align: center;
+  font-size: 100%;
+  transition: all 0.2s ease-in-out;
 }
 
 
