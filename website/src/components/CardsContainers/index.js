@@ -218,7 +218,7 @@ const cardData = {
   ]
 }
 
-function CardContainer(dataObj) {
+export function CardContainer(dataObj) {
   return (
     <div className={styles.cards_container}>
       {/* <div className={styles.card__row }> */}

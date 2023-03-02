@@ -373,6 +373,7 @@ html {
   margin-top: 1vw;
   margin-bottom: .7vw;
   white-space: nowrap;
+  transition: all 0.5s ease;
 }
 
 .card.profile:hover .card-title {
@@ -773,6 +774,66 @@ html[class*="onboarding-checklist"] .markdown>table:nth-child(16)>tbody>tr:nth-c
       padding: .5rem;
   }
 }
+
+/* ------------------------------------------- */
+/* Growth & Marketing Page */
+/* ------------------------------------------- */
+
+.growth_cards .card {
+  width: 250px;
+  margin: 1rem;
+  height: 15rem;
+  position: relative; 
+  border-radius: 3px;
+}
+
+.growth_cards .card a a {
+  text-decoration: underline;
+}
+
+.growth_cards .level_src-components-NavCard-styles-module {
+  display: none;
+}
+
+.growth_cards .card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.growth_cards .card-title {
+  white-space: normal;
+  font-size: 100%;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+
+.growth_cards .card-text {
+  text-align: center;
+  font-size: 80%;
+  transition: all 0.2s ease-in-out;
+}
+
+.growth_cards .card:hover {
+  background: #92a1bd;
+}
+
+.growth_cards .card:hover .card-title, .growth_cards .card:hover .card-text, .growth_cards .card:hover a {
+  color: #eee;
+}
+
+@media screen and (min-width: 1170px) {
+  .growth_cards .card {
+    height: 17rem;
+    max-height: 300px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .growth_cards .card {
+    min-height: 175px;
+  }
+}
+  
 
 
 /* ------------------------------------------- */
