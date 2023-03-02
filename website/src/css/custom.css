@@ -780,22 +780,11 @@ html[class*="onboarding-checklist"] .markdown>table:nth-child(16)>tbody>tr:nth-c
 /* ------------------------------------------- */
 
 .growth_cards .card {
-  display: inline-block;
-  border: 1px solid #eee;
-  width: 50%;
-  height: 13vw;
-  background-color: rgba(248, 244, 244, 0.1);
-}
-
-.growth_cards .card a {
-  text-decoration: none;
-  color: #222;
-  display: inline;
-}
-
-.growth_cards .card:hover a {
-  color: #1a24ad;
-  /* text-decoration: underline; */
+  width: 250px;
+  margin: 1rem;
+  height: 15rem;
+  position: relative; 
+  border-radius: 3px;
 }
 
 .growth_cards .card a a {
@@ -813,16 +802,31 @@ html[class*="onboarding-checklist"] .markdown>table:nth-child(16)>tbody>tr:nth-c
 
 .growth_cards .card-title {
   white-space: normal;
-  font-size: 1.5rem;
+  font-size: 1rem;
   text-align: center;
   transition: all 0.2s ease-in-out;
 }
 
 .growth_cards .card-text {
   text-align: center;
-  font-size: 100%;
+  font-size: 80%;
   transition: all 0.2s ease-in-out;
 }
+
+.growth_cards .card:hover {
+  background: #92a1bd;
+}
+
+.growth_cards .card:hover .card-title, .growth_cards .card:hover .card-text, .growth_cards .card:hover a {
+  color: #eee;
+}
+
+@media screen and (max-width: 768px) {
+  .growth_cards .card {
+    min-height: 175px;
+  }
+}
+  
 
 
 /* ------------------------------------------- */

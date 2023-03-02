@@ -1,7 +1,10 @@
 import React from 'react';
 import NavCard from '../NavCard';
 import styles from './styles.module.css';
-// import { CardContainer } from "../CardsContainers";
+import Card from 'react-bootstrap/Card';
+import Col from 'react-bootstrap/Col';
+import Row from 'react-bootstrap/Row';
+import { ExternalLink } from 'react-external-link';
 
 
 
@@ -12,7 +15,7 @@ const growthCardsData = {
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          In-depth overview of best practices and proven strategies for growth & marketing your project in the Web3/crypto space
+          Overview of best practices and proven strategies for growth & marketing your project
         </>
       ),
       link: 'https://docs.google.com/presentation/d/1Abjnbw6qNSC7hu3vAqWqo9hn5pOArakIfU9ZRR0SQTI/edit?usp=sharing',
@@ -138,7 +141,7 @@ const growthCardsData = {
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          A series of Twitter Spaces hosted by Nao(mi), writer and weeb bringing together founders and thought-leaders from the NEAR ecosystem and other chains 
+          A series of Twitter Spaces hosted by Nao(mi), bringing together founders and thought-leaders from the NEAR ecosystem and other chains 
         </>
       ),
       link: 'https://twitter.com/Naomi_fromhh',
@@ -149,7 +152,7 @@ const growthCardsData = {
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          Twitter space that aims to educate its listeners about NEAR Protocol and its ecosystem through AMAs, community, and educational sessions. Hosted on Mon/Wed/Fri/Sun by <a href="https://twitter.com/waxnear">Wax</a>
+          Twitter space promoting NEAR Protocol through AMAs and educational sessions. Hosted by <a href="https://twitter.com/waxnear">Wax</a>
         </>
       ),
       link: 'https://linktr.ee/chillandshill',
@@ -334,7 +337,7 @@ const growthCardsData = {
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          
+          End-to-end managed corporate & legal structuring solutions that are specifically tailored to web 3.0 projects and their digital entrepreneurs
         </>
       ),
       link: 'https://www.google.com/url?q=https%3A%2F%2Fgov.near.org%2Ft%2Fhello-we-are-cavenwell-dao-corporate-structuring-specialists%2F12607&sa=D&sntz=1&usg=AOvVaw1_QjBdGJUAYiAZRKgMFgIs',
@@ -356,7 +359,7 @@ const growthCardsData = {
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          
+          Provides a legal framework for DAOs including establishment, accounting, and payments 
         </>
       ),
       link: 'https://www.google.com/url?q=https%3A%2F%2Fdaobox.org%2F&sa=D&sntz=1&usg=AOvVaw30NfKF0u-wJIce2Kn_SvB3',
@@ -455,45 +458,66 @@ const growthCardsData = {
   ]
 }
 
-function CardContainer(dataObj) {
+// function CardContainer(dataObj) {
 
+//   return (
+//     <div className="growth_cards">
+//     {/* <div className={classes `${styles.cards_container} ${styles.growth_cards}`}> */}
+//       {/* <div className={styles.card__row }> */}
+//       {dataObj.map((props, idx) => (
+//         <NavCard key={idx} {...props} />
+//       ))}
+//       {/* </div> */}
+//     </div>
+//   );
+// }
+
+function CardsContainer(dataArr) {
   return (
-    <div className="growth_cards">
-    {/* <div className={classes `${styles.cards_container} ${styles.growth_cards}`}> */}
-      {/* <div className={styles.card__row }> */}
-      {dataObj.map((props, idx) => (
-        <NavCard key={idx} {...props} />
+    <Row xs={1} md={2} className="g-3 growth_cards" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+      {Array.from(dataArr).map((obj, idx) => (
+        <Card border="light">
+        {/* <Card border="light" style={{ width: '18rem' }}> */}
+          {/* <Card.Header>Header</Card.Header> */}
+          <Card.Body>
+            <Card.Title>{obj.title}</Card.Title>
+            <Card.Text>
+             {obj.text}
+            </Card.Text>
+            <ExternalLink href={obj.link} style={{ display: 'block', position: 'absolute', bottom: '15px' }}>Visit Link</ExternalLink>
+          </Card.Body>
+        </Card>
       ))}
-      {/* </div> */}
-    </div>
+    </Row>
   );
 }
 
 
 export function EcosystemResources() {
-  return CardContainer(growthCardsData.ecosystemResources)
+  // return CardContainer(growthCardsData.ecosystemResources)
+  return CardsContainer(growthCardsData.ecosystemResources)
 }
 
 export function CommunitySpaces() {
-  return CardContainer(growthCardsData.communitySpaces)
+  return CardsContainer(growthCardsData.communitySpaces)
 }
 
 export function NearWeek() {
-  return CardContainer(growthCardsData.nearweek)
+  return CardsContainer(growthCardsData.nearweek)
 }
 
 export function EventFunding() {
-  return CardContainer(growthCardsData.eventFunding)
+  return CardsContainer(growthCardsData.eventFunding)
 }
 
 export function MarketingDAO() {
-  return CardContainer(growthCardsData.marketingDAO)
+  return CardsContainer(growthCardsData.marketingDAO)
 }
 
 export function LegalResources() {
-  return CardContainer(growthCardsData.legal)
+  return CardsContainer(growthCardsData.legal)
 }
 
 export function IDOPlatforms() {
-  return CardContainer(growthCardsData.idoPlatforms)
+  return CardsContainer(growthCardsData.idoPlatforms)
 }
