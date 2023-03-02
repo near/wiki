@@ -11,7 +11,7 @@ import { ExternalLink } from 'react-external-link';
 const growthCardsData = {
   ecosystemResources:  [
     {
-      title: 'Project Growth & Marketing Toolkit',
+      title: 'Marketing Toolkit',
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
@@ -22,7 +22,7 @@ const growthCardsData = {
       level: 'easy'
     },
     {
-      title: 'Ecosystem Marketing Activation Workflow',
+      title: 'Activation Workflow',
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>

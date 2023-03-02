@@ -802,7 +802,7 @@ html[class*="onboarding-checklist"] .markdown>table:nth-child(16)>tbody>tr:nth-c
 
 .growth_cards .card-title {
   white-space: normal;
-  font-size: 1rem;
+  font-size: 100%;
   text-align: center;
   transition: all 0.2s ease-in-out;
 }
@@ -819,6 +819,13 @@ html[class*="onboarding-checklist"] .markdown>table:nth-child(16)>tbody>tr:nth-c
 
 .growth_cards .card:hover .card-title, .growth_cards .card:hover .card-text, .growth_cards .card:hover a {
   color: #eee;
+}
+
+@media screen and (min-width: 1170px) {
+  .growth_cards .card {
+    height: 17rem;
+    max-height: 300px;
+  }
 }
 
 @media screen and (max-width: 768px) {
