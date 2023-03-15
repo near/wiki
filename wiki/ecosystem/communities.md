@@ -52,6 +52,7 @@ Get involved in the various communities in the ecosystem:
 * [NEAR Protocol Thai](https://t.me/nearthaicommunity): NEAR Thai community
 * [NEAR Russia](https://t.me/near_protocol): A guild focused on the NEAR protocol russian speaking community
 * [NEAR Turkey](https://t.me/near_tr):
+* [NEAR Ukraine](https://t.me/nearprotocolua):
 * [NEAR Venezuela](https://t.me/NearVenezuela): primary goal is to educate the Venezuelan community about the potential of the NEAR protocol and channel grants from the foundation to projects or members that contribute to the growth and / or adoption of NEAR in their locality / region.
 * [NEAR Vietnam](https://t.me/nearvietnamofficial): NEAR Vietnam community
   * [NEAR Developer Vietnam](https://t.me/neardev_vncommuity): To help Vietnamese developers learn and better understand the ecosystem and application development on NEAR Protocol
