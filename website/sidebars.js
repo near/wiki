@@ -61,8 +61,8 @@ const sidebars = {
       type: 'category', 
       label: 'Support', 
       items: [
-        'support/funding',
         'support/growth',
+        'support/funding',
         'support/hr-education-resources',
         'support/onboarding-checklist',
         'support/contact-us',

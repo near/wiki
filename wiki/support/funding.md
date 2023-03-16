@@ -1,7 +1,7 @@
 ---
 description: All you need to know about funding and grants on NEAR.
 title: Funding Resources
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 For support guidance with your existing project, please fill out this [Project Support Form](https://airtable.com/shrQk2yWacIj2QA3E).

@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 description: How to contact humans working on NEAR.
-sidebar_position: 7
+sidebar_position: 4
 ---
 
 NEAR is primarily community centered, so the best way to contact somebody with knowledge about NEAR when you have questions or suggestions is within the NEAR community:
