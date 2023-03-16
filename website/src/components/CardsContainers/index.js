@@ -215,6 +215,17 @@ const cardData = {
       link: 'development/tools-infrastructure#developer-tools',
       level: 'easy'
     },
+    {
+      title: 'Crypto Bootcamp',
+      icon: require('@site/static/img/icons/icon_edu.svg').default,
+      text: (
+        <>
+          Learn about all things Web3 and NEAR in this robust lecture series
+        </>
+      ),
+      link: 'support/understanding-web3/history/1.1_history-of-the-internet',
+      level: 'easy'
+    },
   ]
 }
 
