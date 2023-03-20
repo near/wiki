@@ -84,6 +84,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 
 ## Security
+* [NEAR Rust Smart Contract Security](https://docs.near.org/docs/concepts/security) - 12 in-depth video lecutres on NEAR Rust Smart contract security.
 * [HAPI](https://hapi.one/) - Cross-chain protocol aimed at creating new cybersecurity standards for DeFi market by providing real-time data on stolen funds and compromised wallets.
 * [BlockSec](https://blocksec.com/) - Building BlockChain Security Infrastructure | Smart Contract Audits.
 * [Rustle](https://github.com/blocksecteam/rustle) - Automatic smart contract auditer
