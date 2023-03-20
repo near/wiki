@@ -78,7 +78,7 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 
 ## Oracles
-* [Flux Protocol](https://www.fluxprotocol.org/) - serving as the trust-less data layer for web3, Flux allows any smart contract to connect with crowdsourced, API-based, and Price-Feed data 
+* [Seda Protocol (formerly Flux)](https://www.seda.xyz/) - serving as the trust-less data layer for web3, Seda allows any smart contract to connect with crowdsourced, API-based, and Price-Feed data 
   * [ELI5 thread](https://twitter.com/peterflux/status/1465460419095678980?s=20&t=FrojGyASfcrTqs_hbqew6Q)
 * [Switchboard](https://switchboard.xyz/) - Permission-less, customizable, multi-chain oracle protocol for general-purpose data feeds & verifiable randomness!
 
