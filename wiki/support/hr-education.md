@@ -42,9 +42,14 @@ The HUB of education and recruitment within web3. We provide services to hiring 
 
 
 
+### [![NEAR Primer](@site/static/img/nearprimer.jpg)](https://www.freecodecamp.org/news/near-curriculum/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="link__logo iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
+
+A fun, casual, introduction to NEAR Protocol and its underlying tech. Learn about NEAR, how it works, and how to build on it.
+
+
 ### [![freeCodeCamp](@site/static/img/logo_freecodecamp.png)](https://www.freecodecamp.org/news/near-curriculum/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="link__logo iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 
-a freeCodeCamp initiative rolling out courses on NEAR Protocol.
+A freeCodeCamp initiative rolling out courses on NEAR Protocol.
 
 ### [![Learn NEAR Club](https://learnnear.club/wp-content/uploads/2021/11/logo-2-b.svg)](https://learnnear.club/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="link__logo iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 
