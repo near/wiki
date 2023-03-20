@@ -12,6 +12,7 @@ Get involved in the various communities in the ecosystem:
 * [Aurora Labs](https://discord.gg/y6dN9ETTVG): Official Discord of Aurora
 * [Clean NFT guild](https://discord.gg/DpF4g2eWha): A group working towards educating, raising awareness and looking at ways to improve the environmental impacts of releasing NFTs.
 * [Codame Guild](https://t.me/codame_art_tech): CODAME sparks visionaries with playful workshops and an inclusive ART+TECH Festival, running since 2010.
+* [Community Groups](https://docs.nearbuilders.com/community-groups/): Developer centric interest groups on specific NEAR ecosystem verticals dedicated to support projects & developer governance from the ground up
 * [Createbase](https://t.me/creatorsNEAR): Createbase is a community that works to support creative projects that are building within the Mintbase/NEAR ecosystem
 * [Harmonic Guild](https://www.harmonicguild.io/): Harmonic Technology Guild lets you make your own NFT economy without worrying about the technical infrastructure
 * [Human Guild](https://t.me/HumanGuildNear): With a primary focus around incubating & supporting web3 gaming projects, the Human Guild is an open group of founders and creators who believe everyone should be able to earn what they need in order to do what they love.
