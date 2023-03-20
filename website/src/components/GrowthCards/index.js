@@ -351,7 +351,7 @@ const growthCardsData = {
           Legal Nodes connects founders with multiple legal professionals, all in one place.
         </>
       ),
-      link: 'https://legalnodes.com/',
+      link: 'https://legalnodes.com/article/legal-structure-decentralized-apps',
       level: 'easy'
     },
     {
