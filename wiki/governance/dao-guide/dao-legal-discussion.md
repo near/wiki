@@ -1,3 +1,8 @@
+---
+title: DAO Legal Discussion
+description: Guidance to setting up a DAO without running into any legal issues
+---
+
 # DAO Legal Discussion
 
 Guidance to setting up a DAO without running into any legal issues

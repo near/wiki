@@ -1,7 +1,8 @@
 ---
-title: DAO Guide
+title: DAO Basics
 description: Your map to navigating the world of DAOs on NEAR
 slug: /governance
+sidebar_position: 0
 ---
 
 # Your Guide to DAOs on NEAR
