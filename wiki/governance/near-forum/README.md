@@ -1,6 +1,6 @@
 ---
+title: What is the NEAR Governance Forum?
 description: Your go-to place to discuss everything NEAR
-title: NEAR Forum
 ---
 
 ## What is the NEAR Governance Forum?

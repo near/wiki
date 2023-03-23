@@ -1,8 +1,10 @@
 ---
 description: This is a guide to launching DAOs on NEAR with Astro.
 title: How to Launch a DAO
-sidebar_position: 0
+sidebar_position: 1
 ---
+
+
 ### **Launching a DAO on Astro: DAO Presets**
 
 Before we guide you through the process of setting up your DAO, it’s important to understand the four pre-set DAO types that Astro has to offer. Do note that each of these can be fully customized during the creation process:

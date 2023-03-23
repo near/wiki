@@ -2,6 +2,7 @@
 description: This is a guide to DAO Governance with Astro on NEAR.
 title: DAO Governance
 ---
+
 Before we discuss DAO governance, it might be beneficial if you either join a DAO, or [launch one](./how-to-launch-a-dao.md).
 
 This guide covers the different features available to DAOs built with Astro on NEAR, including voting, custom tokens, NFTs, and other exciting features.
