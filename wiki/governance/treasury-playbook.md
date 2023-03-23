@@ -22,7 +22,7 @@ For early-stage companies (or those with roughly 1-2 years of cash runway), some
   
 _Note: it is important that you have the most direct access to investments possible; [see below for more](#bookmark=id.1k55o36ic5xt)._
 
-Of course, a company should calibrate its treasury approach based on both its total cash position and staffing. For Seed-stage companies, doing much beyond the first two steps above is unnecessary and a poor use of founders’ time. Early stage companies can execute all three principles with 1-2 money center bank relationships, coupled with services offered through the likes of Mercury [Treasury](http://com/treasury); these trade potential yield for “one-click” services that federate deposits across multiple insured and interest-bearing accounts.
+Of course, a company should calibrate its treasury approach based on both its total cash position and staffing. For Seed-stage companies, doing much beyond the first two steps above is unnecessary and a poor use of founders’ time. Early stage companies can execute all three principles with 1-2 money center bank relationships, coupled with services offered through the likes of [Mercury Treasury](https://mercury.com/treasury); these trade potential yield for “one-click” services that federate deposits across multiple insured and interest-bearing accounts.
 
 
 Note that the selection of your primary relationships may be influenced by your credit relationships; i.e., many lenders require companies to meet deposit requirements as a term of their credit lines.
