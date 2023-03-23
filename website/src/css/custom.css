@@ -870,6 +870,43 @@ html[class*="onboarding-checklist"] .markdown>table:nth-child(16)>tbody>tr:nth-c
 
 
 /* ------------------------------------------- */
+/* TREASURY PLAYBOOOK */
+/* ------------------------------------------- */
+.treasuryPlaybookTable {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 3px solid #ddd;
+  margin-bottom: 1rem;
+}
+
+.treasuryPlaybookTable th {
+  font-weight: bold;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.treasuryPlaybookTable td {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+}
+
+.treasuryPlaybookTable p {
+  margin: 2px;
+}
+
+.treasuryPlaybookTable h3 {
+  margin-top: 15px;
+}
+
+.treasuryPlaybookTable h4 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+
+/* ------------------------------------------- */
 /* ALERTS / BLOCKQUOTES / ADMONITIONS */
 /* ------------------------------------------- */
 
