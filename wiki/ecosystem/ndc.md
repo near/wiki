@@ -32,7 +32,7 @@ Lorem Ipsum Crypto Ipsum
 
 (link text example)[www.link.com]
 <!-- image syntax -->
-![]()
+![](https://c.tenor.com/8ZDLU43omvcAAAAC/tenor.gif)
 
 ### Voting
 
