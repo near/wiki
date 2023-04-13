@@ -3,6 +3,14 @@ description: This is a guide to DAO Governance with Astro on NEAR.
 title: DAO Governance
 ---
 
+# DAO Governance
+
+:::info on this page
+* This guide provides information on the different features available to DAOs built with Astro on NEAR, such as custom tokens, NFTs, and bounties.
+* To create a voting token, a DAO can either create a new token, adopt a pre-existing Token Farm token, or adopt the NEAR native token.
+* Bounties are an important part of DAO governance on Astro. DAOs can post bounties for tasks and other pieces of work, and contributors can claim and complete bounties for rewards.
+:::
+
 Before we discuss DAO governance, it might be beneficial if you either join a DAO, or [launch one](./how-to-launch-a-dao.md).
 
 This guide covers the different features available to DAOs built with Astro on NEAR, including voting, custom tokens, NFTs, and other exciting features.

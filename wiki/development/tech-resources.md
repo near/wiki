@@ -5,7 +5,15 @@ sidebar_label: Tech Resources
 sidebar_position: 5
 ---
 
----
+# Technical Resources
+
+:::info on this page
+* Theoretical documentation: includes resources for smart contract development, technical documentation directory, NEAR core development resources, and The Graph documentation for building subgraphs on NEAR.
+* Synchronous support: offers developer office hours every weekday where DevRel and Community team members are available to answer questions.
+* Asynchronous support: includes video tutorials on YouTube, active dev support on the NEAR Discord, and dev support on Telegram.
+* Specific documentation related to gaming: includes resources for developing gaming projects on NEAR, such as how to and game economies.
+:::
+
 
 We understand that the tech/dev side is fundamental to developing web3 projects and taking them to the next level. Below are a collection of some of the most commonly referenced and most sought after technichal resources to help you get started.
 

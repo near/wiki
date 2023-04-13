@@ -4,6 +4,14 @@ description: A quick quide to building projects on NEAR.
 sidebar_position: 0
 ---
 
+# Building on near
+
+:::info on this page
+* The guide is for those interested in building projects on NEAR, and provides tools and resources for a better experience.
+* Essential tools include the NEAR wallet, block explorer, and command-line interface (CLI), while AwesomeNEAR provides project inspiration.
+* Educational resources are available for both technical and non-technical builders, and can be found on the learning resources page.
+:::
+
 Welcome to the building overview!
 
 This is a guide for project managers, founders, software developers, or anybody else interested in building projects on NEAR.

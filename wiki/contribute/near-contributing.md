@@ -4,6 +4,20 @@ sidebar_label: 'Contributing To NEAR'
 sidebar_position: 1
 ---
 
+# Contributing to NEAR
+
+:::info on this page
+* NEAR welcomes contributions from interested individuals
+* There are numerous open issues across repositories, and bounties are regularly posted
+* For developers, there is a Developer Contributions walkthrough that explains the contribution flow
+* The contributor program is available for those who want to get formally involved with continuous contributions
+* Contributors in the program get early access to new bounties, exclusive support, and feedback, and can earn tokens for their contributions
+* There are several developer channels available to ask questions
+NEAR's GitHub repositories are available for exploration
+:::
+
+## Overview
+
 Welcome! If you are in this repository, you are probably interested in contributing to NEAR's development.
 
 We have tons of open issues across repositories and regularly post [bounties](https://github.com/near/bounties).

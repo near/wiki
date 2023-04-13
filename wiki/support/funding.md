@@ -6,6 +6,12 @@ sidebar_position: 2
 
 For support guidance with your existing project, please fill out this [Project Support Form](https://airtable.com/shrQk2yWacIj2QA3E).
 
+:::info on this page
+* Details on MetaWeb, a venture fund focused on early-stage crypto projects in the NEAR ecosystem 
+* Backer Network, a global network of nearly 300 VCs, angels, and mentors that provide ecosystem support.
+* GTM/Event Funding opportunities and outlines the process to apply for these grants.
+:::
+
 ## MetaWeb
 
 ![metaweb](@site/static/img/logo_metaweb.png)

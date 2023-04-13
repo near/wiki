@@ -3,6 +3,13 @@ id: communities
 title: Communities
 sidebar_label: Communities
 ---
+
+# Communities
+
+:::info on this page
+The NEAR ecosystem is made up of many different communities, each with its own vision and mission to promote an open and interconnected world. These communities include ones focused on gaming, marketing, music, art, and social good, among others. Among the communities listed are Afro Star, Codame Guild, NEAR Gaming guild, NEAR Marketing, NxM - NEAR x Music Guild, and The Merchants of NEAR.
+:::
+
 The NEAR ecosystem is formed by many different communities. Each community shares a specific vision and mission related to driving a more open, interconnected, and consumer-empowered world. 
 
 Get involved in the various communities in the ecosystem: 
