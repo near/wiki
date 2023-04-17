@@ -5,6 +5,13 @@ title: Research
 ---
 
 ---
+
+:::info on this page
+* Research articles on NEAR's sharding, consensus, and economics.
+* General research on blockchain platforms and their architecture
+* Consensus Mechanisms: Proof of Work vs Proof of Stake
+:::
+
 ## Research Papers
 
 * [The NEAR network in review](https://www.finoa.io/resources/near-report/) - A report on the NEAR network by Finoa.
@@ -15,7 +22,7 @@ title: Research
 
 ## Research Posts
 
-* \*\*\*\*[Detailed overview of Ethereum 2.0 shard chains: Committees, Proposers and Attesters](https://near.org/blog/detailed-overview-of-ethereum-2-0-shard-chains-committees-proposers-and-attesters/)
+* [Detailed overview of Ethereum 2.0 shard chains: Committees, Proposers and Attesters](https://near.org/blog/detailed-overview-of-ethereum-2-0-shard-chains-committees-proposers-and-attesters/)
 * [The authoritative guide to Blockchain Sharding, part 1](https://near.org/blog/the-authoritative-guide-to-blockchain-sharding-part-1/)
 * [Unsolved Problems in Blockchain Sharding](https://near.org/blog/unsolved-problems-in-blockchain-sharding/)
 * [How Unrealistic is Bribing Frequently Rotated Validators?](https://near.org/blog/how-unrealistic-is-bribing-frequently-rotated-validators/)

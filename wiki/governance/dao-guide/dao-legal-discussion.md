@@ -7,6 +7,13 @@ description: Guidance to setting up a DAO without running into any legal issues
 
 Guidance to setting up a DAO without running into any legal issues
 
+:::info on this page
+* A Decentralized Autonomous Organization (DAO) is not a recognized legal entity type in any jurisdiction yet and is subject to different interpretations by judges, courts, and regulators.
+* A DAO should be truly decentralized or have a legal entity/"wrapper" associated with it and perform any necessary KYC relevant to its actions to provide actual functionality and legal protection.
+* "DAOs" which are actually just a shared account do not provide any legal protections and should simply be considered an account of whatever group or organization controls it. DAOs need to consider taxes and employment law like any other legally recognized organization.
+:::
+
+
 :::note
 _The information provided here does not constitute legal advice. All information and content are for general informational purposes only. You should consult your own lawyer to obtain advice with respect to any particular legal matter in the relevant jurisdiction. Only your individual lawyer can make sure that the information contained here and your interpretation of it, is applicable or appropriate to your particular situation. Please note that all existing ideas around DAO issues are not yet court-verified and could potentially fail. However, there is value in starting a discussion of how to make DAOs become legally viable solutions and add value to society._
 :::

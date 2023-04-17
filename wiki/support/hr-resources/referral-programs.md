@@ -4,6 +4,15 @@ sidebar_label: Referral Programs
 sidebar_position: 2
 ---
 
+# Referral Programs
+
+:::info on this page
+* Understanding the importance of referrals
+* Setting up a referral program
+* Logistics of Program and Parameters
+* Bonus Payment Terms
+:::
+
 It is never easy to put together the best team for your project. One way to encourage your employees to recruit is to reward them through qualified candidate referrals. 
 
 **Details are for Core Contributors**

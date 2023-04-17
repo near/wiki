@@ -4,6 +4,15 @@ sidebar_label: Interviewing Guide
 sidebar_position: 3
 ---
 
+
+:::info on this page
+* Understanding MOC model to craft a great interview process
+* Interview templates and examples
+* Job description template and assessment tool
+* Intro to Behavioral Interview Questions
+* Interview Etiquette
+:::
+
 ## Introduction
 
 Finding the right people for your growing team can be a daunting task. What should go into your job description? What should you look for when interviewing? That’s why this guide was created. It will help you answer all your questions, and craft a solid framework for recruiting, interviewing, and hiring strong candidates. 

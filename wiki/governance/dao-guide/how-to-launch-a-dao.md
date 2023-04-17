@@ -4,6 +4,13 @@ title: How to Launch a DAO
 sidebar_position: 1
 ---
 
+# 🚀 How to Launch a DAO
+
+:::info on this page
+* Astro offers four pre-set DAO types: Foundation, Clubs, Corporation, and Cooperative, which can be customized during the creation process.
+* To launch a DAO on Astro, users need to customize proposals, structure, and voting power, name the DAO, add links and select a flag, review and launch, and confirm the transaction in their NEAR wallet.
+* The creation of a DAO on Astro requires a storage fee of 5 NEAR, and users can skip the next part if their DAO isn't utilizing a voting token.
+:::
 
 ### **Launching a DAO on Astro: DAO Presets**
 
