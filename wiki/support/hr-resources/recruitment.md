@@ -20,9 +20,8 @@ With NEAR being among the most interoperable and developer friendly Layer 1’s,
 
 Discover open roles available within the NEAR Ecosystem, and you can also post open roles within your team as well.
 
-### [![NEAR Week](@site/static/img/logo_nearweek.svg)](https://nearweek.com/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="link__logo iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 
-Community-driven newsletter. It covers anything and everything within the NEAR Ecosystem. If you're looking for an extra dose of NEAR-focused news, look no further.
+## Recruitment Support
 
 ### [![Black Freelancer](@site/static/img/logo_blackfreelancer.svg)](https://www.blackfreelancer.com/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="link__logo iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 
@@ -30,8 +29,6 @@ Community-driven newsletter. It covers anything and everything within the NEAR E
 BlackFreelancer is a hub for black creatives across the globe to showcase their work and get hired.
 
 ### [![BEExperience](@site/static/img/logo_beexperience.svg)](https://beexperience.io/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="link__logo iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
-
-
 
 The HUB of education and recruitment within web3. We provide services to hiring entities, as well as individuals seeking employment.
 
@@ -41,3 +38,6 @@ The HUB of education and recruitment within web3. We provide services to hiring 
 * Providing facilities for instructor lead workshops both virtually and in person 
 * Web3 LinkedIn framework
 
+<!-- ### [![NEAR Week](@site/static/img/logo_nearweek.svg)](https://nearweek.com/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="link__logo iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
+
+Community-driven newsletter. It covers anything and everything within the NEAR Ecosystem. If you're looking for an extra dose of NEAR-focused news, look no further. -->
