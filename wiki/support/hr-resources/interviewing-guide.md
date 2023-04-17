@@ -136,7 +136,7 @@ _You will:_
 ##### _You’ll have:_
 
 
-* _4+ years of background from consulting, Investment banking, fintech/payments company and/or other high growth organisation with operational experience in a quantitative or analytical role._
+* _4+ years of background from consulting, Investment banking, fintech/payments company and/or other high growth organization with operational experience in a quantitative or analytical role._
 * _Ability to effectively communicate actionable data-driven insights to all audiences. Ability to demystify measurement and translate data to consumable, relatable stories. Communication -- turning data into digestible, actionable insights about the ecosystem -- is the most important part of this role._
 * _Strong SQL, Python or R, and Excel skills; Experience with Looker, or other data visualization tools_
 * _Strong analytical skills set: ability to identify and isolate trends, and connect them to customer behavioral patterns, and business impacts._
