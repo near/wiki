@@ -1,6 +1,6 @@
 ---
 description: All you need to know about funding and grants on NEAR.
-title: Funding Resources
+title: Funding
 sidebar_position: 2
 ---
 
