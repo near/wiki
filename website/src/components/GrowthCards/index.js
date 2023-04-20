@@ -22,7 +22,7 @@ const growthCardsData = {
       level: 'easy'
     },
     {
-      title: 'Activation Workflow',
+      title: 'Ecosystem Marketing Activation Flow',
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
@@ -55,14 +55,14 @@ const growthCardsData = {
       level: 'easy'
     },
     {
-      title: 'NEARStarter',
+      title: 'General Pitch Day Interest Form',
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          Next generationg launchpad built on NEAR
+          Sign up for information on upcoming pitch events
         </>
       ),
-      link: 'https://nearstarter.fi/',
+      link: 'https://airtable.com/shrvxDwvMOaBKXzJB',
       level: 'easy'
     },
     {
@@ -137,14 +137,14 @@ const growthCardsData = {
       level: 'easy'
     },
     {
-      title: 'NEAR is Nao',
+      title: 'Wild User Interviews',
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          A series of Twitter Spaces hosted by Nao(mi), bringing together founders and thought-leaders from the NEAR ecosystem and other chains 
+          Anon | Long-form, open-ended, conversations with some of the top minds + builders on NEAR ecosystem.
         </>
       ),
-      link: 'https://twitter.com/Naomi_fromhh',
+      link: 'https://twitter.com/wuipod?lang=en-GB',
       level: 'easy'
     },
     {
@@ -298,36 +298,14 @@ const growthCardsData = {
   ],
   eventFunding: [
     {
-      title: 'Grants Application',
+      title: 'Community Events Program',
       // icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          Submit the Ecosystem Marketing Grants application form
+          Community event grants enable ecosystem projects to be their own event leads/sponsors.
         </>
       ),
-      link: 'https://airtable.com/shrm92EDb6ydLrSxr',
-      level: 'easy'
-    },
-    {
-      title: 'Event Playbook Toolkit',
-      // icon: require('@site/static/img/icons/icon_user.svg').default,
-      text: (
-        <>
-          Create a copy and complete the sections that are relevant to your event/GTM push. Then email your copy to <a href="mailto:events@near.foundation" target="_blank" rel="noopener noreferrer">events@near.foundation</a>
-        </>
-      ),
-      link: 'https://docs.google.com/presentation/d/1MysTwrdWgwd7DdEGD-O6CCIwZZ68YxpZWIqzba3k0jk/edit#slide=id.g13072457ef4_0_0',
-      level: 'easy'
-    },
-    {
-      title: 'Retro Form',
-      // icon: require('@site/static/img/icons/icon_user.svg').default,
-      text: (
-        <>
-          After the event, please complete the post-event retro form for the remainder of the funding.
-        </>
-      ),
-      link: 'https://docs.google.com/document/d/1wGYvxcEIgocgj32NnRnnfCycCQFNKp3iwvfThKwp73E/edit',
+      link: 'https://docs.google.com/document/d/1-0kw-kV1iDa-3h6bMA9MEdmdJal8w5yiLH56K9hfKBE/edit#',
       level: 'easy'
     },
   ],
@@ -376,17 +354,6 @@ const growthCardsData = {
         </>
       ),
       link: 'https://twitter.com/near_starter',
-      level: 'easy'
-    },
-    {
-      title: 'Skyward Finance',
-      // icon: require('@site/static/img/icons/icon_user.svg').default,
-      text: (
-        <>
-          NEAR native launchpad
-        </>
-      ),
-      link: 'https://skyward.finance/',
       level: 'easy'
     },
     {
