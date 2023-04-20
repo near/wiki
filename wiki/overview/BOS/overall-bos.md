@@ -1,5 +1,5 @@
 ---
-title: BOS at a Glance
+title: Overall BOS
 description: Overview of the NEAR Blockchain Operating System (BOS)
 sidebar_position: 1
 ---

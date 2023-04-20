@@ -1,7 +1,7 @@
 ---
 title: Open Source
 description: Overview on how NEAR BOS empowers open source projects
-sidebar_position: 10
+sidebar_position: 11
 ---
 
 # Open Source
