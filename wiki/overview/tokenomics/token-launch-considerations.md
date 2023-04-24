@@ -1,6 +1,6 @@
 ---
 description: Secure way to lock NEAR tokens for a period of time
-title: Lockups
+title: Token Launch Considerations
 ---
 
 # Launching a Token: Key Considerations:
