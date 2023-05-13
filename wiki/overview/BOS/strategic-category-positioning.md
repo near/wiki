@@ -65,10 +65,10 @@ Decentralization and distribution of apps has traditionally been a hard trade of
 
 
 1. Level 1: Explore a component on Near.org. Proof - [Burrow](https://alpha.near.org/ciocan.near/widget/burrow) 
-2. Level 2: Build an app on Near.org - Zirion 
+2. Level 2: Build an app on Near.org 
 3. Level 3: Embed a decentralized experience in your existing app or site. Proof - Ref 
-4. Level 4: Upgrade the frontend of your website to be decentralized and resolve identity on near.org. Proof - ZK Sync, lens?
-5. Level 5: Build a fully decentralized gateway with IPFS and ENS/NEAR Domain. Go completely serverless. Proof -  Zerion, ZK Sync? 
+4. Level 4: Upgrade the frontend of your website to be decentralized and resolve identity on near.org. 
+5. Level 5: Build a fully decentralized gateway with IPFS and ENS/NEAR Domain. Go completely serverless.
 
 **For Enterprise Businesses - PaaS:** We are like Salesforce but for the next generation of business models. We are a cloud computing provider for anything crypto. Our cloud is native to the blockchain which allows us to build a platform that is flexible to your business needs and interoperable with your existing investments.
 
@@ -83,8 +83,8 @@ Decentralization and distribution of apps has traditionally been a hard trade of
 
 
 
-* Luxury goods: Create community-driven commerce marketplaces that keep more profits in your hands and maintain the authenticity of your brand. Proof - D&G
-* Consumer services: Build closer relationships with your best customers by gamifying their experience with your services and giving them access to special perks and events. Build momentum and re-engagement like you never thought possible. Proof - Soulcycle
+* Luxury goods: Create community-driven commerce marketplaces that keep more profits in your hands and maintain the authenticity of your brand.
+* Consumer services: Build closer relationships with your best customers by gamifying their experience with your services and giving them access to special perks and events. Build momentum and re-engagement like you never thought possible. 
 * Sports: Deepen the fan experience through entertainment that embraces both physical and digital events. Collectibles and top moments brought direct to fan ownership. Even enable direct involvement in how the team is run and played. Proof - SailGP
 
 **For Individuals - SaaS:** Exploring in the BOS is like super-powered Facebook groups that extend to every app you love to use. A way to connect and organize with people but you own the data/financials and you can customize it like your own website.
