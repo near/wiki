@@ -65,7 +65,7 @@ Decentralization and distribution of apps has traditionally been a hard trade of
 
 
 1. Level 1: Explore a component on Near.org. Proof - [Burrow](https://alpha.near.org/ciocan.near/widget/burrow) 
-2. Level 2: Build an app on Near.org - Zirion 
+2. Level 2: Build an app on Near.org - Zerion 
 3. Level 3: Embed a decentralized experience in your existing app or site. Proof - Ref 
 4. Level 4: Upgrade the frontend of your website to be decentralized and resolve identity on near.org. Proof - ZK Sync, lens?
 5. Level 5: Build a fully decentralized gateway with IPFS and ENS/NEAR Domain. Go completely serverless. Proof -  Zerion, ZK Sync? 
