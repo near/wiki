@@ -711,11 +711,7 @@ html[class*="onboarding-checklist"] .markdown>table:not(:nth-child(7))>thead>tr>
   background-color: #D1E0E2;
 }
 
-html[class*="onboarding-checklist"] .markdown>table:nth-child(7)>tbody>tr>td:nth-child(1),
-html[class*="onboarding-checklist"] .markdown>table:not(:nth-child(7))>tbody>tr>td:nth-child(4),
-html[class*="onboarding-checklist"] .markdown>table:nth-child(16)>tbody>tr:nth-child(2)>td:nth-child(2) {
-  background-color: #F3F3F3;
-}
+
 
 /* ------------------------------------------- */
 /* MENU */
