@@ -57,7 +57,7 @@ const config = {
     ({
       colorMode: {
         defaultMode: "light",
-        disableSwitch: false,
+        disableSwitch: true,
       },
       navbar: {
         title: "Wiki",
