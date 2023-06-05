@@ -12,6 +12,10 @@
   --ifm-color-warning: #e3935b;
   --ifm-color-danger: #db5555;
 
+  --ifm-color-text-primary: #363636;
+
+
+
   --ifm-color-primary-dark: #3e72f9;
   --ifm-color-primary-darker: #2d65f8;
   --ifm-color-primary-darkest: #0746ea;
@@ -163,6 +167,18 @@
   --ifm-tabs-color-active-border: var(--ifm-tabs-color-active);
   --ifm-tabs-padding-horizontal: 1rem;
   --ifm-tabs-padding-vertical: .5rem;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-secondary: #f7f7f7;
+  --ifm-color-text-primary: #f7f7f7;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
 }
 
 
@@ -334,7 +350,8 @@ html {
   justify-content: center;
   /* height: 60vw; */
   max-height: 864px;
-  background-color: #f7f7f7;
+  /* background-color: var(--ifm-color-secondary); */
+  /* background-color: #f7f7f7; */
   padding: 8vw;
   text-align: center;
 }
@@ -374,10 +391,12 @@ html {
   margin-bottom: .7vw;
   white-space: nowrap;
   transition: all 0.5s ease;
+  color: var(--ifm-color-text-primary);
 }
 
 .card.profile:hover .card-title {
-  color: #fff;
+
+  /* color: #fff; */
   transition: all 0.5s ease;
 }
 
@@ -386,10 +405,12 @@ html {
   z-index: 1;
   font-size: 1.2vw;
   transition: all 0.5s ease;
+  color: var(--ifm-color-text-primary);
 }
 
-.card.profile:hover .card-text {
-  color: #fff;
+.card.profile .card-text {
+  color: var(--ifm-color-secondary);
+  /* color: #fff; */
 }
 
 .card.profile svg {
@@ -704,10 +725,12 @@ html[class*="onboarding-checklist"] .markdown>table:not(:nth-child(7))>thead>tr>
 
 html[class*="onboarding-checklist"] .markdown>table:not(:nth-child(7))>thead>tr>th:nth-child(2) h3 ,
 html[class*="onboarding-checklist"] .markdown>table:not(:nth-child(7))>thead>tr>th:nth-child(3)>h3 {
-  color: #fff;
+  color: var(--ifm-color-text-primary);
 }
 
 .markdown>table:not(:nth-child(7))>tbody>tr>td:nth-child(3) {
+  /* background-color: var(--ifm-color-text-primary); */
+  color: #363636;
   background-color: #D1E0E2;
 }
 
@@ -901,6 +924,14 @@ html[class*="onboarding-checklist"] .markdown>table:not(:nth-child(7))>thead>tr>
   margin-bottom: 5px;
 }
 
+/* ---------------- */
+/* LEARNING SECTION */
+/* ---------------- */
+
+[data-theme='dark'] #near-academy,
+[data-theme='dark'] #learn-near-club {
+  background-color: #f7f7f7;
+}
 
 /* ------------------------------------------- */
 /* ALERTS / BLOCKQUOTES / ADMONITIONS */
