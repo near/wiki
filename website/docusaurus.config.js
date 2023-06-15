@@ -19,6 +19,7 @@ const config = {
   stylesheets: [
     "https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700&display=swap",
     "https://cdn.statically.io/gh/nearprotocol/near-global-footer/main/footer.css",
+    "https://docs.near.org/css/near.min.css"
   ],
   presets: [
     [
