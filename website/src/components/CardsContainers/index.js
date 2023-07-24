@@ -66,7 +66,7 @@ const cardData = {
           Discover learning resources to help you get started on NEAR
         </>
       ),
-      link: '/support/hr-education-resources',
+      link: '/support/learning/',
       level: 'easy'
     },
     {
