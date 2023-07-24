@@ -42,13 +42,7 @@ const config = {
           changefreq: "weekly",
           priority: 0.5,
         },
-      }),
-      {
-        gtag: {
-          trackingID: 'G-TGCW2P8C02',
-          anonymizeIP: true,
-        },
-      },
+      })
     ],
   ],
   plugins: [
@@ -56,6 +50,13 @@ const config = {
       '@docusaurus/plugin-google-tag-manager',
       {
         containerId: 'GTM-TNPGV9L',
+      },
+    ],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-TGCW2P8C02',
+        anonymizeIP: true,
       },
     ],
   ],
