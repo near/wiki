@@ -43,6 +43,12 @@ const config = {
           priority: 0.5,
         },
       }),
+      {
+        gtag: {
+          trackingID: 'G-TGCW2P8C02',
+          anonymizeIP: true,
+        },
+      },
     ],
   ],
   plugins: [
