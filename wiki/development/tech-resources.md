@@ -12,6 +12,7 @@ sidebar_position: 5
 * Synchronous support: offers developer office hours every weekday where DevRel and Community team members are available to answer questions.
 * Asynchronous support: includes video tutorials on YouTube, active dev support on the NEAR Discord, and dev support on Telegram.
 * Specific documentation related to gaming: includes resources for developing gaming projects on NEAR, such as how to and game economies.
+
 :::
 
 
@@ -31,9 +32,39 @@ We understand that the tech/dev side is fundamental to developing web3 projects 
 * [The Graph documentation for building subgraphs on NEAR](https://thegraph.com/docs/en/supported-networks/near/)
 * [Kurtosis - local development and testing environments for developers in the NEAR ecosystem](https://www.kurtosistech.com/)
 
-## Synchronous support: Video, Audio, Office-hours 
+## How to Run Nodes
 
-* [Developer Office Hours](https://near.org/office-hours/) - Every weekday NEAR hosts “Office Hours” where DevRel and Community team members are available to field any questions you may have about building on NEAR
+* Local Node using near: If you want to run a node locally for testing (and don't have the space to download all the data) [https://github.com/near/nearup](https://github.com/near/nearup)
+* Run RPC node using near: https://near-nodes.io/rpc/run-rpc-node-without-nearup (replace with validator node https://near-nodes.io/validator/validator-bootcamp for validator, custody partners or archival node for exchanges https://near-nodes.io/archival/run-archival-node-without-nearup)
+
+## Indexer
+
+* near lake: https://github.com/near/near-lake-indexer
+* docs: https://near-indexers.io/
+
+## NFTs
+examples: [Recur](https://www.recur.com/), [Sweat](https://sweateconomy.com/)
+
+* Specification: [NEP-171](https://nomicon.io/Standards/Tokens/NonFungibleToken/Core#nep-171) (similar to ERC-721) 
+
+* NFT resources: [RUST](https://docs.near.org/tutorials/nfts/introduction), [JavaScript](https://docs.near.org/tutorials/nfts/js/introduction)
+
+* Tutorial: [NFT Contracts](https://docs.near.org/develop/relevant-contracts/nft)
+
+* Code example: https://github.com/near-examples/NFT
+
+## FTs
+examples: [Sweat](https://sweateconomy.com/), [Circle](https://www.circle.com/en/)
+* Specification: [NEP-141](https://nomicon.io/Standards/Tokens/FungibleToken/Core#nep-141) (similar to ERC-20) 
+* FT resource: [Introduction to FTs](https://docs.near.org/tutorials/fts/introduction), [FT Contracts Specs](https://docs.near.org/integrator/fungible-tokens) 
+
+* Tutorial: [FT Contracts](https://docs.near.org/develop/relevant-contracts/ft)
+
+* Code example: https://github.com/near-examples/FT
+
+<!-- ## Synchronous support: Video, Audio, Office-hours 
+
+* [Developer Office Hours](https://near.org/office-hours/) - Every weekday NEAR hosts “Office Hours” where DevRel and Community team members are available to field any questions you may have about building on NEAR -->
 
 ## Asynchronous support
 * [Video Tutorials on YouTube](https://www.youtube.com/c/NEARProtocol)
@@ -41,5 +72,5 @@ We understand that the tech/dev side is fundamental to developing web3 projects 
 * [Dev support Telegram](https://t.me/neardev)
 
 ## Specific Documentation related to Gaming
-* https://github.com/vgrichina/near-lands/blob/main/HOWTO.md 
-* https://github.com/vgrichina/near-lands/blob/main/GAME-ECONOMIES.md
+* [How-To Article](https://github.com/vgrichina/near-lands/blob/main/HOWTO.md)
+* [Game Economies](https://github.com/vgrichina/near-lands/blob/main/GAME-ECONOMIES.md)
