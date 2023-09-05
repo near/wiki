@@ -51,16 +51,15 @@ Get involved in the various communities in the ecosystem:
 * [NEAR Argentina](https://t.me/NEARargentina): A community focused on getting cryptocurrency and blockchain technology adopted in Argentina through NEAR.
 * [NEAR Canada](https://nearcanada.com): To empower Canadians with the knowledge of Web 3.0 and NEAR technology.
 * [NEAR China](https://t.me/NEAR_China): NEAR China community
+* NEAR Español (https://t.me/NEARSpanish): Near Spanish speaker community
 * [NEAR Francais](https://t.me/NearFrancais): NEAR French community
-* [NEAR Hispano](http://t.me/NEARHispano): For Spanish-speaker developers
 * [NEAR India](https://t.me/cryptonear_IN): NEAR INDIA community
 * [NEAR Malaysia](https://t.me/NEAR_Malaysia): NEAR Malaysia community
-* [NEAR Portuguese](https://t.me/near_pt): NEAR Portuguese community
 * [NEAR Protocol Persian](https://t.me/NEARProtocol_persian): A community focusing on promoting NEAR to Persian speakers 
 * [NEAR Protocol Thai](https://t.me/nearthaicommunity): NEAR Thai community
 * [NEAR Russia](https://t.me/near_protocol): A guild focused on the NEAR protocol russian speaking community
-* [NEAR Turkey](https://t.me/near_tr):
-* [NEAR Ukraine](https://t.me/nearprotocolua):
+* [NEAR Turkey](https://t.me/near_tr): Language and content support for Turkish speakers
+* [NEAR Ukraine](https://t.me/nearprotocolua): With its current home in Lisbon, NEAR Ukraine is hub within a hub. The community is keenly aware of this. So NEAR Ukraine is creating an inclusive atmosphere in Lisbon, where local citizens, refugees, and expats from around the world can gather.
 * [NEAR Venezuela](https://t.me/NearVenezuela): primary goal is to educate the Venezuelan community about the potential of the NEAR protocol and channel grants from the foundation to projects or members that contribute to the growth and / or adoption of NEAR in their locality / region.
 * [NEAR Vietnam](https://t.me/nearvietnamofficial): NEAR Vietnam community
   * [NEAR Developer Vietnam](https://t.me/neardev_vncommuity): To help Vietnamese developers learn and better understand the ecosystem and application development on NEAR Protocol
