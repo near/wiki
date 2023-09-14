@@ -4,6 +4,7 @@ description: Playbook for NEAR development at every stage
 sidebar_position: 2
 ---
 
+# Best Practices
 
 ## Pre-Development
 
@@ -12,6 +13,7 @@ sidebar_position: 2
 * Understand NEAR Protocol: Get acquainted with the NEAR protocol by  reading the “[NEAR Whitepaper](https://near.org/papers/the-official-near-white-paper)” and to learn some key aspects such as Design principles, Economics and Technology used in the NEAR protocol. Something that's highly recommended to read are [Account model ](https://docs.near.org/concepts/basics/accounts/model), [Access keys](https://docs.near.org/concepts/basics/accounts/access-keys#full-access-keys), [Asynchronous by design](https://docs.near.org/concepts/basics/transactions/overview),  and [Sharding](https://near.org/papers/nightshade) to name a few. Familiarize yourself with the [NEAR Protocol documentation](https://docs.near.org/develop/welcome), the NEAR GitHub repository, and other resources such as NEAR University or the NEAR YouTube channel.
 * Design [Smart Contracts](https://docs.near.org/develop/quickstart-guide): Plan your smart contracts in advance. Remember that smart contract updates can be complex on blockchain, so good initial design is crucial. Some source code examples can be found at this [Github repo](https://github.com/near/near-sdk-js/tree/develop/examples/src). Please visit this link to learn more about how to “[upgrade NEAR smart contracts](https://docs.near.org/tutorials/nfts/upgrade-contract)”.
 * Select the Right Tools: NEAR provides Rust and Javascript for smart contract development. Choose based on your team's expertise and project requirements.
+
 
 ## Development Stage
 
@@ -53,6 +55,7 @@ sidebar_position: 2
     1. Through tools such as [NEAR CLI](https://docs.near.org/tools/near-cli) or [near-api-js](https://docs.near.org/tools/near-api-js/quick-reference) (requires the account's [full access key](https://docs.near.org/concepts/basics/accounts/access-keys)).
     2. Programmatically, by implementing a method that [takes the new code and deploys it](https://docs.near.org/develop/upgrade#programmatic-update).
 
+
 ## Community Resources 
 
 
@@ -61,12 +64,13 @@ sidebar_position: 2
 * Join NEAR community channels to stay up to date about NEAR:
     3. Technical docs - [https://docs.near.org/](https://docs.near.org/) 
     4. Github - [https://github.com/near](https://github.com/near) 
-    5. Telegram - <span style="text-decoration:underline;"> [t.me/cryptonear](https://t.co/qwGrKk951Z)</span> 
+    5. Telegram - [t.me/cryptonear](https://t.co/qwGrKk951Z)
     6. Community - [https://t.me/nearprotocolnews](https://t.me/nearprotocolnews) (announcements)  
-    7. Discord - [near.chat](https://t.co/orPJHp4ZcC)<span style="text-decoration:underline;"> </span>
+    7. Discord - [near.chat](https://t.co/orPJHp4ZcC)
     8. Blockchain Operating System  -[ near.org](https://near.org/) 
     9. Twitter - [https://twitter.com/NEARProtocol](https://twitter.com/NEARProtocol) 
     10. Companies & projects building on NEAR - [NEAR Horizon](https://near.org/nearhorizon.near/widget/Index)
+
 
 --- 
 
