@@ -3,117 +3,94 @@ title: Technical Speaker Program
 description: The NEAR Technical Speaker Program is an initiative supporting speakers who want to share their knowledge about NEAR.
 ---
 
-# NEAR Technical Speaker Program 
+# NEAR Technical Speaker Program (TSP)
 
 
 ### OVERVIEW 
 
-In the Web3 ecosystem, there is an endless stream of events around the globe and the number of events is increasing every year. The demand for NEAR-knowledgeable speakers at these events is high, and our current model of sending core NEARians is proving to be unscalable. Thankfully, the NEAR ecosystem is full of knowledgeable, enthusiastic community members who are well-versed on the nuances of the NEAR ecosystem. 
-
-### APPLICATION
-
-Please fill out the form below, and review the Terms & Conditions if you are interested in joining the next cohort of the NEAR Technical Speaker Program.
-
-##### [Cohort intake form](https://nearverse.typeform.com/techsp) 
-
-[Terms & Conditions](https://docs.google.com/document/d/1tmQX7_Dw7EKzgk6346rQI0EkCTzU6j3I/edit)
+In the Web3 ecosystem, there is an endless stream of events around the globe and the number of events is increasing every year. The demand for NEAR-knowledgeable speakers at these events is high, and our current model of sending core NEARians is not scalable. Thankfully, the NEAR ecosystem is full of knowledgeable, enthusiastic community members (like you!) who are well-versed on the nuances of the NEAR ecosystem. 
 
 
-#### OBJECTIVES
+### OBJECTIVES
+
+1. Amass a legion of technical (and eventually, non-technical) volunteer speakers to represent NEAR across the globe at events, conferences, meetups, and workshops. 
+2. The NEAR TSP will empower and enable these individuals by offering guidelines, public speaking training, and a streamlined set of standards, principles, and content outlines for each speaker. 
+3. Later phases will include decentralized content curation/management and collaborative coaching and mentorship models.  
 
 
+### TSP COHORT INFORMATION
 
-1. The NF will amass a legion of technical (and eventually, non-technical) volunteer speakers to represent NEAR across the globe at events, conferences, meetups, and workshops. 
-2. To empower and enable these individuals, the NEAR Foundation Technical Speaker Program will offer guidelines, public speaking training, and a streamlined set of standards, principles, and content outlines for each speaker to ensure consistent quality and messaging. 
-3. Later phases will include decentralized content curation/management, decentralized speaker selection processes, and collaborative coaching and mentorship models.
+The TSP takes place over 5-6 weeks, with a maximum commitment of 1 hr/wk. Each session ranges from 30-45 minutes with modules led by facilitators and visiting presenters who are expert technical speakers.  
 
-
-##### DESIRED OUTCOMES
+Participants will have a chance to practice and workshop content with their cohort during the program, as well as access to a TSP Alumni Group to tap into for continued support. 
 
 
+#### MODULES OVERVIEW
 
-* Engaged and active community of tech evangelists to represent NEAR across the globe
+The TSP is broken down into the following modules, with the flexibility to add modules or content based on availability and demand.  
+
+[0] **Introduction and TSP Overview:** Meet your fellow cohort members and get acquainted with the TSP  
+
+[1] **Public Speaking 101:** Become a Master of the Stage  
+
+[2] **Technical Presentations:** How to simply present complex concepts  
+
+[3] **CFPs and You:** How to write a talk proposal that organizers won’t be able to refuse  
+
+[4] **Media Training:** Learn what you can and can’t say when representing NEAR  
+
+[5] **[OPTIONAL]  Facilitator Training:** How to train the next generation of NEAR Technical Speakers  
+
+[6] **[OPTIONAL] Q&A Best Practices:** How to talk about NEAR in the wild, without a script  
+
+
+### DESIRED OUTCOMES
+
+* An engaged and active community of evangelists to represent NEAR across the globe  
 * Regularly maintained and easily accessible set of standardized guidelines and “playbooks” for training, content, etc. 
-* NEAR community members have a vested sense of ownership in the success of the NEAR ecosystem
+* NEAR community members who have a vested sense of ownership in the success of the NEAR ecosystem
+
 
 
 ### WHY YOU SHOULD GET INVOLVED
 
-
-
-* Be recognized as a NEAR Technical Speaker across NEAR the ecosystem
-* Represent NEAR in your local community and region
+* Be officially recognized as an ***Approved NEAR Technical Speaker*** across the NEAR ecosystem  
+* Represent NEAR in your local community and region  
 * Receive training and access to resources/information 
-* Become a better public speaker
+* Become a better public speaker  
+* Meet new friends  
+* Get some ***exclusive swag***  
 
 
 ### HOW TO GET INVOLVED
 
-Thanks for your interest in helping spread the word about NEAR! The NF will be updating this page as the program evolves; you can check out the estimated timeline and phases for the initiative below. 
+Interested in joining the TSP? Please fill out the [TSP Expression of Interest](https://nearfoundation.typeform.com/TSPEoI) form to participate in the upcoming cohorts!
+<br>
 
+### ADDITIONAL INFO & RESOURCES
 
-#### EXPRESSION OF INTEREST
+#### Approved NEAR Technical Speakers
 
-The TSP is currently in beta. If you’re interested in getting involved as we roll out the program, please fill out this [Expression of Interest form](https://nearverse.typeform.com/TSPEoI) and we will get back to you when we are rolling out the program. 
+[coming soon]
 
+#### OPEN CFPs (Call For Proposals)
 
-#### TRAINING PROGRAM COHORT INFORMATION
+Find out about upcoming events and submit your talk proposals to speak or present  
+[Confs.tech ](https://confs.tech/)  
+[Speakerhouse](https://app.speakerhouse.io/events)  
+[PaperCall.io](https://www.papercall.io/events)  
 
-
-##### Program Outline
-
-[0] **Introduction and Overview:** Meet your fellow cohort members and get comfortable
-
-[1] **Public Speaking 101:** Becoming a Master of the Stage
-
-[2] **Technical Presentations:** How to simply present complex concepts 
-
-[3] **CFPs and You:** How to write a talk proposal that organizers won’t be able to refuse
-
-[4] **Media Training:** Learn what you can and can’t say when representing NEAR
-
-[5] **BOS(s) Level:** Complete your quest of becoming an official NEAR Technical Speaker
-
-[6] **OPTIONAL Facilitator Training:** How to train the next generation of NEAR Technical Speakers
-
-
-#### RESOURCES
-
-[SPEAKER CALENDAR](https://forms.gle/aFtQHhBAPqTJXrWG8) - please submit your talk to the events calendar if you’d like people to attend or tune in! 
-
-[SPEAKER RESOURCES](https://drive.google.com/drive/folders/1_lhBuhJDkPvD92_lLR_o4YBOXPPMfCK4) - various resources to leverage as you prep for your presentations (branding guidelines, speaker tips, templates) 
-
-
-OPEN CFPs<br/>
-[Confs.tech ](https://confs.tech/) <br/>
-[Speakerhouse](https://app.speakerhouse.io/events) <br/>
-[PaperCall.io](https://www.papercall.io/events)<br/>
-
-
-### ROLLOUT PHASES
+[TSP SPEAKER RESOURCES](https://drive.google.com/drive/folders/1_lhBuhJDkPvD92_lLR_o4YBOXPPMfCK4) - various resources to leverage as you prep for your presentations (branding guidelines, speaker tips, templates) 
+<br>
+<br>
+#### ROLLOUT PHASES
 
 | Phase | Status | Launch | Details |
 | :--- | :--- | :--- | :--- |
-| Technical Experts: SMEs, ecosystem project leaders | <span style={{whiteSpace: 'nowrap',fontSize: 'smaller',padding: '8px', borderRadius: '15px', backgroundColor: 'rgb(212, 237, 188)'}}>Launched</span> | Q1 2023 | The initial phase will seek to identify candidates who are deeply knowledgeable about the NEAR ecosystem–experts within their respective fields. These individuals should require little to no training in terms of subject matter, but may need speaker/media training. These individuals are likely leading NEAR ecosystem projects or are strong community advocates (regional hubs, DAOs, etc.) |
-| Web3 Experts: Web3 community leaders and top NEAR contributors |  <span style={{whiteSpace: 'nowrap',fontSize: 'smaller',padding: '8px', borderRadius: '15px', backgroundColor: 'rgb(255, 229, 160)'}}>In Progress</span>  | Q2 2023 | The second phase of the rollout will look to equip prominent Web3 leaders as well as top contributors within the NEAR ecosystem with the resources and talking points necessary for them to speak on behalf of NEAR across the Web3 ecosystem. |
-| Local Experts: Local community leaders based on geo |  <span style={{whiteSpace: 'nowrap',fontSize: 'smaller',padding: '8px', borderRadius: '15px', backgroundColor: 'rgb(230, 230, 230)'}}>Not started</span>  | Q3 2023 | The third phase of the rollout will allow the NF to work with regional/local leaders to strategize and help establish topics and speaker notes that are most relevant and impactful within their local regional communities. This phase will be closely monitored and managed by the regional hubs, with high-level guidelines and standards provided by the NF. |
+| **Technical Experts:** SMEs, ecosystem project leaders | <span style={{whiteSpace: 'nowrap',fontSize: 'smaller',padding: '8px', borderRadius: '15px', backgroundColor: 'rgb(212, 237, 188)'}}>Launched</span> | Q1 2023 | The initial phase will seek to identify candidates who are deeply knowledgeable about the NEAR ecosystem–experts within their respective fields. These individuals should require little to no training in terms of subject matter, but may need speaker/media training. These individuals are likely leading NEAR ecosystem projects or are strong community advocates (regional hubs, DAOs, etc.) |
+| **Web3 Experts:** web3 and NEAR community leaders |  <span style={{whiteSpace: 'nowrap',fontSize: 'smaller',padding: '8px', borderRadius: '15px', backgroundColor: 'rgb(212, 237, 188)'}}>Launched</span>  | Q2 2023 | The second phase of the rollout will look to equip top contributors within the NEAR ecosystem with the resources and talking points necessary for them to speak on behalf of NEAR across the web3 ecosystem. |
+| **NEAR Community Members** |  <span style={{whiteSpace: 'nowrap',fontSize: 'smaller',padding: '8px', borderRadius: '15px', backgroundColor: 'rgb(212, 237, 188)'}}>Launched</span>  | Q3 2023 | The third phase will empower the NEAR Community to represent the NEAR ecosystem across the globe |
+| **Regional Experts:** Local community leaders and members |  <span style={{whiteSpace: 'nowrap',fontSize: 'smaller',padding: '8px', borderRadius: '15px', backgroundColor: 'rgb(255, 229, 160)'}}>In Progress</span>  | Q4 2023 | The final stage of the rollout will work with local and regional community leaders to decentralize and take the TSP to the masses |
+<br>
 
-
-
-#### INSPIRATION
-
-[The Graph Advocacy Program](https://thegraph.com/ecosystem/advocacy/)
-
-[Mozilla Tech Speakers Program](https://wiki.mozilla.org/TechSpeakers#:~:text=Mozilla%20Tech%20Speakers%20was%20a,in%20communities%20around%20the%20world.)
-
-[Polkadot Ambassador Program](https://info.polkadot.network/ambassador-application?ref=polkadot-network)
-
-[Yelp Elite Program](https://www.yelp.com/elite)
-
-[Google Developer Experts Program](https://developers.google.com/community/experts)
-
-[Auth0 Ambassador Program](https://auth0.com/ambassador-program)
-
-[Twilio Champions Program](https://www.twilio.com/en-us/champions)
-
-[Microsoft MVP Program](https://mvp.microsoft.com/en-US/Overview)
+[Program Terms & Conditions](https://drive.google.com/file/d/1JWjOicWfFr-OfL2wsmkpoiEZSqf_Rr5b/view)
