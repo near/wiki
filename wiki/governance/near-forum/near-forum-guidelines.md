@@ -2,105 +2,160 @@
 description: Expectations of participants using the NEAR Governance Forum
 ---
 
-# Community Guidelines
+# NEAR Social Channel Rules 
 
-## Welcome to the NEAR Governance Forum!
 
-At NEAR, we’re dedicated to open-source innovation, and that starts with an open-source community filled with positivity, active engagement, and respect.
+Welcome to NEAR’s social channels! We're excited to have you here as part of our community. Before you engage, please take a moment to read and understand our social channel rules: 
 
-### NEAR Community Culture
+## 1. NEAR Community Culture and Values
 
-The NEAR Governance Forum (“the Forum”), and the wider community, serve to nurture the development of the NEAR ecosystem, the community, and the incredible innovation stemming from it.
 
-The culture of the NEAR Community is one of **openness**, **inclusiveness**, and **positivity**.
+We promote a respectful and inclusive environment. Please be kind and considerate to all community members, and participate in our social channels in a way that aligns with, and furthers, the NEAR community culture and values (as described below). 
 
-Oh, and don’t get us wrong - we bet you’re already awesome and reflect that ethos entirely. But, just in case, the community has put together some guidelines to keep us all on track.
 
-### Values
+The NEAR social channels, and the wider community, serve to nurture the development of the NEAR ecosystem, the community, and the incredible innovation stemming from it. The culture of the NEAR community is one of **openness, inclusiveness, and positivity**. 
 
-The rules and guidelines of this forum have been sculpted to reflect the five core values of the NEAR Foundation.
 
-#### Ecosystem First
+### The NEAR Foundation has five core values: 
+
+
+**1. Ecosystem First**
+
 
 _Always put the health and success of the ecosystem above any individual’s interest._
 
-The focus of all members on the forum should be the growth and development of the NEAR Ecosystem. We will not tolerate intentional disruption, subterfuge, or any act which amounts to ‘trolling’.
 
-#### Openness
+The focus of all community members should be the growth and development of the NEAR ecosystem. We will not tolerate intentional disruption, subterfuge, or any act which amounts to “trolling”. 
 
-_Operate transparently and consistently share knowledge to build open communities_
 
-The forum, by its very nature, is open, accessible, and transparent. Feel free to share your thoughts and ideas on anything and everything NEAR.
+**2. Openness**
 
-#### Pragmatism Over Perfection
+
+_Operate transparently and consistently share knowledge to build open communities._
+
+
+The NEAR social channels, by their very nature, are open, accessible, and transparent. Feel free to share your thoughts and ideas on anything and everything NEAR. 
+
+
+**3. Pragmatism Over Perfection**
+
 
 _Find the right solution not the ideal solution and beat dogmatism by openly considering all ideas._
 
-The NF doesn’t play favorites and is ultimately here to make everyone successful, regardless of where they come from. We are here to BUIDL, and this forum is another tool in the arsenal of the NEAR Ecosystem which will allow us to achieve success. All ideas, regardless of what they are and who they’re from, are welcome in the NEAR Forum.
 
-#### Make It Feel Simple
+
+The NEAR Foundation, just like the NEAR technology itself, doesn’t play favourites and is ultimately here to make everyone successful, regardless of where they come from. We are here to BUIDL, and the NEAR social channels are another tool in the arsenal of the NEAR ecosystem which will allow us to achieve success. All ideas, regardless of what they are and who they’re from, are welcome in the NEAR social channels. 
+
+
+**4. Make It Feel Simple**
+
 
 _Strive to make the complex feel simple so the technology, platform and ecosystem are accessible to all._
 
-The NEAR Ecosystem is global and, naturally, not everyone speaks English as their first language. Let’s keep our discussion as accessible as possible, but don’t shy away from the complex when necessary.
 
-#### Grow Constantly
+The NEAR ecosystem is global and, naturally, not everyone speaks English as their first language. Let’s keep our discussion as accessible as possible, but don’t shy away from the complex when necessary. 
+
+
+**5. Grow Constantly**
+
 
 _Learn, improve and fail productively so the ecosystem and the community are always becoming more effective._
 
-We’re not just here to BUIDL awesome dApps and NEAR fueled solutions, we’re here to BUIDL ourselves and each other too! There is a tonne of amazing people here (including you) who we can all learn from and teach.
 
-**Ultimately**, if you’re ever asking yourself _‘should I post this on the forum’_ ask yourself if it aligns with the 5 values above. If it does, and it doesn’t violate any other guidelines, fire away
+We’re not just here to BUIDL awesome dApps and NEAR-fuelled solutions, we’re here to BUIDL ourselves and each other too! There are a tonne of amazing people here (including you) who we can all learn from and teach. 
 
-### Guidelines
 
-Much like the blockchain itself, the NEAR Community does not discriminate against participants based on their color, creed, sex, or background. In this respect, we will not tolerate derogatory comments within the Forum whatsoever.
+**Ultimately**, if you’re ever asking yourself “should I post this?” ask yourself if it aligns with the NEAR community cultures and values. If it does, and it doesn’t violate any other rules, then fire away!
 
-This amounts to comments on another user’s:
 
-* Race
-* Nationality
-* Gender
-* Sexuality
-* Age
-* Programming skills
+## 2. Things You Should Do
 
-That list isn’t exhaustive, and you should keep in mind the below guidelines when posting anything in the Forum or in the wider NEAR community.
 
-### When on the Forum, you should:
+When participating in NEAR social channels, you should: 
 
-1. Treat others online as you would treat them in real life;
-2. Be tolerant towards other’s viewpoints; respectfully disagree when opinions do not align;
-3. Respect the privacy and personal information of other contributors;
-4. Communicate with courtesy and respect;
-5. Provide accurate information, if you are not sure, please cross-check or contact someone from the NEAR Core team for support;
 
-### You should not:
+* treat others online as you would treat them in real life; 
 
-1. Make personal attacks on other community members;
-2. Use defamatory remarks or make false statements against others;
-3. Post prejudiced comments or profanity;
-4. Post sexually explicit content;
-5. Post discriminating content, this includes content around religion and politics;
-6. Bully or make inflammatory remarks to other community members;
-7. Post spam
 
-Failing to adhere to these rules may result in a **permanent ban** from the NEAR Governance Forum without warning.
+* be tolerant towards other’s viewpoints, and respectfully disagree when opinions do not align; * respect the privacy and personal information of other contributors; 
 
-### What Should I Do if I'm Feeling Attacked or Uncomfortable?
 
-If you or someone you know is feeling attacked or uncomfortable on the NEAR Governance Forum, or you have identified posts that are in violation of the above guidelines, then please report the offending posts using the report system.
+* communicate with courtesy and respect; 
 
-#### How Do I Report a Post?
 
-1. Hit the flag icon beneath the offending post
+* provide accurate information, if you are not sure, please cross-check or contact a community moderator for support; and 
 
-![report flag](https://gov.near.org/uploads/default/original/2X/6/62af32e64d7ab9782b420bb53aa67610e50dd534.png)
+* always verify information posted by others, and be cautious of scams or phishing attempts. 
 
-1. Select a category and hit **'Flag Post’**
 
-![image](https://gov.near.org/uploads/default/original/2X/f/f99837138a8bec4e38bd7eb4c5afe6a7d4cd214a.png)
+## 3. Things You Should Not Do
 
-1. All done! Your post has been sent to the admins for review
 
-On that note, a **huge welcome to the NEAR Community**, we’re excited to BUIDL with you!
+When participating in NEAR social channels, you should **not**: 
+
+
+* make personal attacks on other community members; 
+
+
+* use defamatory remarks or make false statements against others; 
+
+
+* post prejudiced comments or profanity; 
+
+
+* post sexually explicit content; 
+
+
+* post discriminating content, this includes content around religion and politics; * bully or make inflammatory remarks to other community members; 
+
+
+* post spam; 
+
+
+* share personal or financial information; 
+
+
+* discuss cryptocurrency, token, or asset prices – we encourage discussions about NEAR technology, its use cases, and development of the NEAR ecosystem, but prohibit any price predictions or speculation, or provision of any financial/investment advice; 
+
+
+* promote other projects, tokens, or services without prior permission from a community moderator (this includes directly messaging other community members) – unsolicited self-promotion may result in removal; 
+
+
+* engage in server raiding or any activity that disrupts or harasses other communities or channels; or 
+
+
+* solicit or request funds from community members. 
+
+
+## 4. Legal Disclaimer
+
+
+The NEAR Foundation maintains NEAR social channels for informational and community-building purposes only. The NEAR Foundation does not endorse any specific tokens (including, without limitation, the NEAR token), projects, or financial activities. 
+
+All information and content shared within NEAR social channels are for general informational purposes and should not be considered as financial, legal, or investment advice. Any decisions made based on the information shared here are made at your own risk. Any views, opinions, or statements expressed by anyone in a NEAR social channel are their own and do not necessarily represent the views or opinions of the NEAR Foundation. The NEAR Foundation is not responsible for the accuracy, completeness, or reliability of the information shared in NEAR social channels, including (without limitation, any third-party websites which are linked to in the social channels, which if you access you do so entirely at your own risk). 
+
+
+Participation in NEAR social channels is at your own risk, and the NEAR Foundation and its representatives and moderators are not responsible for any financial or legal consequences that may arise in connection with such participation (including, without limitation, resulting from any actions, statements, or content posted or shared by anyone participating in the channel, including administrators, moderators or other community members). 
+
+
+The NEAR Foundation is not responsible for any technical issues, disruptions, or interruptions in NEAR social channels, including but not limited to server outages, network problems, or third-party service failures. 
+
+
+## 5. Changes to these Rules
+
+
+These guidelines may be updated from time to time. It is your responsibility to stay informed about any changes. 
+
+## 6. Reporting Violations
+
+
+If you encounter any violations of these guidelines, please report them to a moderator. We rely on the community to help maintain a safe and positive environment. 
+
+
+By participating in a NEAR social channel, you agree to abide by these rules. We reserve the right to remove or ban any member from our social channels, and moderate, edit, or remove any content, for any reason at our discretion and without warning. This includes but is not limited to violation of these rules, disruptive behaviour, or spamming. 
+
+
+Thank you for being a part of the NEAR community! We look forward to productive and respectful interactions within our community. 
+
+
+_Last updated: 19 September 2023_
