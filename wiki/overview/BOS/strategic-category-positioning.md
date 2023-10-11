@@ -117,4 +117,3 @@ Decentralization and distribution of apps has traditionally been a hard trade of
 
 If the answer is yes to even one of these questions, then the BOS is the right fit to evolve your business or project into the future web. NEAR offers the most flexible and accessible platform across Web2 or Web3, widely expanding your offerings and services at minimal cost to you compared to 15-30% cost of other platform services.
 
-—--------------------------

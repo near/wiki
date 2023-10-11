@@ -185,6 +185,9 @@
   --ifm-color-primary-lightest: #4fddbf;
 }
 
+[data-theme='dark'] .navbar__logo { 
+  filter: invert(1);
+}
 
 /* ------------------------------------------- */
 /* BASE */
@@ -201,7 +204,11 @@ body {
   font-size: var(--ifm-font-size-base);
 }
 
-body p {
+body p, body ul, body ol, body td {
+  color: var(--ifm-color-text-primary);
+}
+
+.toggleButton_node_modules-\@docusaurus-theme-classic-lib-theme-ColorModeToggle-styles-module {
   color: var(--ifm-color-text-primary);
 }
 
