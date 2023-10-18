@@ -107,6 +107,6 @@ It is important to remember that delegation is not implemented on the protocol l
 
 ## My stake has been delegated but rewards aren't showing up. How do I see them?
 
-If a staking pool hasn't had an action applied to it recently (like someone delegating or undelegating), it will show an old balance on all staked accounts (which may show up on your wallet account). To see an updated balance, you can "ping" the pool. See the [delegation docs](https://app.gitbook.com/docs/validator/delegation) and search for `ping` for how to do this.
+If a staking pool hasn't had an action applied to it recently (like someone delegating or undelegating), it will show an old balance on all staked accounts (which may show up on your wallet account). To see an updated balance, you can "ping" the pool. See the [delegation docs](https://near-nodes.io/validator/staking-and-delegation) and search for `ping` for how to do this.
 
 Got a question? [Ask it on stack overflow!](https://stackoverflow.com/questions/tagged/nearprotocol)
