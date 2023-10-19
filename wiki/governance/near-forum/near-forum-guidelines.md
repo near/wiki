@@ -44,7 +44,7 @@ _Find the right solution not the ideal solution and beat dogmatism by openly con
 
 
 
-The NEAR Foundation, just like the NEAR technology itself, doesn’t play favourites and is ultimately here to make everyone successful, regardless of where they come from. We are here to BUIDL, and the NEAR social channels are another tool in the arsenal of the NEAR ecosystem which will allow us to achieve success. All ideas, regardless of what they are and who they’re from, are welcome in the NEAR social channels. 
+The NEAR Foundation, just like the NEAR technology itself, doesn’t play favorites and is ultimately here to make everyone successful, regardless of where they come from. We are here to BUIDL, and the NEAR social channels are another tool in the arsenal of the NEAR ecosystem which will allow us to achieve success. All ideas, regardless of what they are and who they’re from, are welcome in the NEAR social channels. 
 
 
 **4. Make It Feel Simple**
@@ -62,7 +62,7 @@ The NEAR ecosystem is global and, naturally, not everyone speaks English as thei
 _Learn, improve and fail productively so the ecosystem and the community are always becoming more effective._
 
 
-We’re not just here to BUIDL awesome dApps and NEAR-fuelled solutions, we’re here to BUIDL ourselves and each other too! There are a tonne of amazing people here (including you) who we can all learn from and teach. 
+We’re not just here to BUIDL awesome dApps and NEAR-fueled solutions, we’re here to BUIDL ourselves and each other too! There are a tonne of amazing people here (including you) who we can all learn from and teach. 
 
 
 **Ultimately**, if you’re ever asking yourself “should I post this?” ask yourself if it aligns with the NEAR community cultures and values. If it does, and it doesn’t violate any other rules, then fire away!
@@ -152,7 +152,7 @@ These guidelines may be updated from time to time. It is your responsibility to 
 If you encounter any violations of these guidelines, please report them to a moderator. We rely on the community to help maintain a safe and positive environment. 
 
 
-By participating in a NEAR social channel, you agree to abide by these rules. We reserve the right to remove or ban any member from our social channels, and moderate, edit, or remove any content, for any reason at our discretion and without warning. This includes but is not limited to violation of these rules, disruptive behaviour, or spamming. 
+By participating in a NEAR social channel, you agree to abide by these rules. We reserve the right to remove or ban any member from our social channels, and moderate, edit, or remove any content, for any reason at our discretion and without warning. This includes but is not limited to violation of these rules, disruptive behavior, or spamming. 
 
 
 Thank you for being a part of the NEAR community! We look forward to productive and respectful interactions within our community. 
