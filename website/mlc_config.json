@@ -7,6 +7,9 @@
       "pattern": "/_onboarding-checklist.md"
     },
     {
+      "pattern": "/_neardrop.md"
+    },
+    {
       "pattern": "^https://near.org/events"
     },
     {
