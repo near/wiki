@@ -15,8 +15,8 @@ title: Research
 ## Research Papers
 
 * [The NEAR network in review](https://www.finoa.io/resources/near-report/) - A report on the NEAR network by Finoa.
-* [Sharding Design: Nightshade](https://near.org/downloads/Nightshade.pdf) - Sharding approach that is focused on sharding blocks instead of chains.
-* [Doomslug: block confirmation with single round of communication, and a finality gadget with guaranteed liveness](https://near.ai/doomslug) - Novel consensus algorithm that allows to have super fast blocks with BFT finality.
+* [Sharding Design: Nightshade](https://near.org/papers/nightshade) - Sharding approach that is focused on sharding blocks instead of chains.
+* [Doomslug vs PBFT, Tendermint, and Hotstuff](https://near.org/blog/doomslug-comparison) - Novel consensus algorithm that allows to have super fast blocks with BFT finality.
 * [Fast Finality: Proof of Space-Time](https://near.org/papers/proof-of-space-time/) - A design for a fork choice rule, Sybil resistance mechanism and finality gadget that collectively provide fast finality, resistance to long range attacks, and discourage pooling.
 * [Economics in Sharded Blockchain](https://near.org/papers/economics-in-sharded-blockchain/) - Paper reviews economic incentive design for sharded blockchains.
 

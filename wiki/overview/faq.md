@@ -41,14 +41,14 @@ If you want to learn more about the NEAR Protocol design, take a look at:
 
 - Our YouTube channel https://youtube.com/nearprotocol
 - Our blog http://near.org/blog
-- Our technical papers https://near.org/technology/#papers
+- Our technical papers https://near.org/papers/the-official-near-white-paper
 
 
 ## Troubleshooting
 
 ### I Encountered a Problem With My Wallet
 
-For help and support with wallet issues and errors, have a look at the [wallet FAQ](https://nearhelp.zendesk.com/hc/en-us/sections/360011620313-FAQs) to see if your problem was addressed.
+For help and support with wallet issues and errors, have a look at the [wallet FAQ](hhttps://nearhelp.zendesk.com/hc/en-us/articles/1500002248242-Creating-a-NEAR-Wallet-account) to see if your problem was addressed.
 If you're problem wasn't solved, you can [open a ticket](https://nearhelp.zendesk.com/hc/en-us/requests/new) with the support team.
 
 ## Contact Information
@@ -72,7 +72,7 @@ Build tutorials?
 Answer questions?
 Expand our [documentation]?
 Write on the wiki? 
-We recommend you have a look at our [Contributor Program](http://near.org/community).
+We recommend you have a look at the [NEAR Community Page](https://near.org/ecosystem/community).
 If you are looking for something a little different, or you have questions, please reach out to the team on [Telegram](https://t.me/cryptonear) or [Discord](http://near.chat/).
 
 

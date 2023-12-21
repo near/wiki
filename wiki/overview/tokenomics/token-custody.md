@@ -35,13 +35,13 @@ E.g. Ledger, Trust Wallet, NEAR Wallet all ask to back up seed phrase. If Trust 
 
 Note, NEAR Wallet has few less secure but more convenient options, which are just convenient ways to back up your seed phrase via email or sms. It's not recommended for large sums of money, as these are not very secure back up places \(your email can be hacked or SIM card can be highjacked and hackers would be able to access your funds\). We recommend to only use them for small amounts of money, similar to your wallet in the pocket.
 
-> Ledger uses a single seed phrase for all applications and accounts on it. It is done by combining the seed phrase with an "HD path" - derivation paths. You can read more [in general about HD wallets and derivation](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2) and [Ledger specifics around multiple coins](https://developers.ledger.com/docs/nano-app/psd-applications/). You just need to secure the seed phrase and know the paths from which accounts were derived. Even if you lose the paths, a simple search can be done to find them as they are usually sequential.
+> Ledger uses a single seed phrase for all applications and accounts on it. It is done by combining the seed phrase with an "HD path" - derivation paths. You can read more [in general about HD wallets and derivation](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2) and [Ledger specifics around multiple coins](https://developers.ledger.com/). You just need to secure the seed phrase and know the paths from which accounts were derived. Even if you lose the paths, a simple search can be done to find them as they are usually sequential.
 
 ## Web Wallets
 
 ### Option 1: NEAR Wallet \(Recommended for general users\)
 
-The [NEAR Web Wallet](https://wallet.near.org) provides a way to interact with NEAR network from web without needing to install a wallet.
+The [My NEAR Web Wallet](https://app.mynearwallet.com/) provides a way to interact with NEAR network from web without needing to install a wallet.
 
 Currently, the NEAR Wallet doesn't allow you to create just a public key. Instead, if you have an allocation of NEAR tokens, ask your facilitator \(e.g. CoinList or the NEAR Foundation\) to send you a NEAR Drop and follow [this guide](https://docs.google.com/document/d/13b3K_9f0YZudFrEAmagM4RcesK3DFxPBE5DswJ37Das).
 
@@ -51,16 +51,16 @@ NEAR Wallet also supports Ledger hardware devices for improved security. _Note: 
 
 NEAR Wallet supports importing existing accounts from other wallets. Currently only for accounts that have non-zero balance. If you just created an account and have 0 balance on it - you must first fund it via transfer from another account / exchange.
 
-1. Open [https://wallet.near.org/recover-seed-phrase](https://wallet.near.org/recover-seed-phrase)
+1. Open [https://help.mynearwallet.com/en/articles/44-how-to-recover-your-mynearwallet-account](https://help.mynearwallet.com/en/articles/44-how-to-recover-your-mynearwallet-account)
 2. Enter the seed phrase you have from another wallet
 
 This will add an account to your NEAR Wallet.
 
 **Importing a TrustWallet Account into NEAR Wallet**
 
-You can follow these steps to import your Trust Wallet account into the NEAR Wallet:
+You can follow these steps to import your Trust Wallet account into My NEAR Wallet:
 
-1. Go to [https://wallet.near.org/recover-seed-phrase](https://wallet.near.org/recover-seed-phrase)
+1. Go to [https://help.mynearwallet.com/en/articles/44-how-to-recover-your-mynearwallet-account](https://help.mynearwallet.com/en/articles/44-how-to-recover-your-mynearwallet-account)
 2. Enter the 12 word seed phrase for your Trust Wallet account, then click "Find My Account"
 
 At this point, your account will have been "restored" into the NEAR Wallet. This means you will be able to sign transactions in the NEAR Wallet. What happens in the background is a new key is added to your account, which is stored in the browser.
@@ -72,9 +72,9 @@ To add Ledger to your account, first install the NEAR Ledger app:
 3. On Ledger Live, go to "Settings" and toggle on Developer Mode
 4. Search for and install the NEAR app unto your Ledger
 
-Then, on the NEAR Wallet site:
+Then, on the My NEAR Wallet site:
 
-1. Go to [https://wallet.near.org/profile](https://wallet.near.org/profile)
+1. Go to [https://help.mynearwallet.com/en/articles/44-how-to-recover-your-mynearwallet-account](https://help.mynearwallet.com/en/articles/44-how-to-recover-your-mynearwallet-account)
 2. Scroll down until you see "Hardware Devices" on the right side of the screen, and select "Enable"
 3. Follow the instructions on-screen
 

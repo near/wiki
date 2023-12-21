@@ -12,7 +12,7 @@ These docs include information about lockups in general, how they are implemente
 ## Lockup Basics
 
 A "lockup" is when tokens are prevented from being transferred. The configuration of this lockup may vary significantly from case to case, but the same smart contract is used for each of them. Accounts that are subject to a lockup have a different setup than accounts that are created without a lockup. If you have a locked-up account, it may be supported slightly differently by various tools (from wallets to delegation interfaces) because of this difference in the architecture.\
-If you want to be sure to see the correct balances, use [NEAR official wallet](https://wallet.near.org).
+If you want to be sure to see the correct balances, use [My NEAR Wallet](https://app.mynearwallet.com/).
 
 The most common configuration of lockup is to linearly release the tokens for transfer during the entire term of the lockup. For example, a 24-month linear lockup would make a small amount of tokens eligible for transfer with each block that passes until the full amount is free to transfer at the end of 24 months.
 
@@ -97,7 +97,7 @@ Not all wallets support looking up the locked-up balance.
 
 There are three ways to go:
 
-* Use the [NEAR official wallet](https://wallet.near.org);
+* Use [My NEAR Wallet](https://app.mynearwallet.com/);
 * [Import your account into NEAR Wallet](token-custody.md#importing-accounts-from-other-wallets);
 * Use CLI to check your balance: `near view <LOCKUP_ACCOUNT_ID> get_balance ''` (note it outputs the value in yoctoNEAR - divide by 10e24 to get NEAR amount).
 

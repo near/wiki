@@ -22,7 +22,7 @@ TestNet is running on separate URLs for the explorer, the wallet and the Json RP
 |                       ⛔️ MainNet                       |                                ✅ TestNet                               |
 | :----------------------------------------------------: | :--------------------------------------------------------------------: |
 | [https://explorer.near.org](https://explorer.near.org) | [https://explorer.testnet.near.org](https://explorer.testnet.near.org) |
-|   [https://wallet.near.org](https://wallet.near.org)   |   [https://wallet.testnet.near.org](https://wallet.testnet.near.org)   |
+|   [https://app.mynearwallet.com](https://app.mynearwallet.com/)   |   [https://wallet.testnet.near.org](https://wallet.testnet.near.org)   |
 |      [https://rpc.near.org](https://rpc.near.org)      |      [https://rpc.testnet.near.org](https://rpc.testnet.near.org)      |
 
 Every new TestNet account receives automatically a few hundred tokens to deploy smart contracts and test your APIs.

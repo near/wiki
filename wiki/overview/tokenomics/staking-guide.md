@@ -31,7 +31,7 @@ This is what is commonly referred to as "Staking".
 
 ## How to Stake
 
-You can use the [NEAR wallet](https://wallet.near.org/) to stake your NEAR.
+You can use [My NEAR Wallet](https://app.mynearwallet.com/) to stake your NEAR.
 Choose the `Staking` tab in the navigation menu.
 
 

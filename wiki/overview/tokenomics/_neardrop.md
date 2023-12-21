@@ -18,7 +18,7 @@ sidebar_position: 5
 
 ![NEAR Drop](@site/static/img/neardrop1.png)
 
-#### **3. Connect to**[ **wallet.near.org**](http://wallet.near.org)
+#### **3. Connect to**[ **mynearwallet.com**](https://app.mynearwallet.com/)
 
 ![NEAR Drop](@site/static/img/neardrop2.png)
 

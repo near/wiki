@@ -4,10 +4,7 @@
       "pattern": "^/"
     },
     {
-      "pattern": "^https://near.events"
-    },
-    {
-      "pattern": "^https://nearlegal.com"
+      "pattern": "^https://near.org/events"
     },
     {
       "pattern": "^http://127.0.0.1"
