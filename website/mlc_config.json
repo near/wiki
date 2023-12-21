@@ -4,6 +4,9 @@
       "pattern": "^/"
     },
     {
+      "pattern": "/_onboarding-checklist.md"
+    },
+    {
       "pattern": "^https://near.org/events"
     },
     {
