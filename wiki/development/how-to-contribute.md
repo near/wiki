@@ -64,6 +64,6 @@ If you have any questions feel free to post them to our [discord channel](http:/
 
 Thanks for your time and code!
 
->Got a question?
-<a href="https://stackoverflow.com/questions/tagged/nearprotocol">
-  <h8>Ask it on StackOverflow!</h8></a>
+:::note Got a question?
+**[Ask it on StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)**
+:::

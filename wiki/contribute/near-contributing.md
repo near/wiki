@@ -58,8 +58,6 @@ If you are interested in testing our documentation, guides and developer tools, 
 
 Checkout our [GitHub repositories](https://github.com/near).
 
-
-> Got a question?
-> <a href="https://stackoverflow.com/questions/tagged/nearprotocol">
-> <h8>Ask it on StackOverflow!</h8>
-> </a>
+:::note Got a question?
+**[Ask it on StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)**
+:::

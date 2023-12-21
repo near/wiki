@@ -45,7 +45,7 @@ This template is designed to help kick start a Job Description (JD) doc by filli
 
 ===
 
-Reporting to:_ &lt;Manager Name>_
+Reporting to:_**Manager Name**_
 
 **Mission**
 
@@ -87,9 +87,9 @@ Now that you have an idea of what you expect from the role, and the type of cand
 
 
 
-#### _&lt;Your Project/Company> is hiring a_
+#### _Your Project or Company is hiring a_
 
-_<&lt;Managers  Roles ONLY Add>> Lead a team of &lt;insert team details>, as well as any freelancers or agency relationships; you will establish the team’s direction, alignment and commitment, grow and coach teammates, drive accountability and set tempo, foster cross-functional collaboration and be a role model to others._
+_**Managers  Roles ONLY Add** Lead a team of [insert team details], as well as any freelancers or agency relationships; you will establish the team’s direction, alignment and commitment, grow and coach teammates, drive accountability and set tempo, foster cross-functional collaboration and be a role model to others._
 
 
 #### _You will_
@@ -108,7 +108,7 @@ _You should apply if:_
 * _B_
 * _C_
 
-_<&lt;Managers  Roles ONLY Add below>>_
+_**Managers  Roles ONLY Add below**_
 
 
 
