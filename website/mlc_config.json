@@ -4,10 +4,13 @@
       "pattern": "^/"
     },
     {
-      "pattern": "^https://near.events"
+      "pattern": "/get-help/office-hours/"
     },
     {
-      "pattern": "^https://nearlegal.com"
+      "pattern": "/app.neardrop.io"
+    },
+    {
+      "pattern": "^https://near.org/events"
     },
     {
       "pattern": "^http://127.0.0.1"

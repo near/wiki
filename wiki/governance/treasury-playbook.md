@@ -123,7 +123,7 @@ _Note: If you reach out directly, please mention your affiliation to FirstMark a
          <h4>JPMorgan Chase</h4>
          <p>See footnote<sup><a href="#notes">1</a></sup> for details</p>
          <p>Business Banking</p>
-         <p><a href="jpmorgan.com/commercial-banking">jpmorgan.com/commercial-banking</a></p>
+         <p><a href="https://www.jpmorgan.com/commercial-banking">jpmorgan.com/commercial-banking</a></p>
          <h3><strong>NON-MONEY CENTER BANKS</strong></h3>
          <h4>BNY Mellon | <a href="https://www.bnymellon.com/">bnymellon.com</a></h4>
          <h4>Brex | <a href="https://www.brex.com/product/business-account">brex.com</a></h4>
@@ -157,7 +157,7 @@ _Note: If you reach out directly, please mention your affiliation to FirstMark a
          <p>Nick Dellis</p>
          <p><a href="mailto:nick.dellis@mercury.com">nick.dellis@mercury.com</a></p>
          <p>VP Revenue</p>
-         <h4>Stifel | <a href="bankwithstifel.com">bankwithstifel.com</a></h4>
+         <h4>Stifel | <a href="https://bankwithstifel.com/">bankwithstifel.com</a></h4>
          <p>Brad Ellis</p>
          <p><a href="mailto:bellis@stifelbank.com">bellis@stifelbank.com</a></p>
          <p>MD | VC Banking & Lending</p>

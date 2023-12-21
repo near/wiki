@@ -77,4 +77,4 @@ NEAR is maturing as an organization. The energy, excitement, and resourcefulness
 
 Sometimes NEAR reaches out to promising agencies we find through search, social media, or referral. But more often, great agencies come to us by applying for a grant. Make sure you fill out the application thoroughly, and express your desire to partner with NEAR as a dev shop. We look forward to working with you!
 
-[Appy for a grant](https://near.org/grants/)
+[Appy for a grant](https://pages.near.org/ecosystem/get-funding/)

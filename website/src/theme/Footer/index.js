@@ -60,23 +60,23 @@ function Footer() {
 
   return (
     <footer className="relative pt-100 pb-40">
-      <div className="absolute pin-t pin-r" style={{ maxWidth: "50vw" }}>
+      {/* <div className="absolute pin-t pin-r" style={{ maxWidth: "50vw" }}>
         <img
           src="https://near.org/wp-content/themes/near-19/assets/img/neue/distortion-footer.svg?t=1600963469"
           className="locked"
           style={{ transform: "translateY(-60%)" }}
           alt=""
         ></img>
-      </div>
+      </div> */}
       <div className="container">
         <div className="row">
           <div className="col md:w-1/4">
-            <img
+            {/* <img
               src="https://near.org/wp-content/themes/near-19/assets/img/neue/logomark-white.svg?t=1600963474"
               className="locked"
               width="91"
               alt=""
-            ></img>
+            ></img> */}
             <ul className="list-reset text-24 mt-50">
               <li>
                 <a
@@ -197,7 +197,7 @@ function Footer() {
                   <span className="screen-reader-text">Telegram</span>
                 </a>
               </li>
-              <li className="mx-20">
+              {/* <li className="mx-20">
                 <a
                   href="https://near.org/wechat"
                   className="block hover:text-wechat"
@@ -213,7 +213,7 @@ function Footer() {
                   </span>
                   <span className="screen-reader-text">WeChat</span>
                 </a>
-              </li>
+              </li> */}
               <li className="mx-20">
                 <a
                   href="https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw"
@@ -242,10 +242,10 @@ function Footer() {
                   className="footer-menu list-reset mt-5 text-16 md:text-18"
                 >
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-550">
-                    <a href="https://near.org/developers/">Overview</a>
+                    <a href="https://pages.near.org/developers">Overview</a>
                   </li>
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-2801">
-                    <a href="https://near.org/technology/">Technology</a>
+                    <a href="https://docs.near.org/concepts/advanced/papers">Technology</a>
                   </li>
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-116">
                     <a
@@ -261,7 +261,7 @@ function Footer() {
                     <a href="https://near.org/bounties/">Bounties</a>
                   </li>
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-580">
-                    <a href="https://near.org/grants/">
+                    <a href="https://pages.near.org/ecosystem/get-funding/">
                       Grants
                     </a>
                   </li>
@@ -279,16 +279,16 @@ function Footer() {
                     <a href="https://gov.near.org/">Forum</a>
                   </li>
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-4650">
-                    <a href="https://near.events">Events</a>
+                    <a href="https://near.org/events">Events</a>
                   </li>
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-2045">
-                    <a href="https://near.org/community">
+                    <a href="https://near.org/ecosystem/community">
                       Contributor Program
                     </a>
                   </li>
-                  <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-4157">
+                  {/* <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-4157">
                     <a href="https://near.org/guilds/">Guild Program</a>
-                  </li>
+                  </li> */}
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-2945">
                     <a
                       target="_blank"
@@ -302,7 +302,7 @@ function Footer() {
                     <a href="https://near.org/bounties/">Bounties</a>
                   </li>
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-7161">
-                    <a href="https://near.org/tokens/">Tokens</a>
+                    <a href="https://docs.near.org/concepts/basics/tokens">Tokens</a>
                   </li>
                 </ul>
               </div>
@@ -316,13 +316,13 @@ function Footer() {
                     <a href="https://near.org/about/">About Us</a>
                   </li>
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-124">
-                    <a href="https://near.org/careers/">Careers</a>
+                    <a href="https://careers.near.org/jobs">Careers</a>
                   </li>
-                  <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-400">
+                  {/* <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-400">
                     <a href="https://near.org/backers/">Backers</a>
-                  </li>
+                  </li> */}
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-3490">
-                    <a href="https://near.org/downloads/NEAR_PressKit.zip">
+                    <a href="https://pages.near.org/about/press-center/">
                       Press Kit
                     </a>
                   </li>

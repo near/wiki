@@ -223,7 +223,7 @@ const cardData = {
           Learn about all things Web3 and NEAR in this robust lecture series
         </>
       ),
-      link: 'support/understanding-web3/history/1.1_history-of-the-internet',
+      link: 'support/learning/understanding-web3/history/1.1_history-of-the-internet',
       level: 'easy'
     },
   ]

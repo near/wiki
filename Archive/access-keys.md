@@ -64,6 +64,6 @@ Each transaction that changes the state of the NEAR blockchain incurs a fee. How
 
 ## How can you get Started?
 
-Head on over to [wallet.near.org](https://wallet.near.org) to get started creating your `mainnet` wallet and find me on the [NEAR Discord channel](https://near.chat).
+Head on over to [app.mynearwallet.com](https://app.mynearwallet.com/) to get started creating your `mainnet` wallet and find me on the [NEAR Discord channel](https://near.chat).
 
 Then head on over to [awesomenear.com](https://awesomenear.com) to explore some of the cool applications out there built on NEAR, or head on over to [near.org](https://near.org) to get started on developing your NEAR project.

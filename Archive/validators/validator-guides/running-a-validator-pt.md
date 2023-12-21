@@ -22,7 +22,7 @@ TestNet está sendo executado em URLs separadas para o explorador, a carteira e 
 |                       ⛔️ MainNet                       |                                ✅ TestNet                               |
 | :----------------------------------------------------: | :--------------------------------------------------------------------: |
 | [https://explorer.near.org](https://explorer.near.org) | [https://explorer.testnet.near.org](https://explorer.testnet.near.org) |
-|   [https://wallet.near.org](https://wallet.near.org)   |   [https://wallet.testnet.near.org](https://wallet.testnet.near.org)   |
+|   [https://app.mynearwallet.com](https://app.mynearwallet.com/)   |   [https://wallet.testnet.near.org](https://wallet.testnet.near.org)   |
 |      [https://rpc.near.org](https://rpc.near.org)      |      [https://rpc.testnet.near.org](https://rpc.testnet.near.org)      |
 
 Cada nova conta TestNet recebe automaticamente algumas centenas de tokens para fazer deploy de contratos inteligentes e testar as suas APIs.

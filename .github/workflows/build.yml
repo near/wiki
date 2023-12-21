@@ -10,7 +10,7 @@ jobs:
           node-version: '16'
       - name: Build Docusaurus docs
         run: |
-          cd website && npm install
+          cd website && npm install &&
           npm run build
         env:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}

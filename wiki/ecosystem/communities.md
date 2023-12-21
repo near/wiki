@@ -32,7 +32,6 @@ Get involved in the various communities in the ecosystem:
 * [NEAR Gaming guild](https://t.me/NearGamesChat): Community & discussion around gaming projects on NEAR.
 * [Near GameFi Group](https://t.me/+JGpzQIiKnTtlYzg0): This group is all about gaming projects on Near, growing the econosystem, and support.
 * [NEAR Insider](https://t.me/nearinsider_chat): Helping with promotion, feedback, marketing
-* [NEAR Intelligence Agency](https://nearintelligence.agency): The NEAR Intelligence Agency exists to grow the NEAR Ecosystem utilizing deep research, crypto experience, and a strong and dedicated community.
 * [NEAR Marketing](https://t.me/DiscoverNEAR): A guild focused around marketing initiatives.
 * [NEAR Meme Daily](https://discord.gg/vByU5q224g): Empowering the open community of crypto/blockchain meme content creators through NEAR
 * [NEAR Stars guild](https://t.me/nearstarsguild): A community focused on getting near promoted by content creators like bloggers, etc. 

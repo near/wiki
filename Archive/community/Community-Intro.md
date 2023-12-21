@@ -23,7 +23,7 @@ Guilds are fundamental to the community at NEAR and have played a significant ro
 
 Some service-style Guilds have evolved into incorporated companies and are now expanding their offerings to continue to build a sustainable revenue flow. All whilst still having deep-rooted connections with NEAR and the wider ecosystem.
 
-If you’re interested in learning more, head to the [Guilds Overview page](https://wiki.near.org/community/guild-overview) on the NEAR Wiki.
+If you’re interested in learning more, head to the [NEAR Community Page](https://near.org/ecosystem/community).
 
 ## NEAR Meet
 
@@ -35,12 +35,12 @@ That’s why we’ve launched NEAR Meet, with a goal of empowering community lea
 
 Interested in connecting with others from the NEARVerse in person? Perhaps you’d like to kick start your own NEAR-focused meetup.
 
-Check it out in more detail [here](https://wiki.near.org/community/events).
+Check it out in more detail [here](/wiki/ecosystem/communities.md).
 
 
 # Join the Community!
 
-You can check out more details about the NEAR Community [here](https://near.org/community/).
+You can check out more details about the NEAR Community [here](https://pages.near.org/ecosystem/community/).
 
 If you’re raring to go, jump into our Community channels to join the party:
 

@@ -148,7 +148,7 @@ Inflation decreases proportionally to collected fees. Therefore, if fees overcom
 
 ## Additional links
 
-- [Nightshade Documentation](https://near.org/downloads/Nightshade.pdf)
+- [Nightshade Documentation](https://near.org/papers/nightshade)
 - [Sharding in Plain English](https://www.citusdata.com/blog/2018/01/10/sharding-in-plain-english/)
 - [Economics in Sharded Blockchain](https://near.org/papers/economics-in-sharded-blockchain/#validators)
 - [Economic specs on NEAR Nomicon](https://nomicon.io/Economics/)

@@ -88,18 +88,18 @@ const growthCardsData = {
       link: 'https://t.me/nearstarsguild',
       level: 'easy'
     },
-    {
-      title: 'Flying Rhino',
-      // icon: require('@site/static/img/icons/icon_user.svg').default,
-      // icon: require('@site/static/img/icons/flyingrhino.jpg').default,
-      text: (
-        <>
-          Social media marketing support focused on the NEAR ecosystem
-        </>
-      ),
-      link: 'https://flyingrhinoweb3.com/',
-      level: 'easy'
-    },
+    // {
+    //   title: 'Flying Rhino',
+    //   // icon: require('@site/static/img/icons/icon_user.svg').default,
+    //   // icon: require('@site/static/img/icons/flyingrhino.jpg').default,
+    //   text: (
+    //     <>
+    //       Social media marketing support focused on the NEAR ecosystem
+    //     </>
+    //   ),
+    //   link: 'https://flyingrhinoweb3.com/',
+    //   level: 'easy'
+    // },
     {
       title: 'NEAR NFT Club',
       // icon: require('@site/static/img/icons/icon_user.svg').default,
@@ -331,18 +331,7 @@ const growthCardsData = {
       ),
       link: 'https://legalnodes.com/article/legal-structure-decentralized-apps',
       level: 'easy'
-    },
-    {
-      title: 'DAObox',
-      // icon: require('@site/static/img/icons/icon_user.svg').default,
-      text: (
-        <>
-          Provides a legal framework for DAOs including establishment, accounting, and payments 
-        </>
-      ),
-      link: 'https://www.google.com/url?q=https%3A%2F%2Fdaobox.org%2F&sa=D&sntz=1&usg=AOvVaw30NfKF0u-wJIce2Kn_SvB3',
-      level: 'easy'
-    },
+    }
   ],
   idoPlatforms: [
     {
@@ -378,17 +367,17 @@ const growthCardsData = {
       link: 'https://pad.fi/',
       level: 'easy'
     },
-    {
-      title: 'Eros Ventures',
-      // icon: require('@site/static/img/icons/icon_user.svg').default,
-      text: (
-        <>
-          NFT launchpad
-        </>
-      ),
-      link: 'https://www.eros.ventures/',
-      level: 'easy'
-    },
+    // {
+    //   title: 'Eros Ventures',
+    //   // icon: require('@site/static/img/icons/icon_user.svg').default,
+    //   text: (
+    //     <>
+    //       NFT launchpad
+    //     </>
+    //   ),
+    //   link: 'https://www.eros.ventures/',
+    //   level: 'easy'
+    // },
     {
       title: 'Few and Far',
       // icon: require('@site/static/img/icons/icon_user.svg').default,
@@ -397,7 +386,7 @@ const growthCardsData = {
           NFT launchpad
         </>
       ),
-      link: 'https://fewfar.com/launchpad/',
+      link: 'https://fewandfar.xyz/',
       level: 'easy'
     },
     {

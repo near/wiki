@@ -26,7 +26,7 @@ To learn more about the contribution flow for developers, please head over to th
 
 ## Contributor Program {#contributor-program}
 
-If you like contributing to NEAR and would like to get formally involved with continuous contributions, the [contributor program](https://near.org/community/) is the right place for you.
+If you like contributing to NEAR and would like to get formally involved with continuous contributions, the [contributor program](https://pages.near.org/ecosystem/community/) is the right place for you.
 
 As part of the NEAR contributor program
 
@@ -58,8 +58,6 @@ If you are interested in testing our documentation, guides and developer tools, 
 
 Checkout our [GitHub repositories](https://github.com/near).
 
-
-> Got a question?
-> <a href="https://stackoverflow.com/questions/tagged/nearprotocol">
-> <h8>Ask it on StackOverflow!</h8>
-> </a>
+:::note Got a question?
+**[Ask it on StackOverflow!](https://stackoverflow.com/questions/tagged/nearprotocol)**
+:::

@@ -139,5 +139,5 @@ export function CommunicationResources() {
 }
 
 export function ResilienceResources() {
-  return LeadershipCards(LeadershipResourceData.communication)
+  return LeadershipCards(LeadershipResourceData.resilience)
 }

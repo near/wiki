@@ -9,9 +9,9 @@ sidebar_position: 4
 
 The first step in your NEAR journey is to create a NEAR Wallet. It is an empowering experience to remove the middleman from your financial transactions. You will be able to create your own account, send and receive tokens, and even create your own smart contracts.
 
-[NEAR Wallet](https://wallet.near.org) is a non-custodial, web-based crypto wallet for the NEAR blockchain. This means that you are in control of your account and your private keys. Whoever has access to your private keys has access to your account. This is why it is important to keep your private keys safe.
+[MyNEARWallet](https://app.mynearwallet.com/) is a non-custodial, web-based crypto wallet for the NEAR blockchain. This means that you are in control of your account and your private keys. Whoever has access to your private keys has access to your account. This is why it is important to keep your private keys safe.
 
-To get started, go to https://wallet.near.org and click “Create Account”. The steps provided below are the same as the ones you will see in the NEAR Wallet.
+To get started, go to [https://app.mynearwallet.com/](https://app.mynearwallet.com/) and click “Create Account”. The steps provided below are the same as the ones you will see in the NEAR Wallet.
 
 ### Creating an Account
 
@@ -95,12 +95,4 @@ We currently offer Email based Two Factor Authentication.
 If you set up Ledger, you will not see the 2FA screen. We will eventually offer support for Ledger to be used as one of the authentication methods, but that is currently not possible in the Wallet.
 :::
 
-## NEARDROPS - Bring Your Friends!
 
-Already a NEAR Ecosystem whiz, or have a group of friends who'd be interested in jumping into the world of Web3?
-
-Give them the gift of decentralization, data ownership, and DeFi with a NEARDROP.
-
-:::note link
-[neardrop](overview/tokenomics/neardrop.md)
-:::
