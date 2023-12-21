@@ -21,7 +21,7 @@ Validators are pieces of hardware, ran by individuals, groups, or organizations,
 Delegators are those who commit their NEAR to a validator to assist in securing the network and to earn rewards in the process.
 
 Potential validators should have between three and five years of system administration, performance and monitoring experience as well as familiarity with open source software.
-To learn how to set up a validator node, have a look at our [Validator BootCamp](https://bootcamp.openshards.io/).
+To learn how to set up a validator node, have a look at our [Validator BootCamp](https://near-nodes.io/validator/validator-bootcamp).
 
 The number of seats for validators is limited, so most people who stake on NEAR are delegators.
 Delegators are entities who provide security for NEAR by delegating their tokens to validators.
