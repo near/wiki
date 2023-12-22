@@ -20,7 +20,7 @@
     "@docusaurus/plugin-sitemap": "^2.2.0",
     "@docusaurus/preset-classic": "^3.0.0",
     "@mdx-js/react": "^1.6.21",
-    "bootstrap": "^5.2.3",
+    "bootstrap": "^5.3.2",
     "clsx": "^1.1.1",
     "docusaurus-plugin-matomo": "^0.0.6",
     "prism-react-renderer": "^1.2.1",
