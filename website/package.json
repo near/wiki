@@ -22,7 +22,7 @@
     "@mdx-js/react": "^1.6.21",
     "bootstrap": "^5.2.3",
     "clsx": "^1.1.1",
-    "docusaurus-plugin-matomo": "^0.0.6",
+    "docusaurus-plugin-matomo": "^0.0.8",
     "prism-react-renderer": "^1.2.1",
     "react": "^18.0.0",
     "react-bootstrap": "^2.7.2",
